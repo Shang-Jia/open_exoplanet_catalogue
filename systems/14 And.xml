@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[1.7, 0, 0.0]" system_distance_errorplus="[1.7, 0, 0.0]">
 	<name>14 And</name>
 	<rightascension>23 31 17.41346</rightascension>
 	<declination>+39 14 10.3092</declination>
@@ -24,7 +24,7 @@
 		<temperature errorminus="20" errorplus="20">4813</temperature>
 		<metallicity errorminus="0.03" errorplus="0.03">-0.24</metallicity>
 		<spectraltype>K0III</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.57]" planet_mass_errorplus="[0.0, 0, 0.57]">
 			<name>14 And b</name>
 			<name>14 Andromedae b</name>
 			<name>HD 221345 b</name>
@@ -39,6 +39,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/20</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/27</lastupdate><mass>0</mass><mass>5.33</mass></planet>
 	</star>
-</system>
+<distance>0</distance><distance>76.4</distance><declination>+39d14m10.3s</declination><declination>+39 00 850</declination><rightascension>23h31m17.42s</rightascension><rightascension>+352 00 2955</rightascension></system>

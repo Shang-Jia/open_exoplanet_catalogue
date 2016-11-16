@@ -42,7 +42,7 @@
 				<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">2455310.29094</transittime>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<lastupdate>1/05/14</lastupdate><lastupdate>1/04/08</lastupdate></planet>
 		</star>
 		<star>
 			<name>HAT-P-14 B</name>
@@ -52,4 +52,4 @@
 			<mass errorminus="0.037" errorplus="0.037">0.232</mass>
 		</star>
 	</binary>
-</system>
+<declination>+38d14m31.8s</declination><declination>+38 00 872</declination><rightascension>17h20m27.88s</rightascension><rightascension>+260 00 420</rightascension></system>

@@ -25,8 +25,8 @@
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>499.6</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/09/02</lastupdate></planet>
 		<name>HD 28678</name>
 		<temperature>5076.0</temperature>
-	</star>
-</system>
+	<spectraltype /><spectraltype>K0D</spectraltype></star>
+<rightascension>04h31m25.45s</rightascension><rightascension>+67 00 3075</rightascension><declination>+04d34m31.0s</declination><declination>+04 00 2071</declination></system>

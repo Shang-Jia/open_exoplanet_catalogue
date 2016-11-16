@@ -28,7 +28,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/03/24</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>Kepler-32 c</name>
 			<name>KOI-952 c</name>
@@ -95,4 +95,4 @@
 		</planet>
 	</star>
 	<videolink>http://youtu.be/RuavxozVvoU</videolink>
-</system>
+<rightascension>19h51m22.18s</rightascension><rightascension /><declination>+46d34m27.4s</declination><declination /></system>

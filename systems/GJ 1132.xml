@@ -3,7 +3,7 @@
 	<rightascension>10 14 51.846</rightascension>
 	<declination>-47 09 24.47</declination>
 	<distance errorminus="0.24" errorplus="0.24">12.04</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>GJ 1132</name>
 		<name>LHS 281</name>
 		<name>2MASS J10145184-4709244</name>
@@ -32,6 +32,6 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/11/12</lastupdate>
 			<discoveryyear>2015</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/11/12</lastupdate><lastupdate>1/07/15</lastupdate></planet>
+	<magV>0</magV><magV>13.5</magV></star>
+<declination>-47d09m24.2s</declination><declination>--47 00 -564</declination><rightascension>10h14m51.78s</rightascension><rightascension>+153 00 2580</rightascension></system>

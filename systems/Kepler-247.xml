@@ -5,7 +5,7 @@
 	<rightascension>19 14 34</rightascension>
 	<declination>+43 02 21</declination>
 	<distance>695.58</distance>
-	<star>
+	<star star_mass_errorminus="[0.043, 0, 0.089]" star_mass_errorplus="[0.043, 0, 0.047]">
 		<magJ errorminus="0.023" errorplus="0.023">13.597</magJ>
 		<magH errorminus="0.024" errorplus="0.024">13.178</magH>
 		<magK errorminus="0.026" errorplus="0.026">13.051</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/09</lastupdate></planet>
 		<planet>
 			<name>Kepler-247 d</name>
 			<name>KOI-884 d</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.884</mass></star>
+<rightascension>19h14m34.21s</rightascension><rightascension>+288 00 2313</rightascension><declination>+43d02m21.4s</declination><declination>+43 00 141</declination></system>

@@ -5,7 +5,7 @@
 	<rightascension>19 48 17</rightascension>
 	<declination>+40 31 30</declination>
 	<distance>128.0</distance>
-	<star>
+	<star star_magV_errorminus="[0.04, 0, 0.0]" star_magV_errorplus="[0.04, 0, 0.0]">
 		<magB errorminus="0.06" errorplus="0.06">11.25</magB>
 		<magV errorminus="0.04" errorplus="0.04">10.57</magV>
 		<magJ errorminus="0.024" errorplus="0.024">9.260</magJ>
@@ -33,6 +33,6 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/11/30</lastupdate></planet>
+	<magV>0</magV><magV>10.297</magV></star>
+<declination>+40d31m30.5s</declination><declination>+40 00 1891</declination><rightascension>19h48m16.71s</rightascension><rightascension>+297 00 251</rightascension></system>

@@ -24,7 +24,7 @@
 			<lastupdate>08/06/12</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>877.6</temperature>
-		</planet>
+		<lastupdate /><lastupdate>0/06/12</lastupdate></planet>
 		<planet>
 			<name>HD 102272 c</name>
 			<list>Confirmed planets</list>
@@ -40,4 +40,4 @@
 		<name>HD 102272</name>
 		<temperature>4908.0</temperature>
 	</star>
-</system>
+<declination /><declination>+14 00 446</declination><rightascension /><rightascension>+176 00 2160</rightascension></system>

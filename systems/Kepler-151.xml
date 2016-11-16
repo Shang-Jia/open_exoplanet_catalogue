@@ -15,7 +15,7 @@
 		<temperature errorminus="200" errorplus="200">5460</temperature>
 		<radius errorminus=".411" errorplus="0.411">0.830</radius>
 		<mass errorminus="0.1100" errorplus="0.1100">0.8600</mass>
-		<planet>
+		<planet planet_radius_errorminus="[0.00365, 0, 0.093]" planet_radius_errorplus="[0.09478, 0, 0.093]">
 			<name>Kepler-151 b</name>
 			<name>KOI-413 b</name>
 			<name>KOI-413.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate><radius>0</radius><radius>0.186</radius></planet>
 		<planet>
 			<name>Kepler-151 c</name>
 			<name>KOI-413 c</name>
@@ -48,4 +48,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h28m39.07s</rightascension><rightascension>+292 00 586</rightascension><declination>+41d01m23.6s</declination><declination>+41 00 84</declination></system>

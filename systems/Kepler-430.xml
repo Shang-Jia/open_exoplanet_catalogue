@@ -13,7 +13,7 @@
 		<mass>1.166</mass>
 		<radius>1.485</radius>
 		<temperature>5884</temperature>
-		<planet>
+		<planet planet_radius_errorminus="[0.0, 0, 0.0]" planet_radius_errorplus="[0.0, 0, 0.0]">
 			<name>Kepler-430 b</name>
 			<name>KOI-2365 b</name>
 			<name>KOI-2365.01</name>
@@ -28,7 +28,7 @@
 			<discoveryyear>2015</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/11/19</lastupdate><lastupdate>1/05/06</lastupdate><radius>0</radius><radius>0.29</radius></planet>
 		<planet>
 			<name>Kepler-430 c</name>
 			<name>KOI-2365 c</name>
@@ -46,4 +46,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h31m14.07s</rightascension><rightascension>+292 00 2912</rightascension><declination>+49d34m46.0s</declination><declination>+49 00 2086</declination></system>

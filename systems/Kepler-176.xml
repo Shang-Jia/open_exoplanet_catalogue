@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-176 b</name>
 			<name>KOI-520 b</name>
@@ -75,4 +75,4 @@
 			<radius errorminus="0.013" errorplus="0.011">0.129</radius>
 		</planet>
 	</star>
-</system>
+<rightascension>19h38m40.31s</rightascension><rightascension>+294 00 2405</rightascension><declination>+43d51m11.7s</declination><declination>+43 00 3072</declination></system>

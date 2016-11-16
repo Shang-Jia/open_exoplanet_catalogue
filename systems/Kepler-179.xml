@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-179 b</name>
 			<name>KOI-534 b</name>
@@ -48,4 +48,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h54m39.30s</rightascension><rightascension>+298 00 2389</rightascension><declination>+47d45m43.4s</declination><declination>+47 00 2743</declination></system>

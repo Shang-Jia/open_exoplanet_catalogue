@@ -18,7 +18,7 @@
 		<radius errorminus="0.082" errorplus="0.082">1.735</radius>
 		<mass errorminus="0.0720" errorplus="0.0720">1.1010</mass>
 		<metallicity errorminus="0.10" errorplus="0.10">-0.07</metallicity>
-		<planet>
+		<planet planet_period_errorminus="[0.000368, 0, 0.0]" planet_period_errorplus="[0.000368, 0, 0.0]" planet_radius_errorminus="[0.02552, 0, 0.013]" planet_radius_errorplus="[0.02552, 0, 0.013]">
 			<name>Kepler-338 b</name>
 			<name>KOI-1930 b</name>
 			<name>KOI-1930.01</name>
@@ -37,7 +37,7 @@
 			<lastupdate>15/07/28</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<radius>0</radius><radius>0.237</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/12/18</lastupdate><period>0</period><period>44.4287</period></planet>
 		<planet>
 			<name>Kepler-338 c</name>
 			<name>KOI-1930 c</name>
@@ -93,4 +93,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+40d47m03.6s</declination><declination>+40 00 2824</declination><rightascension>18h51m54.95s</rightascension><rightascension>+282 00 3524</rightascension></system>

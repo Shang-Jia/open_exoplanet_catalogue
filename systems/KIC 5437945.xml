@@ -31,7 +31,7 @@
 			<description>The planet KIC 5437945 b was discovered and validated by the Planet Hunters project in 2015 with a confidence of 0.999.</description>
 			<lastupdate>16/01/09</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<lastupdate>1/01/05</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>KOI-3791.02</name>
 			<period errorminus="0.0006389" errorplus="0.0006389">220.1303357</period>
@@ -46,4 +46,4 @@
 			<list>Controversial</list>
 		</planet>
 	</star>
-</system>
+<declination>+40d39m04.9s</declination><declination /><rightascension>19h13m53.97s</rightascension><rightascension /></system>

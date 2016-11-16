@@ -19,7 +19,7 @@
 		<metallicity errorminus="0.03" errorplus="0.03">-0.07</metallicity>
 		<spectraltype>K3V</spectraltype>
 		<age errorminus="4.0" errorplus="4.0">4.5</age>
-		<planet>
+		<planet planet_periastron_errorminus="[21.0, 0, 21.0]" planet_periastron_errorplus="[21.0, 0, 21.0]">
 			<name>BD-08 2823 b</name>
 			<name>HIP 49067 b</name>
 			<name>TYC 5480-00020-1 b</name>
@@ -36,7 +36,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/17</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/02/23</lastupdate><periastron>0</periastron><periastron>127.0</periastron></planet>
 		<planet>
 			<name>BD-08 2823 c</name>
 			<name>HIP 49067 c</name>
@@ -56,4 +56,4 @@
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
-</system>
+<declination>-09d31m00.0s</declination><declination>--9 00 -1860</declination><rightascension>10h00m47.72s</rightascension><rightascension>+150 00 720</rightascension></system>

@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-185 b</name>
 			<name>KOI-569 b</name>
@@ -48,4 +48,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>18h49m52.34s</rightascension><rightascension>+282 00 1685</rightascension><declination>+43d53m23.7s</declination><declination>+43 00 3204</declination></system>

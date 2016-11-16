@@ -7,7 +7,7 @@
 		<separation unit="arcsec">20.6</separation>
 		<separation unit="AU">1203</separation>
 		<positionangle>269</positionangle>
-		<star>
+		<star star_magV_errorminus="[0.02, 0, 0.0]" star_magV_errorplus="[0.02, 0, 0.0]" star_temperature_errorminus="[0.0, 0, 45.0]" star_temperature_errorplus="[0.0, 0, 45.0]">
 			<name>HD 80606</name>
 			<name>Struve 1341 B</name>
 			<mass>0.98</mass>
@@ -21,7 +21,7 @@
 			<spectraltype>G5</spectraltype>
 			<temperature>5370</temperature>
 			<age>7.63</age>
-			<planet>
+			<planet planet_period_errorminus="[0.0031, 0, 0.0]" planet_period_errorplus="[0.0031, 0, 0.0]">
 				<name>HD 80606 b</name>
 				<name>Struve 1341 B b</name>
 				<list>Confirmed planets</list>
@@ -41,8 +41,8 @@
 				<discoveryyear>2001</discoveryyear>
 				<temperature>339.6</temperature>
 				<istransiting>1</istransiting>
-			</planet>
-		</star>
+			<period>0</period><period>111.43637</period><lastupdate>1/05/14</lastupdate><lastupdate>1/08/16</lastupdate></planet>
+		<temperature>0</temperature><temperature>5645.0</temperature><magV>0</magV><magV>8.93</magV></star>
 		<star>
 			<name>HD 80607</name>
 			<name>Struve 1341 A</name>
@@ -50,4 +50,4 @@
 			<mass>1.</mass>
 		</star>
 	</binary>
-</system>
+<declination>+50d36m13.4s</declination><declination>+50 00 2173</declination><rightascension>09h22m37.57s</rightascension><rightascension>+140 00 2355</rightascension></system>

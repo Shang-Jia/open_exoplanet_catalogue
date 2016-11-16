@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-370 b</name>
 			<name>KOI-2183 b</name>
@@ -47,4 +47,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h28m41.07s</rightascension><rightascension>+292 00 616</rightascension><declination>+40d54m58.7s</declination><declination>+40 00 3299</declination></system>

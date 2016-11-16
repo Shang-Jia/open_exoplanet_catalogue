@@ -24,8 +24,8 @@
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>185.0</temperature>
-		</planet>
+		<lastupdate /><lastupdate>1/09/12</lastupdate></planet>
 		<name>HD 126525</name>
 		<temperature>5940.0</temperature>
 	</star>
-</system>
+<rightascension /><rightascension>+216 00 3195</rightascension><declination /><declination>--51 00 -3359</declination></system>

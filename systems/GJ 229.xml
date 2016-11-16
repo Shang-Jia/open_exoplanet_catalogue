@@ -35,7 +35,7 @@
 			<spectraltype>M1/M2 V</spectraltype>
 			<mass>0.58</mass>
 			<temperature>3564</temperature>
-			<planet>
+			<planet planet_periastron_errorminus="[0.0, 0, 0.0]" planet_periastron_errorplus="[0.0, 0, 0.0]">
 				<name>GJ 229 b</name>
 				<name>GJ 229 A b</name>
 				<name>Gliese 229 A b</name>
@@ -51,8 +51,8 @@
 				<list>Controversial</list>
 				<lastupdate>15/04/21</lastupdate>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
+			<lastupdate /><lastupdate>1/05/25</lastupdate><periastron>0</periastron><periastron>148.97</periastron></planet>
+		<spectraltype /><spectraltype>M1/M2V</spectraltype></star>
 		<star>
 			<name>GJ 229 B</name>
 			<name>Gliese 229 B</name>
@@ -66,4 +66,4 @@
 			<temperature>1000</temperature>
 		</star>
 	</binary>
-</system>
+<declination /><declination>--20 00 -487</declination><rightascension /><rightascension>+92 00 2319</rightascension></system>

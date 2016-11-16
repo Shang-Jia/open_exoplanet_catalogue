@@ -27,7 +27,7 @@
 			<lastupdate>11/09/15</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>636.3</temperature>
-		</planet>
+		<lastupdate>1/04/24</lastupdate><lastupdate>1/05/20</lastupdate></planet>
 		<planet>
 			<name>HIP 57274 c</name>
 			<list>Confirmed planets</list>
@@ -57,4 +57,4 @@
 		<name>HIP 57274</name>
 		<temperature>4640.0</temperature>
 	</star>
-</system>
+<declination>+30d57m33.5s</declination><declination>+30 00 3453</declination><rightascension>11h44m40.96s</rightascension><rightascension>+176 00 615</rightascension></system>

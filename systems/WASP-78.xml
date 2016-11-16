@@ -34,8 +34,8 @@
 			<discoveryyear>2012</discoveryyear>
 			<temperature>2006.7</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/06/07</lastupdate></planet>
 		<name>WASP-78</name>
 		<temperature>6100.0</temperature>
 	</star>
-</system>
+<declination>-22d06m59.2s</declination><declination>--22 00 -419</declination><rightascension>04h15m01.50s</rightascension><rightascension>+63 00 2730</rightascension></system>

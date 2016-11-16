@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-358 b</name>
 			<name>KOI-2080 b</name>
@@ -48,4 +48,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h32m55.25s</rightascension><rightascension>+293 00 829</rightascension><declination>+48d16m53.0s</declination><declination>+48 00 1013</declination></system>

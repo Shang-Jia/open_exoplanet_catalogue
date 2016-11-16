@@ -31,7 +31,7 @@
 				<semimajoraxis errorminus="0.0025" errorplus="0.0025">0.1344</semimajoraxis>
 				<description>The planet XO-2S c is part of a multiplanetary system. The host star itself is part of a binary system. The other binary star, XO-2N also hosts a planet. This configuration makes the system a unique laboratory for understanding the diversity of planetary systems.</description>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<lastupdate /><lastupdate>1/08/26</lastupdate></planet>
 			<planet>
 				<name>XO-2S c</name>
 				<name>TYC 3413-210-1 c</name>
@@ -47,7 +47,7 @@
 				<description>The planet XO-2S c is part of a multiplanetary system. The host star itself is part of a binary system. The other binary star, XO-2N also hosts a planet. This configuration makes the system a unique laboratory for understanding the diversity of planetary systems.</description>
 				<list>Planets in binary systems, S-type</list>
 			</planet>
-		</star>
+		<spectraltype /><spectraltype>G9V</spectraltype></star>
 		<star>
 			<name>XO-2N</name>
 			<name>XO-2B</name>
@@ -97,4 +97,4 @@
 			</planet>
 		</star>
 	</binary>
-</system>
+<declination /><declination>+50 00 783</declination><rightascension /><rightascension>+117 00 1455</rightascension></system>

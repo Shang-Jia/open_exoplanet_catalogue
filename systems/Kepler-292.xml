@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-292 d</name>
 			<name>KOI-1364 d</name>
@@ -96,4 +96,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h43m03.87s</rightascension><rightascension>+295 00 2758</rightascension><declination>+42d25m27.4s</declination><declination>+42 00 1527</declination></system>

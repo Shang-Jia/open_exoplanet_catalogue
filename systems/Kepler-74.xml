@@ -5,7 +5,7 @@
 	<rightascension>19 32 22</rightascension>
 	<declination>+41 21 20</declination>
 	<distance errorminus="170" errorplus="170">1330</distance>
-	<star>
+	<star star_age_errorminus="[0.5, 0, 0.8]" star_age_errorplus="[0.9, 0, 1.5]" star_mass_errorminus="[0.04, 0, 0.11]" star_mass_errorplus="[0.04, 0, 0.14]" star_radius_errorminus="[0.04, 0, 0.14]" star_radius_errorplus="[0.04, 0, 0.14]">
 		<name>Kepler-74</name>
 		<name>KOI-200</name>
 		<name>KIC 6046540</name>
@@ -24,7 +24,7 @@
 		<age errorminus="0.5" errorplus="0.9">0.8</age>
 		<metallicity errorminus="0.11" errorplus="0.11">0.42</metallicity>
 		<spectraltype>F8V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.062]" planet_eccentricity_errorplus="[0.0, 0, 0.062]" planet_inclination_errorminus="[0.07, 0, 0.96]" planet_inclination_errorplus="[0.07, 0, 0.96]" planet_period_errorminus="[6e-06, 0, 0.0]" planet_period_errorplus="[6e-06, 0, 0.0]" planet_radius_errorminus="[0.02, 0, 0.14]" planet_radius_errorplus="[0.02, 0, 0.14]" planet_semimajoraxis_errorminus="[0.0007, 0, 0.014]" planet_semimajoraxis_errorplus="[0.0007, 0, 0.014]" planet_transittime_errorminus="[0.00014, 0, 0.0003]" planet_transittime_errorplus="[0.00014, 0, 0.0003]">
 			<name>Kepler-74 b</name>
 			<name>KOI-200 b</name>
 			<name>KOI-200.01</name>
@@ -43,6 +43,6 @@
 			<lastupdate>15/01/27</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<transittime>0</transittime><transittime>2454967.3453</transittime><radius>0</radius><radius>1.32</radius><eccentricity>0</eccentricity><eccentricity>0.287</eccentricity><inclination>0</inclination><inclination>85.55</inclination><period>0</period><period>7.340718</period><lastupdate>1/01/29</lastupdate><lastupdate>1/02/24</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>0.084</semimajoraxis></planet>
+	<age>0</age><age>2.9</age><mass>0</mass><mass>1.4</mass><radius>0</radius><radius>1.51</radius></star>
+<declination>+41d21m19.9s</declination><declination>+41 00 1280</declination><rightascension>19h32m22.21s</rightascension><rightascension>+293 00 330</rightascension></system>

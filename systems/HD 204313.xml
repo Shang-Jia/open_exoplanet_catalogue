@@ -13,7 +13,7 @@
 		<magK errorminus="0.018" errorplus="0.018">6.459</magK>
 		<metallicity>0.18</metallicity>
 		<spectraltype>G5V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.071]" planet_eccentricity_errorplus="[0.0, 0, 0.071]" planet_mass_errorminus="[0.0, 0, 0.0053]" planet_mass_errorplus="[0.0, 0, 0.0053]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.0071]" planet_semimajoraxis_errorplus="[0.0, 0, 0.0071]">
 			<name>HD 204313 b</name>
 			<list>Confirmed planets</list>
 			<mass>3.55</mass>
@@ -24,7 +24,7 @@
 			<lastupdate>12/05/22</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>153.8</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.155</eccentricity><semimajoraxis>0</semimajoraxis><semimajoraxis>0.2099</semimajoraxis><mass>0</mass><mass>0.0553</mass><period>0</period><period>34.905</period><lastupdate>1/11/19</lastupdate><lastupdate>1/10/26</lastupdate></planet>
 		<planet>
 			<name>HD 204313 c</name>
 			<list>Confirmed planets</list>
@@ -53,4 +53,4 @@
 		<name>HD 204313</name>
 		<temperature>5767.0</temperature>
 	</star>
-</system>
+<declination>-21d43m34.5s</declination><declination>--21 00 -2615</declination><rightascension>21h28m12.21s</rightascension><rightascension>+322 00 180</rightascension></system>

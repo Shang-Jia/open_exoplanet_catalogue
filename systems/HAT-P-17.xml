@@ -3,7 +3,7 @@
 	<rightascension>21 38 09</rightascension>
 	<declination>+30 29 19</declination>
 	<distance>90</distance>
-	<star>
+	<star star_magV_errorminus="[0.03, 0, 0.0]" star_magV_errorplus="[0.03, 0, 0.0]">
 		<mass>0.857</mass>
 		<radius>0.837</radius>
 		<magV errorminus="0.03" errorplus="0.03">10.38</magV>
@@ -30,7 +30,7 @@
 			<temperature>707.1</temperature>
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454801.16943</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/31</lastupdate></planet>
 		<planet>
 			<name>HAT-P-17 c</name>
 			<name>TYC 2717-00417-1 c</name>
@@ -49,5 +49,5 @@
 		</planet>
 		<name>HAT-P-17</name>
 		<temperature>5246.0</temperature>
-	</star>
-</system>
+	<magV>0</magV><magV>10.54</magV></star>
+<declination>+30d29m19.4s</declination><declination>+30 00 1759</declination><rightascension>21h38m08.74s</rightascension><rightascension>+324 00 1935</rightascension></system>

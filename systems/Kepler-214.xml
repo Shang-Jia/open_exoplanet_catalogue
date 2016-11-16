@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-214 b</name>
 			<name>KOI-693 b</name>
@@ -48,4 +48,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>18h59m01.16s</rightascension><rightascension>+284 00 2717</rightascension><declination>+44d57m21.7s</declination><declination>+44 00 3442</declination></system>

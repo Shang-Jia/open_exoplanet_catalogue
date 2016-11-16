@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-178 d</name>
 			<name>KOI-528 d</name>
@@ -64,4 +64,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h08m24.26s</rightascension><rightascension>+287 00 364</rightascension><declination>+46d53m47.3s</declination><declination>+46 00 3227</declination></system>

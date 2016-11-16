@@ -14,7 +14,7 @@
 		<magJ errorminus="0.04" errorplus="0.04">14.48</magJ>
 		<magH errorminus="0.03" errorplus="0.03">14.03</magH>
 		<magK errorminus="0.07" errorplus="0.07">14.12</magK>
-		<planet>
+		<planet planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 0.0]" planet_radius_errorplus="[0.0, 0, 0.0]">
 			<name>Kepler-27 b</name>
 			<name>KOI-841.01</name>
 			<name>KOI-841 b</name>
@@ -30,7 +30,7 @@
 			<discoveryyear>2012</discoveryyear>
 			<temperature>532.4</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/30</lastupdate><period>0</period><period>15.3348</period><radius>0</radius><radius>0.36</radius></planet>
 		<planet>
 			<name>Kepler-27 c</name>
 			<name>KOI-841.02</name>
@@ -49,4 +49,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h28m56.82s</rightascension><rightascension>+292 00 855</rightascension><declination>+41d05m09.2s</declination><declination>+41 00 309</declination></system>

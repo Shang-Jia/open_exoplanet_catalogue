@@ -28,7 +28,7 @@
 			<lastupdate>12/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>137.7</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/11/29</lastupdate></planet>
 		<name>HD 27631</name>
-	</star>
-</system>
+	<spectraltype /><spectraltype>G3IV</spectraltype></star>
+<declination>-41d57m37.0s</declination><declination>--41 00 -3457</declination><rightascension>04h19m45.47s</rightascension><rightascension>+64 00 3375</rightascension></system>

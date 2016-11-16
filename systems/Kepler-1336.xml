@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000254600" errorplus="0.000254600">23.198681000</period>
 			<radius errorminus="0.036" errorplus="0.027">0.177</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-1336 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.031" errorplus="0.024">0.153</radius>
 		</planet>
 	</star>
-</system>
+<declination>+46d53m59.5s</declination><declination>+46 00 3239</declination><rightascension>19h45m06.65s</rightascension><rightascension>+296 00 1000</rightascension></system>

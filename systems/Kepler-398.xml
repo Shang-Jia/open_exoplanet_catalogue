@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-398 c</name>
 			<name>KOI-2693 c</name>
@@ -60,4 +60,4 @@
 			<radius errorminus="0.004" errorplus="0.003">0.079</radius>
 		</planet>
 	</star>
-</system>
+<rightascension>19h25m52.48s</rightascension><rightascension>+291 00 1687</rightascension><declination>+40d20m37.9s</declination><declination>+40 00 1238</declination></system>

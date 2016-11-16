@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-172 c</name>
 			<name>KOI-510 c</name>
@@ -80,4 +80,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>18h53m28.42s</rightascension><rightascension>+283 00 1326</rightascension><declination>+41d49m18.7s</declination><declination>+41 00 2959</declination></system>

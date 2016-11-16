@@ -14,7 +14,7 @@
 		<magK errorminus="0.023" errorplus="0.023">9.581</magK>
 		<metallicity>-0.04</metallicity>
 		<spectraltype>K1</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0071736462889]" planet_mass_errorplus="[0.0, 0, 0.0071736462889]" planet_radius_errorminus="[0.0, 0, 0.0517442265041]" planet_radius_errorplus="[0.0, 0, 0.0517442265041]">
 			<name>HAT-P-26 b</name>
 			<name>TYC 320-01027-1 b</name>
 			<name>2MASS J14123753+0403359 b</name>
@@ -31,8 +31,8 @@
 			<temperature>907.4</temperature>
 			<transittime errorminus="0.00035" errorplus="0.00035" unit="BJD">2455304.65122</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<radius>0</radius><radius>0.564725782364</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/11/05</lastupdate><mass>0</mass><mass>0.0585218513042</mass></planet>
 		<name>HAT-P-26</name>
 		<temperature>5079.0</temperature>
 	</star>
-</system>
+<declination>+04d03m36.0s</declination><declination>+04 00 216</declination><rightascension>14h12m37.53s</rightascension><rightascension>+213 00 563</rightascension></system>

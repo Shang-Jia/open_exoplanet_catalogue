@@ -1,10 +1,10 @@
-<system>
+<system system_distance_errorminus="[0.0, 0, 0.0]" system_distance_errorplus="[0.0, 0, 0.0]">
 	<name>HD 2952</name>
 	<name>HR 135</name>
 	<rightascension>00 33 10</rightascension>
 	<declination>+54 53 41</declination>
 	<distance>115</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.09]" star_mass_errorplus="[0.0, 0, 0.12]">
 		<magB>6.961</magB>
 		<magV>5.930</magV>
 		<magJ errorminus="0.270" errorplus="0.270">4.264</magJ>
@@ -30,6 +30,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>13/04/17</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/25</lastupdate></planet>
+	<mass>0</mass><mass>2.54</mass></star>
+<distance>0</distance><distance>115.2</distance><rightascension>00h33m10.39s</rightascension><rightascension>+08 00 1050</rightascension><declination>+54d53m41.9s</declination><declination>+54 00 3222</declination></system>

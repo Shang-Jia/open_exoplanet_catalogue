@@ -13,7 +13,7 @@
 			<discoverymethod>microlensing</discoverymethod>
 			<lastupdate>14/03/31</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-		</planet>
+		<discoveryyear /><discoveryyear>2014</discoveryyear><lastupdate /><lastupdate>1/01/13</lastupdate></planet>
 		<name>OGLE-2008-BLG-355L</name>
 	</star>
-</system>
+<declination /><declination>--29 00 -866</declination><rightascension /><rightascension>+269 00 2832</rightascension></system>

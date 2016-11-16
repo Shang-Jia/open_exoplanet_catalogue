@@ -37,7 +37,7 @@
 			<description>Wolf 1061 b is the innermost planet in a system of super-Earths located 14 light years from the solar system. It has a minimum mass of 1.36 Earth masses.</description>
 			<lastupdate>15/12/27</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<lastupdate>1/01/05</lastupdate><lastupdate>1/12/22</lastupdate></planet>
 		<planet>
 			<name>Wolf 1061 c</name>
 			<period errorminus="0.011" errorplus="0.011">17.867</period>
@@ -66,5 +66,5 @@
 			<lastupdate>15/12/27</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
-	</star>
-</system>
+	<spectraltype /><spectraltype>M3V</spectraltype></star>
+<declination>-12d39m45.3s</declination><declination>--12 00 -2385</declination><rightascension>16h30m18.06s</rightascension><rightascension>+247 00 2071</rightascension></system>

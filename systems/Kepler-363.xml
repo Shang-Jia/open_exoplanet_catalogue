@@ -5,7 +5,7 @@
 	<rightascension>18 52 46</rightascension>
 	<declination>+41 18 19</declination>
 	<distance>734.62</distance>
-	<star>
+	<star star_mass_errorminus="[0.13, 0, 0.0]" star_mass_errorplus="[0.13, 0, 0.0]">
 		<magJ errorminus="0.024" errorplus="0.024">12.111</magJ>
 		<magH errorminus="0.028" errorplus="0.028">11.755</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.697</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-363 c</name>
 			<name>KOI-2148 c</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>1.23</mass></star>
+<rightascension>18h52m46.10s</rightascension><rightascension>+283 00 691</rightascension><declination>+41d18m19.4s</declination><declination>+41 00 1099</declination></system>

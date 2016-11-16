@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000047260" errorplus="0.000047260">7.699934850</period>
 			<radius errorminus="0.009" errorplus="0.012">0.082</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-1365 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.007" errorplus="0.011">0.071</radius>
 		</planet>
 	</star>
-</system>
+<declination>+42d02m45.9s</declination><declination>+42 00 166</declination><rightascension>19h28m47.93s</rightascension><rightascension>+292 00 719</rightascension></system>

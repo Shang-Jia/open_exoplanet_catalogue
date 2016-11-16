@@ -55,7 +55,7 @@
 			<imagedescription>This image shows an artist's illustration of the Kepler-16 (AB) b exo-planet orbiting two binary stars. Credit: NASA/JPL-Caltech/R. Hurt</imagedescription>
 			<list>Planets in binary systems, P-type</list>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate /><lastupdate>1/08/30</lastupdate></planet>
 	</binary>
 	<videolink>http://youtu.be/qQpqOZ08888</videolink>
-</system>
+<declination /><declination>+51 00 2727</declination><rightascension /><rightascension>+289 00 270</rightascension></system>

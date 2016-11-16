@@ -13,7 +13,7 @@
 		<magK errorminus="0.028" errorplus="0.028">12.897</magK>
 		<mass>0.83</mass>
 		<radius>0.73</radius>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 18.86]" planet_mass_errorplus="[0.0, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 0.0]" planet_radius_errorplus="[0.0, 0, 0.0]">
 			<name>Kepler-57 b</name>
 			<name>KOI-1270.01</name>
 			<name>KOI-1270 b</name>
@@ -28,7 +28,7 @@
 			<lastupdate>12/08/19</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/27</lastupdate><mass>0</mass><mass>18.86</mass><radius>0</radius><radius>0.2</radius></planet>
 		<planet>
 			<name>Kepler-57 c</name>
 			<name>KOI-1270.02</name>
@@ -46,4 +46,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h34m33.91s</rightascension><rightascension>+293 00 2310</rightascension><declination>+44d39m25.3s</declination><declination>+44 00 2365</declination></system>

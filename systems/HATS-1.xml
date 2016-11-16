@@ -33,8 +33,8 @@
 			<temperature>1250.3</temperature>
 			<transittime errorminus="0.00071" errorplus="0.00071" unit="BJD">2455241.28722</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/06/08</lastupdate></planet>
 		<name>HATS-1</name>
 		<temperature>5870.0</temperature>
 	</star>
-</system>
+<declination>-23d21m17.4s</declination><declination>--23 00 -1277</declination><rightascension>11h42m06.08s</rightascension><rightascension>+175 00 1890</rightascension></system>

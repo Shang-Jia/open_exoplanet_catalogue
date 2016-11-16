@@ -15,7 +15,7 @@
 		<magH errorminus="0.024" errorplus="0.024">12.767</magH>
 		<magK errorminus="0.028" errorplus="0.028">12.719</magK>
 		<spectraltype>K4V</spectraltype>
-		<planet>
+		<planet planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 0.0]" planet_radius_errorplus="[0.0, 0, 0.0]">
 			<name>Kepler-28 b</name>
 			<name>KOI-870.01</name>
 			<name>KOI-870 b</name>
@@ -31,7 +31,7 @@
 			<discoveryyear>2012</discoveryyear>
 			<temperature>680.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/30</lastupdate><period>0</period><period>5.9123</period><radius>0</radius><radius>0.32</radius></planet>
 		<planet>
 			<name>Kepler-28 c</name>
 			<name>KOI-870.02</name>
@@ -50,4 +50,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h28m32.89s</rightascension><rightascension>+292 00 495</rightascension><declination>+42d25m45.9s</declination><declination>+42 00 1546</declination></system>

@@ -9,8 +9,8 @@
 		<positionangle>177</positionangle>
 		<name>tau Gem</name>
 		<name>Tau Geminorum</name>
-		<name>τ Gem</name>
-		<name>τ Geminorum</name>
+		<name>&#964; Gem</name>
+		<name>&#964; Geminorum</name>
 		<name>46 Gem</name>
 		<name>46 Geminorum</name>
 		<name>HD 54719</name>
@@ -19,11 +19,11 @@
 		<name>HR 2697</name>
 		<name>BD+30 1439</name>
 		<name>WDS J07111+3015</name>
-		<star>
+		<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 			<name>tau Gem A</name>
 			<name>Tau Geminorum A</name>
-			<name>τ Gem A</name>
-			<name>τ Geminorum A</name>
+			<name>&#964; Gem A</name>
+			<name>&#964; Geminorum A</name>
 			<name>46 Gem A</name>
 			<name>46 Geminorum A</name>
 			<name>HD 54719 A</name>
@@ -60,13 +60,13 @@
 				<lastupdate>15/11/03</lastupdate>
 				<discoveryyear>2004</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
+			<lastupdate>1/05/14</lastupdate><lastupdate>1/08/21</lastupdate></planet>
+		<magV>0</magV><magV>4.4</magV></star>
 		<star>
 			<name>tau Gem B</name>
 			<name>Tau Geminorum B</name>
-			<name>τ Gem B</name>
-			<name>τ Geminorum B</name>
+			<name>&#964; Gem B</name>
+			<name>&#964; Geminorum B</name>
 			<name>46 Gem B</name>
 			<name>46 Geminorum B</name>
 			<name>HD 54719 B</name>
@@ -80,4 +80,4 @@
 			<mass>0.8</mass>
 		</star>
 	</binary>
-</system>
+<declination>+30d14m42.6s</declination><declination>+30 00 883</declination><rightascension>07h11m08.37s</rightascension><rightascension>+107 00 2820</rightascension></system>

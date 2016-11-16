@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[0.5, 0, 0.0]" system_distance_errorplus="[0.5, 0, 0.0]">
 	<name>HD 8673</name>
 	<rightascension>01 26 08</rightascension>
 	<declination>+34 34 46</declination>
@@ -8,7 +8,7 @@
 		<positionangle errorminus="0.57" errorplus="0.57">333.4</positionangle>
 		<separation errorminus="0.003" errorplus="0.003" unit="arcsec">0.308</separation>
 		<separation unit="AU">11</separation>
-		<star>
+		<star star_mass_errorminus="[0.0, 0, 0.1]" star_mass_errorplus="[0.0, 0, 0.1]" star_radius_errorminus="[0.0, 0, 0.1]" star_radius_errorplus="[0.0, 0, 0.1]" star_temperature_errorminus="[0.0, 0, 51.0]" star_temperature_errorplus="[0.0, 0, 51.0]">
 			<mass>1.312</mass>
 			<radius>1.54</radius>
 			<magV>7.57</magV>
@@ -32,10 +32,10 @@
 				<discoveryyear>2010</discoveryyear>
 				<temperature>194.3</temperature>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<lastupdate>1/05/14</lastupdate><lastupdate>1/02/26</lastupdate></planet>
 			<name>HD 8673 A</name>
 			<temperature>6413.0</temperature>
-		</star>
+		<radius>0</radius><radius>1.39</radius><temperature>0</temperature><temperature>6472.0</temperature><mass>0</mass><mass>1.35</mass></star>
 		<star>
 			<name>HD 8673 B</name>
 			<temperature lowerlimit="3520" upperlimit="3690" />
@@ -45,4 +45,4 @@
 			<magK>9.29</magK>
 		</star>
 	</binary>
-</system>
+<distance>0</distance><distance>38.25</distance><declination>+34d34m46.9s</declination><declination>+34 00 2086</declination><rightascension>01h26m08.78s</rightascension><rightascension>+21 00 1920</rightascension></system>

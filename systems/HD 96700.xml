@@ -24,7 +24,7 @@
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1001.4</temperature>
-		</planet>
+		<lastupdate /><lastupdate>1/09/12</lastupdate></planet>
 		<planet>
 			<name>HD 96700 c</name>
 			<list>Confirmed planets</list>
@@ -41,4 +41,4 @@
 		<name>HD 96700</name>
 		<temperature>5940.0</temperature>
 	</star>
-</system>
+<rightascension /><rightascension>+166 00 3510</rightascension><declination /><declination>--30 00 -628</declination></system>

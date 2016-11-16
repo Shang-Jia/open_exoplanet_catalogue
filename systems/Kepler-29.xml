@@ -14,7 +14,7 @@
 		<magH errorminus="0.03" errorplus="0.03">13.67</magH>
 		<magK errorminus="0.04" errorplus="0.04">13.66</magK>
 		<spectraltype>G5V</spectraltype>
-		<planet>
+		<planet planet_radius_errorminus="[0.0, 0, 0.018]" planet_radius_errorplus="[0.0, 0, 0.018]">
 			<name>Kepler-29 b</name>
 			<name>KOI-738.01</name>
 			<name>KOI-738 b</name>
@@ -30,7 +30,7 @@
 			<lastupdate>16/01/13</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/04/07</lastupdate><lastupdate>1/03/16</lastupdate><radius>0</radius><radius>0.28</radius></planet>
 		<planet>
 			<name>Kepler-29 c</name>
 			<name>KOI-738.02</name>
@@ -49,4 +49,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h53m23.60s</rightascension><rightascension>+298 00 1260</rightascension><declination>+47d29m28.4s</declination><declination>+47 00 1768</declination></system>

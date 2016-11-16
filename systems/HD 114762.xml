@@ -33,7 +33,7 @@
 				<lastupdate>11/06/09</lastupdate>
 				<discoveryyear>1992</discoveryyear>
 				<temperature>486.8</temperature>
-			</planet>
+			<lastupdate>1/12/17</lastupdate><lastupdate>1/01/10</lastupdate><discoveryyear /><discoveryyear>1989</discoveryyear></planet>
 			<name>HD 114762</name>
 			<temperature>5934.0</temperature>
 		</star>
@@ -43,4 +43,4 @@
 			<mass>0.1</mass>
 		</star>
 	</binary>
-</system>
+<declination>+17d31m01.6s</declination><declination>+17 00 1861</declination><rightascension>13h12m19.74s</rightascension><rightascension>+198 00 285</rightascension></system>

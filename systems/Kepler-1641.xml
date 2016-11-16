@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.001110000" errorplus="0.001110000">19.672266000</period>
 			<radius errorminus="0.052" errorplus="0.101">0.277</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-1641 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.044" errorplus="0.087">0.263</radius>
 		</planet>
 	</star>
-</system>
+<declination>+41d34m28.3s</declination><declination>+41 00 2068</declination><rightascension>19h45m26.27s</rightascension><rightascension>+296 00 1294</rightascension></system>

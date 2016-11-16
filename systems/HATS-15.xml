@@ -32,6 +32,6 @@
 			<description>HATS-15b is a massive planet transiting a G9V star.</description>
 			<lastupdate>15/11/26</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<discoveryyear /><discoveryyear>2014</discoveryyear><lastupdate>1/06/23</lastupdate><lastupdate>1/04/28</lastupdate></planet>
 	</star>
-</system>
+<declination>-19d26m15.0s</declination><declination>--19 00 -1575</declination><rightascension>20h44m22.07s</rightascension><rightascension>+311 00 333</rightascension></system>

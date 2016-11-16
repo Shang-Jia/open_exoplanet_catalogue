@@ -8,7 +8,7 @@
 		<separation errorminus="0.004" errorplus="0.0018" unit="arcsec">3.8587</separation>
 		<separation errorminus="67" errorplus="67" unit="AU">1238</separation>
 		<positionangle errorminus="0.1" errorplus="0.1">89.8</positionangle>
-		<star>
+		<star star_age_errorminus="[0.1, 0, 0.23]" star_age_errorplus="[0.1, 0, 0.28]" star_mass_errorminus="[0.03, 0, 0.05]" star_mass_errorplus="[0.03, 0, 0.04]" star_metallicity_errorminus="[0.04, 0, 0.0]" star_metallicity_errorplus="[0.04, 0, 0.0]" star_radius_errorminus="[0.01, 0, 0.02]" star_radius_errorplus="[0.01, 0, 0.01]" star_temperature_errorminus="[15.0, 0, 32.0]" star_temperature_errorplus="[15.0, 0, 32.0]">
 			<name>HAT-P-7 A</name>
 			<spectraltype>F6</spectraltype>
 			<mass errorminus="0.03" errorplus="0.03">1.59</mass>
@@ -21,7 +21,7 @@
 			<temperature errorminus="15" errorplus="15">6310</temperature>
 			<age errorminus="0.100" errorplus="0.100">1.770</age>
 			<metallicity errorminus="0.04" errorplus="0.04">0.32</metallicity>
-			<planet>
+			<planet planet_inclination_errorminus="[0.0, 0, 2.0]" planet_inclination_errorplus="[0.0, 0, 2.0]" planet_mass_errorminus="[0.0, 0, 0.028]" planet_mass_errorplus="[0.0, 0, 0.028]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 0.011]" planet_radius_errorplus="[0.0, 0, 0.011]" planet_temperature_errorminus="[0.0, 0, 0.0]" planet_temperature_errorplus="[0.0, 0, 0.0]">
 				<name>HAT-P-7 b</name>
 				<name>HAT-P-7 A b</name>
 				<name>2MASS J19285935+4758102 b</name>
@@ -47,8 +47,8 @@
 				<transittime errorminus="0.00064" errorplus="0.00064" unit="BJD">2454342.42691</transittime>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
+			<radius>0</radius><radius>1.431</radius><temperature>0</temperature><temperature>2121.0</temperature><lastupdate>1/08/18</lastupdate><lastupdate>1/03/19</lastupdate><mass>0</mass><mass>1.741</mass><inclination>0</inclination><inclination>84.1</inclination><period>0</period><period>2.204735471</period></planet>
+		<age>0</age><age>2.07</age><mass>0</mass><mass>1.51</mass><radius>0</radius><radius>2.0</radius><temperature>0</temperature><temperature>6259.0</temperature><metallicity>0</metallicity><metallicity>0.13</metallicity></star>
 		<star>
 			<name>HAT-P-7 B</name>
 			<magJ errorminus="0.075" errorplus="0.075">16.117</magJ>
@@ -58,4 +58,4 @@
 			<mass errorminus="0.016" errorplus="0.016">0.215</mass>
 		</star>
 	</binary>
-</system>
+<declination>+47d58m10.2s</declination><declination>+47 00 3490</declination><rightascension>19h28m59.35s</rightascension><rightascension>+292 00 885</rightascension></system>

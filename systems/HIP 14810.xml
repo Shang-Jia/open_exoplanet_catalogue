@@ -24,7 +24,7 @@
 			<lastupdate>09/06/03</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>918.2</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/20</lastupdate></planet>
 		<planet>
 			<name>HIP 14810 c</name>
 			<list>Confirmed planets</list>
@@ -52,4 +52,4 @@
 		<name>HIP 14810</name>
 		<temperature>5485.0</temperature>
 	</star>
-</system>
+<declination>+21d05m50.5s</declination><declination>+21 00 350</declination><rightascension>03h11m14.23s</rightascension><rightascension>+47 00 2910</rightascension></system>

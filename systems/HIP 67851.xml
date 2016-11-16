@@ -3,7 +3,7 @@
 	<rightascension>13 53 52.06197</rightascension>
 	<declination>-35 18 51.7033</declination>
 	<distance errorminus="1.7" errorplus="1.7">66.0</distance>
-	<star>
+	<star star_mass_errorminus="[0.18, 0, 0.22]" star_mass_errorplus="[0.18, 0, 0.22]" star_radius_errorminus="[0.29, 0, 0.44]" star_radius_errorplus="[0.29, 0, 0.44]">
 		<name>HIP 67851</name>
 		<name>HD 121056</name>
 		<name>HR 5224</name>
@@ -21,7 +21,7 @@
 		<mass errorminus="0.18" errorplus="0.18">1.30</mass>
 		<radius errorminus="0.29" errorplus="0.29">5.87</radius>
 		<metallicity errorminus="0.10" errorplus="0.10">-0.03</metallicity>
-		<planet>
+		<planet planet_periastron_errorminus="[17.0, 0, 20.5]" planet_periastron_errorplus="[17.0, 0, 20.5]">
 			<name>HIP 67851 b</name>
 			<name>HD 121056 b</name>
 			<period errorminus="0.1" errorplus="0.1">88.9</period>
@@ -34,7 +34,7 @@
 			<list>Confirmed planets</list>
 			<description>HIP 67851 b is one of the rare examples of a close-in planet orbiting a red giant star.</description>
 			<lastupdate>15/05/25</lastupdate>
-		</planet>
+		<lastupdate>1/06/04</lastupdate><lastupdate>1/05/29</lastupdate><periastron>0</periastron><periastron>166.5</periastron><discoveryyear /><discoveryyear>2015</discoveryyear></planet>
 		<planet>
 			<name>HIP 67851 c</name>
 			<name>HD 121056 c</name>
@@ -49,5 +49,5 @@
 			<description>HIP 67851 c orbits a red giant star. Currently the parameters are sufficiently uncertain that it is not clear whether or not it will be engulfed during the further expansion of its parent star.</description>
 			<lastupdate>15/05/25</lastupdate>
 		</planet>
-	</star>
-</system>
+	<spectraltype /><spectraltype>KOIII</spectraltype><radius>0</radius><radius>5.52</radius><mass>0</mass><mass>1.63</mass></star>
+<declination>-35d18m51.7s</declination><declination>--35 00 -1132</declination><rightascension>13h53m52.06s</rightascension><rightascension>+208 00 1680</rightascension></system>

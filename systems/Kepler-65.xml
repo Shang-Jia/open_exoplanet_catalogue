@@ -1,9 +1,9 @@
-<system>
+<system system_distance_errorminus="[0.0, 0, 0.0]" system_distance_errorplus="[0.0, 0, 0.0]">
 	<name>Kepler-65</name>
 	<rightascension>19 14 45</rightascension>
 	<declination>+41 09 04</declination>
 	<distance>246.65</distance>
-	<star>
+	<star star_age_errorminus="[0.0, 0, 0.48]" star_age_errorplus="[0.0, 0, 0.59]" star_magV_errorminus="[0.06, 0, 0.0]" star_magV_errorplus="[0.06, 0, 0.0]" star_mass_errorminus="[0.0, 0, 0.03]" star_mass_errorplus="[0.0, 0, 0.029]" star_radius_errorminus="[0.0, 0, 0.012]" star_radius_errorplus="[0.0, 0, 0.012]">
 		<magB errorminus="0.07" errorplus="0.07">11.62</magB>
 		<magV errorminus="0.06" errorplus="0.06">10.92</magV>
 		<magJ errorminus="0.018" errorplus="0.018">10.066</magJ>
@@ -35,7 +35,7 @@
 			<lastupdate>13/02/17</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/02</lastupdate></planet>
 		<planet>
 			<name>Kepler-65 c</name>
 			<name>KOI-85.01</name>
@@ -72,5 +72,5 @@
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<age>0</age><age>3.89</age><spectraltype /><spectraltype>B</spectraltype><mass>0</mass><mass>1.199</mass><radius>0</radius><radius>1.399</radius><magV>0</magV><magV>11.018</magV></star>
+<distance>0</distance><distance>312.43</distance><declination>+41d09m04.2s</declination><declination>+41 00 544</declination><rightascension>19h14m45.29s</rightascension><rightascension>+288 00 2475</rightascension></system>

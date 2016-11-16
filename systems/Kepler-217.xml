@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-217 c</name>
 			<name>KOI-710 c</name>
@@ -60,4 +60,4 @@
 			<radius errorminus="0.024" errorplus="0.032">0.118</radius>
 		</planet>
 	</star>
-</system>
+<rightascension>19h32m09.06s</rightascension><rightascension>+293 00 136</rightascension><declination>+46d16m39.0s</declination><declination>+46 00 999</declination></system>

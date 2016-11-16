@@ -15,7 +15,7 @@
 		<magK errorminus="0.023" errorplus="0.023">11.093</magK>
 		<metallicity>-0.4</metallicity>
 		<spectraltype>G2</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.17]" planet_mass_errorplus="[0.0, 0, 0.17]" planet_radius_errorminus="[0.0, 0, 0.06]" planet_radius_errorplus="[0.0, 0, 0.07]">
 			<name>WASP-37 b</name>
 			<name>2MASS J14474655+0103538 b</name>
 			<list>Confirmed planets</list>
@@ -31,8 +31,8 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1213.5</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass>0</mass><mass>1.8</mass><radius>0</radius><radius>1.16</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/05/23</lastupdate></planet>
 		<name>WASP-37</name>
 		<temperature>5800.0</temperature>
 	</star>
-</system>
+<declination>+01d03m53.9s</declination><declination>+01 00 234</declination><rightascension>14h47m46.56s</rightascension><rightascension>+221 00 3405</rightascension></system>

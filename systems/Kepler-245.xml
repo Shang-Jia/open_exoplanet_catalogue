@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-245 d</name>
 			<name>KOI-869 d</name>
@@ -76,4 +76,4 @@
 			<radius errorminus="0.005" errorplus="0.007">0.156</radius>
 		</planet>
 	</star>
-</system>
+<rightascension>19h26m33.35s</rightascension><rightascension>+291 00 2300</rightascension><declination>+42d26m10.7s</declination><declination>+42 00 1571</declination></system>

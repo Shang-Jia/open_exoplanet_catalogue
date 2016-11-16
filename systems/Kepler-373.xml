@@ -5,7 +5,7 @@
 	<rightascension>19 17 33</rightascension>
 	<declination>+50 35 49</declination>
 	<distance>763.85</distance>
-	<star>
+	<star star_mass_errorminus="[0.072, 0, 0.0]" star_mass_errorplus="[0.072, 0, 0.0]">
 		<magJ errorminus="0.029" errorplus="0.029">13.280</magJ>
 		<magH errorminus="0.03" errorplus="0.03">12.90</magH>
 		<magK errorminus="0.03" errorplus="0.03">12.86</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-373 c</name>
 			<name>KOI-2218 c</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.87</mass></star>
+<rightascension>19h17m33.12s</rightascension><rightascension>+289 00 1397</rightascension><declination>+50d35m49.4s</declination><declination>+50 00 2149</declination></system>

@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-402 e</name>
 			<name>KOI-2722 e</name>
@@ -79,4 +79,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h13m28.85s</rightascension><rightascension>+288 00 1333</rightascension><declination>+43d21m16.6s</declination><declination>+43 00 1277</declination></system>

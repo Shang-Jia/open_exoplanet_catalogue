@@ -28,7 +28,7 @@
 			<metallicity errorminus="0.01" errorplus="0.01">-0.11</metallicity>
 			<spectraltype>F8V</spectraltype>
 			<age errorminus="0.24" errorplus="0.24">2.10</age>
-			<planet>
+			<planet planet_periastron_errorminus="[5.22, 0, 6.0]" planet_periastron_errorplus="[6.87, 0, 6.0]" planet_semimajoraxis_errorminus="[0.02, 0, 0.04]" planet_semimajoraxis_errorplus="[0.01, 0, 0.04]">
 				<name>HD 7449 b</name>
 				<name>HD 7449 A b</name>
 				<list>Confirmed planets</list>
@@ -43,7 +43,7 @@
 				<lastupdate>16/02/04</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<semimajoraxis>0</semimajoraxis><semimajoraxis>2.3</semimajoraxis><periastron>0</periastron><periastron>339.0</periastron><lastupdate>1/05/14</lastupdate><lastupdate>1/05/23</lastupdate></planet>
 			<planet>
 				<name>HD 7449 c</name>
 				<name>HD 7449 A c</name>
@@ -72,4 +72,4 @@
 			<temperature>3000</temperature>
 		</star>
 	</binary>
-</system>
+<declination>-05d02m50.6s</declination><declination>--5 00 -171</declination><rightascension>01h14m29.32s</rightascension><rightascension>+18 00 2235</rightascension></system>

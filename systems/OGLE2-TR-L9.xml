@@ -28,8 +28,8 @@
 			<discoveryyear>2007</discoveryyear>
 			<temperature>2154.6</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/06</lastupdate></planet>
 		<name>OGLE2-TR-L9</name>
 		<temperature>6933.0</temperature>
 	</star>
-</system>
+<declination>-61d08m46.5s</declination><declination>--61 00 -526</declination><rightascension>11h07m55.18s</rightascension><rightascension>+166 00 3525</rightascension></system>

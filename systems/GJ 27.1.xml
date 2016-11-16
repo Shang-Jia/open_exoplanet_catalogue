@@ -22,7 +22,7 @@
 		<spectraltype>M0.5 V</spectraltype>
 		<mass>0.53</mass>
 		<temperature>3542</temperature>
-		<planet>
+		<planet planet_periastron_errorminus="[0.0, 0, 0.0]" planet_periastron_errorplus="[0.0, 0, 0.0]">
 			<name>GJ 27.1 b</name>
 			<name>Gliese 27.1 b</name>
 			<period errorminus="0.026" errorplus="0.023">15.819</period>
@@ -36,6 +36,6 @@
 			<description>The planet candidate orbiting GJ 27.1 was identified by Bayesian analysis of 62 UVES and 50 HARPS radial velocity measurements.</description>
 			<list>Controversial</list>
 			<lastupdate>15/04/21</lastupdate>
-		</planet>
-	</star>
-</system>
+		<lastupdate /><lastupdate>1/05/25</lastupdate><periastron>0</periastron><periastron>154.69</periastron></planet>
+	<spectraltype /><spectraltype>M0.5V</spectraltype></star>
+<declination /><declination>--43 00 -2688</declination><rightascension /><rightascension>+09 00 3582</rightascension></system>

@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-399 b</name>
 			<name>KOI-2707 b</name>
@@ -64,4 +64,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h58m00.42s</rightascension><rightascension>+299 00 1806</rightascension><declination>+40d40m14.9s</declination><declination>+40 00 2415</declination></system>

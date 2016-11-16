@@ -3,7 +3,7 @@
 	<rightascension>04 48 36</rightascension>
 	<declination>-05 40 27</declination>
 	<distance>26.5</distance>
-	<star>
+	<star star_age_errorminus="[0.0, 0, 0.0]" star_age_errorplus="[0.0, 0, 0.0]" star_mass_errorminus="[0.0, 0, 0.04]" star_mass_errorplus="[0.0, 0, 0.04]" star_metallicity_errorminus="[0.0, 0, 0.04]" star_metallicity_errorplus="[0.0, 0, 0.04]" star_radius_errorminus="[0.0, 0, 0.06]" star_radius_errorplus="[0.0, 0, 0.06]">
 		<name>HD 30562</name>
 		<mass>1.23</mass>
 		<radius>1.53</radius>
@@ -15,7 +15,7 @@
 		<metallicity>0.29</metallicity>
 		<age>3.6</age>
 		<spectraltype>F8V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.05]" planet_eccentricity_errorplus="[0.0, 0, 0.05]" planet_mass_errorminus="[0.0, 0, 0.08]" planet_mass_errorplus="[0.0, 0, 0.08]" planet_periastron_errorminus="[0.0, 0, 10.0]" planet_periastron_errorplus="[0.0, 0, 10.0]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.02]" planet_semimajoraxis_errorplus="[0.0, 0, 0.02]">
 			<name>HD 30562 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.373</mass>
@@ -27,7 +27,7 @@
 			<lastupdate>12/11/29</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>208.7</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.76</eccentricity><lastupdate>1/05/14</lastupdate><lastupdate>0/09/25</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>2.3</semimajoraxis><mass>0</mass><mass>1.29</mass><period>0</period><period>1157.0</period><periastron>0</periastron><periastron>81.0</periastron></planet>
 		<temperature>5861.0</temperature>
-	</star>
-</system>
+	<radius>0</radius><radius>1.637</radius><metallicity>0</metallicity><metallicity>0.243</metallicity><age>0</age><age>4.0</age><mass>0</mass><mass>1.219</mass></star>
+<declination>-05d40m26.6s</declination><declination>--5 00 -2427</declination><rightascension>04h48m36.38s</rightascension><rightascension>+72 00 540</rightascension></system>

@@ -3,7 +3,7 @@
 	<rightascension>10 42 24</rightascension>
 	<declination>+07 26 06</declination>
 	<distance errorminus="10" errorplus="10">143</distance>
-	<star>
+	<star star_mass_errorminus="[0.049, 0, 0.09]" star_mass_errorplus="[0.049, 0, 0.09]" star_radius_errorminus="[0.027, 0, 0.23]" star_radius_errorplus="[0.027, 0, 0.23]">
 		<name>WASP-104</name>
 		<name>TYC 260-1073-1</name>
 		<mass errorminus="0.049" errorplus="0.049">1.076</mass>
@@ -35,6 +35,6 @@
 			<description>The transiting exoplanet WASP-104 b is just slightly larger than Jupiter. It was discovered by the WASP survey.</description>
 			<lastupdate>14/08/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/09/25</lastupdate><lastupdate>1/01/10</lastupdate></planet>
+	<mass>0</mass><mass>1.02</mass><radius>0</radius><radius>0.93</radius></star>
+<declination>+07d26m06.1s</declination><declination>+07 00 1566</declination><rightascension>10h42m24.58s</rightascension><rightascension>+160 00 2169</rightascension></system>

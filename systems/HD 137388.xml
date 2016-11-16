@@ -28,8 +28,8 @@
 			<lastupdate>11/08/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>219.9</temperature>
-		</planet>
+		<lastupdate /><lastupdate>1/08/02</lastupdate></planet>
 		<name>HD 137388</name>
 		<temperature>5240.0</temperature>
 	</star>
-</system>
+<rightascension /><rightascension>+233 00 3300</rightascension><declination /><declination>--80 00 -737</declination></system>

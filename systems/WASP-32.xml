@@ -2,7 +2,7 @@
 	<name>WASP-32</name>
 	<rightascension>00 15 51</rightascension>
 	<declination>+01 12 02</declination>
-	<star>
+	<star star_radius_errorminus="[0.0, 0, 0.05]" star_radius_errorplus="[0.0, 0, 0.05]">
 		<mass errorminus="0.03" errorplus="0.03">1.1</mass>
 		<radius>1.09</radius>
 		<magV>11.3</magV>
@@ -15,7 +15,7 @@
 		<metallicity>-0.13</metallicity>
 		<spectraltype>G</spectraltype>
 		<age>2.42</age>
-		<planet>
+		<planet planet_period_errorminus="[8e-06, 0, 0.0]" planet_period_errorplus="[8e-06, 0, 0.0]">
 			<name>WASP-32 b</name>
 			<name>TYC 002-01155-1 b</name>
 			<name>2MASS J00155080+0112016 b</name>
@@ -33,8 +33,8 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1427.6</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<period>0</period><period>2.71865</period><lastupdate>1/05/14</lastupdate><lastupdate>1/10/11</lastupdate></planet>
 		<name>WASP-32</name>
 		<temperature errorminus="100" errorplus="100">6100.0</temperature>
-	</star>
-</system>
+	<radius>0</radius><radius>1.11</radius></star>
+<declination>+01d12m01.6s</declination><declination>+01 00 722</declination><rightascension>00h15m50.80s</rightascension><rightascension>+03 00 3465</rightascension></system>

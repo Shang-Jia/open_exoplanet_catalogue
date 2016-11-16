@@ -24,7 +24,7 @@
 			<lastupdate>09/10/06</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>664.2</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/15</lastupdate></planet>
 		<planet>
 			<name>HD 117618.02</name>
 			<list>Controversial</list>
@@ -42,4 +42,4 @@
 		<name>HD 117618</name>
 		<temperature>5861.0</temperature>
 	</star>
-</system>
+<declination>-47d16m16.9s</declination><declination>--47 00 -976</declination><rightascension>13h32m25.55s</rightascension><rightascension>+203 00 375</rightascension></system>

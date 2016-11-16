@@ -5,7 +5,7 @@
 	<rightascension>19 22 02</rightascension>
 	<declination>+41 14 41</declination>
 	<distance>1511.13</distance>
-	<star>
+	<star star_mass_errorminus="[0.11, 0, 0.0]" star_mass_errorplus="[0.11, 0, 0.0]">
 		<magJ errorminus="0.028" errorplus="0.028">14.252</magJ>
 		<magH errorminus="0.03" errorplus="0.03">13.94</magH>
 		<magK errorminus="0.05" errorplus="0.05">13.90</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-265 b</name>
 			<name>KOI-1052 b</name>
@@ -79,5 +79,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>1.03</mass></star>
+<rightascension>19h22m02.51s</rightascension><rightascension>+290 00 1838</rightascension><declination>+41d14m41.4s</declination><declination>+41 00 881</declination></system>

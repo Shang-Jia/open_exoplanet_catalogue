@@ -3,7 +3,7 @@
 	<rightascension>11 14 33</rightascension>
 	<declination>+25 42 37</declination>
 	<distance errorminus="0.34" errorplus="0.34">21.11</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]" star_mass_errorminus="[0.05, 0, 0.02]" star_mass_errorplus="[0.05, 0, 0.02]" star_temperature_errorminus="[44.0, 0, 44.0]" star_temperature_errorplus="[44.0, 0, 44.0]">
 		<name>HD 97658</name>
 		<name>GJ 3651</name>
 		<name>BD +26 2184</name>
@@ -21,7 +21,7 @@
 		<metallicity errorminus="0.03" errorplus="0.03">-0.23</metallicity>
 		<age errorminus="0.7" errorplus="0.7">6.1</age>
 		<spectraltype>K1V</spectraltype>
-		<planet>
+		<planet planet_periastron_errorminus="[61.0, 0, 63.0]" planet_periastron_errorplus="[66.0, 0, 65.0]" planet_transittime_errorminus="[0.0053, 0, 0.00056]" planet_transittime_errorplus="[0.0057, 0, 0.0006]">
 			<name>HD 97658 b</name>
 			<name>GJ 3651 b</name>
 			<name>BD +26 2184 b</name>
@@ -41,6 +41,6 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature errorminus="13" errorplus="12">757</temperature>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<transittime>0</transittime><transittime>2456523.1254</transittime><lastupdate>1/10/27</lastupdate><lastupdate>1/08/22</lastupdate><periastron>0</periastron><periastron>71.0</periastron></planet>
+	<temperature>0</temperature><temperature>5170.0</temperature><mass>0</mass><mass>0.85</mass><magV>0</magV><magV>6.27</magV></star>
+<declination>+25d42m37.4s</declination><declination>+25 00 2557</declination><rightascension>11h14m33.16s</rightascension><rightascension>+168 00 2295</rightascension></system>

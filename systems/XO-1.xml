@@ -30,8 +30,8 @@
 			<discoveryyear>2006</discoveryyear>
 			<temperature>1168.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/04/30</lastupdate></planet>
 		<name>XO-1</name>
 		<temperature>5940.0</temperature>
 	</star>
-</system>
+<rightascension>16h02m11.84s</rightascension><rightascension>+240 00 1980</rightascension><declination>+28d10m10.5s</declination><declination>+28 00 611</declination></system>

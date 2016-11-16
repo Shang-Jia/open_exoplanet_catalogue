@@ -5,7 +5,7 @@
 	<distance>33</distance>
 	<binary>
 		<semimajoraxis>23</semimajoraxis>
-		<star>
+		<star star_age_errorminus="[0.0, 0, 0.5]" star_age_errorplus="[0.0, 0, 0.5]">
 			<name>HD 196885 A</name>
 			<mass>1.33</mass>
 			<radius>1.79</radius>
@@ -32,9 +32,9 @@
 				<discoveryyear>2007</discoveryyear>
 				<description>The planet HD 196885 A b is orbiting a binary star in the constellation Delphinus. In 2004 a planet with an orbital period of 386 days was reported. A follow up study did not confirm the original planet but found strong evidence for a planet with a much longer period.</description>
 				<temperature>228.4</temperature>
-			</planet>
+			<lastupdate /><lastupdate>1/12/11</lastupdate></planet>
 			<temperature>6340.0</temperature>
-		</star>
+		<age>0</age><age>2.0</age></star>
 		<star>
 			<name>HD 196885 B</name>
 			<spectraltype>M1V</spectraltype>
@@ -42,4 +42,4 @@
 			<mass>0.55</mass>
 		</star>
 	</binary>
-</system>
+<rightascension /><rightascension>+309 00 3465</rightascension><declination /><declination>+11 00 898</declination></system>

@@ -3,7 +3,7 @@
 	<rightascension>02 44 09</rightascension>
 	<declination>-30 10 08</declination>
 	<distance errorminus="60" errorplus="60">340</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]" star_mass_errorminus="[0.0, 0, 0.055]" star_mass_errorplus="[0.0, 0, 0.055]" star_radius_errorminus="[0.0, 0, 0.24]" star_radius_errorplus="[0.0, 0, 0.24]">
 		<mass>1.23</mass>
 		<radius>1.37</radius>
 		<temperature errorminus="100" errorplus="100">6250</temperature>
@@ -16,7 +16,7 @@
 		<magK errorminus="0.021" errorplus="0.021">9.617</magK>
 		<metallicity>-0.06</metallicity>
 		<spectraltype>F7</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.056]" planet_mass_errorplus="[0.0, 0, 0.059]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 0.2]" planet_radius_errorplus="[0.0, 0, 0.2]" planet_semimajoraxis_errorminus="[0.0, 0, 0.0005]" planet_semimajoraxis_errorplus="[0.0, 0, 0.0005]">
 			<name>WASP-72 b</name>
 			<name>1SWASPJ024409.60-301008.5 b</name>
 			<list>Confirmed planets</list>
@@ -33,7 +33,7 @@
 			<lastupdate>12/10/17</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>0.03708</semimajoraxis><mass>0</mass><mass>1.461</mass><radius>0</radius><radius>1.27</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/05/22</lastupdate><period>0</period><period>2.2167421</period><discoveryyear /><discoveryyear>2013</discoveryyear></planet>
 		<name>WASP-72</name>
-	</star>
-</system>
+	<mass>0</mass><mass>1.386</mass><radius>0</radius><radius>1.98</radius><magV>0</magV><magV>9.6</magV></star>
+<declination>-30d10m08.5s</declination><declination>--30 00 -609</declination><rightascension>02h44m09.60s</rightascension><rightascension>+41 00 150</rightascension></system>

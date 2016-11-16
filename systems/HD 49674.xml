@@ -10,7 +10,7 @@
 		<magB errorminus="0.02" errorplus="0.02">8.83</magB>
 		<metallicity>0.25</metallicity>
 		<spectraltype>G5 V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.0691]" planet_eccentricity_errorplus="[0.0, 0, 0.0495]" planet_mass_errorminus="[0.0, 0, 0.0]" planet_mass_errorplus="[0.0, 0, 0.0]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>HD 49674 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.115</mass>
@@ -21,8 +21,8 @@
 			<lastupdate>10/12/22</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>969.8</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.0495</eccentricity><mass>0</mass><mass>0.1</mass><period>0</period><period>4.94739</period><lastupdate>1/07/23</lastupdate><lastupdate>1/02/27</lastupdate></planet>
 		<name>HD 49674</name>
 		<temperature>5482.0</temperature>
 	</star>
-</system>
+<declination>+40d52m03.9s</declination><declination>+40 00 3123</declination><rightascension>06h51m30.52s</rightascension><rightascension>+102 00 3150</rightascension></system>

@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/07/01</lastupdate><discoveryyear /><discoveryyear>2011</discoveryyear></planet>
 		<planet>
 			<name>Kepler-82 c</name>
 			<name>KOI-880 c</name>
@@ -80,4 +80,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h31m29.61s</rightascension><rightascension>+292 00 3144</rightascension><declination>+42d57m58.1s</declination><declination>+42 00 3478</declination></system>

@@ -34,8 +34,8 @@
 			<temperature>1102.7</temperature>
 			<transittime errorminus="0.00054" errorplus="0.00054" unit="BJD">2455186.01879</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate /></planet>
 		<name>HAT-P-27</name>
 		<temperature>5300.0</temperature>
 	</star>
-</system>
+<declination>+05d56m50.5s</declination><declination /><rightascension>14h51m04.18s</rightascension><rightascension /></system>

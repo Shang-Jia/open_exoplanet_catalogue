@@ -3,7 +3,7 @@
 	<rightascension>13 18 24.31427</rightascension>
 	<declination>-18 18 40.3047</declination>
 	<distance errorminus="0.05" errorplus="0.05">8.52</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.0, 0, 0.0]" star_metallicity_errorplus="[0.0, 0, 0.0]" star_radius_errorminus="[0.011, 0, 0.029]" star_radius_errorplus="[0.011, 0, 0.029]" star_temperature_errorminus="[0.0, 0, 0.0]" star_temperature_errorplus="[0.0, 0, 0.0]">
 		<name>61 Vir</name>
 		<name>61 Virginis</name>
 		<name>HD 115617</name>
@@ -35,11 +35,11 @@
 			<eccentricity errorminus="0.11" errorplus="0.11">0.12</eccentricity>
 			<meananomaly errorminus="53" errorplus="53">166</meananomaly>
 			<periastron errorminus="54" errorplus="54">105</periastron>
-			<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 – 195 AU from the star.</description>
+			<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 &#8211; 195 AU from the star.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>0/12/15</lastupdate></planet>
 		<planet>
 			<name>61 Vir c</name>
 			<list>Confirmed planets</list>
@@ -49,7 +49,7 @@
 			<eccentricity errorminus="0.06" errorplus="0.06">0.14</eccentricity>
 			<meananomaly errorminus="40" errorplus="40">177</meananomaly>
 			<periastron errorminus="38" errorplus="38">341</periastron>
-			<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 – 195 AU from the star.</description>
+			<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 &#8211; 195 AU from the star.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
@@ -63,10 +63,10 @@
 			<eccentricity errorminus="0.09" errorplus="0.09">0.35</eccentricity>
 			<meananomaly errorminus="25" errorplus="25">56</meananomaly>
 			<periastron errorminus="20" errorplus="20">314</periastron>
-			<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 – 195 AU from the star.</description>
+			<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 &#8211; 195 AU from the star.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>-0.01</metallicity><radius>0</radius><radius>0.94</radius><temperature>0</temperature><temperature>5531.0</temperature></star>
+<declination>-18d18m40.3s</declination><declination>--18 00 -1120</declination><rightascension>13h18m24.32s</rightascension><rightascension>+199 00 2160</rightascension></system>

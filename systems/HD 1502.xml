@@ -25,8 +25,8 @@
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>412.3</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/09/02</lastupdate></planet>
 		<name>HD 1502</name>
 		<temperature>5049.0</temperature>
-	</star>
-</system>
+	<spectraltype /><spectraltype>K0D</spectraltype></star>
+<rightascension>00h19m17.07s</rightascension><rightascension>+04 00 2955</rightascension><declination>+14d03m17.1s</declination><declination>+14 00 197</declination></system>

@@ -37,7 +37,7 @@
 			<temperature>1397.3</temperature>
 			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2454417.9085</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/31</lastupdate></planet>
 		<temperature>6350.0</temperature>
 	</star>
-</system>
+<rightascension>07h20m40.45s</rightascension><rightascension>+110 00 600</rightascension><declination>+37d08m26.3s</declination><declination>+37 00 506</declination></system>

@@ -3,7 +3,7 @@
 	<rightascension>08 39 32</rightascension>
 	<declination>+47 21 07</declination>
 	<distance>214</distance>
-	<star>
+	<star star_magV_errorminus="[0.06, 0, 0.0]" star_magV_errorplus="[0.06, 0, 0.0]">
 		<mass>1.22</mass>
 		<radius>1.56</radius>
 		<magV errorminus="0.06" errorplus="0.06">10.42</magV>
@@ -14,7 +14,7 @@
 		<magK errorminus="0.017" errorplus="0.017">8.975</magK>
 		<metallicity errorminus="0.08" errorplus="0.08">0.41</metallicity>
 		<spectraltype>G4</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.0054]" planet_eccentricity_errorplus="[0.0, 0, 0.0054]" planet_mass_errorminus="[0.0, 0, 0.28]" planet_mass_errorplus="[0.0, 0, 0.28]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>HAT-P-13 b</name>
 			<name>TYC 3416-00543-1 b</name>
 			<name>2MASS J08393180+4721073 b</name>
@@ -32,7 +32,7 @@
 			<temperature>1504.3</temperature>
 			<transittime errorminus="0.00038" errorplus="0.00038" unit="BJD">2454779.92979</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.6616</eccentricity><mass>0</mass><mass>14.28</mass><period>0</period><period>446.27</period><lastupdate>1/05/16</lastupdate><lastupdate>1/08/22</lastupdate></planet>
 		<planet>
 			<name>HAT-P-13 c</name>
 			<name>TYC 3416-00543-1 c</name>
@@ -52,5 +52,5 @@
 		</planet>
 		<name>HAT-P-13</name>
 		<temperature>5638.0</temperature>
-	</star>
-</system>
+	<magV>0</magV><magV>10.62</magV></star>
+<rightascension>08h39m31.81s</rightascension><rightascension>+129 00 3180</rightascension><declination>+47d21m07.4s</declination><declination>+47 00 1267</declination></system>

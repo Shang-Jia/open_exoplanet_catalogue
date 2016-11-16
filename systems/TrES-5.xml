@@ -34,6 +34,6 @@
 			<discoveryyear>2011</discoveryyear>
 			<description>TrES-5 b transits one of the faintest stars with known transiting planets.</description>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/04/16</lastupdate><lastupdate /></planet>
 	</star>
-</system>
+<declination>+59d26m55.6s</declination><declination /><rightascension>20h20m53.24s</rightascension><rightascension /></system>

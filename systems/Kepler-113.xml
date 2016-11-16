@@ -31,7 +31,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/11/23</lastupdate></planet>
 		<planet>
 			<name>Kepler-113 b</name>
 			<name>KOI-153.02</name>
@@ -48,4 +48,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+50d56m39.6s</declination><declination>+50 00 3400</declination><rightascension>19h11m59.49s</rightascension><rightascension>+287 00 3592</rightascension></system>

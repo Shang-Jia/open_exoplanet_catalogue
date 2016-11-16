@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-219 c</name>
 			<name>KOI-718 c</name>
@@ -64,4 +64,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h14m57.36s</rightascension><rightascension>+288 00 2660</rightascension><declination>+46d45m45.2s</declination><declination>+46 00 2745</declination></system>

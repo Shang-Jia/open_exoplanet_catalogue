@@ -13,7 +13,7 @@
 		<magB>8.82</magB>
 		<metallicity>-0.02</metallicity>
 		<spectraltype>K0 V</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0312]" planet_mass_errorplus="[0.0, 0, 0.773]">
 			<name>HD 130322 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.02</mass>
@@ -25,8 +25,8 @@
 			<lastupdate>10/12/08</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<temperature>721.7</temperature>
-		</planet>
+		<lastupdate>1/02/19</lastupdate><lastupdate>1/12/08</lastupdate><mass>0</mass><mass>1.05</mass></planet>
 		<name>HD 130322</name>
 		<temperature>5330.0</temperature>
 	</star>
-</system>
+<declination>-00d16m53.3s</declination><declination>+00 00 1013</declination><rightascension>14h47m32.73s</rightascension><rightascension>+221 00 3195</rightascension></system>

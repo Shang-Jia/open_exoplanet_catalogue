@@ -5,7 +5,7 @@
 	<rightascension>08 02 16</rightascension>
 	<declination>+02 20 04</declination>
 	<distance>80.9</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.0, 0, 0.034]" star_metallicity_errorplus="[0.0, 0, 0.034]" star_radius_errorminus="[0.0, 0, 0.6]" star_radius_errorplus="[0.0, 0, 0.6]">
 		<mass>1.1</mass>
 		<radius>22</radius>
 		<temperature>4305</temperature>
@@ -32,7 +32,7 @@
 			<lastupdate>12/11/12</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>801.4</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/11/12</lastupdate></planet>
 		<name>HD 66141</name>
-	</star>
-</system>
+	<radius>0</radius><radius>21.4</radius><metallicity>0</metallicity><metallicity>-0.32</metallicity><spectraltype /><spectraltype>K2III</spectraltype></star>
+<declination>+02d20m04.5s</declination><declination>+02 00 1204</declination><rightascension>08h02m15.94s</rightascension><rightascension>+120 00 2040</rightascension></system>

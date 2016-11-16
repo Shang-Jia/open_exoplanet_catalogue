@@ -13,7 +13,7 @@
 		<mass errorminus="0.035" errorplus="0.035">0.719</mass>
 		<radius errorminus="0.044" errorplus="0.044">0.613</radius>
 		<metallicity errorminus="0.11" errorplus="0.11">-0.15</metallicity>
-		<planet>
+		<planet planet_mass_errorminus="[0.045, 0, 0.0]" planet_mass_errorplus="[0.045, 0, 0.0]" planet_period_errorminus="[1e-06, 0, 0.0]" planet_period_errorplus="[1e-06, 0, 0.0]" planet_radius_errorminus="[0.068, 0, 0.0]" planet_radius_errorplus="[0.068, 0, 0.0]">
 			<name>WASP-59 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.045" errorplus="0.045">0.863</mass>
@@ -28,8 +28,8 @@
 			<lastupdate>11/09/13</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<radius>0</radius><radius>0.9</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/09/13</lastupdate><period>0</period><period>7.9</period><mass>0</mass><mass>0.7</mass></planet>
 		<name>WASP-59</name>
 		<temperature errorminus="150" errorplus="150">4650</temperature>
 	</star>
-</system>
+<declination>+24d53m21.4s</declination><declination>+24 00 3201</declination><rightascension>23h18m29.55s</rightascension><rightascension>+349 00 2250</rightascension></system>

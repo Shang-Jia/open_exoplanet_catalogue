@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-251 d</name>
 			<name>KOI-907 d</name>
@@ -80,4 +80,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h46m15.90s</rightascension><rightascension>+296 00 2038</rightascension><declination>+44d06m21.1s</declination><declination>+44 00 381</declination></system>

@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-286 c</name>
 			<name>KOI-1306 c</name>
@@ -80,4 +80,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h22m42.27s</rightascension><rightascension>+290 00 2434</rightascension><declination>+48d17m39.4s</declination><declination>+48 00 1059</declination></system>

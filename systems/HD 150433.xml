@@ -24,8 +24,8 @@
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>182.8</temperature>
-		</planet>
+		<lastupdate /><lastupdate>1/09/12</lastupdate></planet>
 		<name>HD 150433</name>
 		<temperature>5940.0</temperature>
 	</star>
-</system>
+<rightascension /><rightascension>+250 00 1020</rightascension><declination /><declination>--2 00 -3086</declination></system>

@@ -14,7 +14,7 @@
 		<magK errorminus="0.021" errorplus="0.021">10.746</magK>
 		<metallicity>-0.03</metallicity>
 		<spectraltype>G8</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.062]" planet_mass_errorplus="[0.0, 0, 0.059]" planet_radius_errorminus="[0.0, 0, 0.022]" planet_radius_errorplus="[0.0, 0, 0.022]">
 			<name>WASP-4 b</name>
 			<name>2MASS J23341508-4203411 b</name>
 			<list>Confirmed planets</list>
@@ -30,8 +30,8 @@
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1710.4</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/08/27</lastupdate><lastupdate>1/05/28</lastupdate><mass>0</mass><mass>1.237</mass><radius>0</radius><radius>1.395</radius></planet>
 		<name>WASP-4</name>
 		<temperature>5500.0</temperature>
 	</star>
-</system>
+<rightascension>23h34m15.08s</rightascension><rightascension>+353 00 2025</rightascension><declination>-42d03m41.1s</declination><declination>--42 00 -221</declination></system>

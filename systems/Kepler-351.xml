@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-351 b</name>
 			<name>KOI-2028 b</name>
@@ -59,4 +59,4 @@
 			<radius errorminus="0.027" errorplus="0.017">0.243</radius>
 		</planet>
 	</star>
-</system>
+<rightascension>19h05m48.65s</rightascension><rightascension>+286 00 1630</rightascension><declination>+42d39m28.4s</declination><declination>+42 00 2368</declination></system>

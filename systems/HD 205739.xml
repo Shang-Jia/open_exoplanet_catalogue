@@ -3,7 +3,7 @@
 	<rightascension>21 38 08</rightascension>
 	<declination>-31 44 15</declination>
 	<distance>90.3</distance>
-	<star>
+	<star star_magK_errorminus="[0.026, 0, 0.0]" star_magK_errorplus="[0.026, 0, 0.0]">
 		<mass>1.22</mass>
 		<radius>1.33</radius>
 		<magV>8.56</magV>
@@ -24,8 +24,8 @@
 			<lastupdate>08/09/08</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>330.2</temperature>
-		</planet>
+		<lastupdate>1/09/25</lastupdate><lastupdate>0/09/08</lastupdate></planet>
 		<name>HD 205739</name>
 		<temperature>6176.0</temperature>
-	</star>
-</system>
+	<magK>0</magK><magK>7.23</magK></star>
+<declination>-31d44m14.9s</declination><declination>--31 00 -2655</declination><rightascension>21h38m08.41s</rightascension><rightascension>+324 00 1920</rightascension></system>

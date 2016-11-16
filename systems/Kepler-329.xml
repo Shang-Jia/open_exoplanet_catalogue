@@ -5,7 +5,7 @@
 	<rightascension>19 57 04</rightascension>
 	<declination>+45 13 38</declination>
 	<distance>390.80</distance>
-	<star>
+	<star star_mass_errorminus="[0.014, 0, 0.0]" star_mass_errorplus="[0.014, 0, 0.0]">
 		<magJ errorminus="0.03" errorplus="0.03">13.51</magJ>
 		<magH errorminus="0.03" errorplus="0.03">12.85</magH>
 		<magK errorminus="0.020" errorplus="0.020">12.693</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-329 b</name>
 			<name>KOI-1874 b</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.53</mass></star>
+<rightascension>19h57m04.33s</rightascension><rightascension>+299 00 965</rightascension><declination>+45d13m38.7s</declination><declination>+45 00 819</declination></system>

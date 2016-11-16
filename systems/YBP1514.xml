@@ -4,7 +4,7 @@
 	<rightascension>08 51 00.766</rightascension>
 	<declination>+11 53 11.51</declination>
 	<distance errorminus="50" errorplus="50">750</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>YBP1514</name>
 		<name>NGC 2682 YBP 1514</name>
 		<magB>15.50</magB>
@@ -31,6 +31,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/01/14</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate /><lastupdate>1/01/15</lastupdate></planet>
+	<magV>0</magV><magV>14.77</magV></star>
+<declination /><declination>+11 00 3192</declination><rightascension /><rightascension>+132 00 2715</rightascension></system>

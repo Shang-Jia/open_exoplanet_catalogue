@@ -8,7 +8,7 @@
 		<name>4 Ursae Majoris</name>
 		<name>pi.02 UMa</name>
 		<name>Pi-2 Ursae Majoris</name>
-		<name>π2 Ursae Majoris</name>
+		<name>&#960;2 Ursae Majoris</name>
 		<name>HD 73108</name>
 		<name>HIP 42527</name>
 		<name>TYC 4130-2355-1</name>
@@ -34,7 +34,7 @@
 			<name>4 Ursae Majoris b</name>
 			<name>pi.02 UMa b</name>
 			<name>Pi-2 Ursae Majoris b</name>
-			<name>π2 Ursae Majoris b</name>
+			<name>&#960;2 Ursae Majoris b</name>
 			<name>HD 73108 b</name>
 			<name>HIP 42527 b</name>
 			<name>TYC 4130-2355-1 b</name>
@@ -54,6 +54,6 @@
 			<lastupdate>15/09/20</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>877.3</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate /></planet>
 	</star>
-</system>
+<declination>+64d19m40.6s</declination><declination /><rightascension>08h40m12.82s</rightascension><rightascension /></system>

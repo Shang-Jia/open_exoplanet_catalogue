@@ -4,7 +4,7 @@
 	<rightascension>19 09 54.841</rightascension>
 	<declination>+38 13 43.95</declination>
 	<distance>200</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.04, 0, 0.08]" star_metallicity_errorplus="[0.04, 0, 0.08]">
 		<name>Kepler-454</name>
 		<name>KOI-273</name>
 		<name>KIC 3102384</name>
@@ -36,7 +36,7 @@
 			<description>Kepler-454 b is a small but non-rocky planet orbiting the star every 10.6 days. Its mass has been determined using radial velocities from HARPS-N.</description>
 			<lastupdate>16/01/09</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<lastupdate>1/12/03</lastupdate><lastupdate>1/12/02</lastupdate></planet>
 		<planet>
 			<name>Kepler-454 c</name>
 			<name>KOI-273 c</name>
@@ -66,5 +66,5 @@
 			<lastupdate>16/01/09</lastupdate>
 			<list>Controversial</list>
 		</planet>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>0.32</metallicity></star>
+<declination>+38d13m43.9s</declination><declination>+38 00 824</declination><rightascension>19h09m54.85s</rightascension><rightascension>+287 00 1725</rightascension></system>

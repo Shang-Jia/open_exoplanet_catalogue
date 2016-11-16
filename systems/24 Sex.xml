@@ -39,7 +39,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/23</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/23</lastupdate></planet>
 		<planet>
 			<name>24 Sex c</name>
 			<name>24 Sextantis c</name>
@@ -57,4 +57,4 @@
 		</planet>
 	</star>
 	<videolink>http://youtu.be/Q-rFK86m6_s</videolink>
-</system>
+<declination>-00d54m08.1s</declination><declination>+00 00 3248</declination><rightascension>10h23m28.37s</rightascension><rightascension>+155 00 3120</rightascension></system>

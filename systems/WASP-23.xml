@@ -26,8 +26,8 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1024.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/16</lastupdate></planet>
 		<name>WASP-23</name>
 		<temperature>5150.0</temperature>
 	</star>
-</system>
+<declination>-42d45m42.6s</declination><declination>--42 00 -2743</declination><rightascension>06h44m30.62s</rightascension><rightascension>+101 00 465</rightascension></system>

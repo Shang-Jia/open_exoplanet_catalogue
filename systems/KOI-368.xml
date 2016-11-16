@@ -1,9 +1,9 @@
-<system>
+<system system_distance_errorminus="[0.1, 0, 0.0]" system_distance_errorplus="[0.1, 0, 0.0]">
 	<name>KOI-368</name>
 	<rightascension>19 23 25</rightascension>
 	<declination>+42 05 12</declination>
 	<distance errorminus="0.1" errorplus="0.1">1200</distance>
-	<star>
+	<star star_magV_errorminus="[0.06, 0, 0.0]" star_magV_errorplus="[0.06, 0, 0.0]" star_mass_errorminus="[0.1, 0, 0.57]" star_mass_errorplus="[0.1, 0, 0.57]" star_metallicity_errorminus="[0.1, 0, 0.14]" star_metallicity_errorplus="[0.1, 0, 0.14]" star_radius_errorminus="[0.1, 0, 1.124]" star_radius_errorplus="[0.1, 0, 1.124]">
 		<magB errorminus="0.05" errorplus="0.05">11.30</magB>
 		<magV errorminus="0.06" errorplus="0.06">11.02</magV>
 		<magJ errorminus="0.023" errorplus="0.023">11.109</magJ>
@@ -16,7 +16,7 @@
 		<radius errorminus="0.1" errorplus="0.1">2.5</radius>
 		<mass errorminus="0.1" errorplus="0.1">2.3</mass>
 		<age errorminus="0.07" errorplus="0.07">0.25</age>
-		<planet>
+		<planet planet_inclination_errorminus="[0.007, 0, 0.013]" planet_inclination_errorplus="[0.003, 0, 0.013]" planet_period_errorminus="[6e-06, 0, 0.0]" planet_period_errorplus="[3e-06, 0, 0.0]" planet_radius_errorminus="[0.2, 0, 0.02]" planet_radius_errorplus="[0.2, 0, 0.02]" planet_temperature_errorminus="[50.0, 0, 0.0]" planet_temperature_errorplus="[50.0, 0, 0.0]" planet_transittime_errorminus="[1e-05, 0, 0.00046]" planet_transittime_errorplus="[1e-05, 0, 0.00046]">
 			<name>KOI-368.01</name>
 			<name>KOI-368 B</name>
 			<name>KIC 6693943 B</name>
@@ -34,6 +34,6 @@
 			<lastupdate>13/07/10</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<transittime>0</transittime><transittime>2454987.0434</transittime><radius>0</radius><radius>1.83</radius><temperature>0</temperature><temperature>754.0</temperature><discoveryyear /><discoveryyear>2014</discoveryyear><lastupdate /><lastupdate>1/04/04</lastupdate><inclination>0</inclination><inclination>89.221</inclination><period>0</period><period>110.3216</period></planet>
+	<mass>0</mass><mass>2.17</mass><metallicity>0</metallicity><metallicity>0.07</metallicity><radius>0</radius><radius>2.043</radius><magV>0</magV><magV>11.3</magV></star>
+<distance>0</distance><distance>1070.0</distance><declination /><declination>+42 00 313</declination><rightascension /><rightascension>+290 00 3075</rightascension></system>

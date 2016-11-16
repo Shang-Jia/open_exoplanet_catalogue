@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[0.0, 0, 0.0]" system_distance_errorplus="[0.0, 0, 0.0]">
 	<name>HD 114386</name>
 	<rightascension>13 10 39</rightascension>
 	<declination>-35 03 17</declination>
@@ -13,7 +13,7 @@
 		<magK errorminus="0.018" errorplus="0.018">6.351</magK>
 		<magB errorminus="0.03" errorplus="0.03">9.80</magB>
 		<spectraltype>K3 V</spectraltype>
-		<planet>
+		<planet planet_semimajoraxis_errorminus="[0.0, 0, 0.0]" planet_semimajoraxis_errorplus="[0.0, 0, 0.0]">
 			<name>HD 114386 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.24</mass>
@@ -24,7 +24,7 @@
 			<lastupdate>14/03/05</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>182.8</temperature>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>1.02</semimajoraxis><lastupdate>1/05/14</lastupdate><lastupdate>1/07/24</lastupdate></planet>
 		<planet>
 			<name>HD 114386 c</name>
 			<list>Confirmed planets</list>
@@ -38,4 +38,4 @@
 		<name>HD 114386</name>
 		<temperature>4819.0</temperature>
 	</star>
-</system>
+<distance>0</distance><distance>28.0</distance><declination>-35d03m17.2s</declination><declination>--35 00 -197</declination><rightascension>13h10m39.82s</rightascension><rightascension>+197 00 2385</rightascension></system>

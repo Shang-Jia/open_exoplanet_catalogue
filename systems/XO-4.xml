@@ -3,7 +3,7 @@
 	<rightascension>07 21 33.1657</rightascension>
 	<declination>+58 16 05.005</declination>
 	<distance>293</distance>
-	<star>
+	<star star_magV_errorminus="[0.06, 0, 0.0]" star_magV_errorplus="[0.06, 0, 0.0]" star_temperature_errorminus="[70.0, 0, 70.0]" star_temperature_errorplus="[69.0, 0, 70.0]">
 		<name>XO-4</name>
 		<name>TYC 3793-1994-1</name>
 		<name>2MASS J07213317+5816051</name>
@@ -17,7 +17,7 @@
 		<temperature errorminus="70" errorplus="69">6390</temperature>
 		<metallicity errorminus="0.030" errorplus="0.030">-0.040</metallicity>
 		<spectraltype>F5V</spectraltype>
-		<planet>
+		<planet planet_period_errorminus="[2.3e-06, 0, 0.0]" planet_period_errorplus="[2.3e-06, 0, 0.0]" planet_radius_errorminus="[0.029, 0, 0.029]" planet_radius_errorplus="[0.04, 0, 0.04]">
 			<name>XO-4 b</name>
 			<name>2MASS J07213317+5816051 b</name>
 			<name>TYC 3793-1994-1 b</name>
@@ -34,6 +34,6 @@
 			<lastupdate>15/11/29</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<radius>0</radius><radius>1.317</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/11/23</lastupdate><period>0</period><period>4.12473</period></planet>
+	<temperature>0</temperature><temperature>5700.0</temperature><magV>0</magV><magV>10.7</magV></star>
+<declination>+58d16m05.2s</declination><declination>+58 00 965</declination><rightascension>07h21m33.17s</rightascension><rightascension>+110 00 1395</rightascension></system>

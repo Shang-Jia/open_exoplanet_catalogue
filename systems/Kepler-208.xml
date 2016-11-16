@@ -5,7 +5,7 @@
 	<rightascension>19 35 33</rightascension>
 	<declination>+42 31 40</declination>
 	<distance>925.47</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.0]" star_mass_errorplus="[0.0, 0, 0.0]">
 		<magJ errorminus="0.021" errorplus="0.021">12.547</magJ>
 		<magH errorminus="0.021" errorplus="0.021">12.309</magH>
 		<magK errorminus="0.020" errorplus="0.020">12.210</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-208 c</name>
 			<name>KOI-671 c</name>
@@ -79,5 +79,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>1.03</mass></star>
+<rightascension>19h35m33.65s</rightascension><rightascension>+293 00 3205</rightascension><declination>+42d31m40.8s</declination><declination>+42 00 1901</declination></system>

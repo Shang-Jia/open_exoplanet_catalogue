@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-192 c</name>
 			<name>KOI-584 c</name>
@@ -60,4 +60,4 @@
 			<radius errorminus="0.006" errorplus="0.009">0.091</radius>
 		</planet>
 	</star>
-</system>
+<rightascension>19h11m40.30s</rightascension><rightascension>+287 00 3305</rightascension><declination>+45d35m34.4s</declination><declination>+45 00 2134</declination></system>

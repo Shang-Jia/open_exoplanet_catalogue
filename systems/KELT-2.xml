@@ -15,7 +15,7 @@
 		<separation unit="arcsec">2.29</separation>
 		<positionangle>328.6</positionangle>
 		<separation errorminus="10" errorplus="10" unit="AU">295</separation>
-		<star>
+		<star star_magV_errorminus="[0.02, 0, 0.0]" star_magV_errorplus="[0.02, 0, 0.0]">
 			<name>KELT-2A</name>
 			<name>WDS J06107+3057 A</name>
 			<name>HIP 29301 A</name>
@@ -34,7 +34,7 @@
 			<magK errorminus="0.031" errorplus="0.031">7.346</magK>
 			<metallicity errorminus="0.78" errorplus="0.78">-0.034</metallicity>
 			<spectraltype>F7V</spectraltype>
-			<planet>
+			<planet planet_eccentricity_errorminus="[0.0, 0, 0.08]" planet_eccentricity_errorplus="[0.0, 0, 0.08]">
 				<name>KELT-2A b</name>
 				<name>HIP 29301 A b</name>
 				<name>WDS J06107+3057 A b</name>
@@ -57,8 +57,8 @@
 				<temperature errorminus="20" errorplus="28">1712</temperature>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
+			<eccentricity>0</eccentricity><eccentricity>0.185</eccentricity><lastupdate /><lastupdate>1/06/11</lastupdate></planet>
+		<magV>0</magV><magV>8.7</magV></star>
 		<star>
 			<name>KELT-2B</name>
 			<name>WDS J06107+3057 B</name>
@@ -75,4 +75,4 @@
 			<radius>0.70</radius>
 		</star>
 	</binary>
-</system>
+<declination /><declination>+30 00 3446</declination><rightascension /><rightascension>+92 00 2385</rightascension></system>

@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[1.6, 0, 0.0]" system_distance_errorplus="[1.6, 0, 0.0]">
 	<name>HD 31253</name>
 	<rightascension>04 54 43.65327</rightascension>
 	<declination>+12 21 07.9133</declination>
@@ -34,6 +34,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/03</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/11/19</lastupdate></planet>
 	</star>
-</system>
+<distance>0</distance><distance>53.82</distance><declination>+12d21m07.9s</declination><declination>+12 00 1268</declination><rightascension>04h54m43.65s</rightascension><rightascension>+73 00 2460</rightascension></system>

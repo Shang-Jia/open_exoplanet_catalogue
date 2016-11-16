@@ -31,7 +31,7 @@
 			<lastupdate>16/01/13</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-26 c</name>
 			<name>KOI-250 c</name>
@@ -82,4 +82,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>18h59m45.84s</rightascension><rightascension>+284 00 3390</rightascension><declination>+46d33m59.5s</declination><declination>+46 00 2040</declination></system>

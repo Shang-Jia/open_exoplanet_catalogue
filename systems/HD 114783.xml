@@ -15,7 +15,7 @@
 		<magK errorminus="0.017" errorplus="0.017">5.475</magK>
 		<metallicity>0.33</metallicity>
 		<spectraltype>K0</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.032]" planet_eccentricity_errorplus="[0.0, 0, 0.032]" planet_mass_errorminus="[0.0, 0, 3.0]" planet_mass_errorplus="[0.0, 0, 27.0]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.019]" planet_semimajoraxis_errorplus="[0.0, 0, 0.019]">
 			<name>HD 114783 b</name>
 			<list>Confirmed planets</list>
 			<mass>1</mass>
@@ -27,8 +27,8 @@
 			<lastupdate>11/01/11</lastupdate>
 			<discoveryyear>2001</discoveryyear>
 			<temperature>181.4</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.144</eccentricity><lastupdate>1/05/14</lastupdate><lastupdate>1/01/22</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>1.16</semimajoraxis><mass>0</mass><mass>6.3</mass><period>0</period><period>493.7</period></planet>
 		<name>HD 114783</name>
 		<temperature>5105.0</temperature>
 	</star>
-</system>
+<declination>-02d15m54.1s</declination><declination>--2 00 -954</declination><rightascension>13h12m43.78s</rightascension><rightascension>+198 00 645</rightascension></system>

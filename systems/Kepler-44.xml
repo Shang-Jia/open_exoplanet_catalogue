@@ -3,7 +3,7 @@
 	<rightascension>20 00 25</rightascension>
 	<declination>+45 45 44</declination>
 	<distance errorminus="300" errorplus="300">2250</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.11, 0, 0.1]" star_metallicity_errorplus="[0.11, 0, 0.1]" star_radius_errorminus="[0.08, 0, 0.09]" star_radius_errorplus="[0.08, 0, 0.09]">
 		<name>Kepler-44</name>
 		<name>KOI-204</name>
 		<name>KIC 9305831</name>
@@ -19,7 +19,7 @@
 		<age errorminus="1.5" errorplus="2.4">5.8</age>
 		<metallicity errorminus="0.11" errorplus="0.11">0.42</metallicity>
 		<spectraltype>G2IV</spectraltype>
-		<planet>
+		<planet planet_inclination_errorminus="[0.62, 0, 0.55]" planet_inclination_errorplus="[0.5, 0, 0.55]" planet_period_errorminus="[3e-06, 0, 0.0]" planet_period_errorplus="[3e-06, 0, 0.0]" planet_radius_errorminus="[0.07, 0, 0.07]" planet_radius_errorplus="[0.07, 0, 0.07]" planet_transittime_errorminus="[0.00021, 0, 0.0004]" planet_transittime_errorplus="[0.00021, 0, 0.0004]">
 			<name>Kepler-44 b</name>
 			<name>KOI-204 b</name>
 			<name>KOI-204.01</name>
@@ -37,6 +37,6 @@
 			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<transittime>0</transittime><transittime>2454966.3781</transittime><radius>0</radius><radius>1.24</radius><lastupdate>1/01/29</lastupdate><lastupdate>1/02/24</lastupdate><inclination>0</inclination><inclination>83.78</inclination><period>0</period><period>3.24674</period></planet>
+	<metallicity>0</metallicity><metallicity>0.26</metallicity><radius>0</radius><radius>1.52</radius></star>
+<declination>+45d45m43.7s</declination><declination>+45 00 2744</declination><rightascension>20h00m24.56s</rightascension><rightascension>+300 00 375</rightascension></system>

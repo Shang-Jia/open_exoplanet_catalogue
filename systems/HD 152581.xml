@@ -3,7 +3,7 @@
 	<rightascension>16 53 43</rightascension>
 	<declination>+11 58 25</declination>
 	<distance>186</distance>
-	<star>
+	<star star_radius_errorminus="[0.0, 0, 0.1]" star_radius_errorplus="[0.0, 0, 0.1]">
 		<mass>0.927</mass>
 		<radius>2.8</radius>
 		<magV>8.54</magV>
@@ -13,7 +13,7 @@
 		<magK errorminus="0.015" errorplus="0.015">6.173</magK>
 		<metallicity>-0.46</metallicity>
 		<spectraltype>K0</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, inf]" planet_eccentricity_errorplus="[0.0, 0, nan]">
 			<name>HD 152581 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.5</mass>
@@ -25,8 +25,8 @@
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>408.1</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.22</eccentricity><lastupdate>1/05/14</lastupdate><lastupdate>1/09/02</lastupdate></planet>
 		<name>HD 152581</name>
 		<temperature>5155.0</temperature>
-	</star>
-</system>
+	<radius>0</radius><radius>4.8</radius></star>
+<rightascension>16h53m43.58s</rightascension><rightascension>+253 00 1560</rightascension><declination>+11d58m25.5s</declination><declination>+11 00 3505</declination></system>

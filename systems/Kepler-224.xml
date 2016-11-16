@@ -5,7 +5,7 @@
 	<rightascension>19 23 44</rightascension>
 	<declination>+47 21 27</declination>
 	<distance>773.13</distance>
-	<star>
+	<star star_mass_errorminus="[0.031, 0, 0.0]" star_mass_errorplus="[0.031, 0, 0.0]">
 		<magJ errorminus="0.025" errorplus="0.025">14.212</magJ>
 		<magH errorminus="0.022" errorplus="0.022">13.722</magH>
 		<magK errorminus="0.04" errorplus="0.04">13.70</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-224 d</name>
 			<name>KOI-733 d</name>
@@ -79,5 +79,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.74</mass></star>
+<rightascension>19h23m44.23s</rightascension><rightascension>+290 00 3363</rightascension><declination>+47d21m27.4s</declination><declination>+47 00 1287</declination></system>

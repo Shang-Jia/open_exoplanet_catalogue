@@ -13,7 +13,7 @@
 		<magK errorminus="0.018" errorplus="0.018">4.936</magK>
 		<metallicity>0.22</metallicity>
 		<spectraltype>F8 V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.0099]" planet_eccentricity_errorplus="[0.0, 0, 0.0104]" planet_mass_errorminus="[0.0, 0, 0.0]" planet_mass_errorplus="[0.0, 0, 0.0]">
 			<name>HD 179949 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.95</mass>
@@ -24,8 +24,8 @@
 			<lastupdate>06/09/06</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 			<temperature>1419.4</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.0104</eccentricity><lastupdate>1/07/09</lastupdate><lastupdate>1/02/24</lastupdate><mass>0</mass><mass>0.92</mass></planet>
 		<name>HD 179949</name>
 		<temperature>6260.0</temperature>
 	</star>
-</system>
+<declination>-24d10m45.7s</declination><declination>--24 00 -645</declination><rightascension>19h15m33.23s</rightascension><rightascension>+288 00 3195</rightascension></system>

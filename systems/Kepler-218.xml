@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-218 b</name>
 			<name>KOI-711 b</name>
@@ -60,4 +60,4 @@
 			<radius errorminus="0.016" errorplus="0.025">0.237</radius>
 		</planet>
 	</star>
-</system>
+<rightascension>19h41m39.07s</rightascension><rightascension>+295 00 1486</rightascension><declination>+46d15m59.3s</declination><declination>+46 00 959</declination></system>

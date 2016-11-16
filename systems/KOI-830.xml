@@ -3,7 +3,7 @@
 	<rightascension>19 22 20</rightascension>
 	<declination>+40 34 39</declination>
 	<distance errorminus="25" errorplus="25">720</distance>
-	<star>
+	<star star_magV_errorminus="[0.016, 0, 0.0]" star_magV_errorplus="[0.016, 0, 0.0]">
 		<magB errorminus="0.046" errorplus="0.046">16.584</magB>
 		<magV errorminus="0.016" errorplus="0.016">15.405</magV>
 		<magR errorminus="0.037" errorplus="0.037">15.101</magR>
@@ -45,6 +45,6 @@
 			<istransiting>1</istransiting>
 			<lastupdate>14/10/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate /><lastupdate>1/10/29</lastupdate></planet>
+	<magV>0</magV><magV>15.5</magV></star>
+<declination /><declination>+40 00 2079</declination><rightascension /><rightascension>+290 00 2100</rightascension></system>

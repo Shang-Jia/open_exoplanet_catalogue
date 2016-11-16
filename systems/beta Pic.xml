@@ -3,7 +3,7 @@
 	<rightascension>05 47 17</rightascension>
 	<declination>-51 03 59</declination>
 	<distance errorminus="0.2" errorplus="0.2">19.3</distance>
-	<star>
+	<star star_age_errorminus="[0.003, 0, 0.004]" star_age_errorplus="[0.003, 0, 0.004]" star_mass_errorminus="[0.05, 0, 0.05]" star_mass_errorplus="[0.05, 0, 0.05]">
 		<name>beta Pic</name>
 		<name>bet Pic</name>
 		<name>Beta Pictoris</name>
@@ -24,7 +24,7 @@
 		<magK errorminus="0.22" errorplus="0.22">3.53</magK>
 		<age errorminus="0.003" errorplus="0.003">0.023</age>
 		<spectraltype>A6V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.05, 0, 0.05]" planet_eccentricity_errorplus="[0.11, 0, 0.05]" planet_period_errorminus="[599.0, 0, 0.0]" planet_period_errorplus="[1947.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.45, 0, 0.09]" planet_semimajoraxis_errorplus="[1.46, 0, 0.09]">
 			<name>beta Pic b</name>
 			<name>bet Pic b</name>
 			<name>Beta Pictoris b</name>
@@ -47,8 +47,8 @@
 			<image>beta Pic</image>
 			<imagedescription>This image shows the planet Beta Pictoris b. It has been optained with NACO on VLT. The star has been masked out to enable the viewer to see clearly the planet. Credit: ESO.</imagedescription>
 			<temperature errorminus="25" errorplus="50">1600</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.323</eccentricity><period>0</period><period>13288.0</period><lastupdate /><lastupdate>1/02/16</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>13.18</semimajoraxis></planet>
 		<temperature>9790.0</temperature>
-	</star>
+	<age>0</age><age>0.04</age><mass>0</mass><mass>1.73</mass></star>
 	<videolink>http://youtu.be/rlGZhdXlBAM</videolink>
-</system>
+<declination /><declination>--51 00 -239</declination><rightascension /><rightascension>+86 00 2955</rightascension></system>

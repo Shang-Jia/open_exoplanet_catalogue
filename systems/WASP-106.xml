@@ -3,7 +3,7 @@
 	<rightascension>11 05 43</rightascension>
 	<declination>-05 04 46</declination>
 	<distance errorminus="21" errorplus="21">283</distance>
-	<star>
+	<star star_mass_errorminus="[0.054, 0, 0.15]" star_mass_errorplus="[0.054, 0, 0.15]" star_radius_errorminus="[0.028, 0, 0.52]" star_radius_errorplus="[0.048, 0, 0.52]">
 		<name>WASP-106</name>
 		<name>TYC 4927-1063-1</name>
 		<mass errorminus="0.054" errorplus="0.054">1.192</mass>
@@ -34,6 +34,6 @@
 			<istransiting>1</istransiting>
 			<lastupdate>14/08/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/09/25</lastupdate><lastupdate>1/01/10</lastupdate></planet>
+	<mass>0</mass><mass>1.27</mass><radius>0</radius><radius>1.85</radius></star>
+<declination>-05d04m45.9s</declination><declination>--5 00 -286</declination><rightascension>11h05m43.14s</rightascension><rightascension>+166 00 1547</rightascension></system>

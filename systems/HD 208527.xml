@@ -3,7 +3,7 @@
 	<rightascension>21 56 24</rightascension>
 	<declination>+21 14 23</declination>
 	<distance>320.2</distance>
-	<star>
+	<star star_temperature_errorminus="[0.0, 0, 65.0]" star_temperature_errorplus="[0.0, 0, 65.0]">
 		<mass>1.6</mass>
 		<radius>51.1</radius>
 		<temperature>3950</temperature>
@@ -26,7 +26,7 @@
 			<lastupdate>12/11/11</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>877.3</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/11/12</lastupdate></planet>
 		<name>HD 208527</name>
-	</star>
-</system>
+	<temperature>0</temperature><temperature>4035.0</temperature><spectraltype /><spectraltype>M1III</spectraltype></star>
+<rightascension>21h56m23.99s</rightascension><rightascension>+329 00 360</rightascension><declination>+21d14m23.5s</declination><declination>+21 00 864</declination></system>

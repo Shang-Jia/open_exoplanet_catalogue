@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[9.0, 0, 0.0]" system_distance_errorplus="[9.0, 0, 0.0]">
 	<name>HAT-P-33</name>
 	<rightascension>07 32 44</rightascension>
 	<declination>+33 50 06</declination>
@@ -8,7 +8,7 @@
 		<separation errorminus="0.0015" errorplus="0.0015" unit="arcsec">0.3063</separation>
 		<separation errorminus="2.8" errorplus="2.8" unit="AU">118.5</separation>
 		<positionangle errorminus="0.29" errorplus="0.29">118.05</positionangle>
-		<star>
+		<star star_magV_errorminus="[0.11, 0, 0.0]" star_magV_errorplus="[0.11, 0, 0.0]">
 			<name>HAT-P-33 A</name>
 			<mass>1.403</mass>
 			<radius>1.777</radius>
@@ -40,8 +40,8 @@
 				<transittime errorminus="0.00022" errorplus="0.00022" unit="BJD">2455110.92595</transittime>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
+			<lastupdate>1/05/14</lastupdate><lastupdate>1/05/31</lastupdate></planet>
+		<magV>0</magV><magV>11.89</magV></star>
 		<star>
 			<name>HAT-P-33 B</name>
 			<magJ errorminus="0.054" errorplus="0.054">14.400</magJ>
@@ -51,4 +51,4 @@
 			<mass errorminus="0.014" errorplus="0.014">0.557</mass>
 		</star>
 	</binary>
-</system>
+<distance>0</distance><distance>419.0</distance><declination>+33d50m06.2s</declination><declination>+33 00 3006</declination><rightascension>07h32m44.21s</rightascension><rightascension>+113 00 660</rightascension></system>

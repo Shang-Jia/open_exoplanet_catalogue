@@ -3,7 +3,7 @@
 	<rightascension>15 46 53</rightascension>
 	<declination>+46 59 11</declination>
 	<distance>36.17</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.16, 0, 0.03]" star_metallicity_errorplus="[0.16, 0, 0.03]">
 		<name>HD 141399</name>
 		<magV>7.2</magV>
 		<magB>7.93</magB>
@@ -14,7 +14,7 @@
 		<mass errorminus="0.08" errorplus="0.08">1.14</mass>
 		<spectraltype>K</spectraltype>
 		<metallicity errorminus="0.16" errorplus="0.16">0.18</metallicity>
-		<planet>
+		<planet planet_semimajoraxis_errorminus="[0.01086, 0, 0.06]" planet_semimajoraxis_errorplus="[0.01086, 0, 0.06]">
 			<name>HD 141399 b</name>
 			<list>Confirmed planets</list>
 			<discoverymethod>RV</discoverymethod>
@@ -26,7 +26,7 @@
 			<semimajoraxis errorminus="0.00018" errorplus="0.00018">0.4225</semimajoraxis>
 			<mass errorminus="0.025" errorplus="0.025">0.46</mass>
 			<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton</description>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>2.09</semimajoraxis><lastupdate>1/02/25</lastupdate><lastupdate>1/02/17</lastupdate></planet>
 		<planet>
 			<name>HD 141399 c</name>
 			<list>Confirmed planets</list>
@@ -66,5 +66,5 @@
 			<mass errorminus="0.164" errorplus="0.164">0.69</mass>
 			<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
 		</planet>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>0.35</metallicity><spectraltype /><spectraltype>K0V</spectraltype></star>
+<declination>+46d59m10.5s</declination><declination>+46 00 3551</declination><rightascension>15h46m53.81s</rightascension><rightascension>+236 00 2610</rightascension></system>

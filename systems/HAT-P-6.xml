@@ -30,8 +30,8 @@
 			<temperature>1529.9</temperature>
 			<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454035.67652</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/31</lastupdate></planet>
 		<name>HAT-P-6</name>
 		<temperature>6570.0</temperature>
 	</star>
-</system>
+<declination>+42d27m57.5s</declination><declination>+42 00 1678</declination><rightascension>23h39m05.81s</rightascension><rightascension>+354 00 2790</rightascension></system>

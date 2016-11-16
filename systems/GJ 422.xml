@@ -23,7 +23,7 @@
 		<spectraltype>M3.5 V</spectraltype>
 		<mass>0.35</mass>
 		<temperature>3323</temperature>
-		<planet>
+		<planet planet_periastron_errorminus="[0.0, 0, 0.0]" planet_periastron_errorplus="[0.0, 0, 0.0]">
 			<name>GJ 422 b</name>
 			<name>Gliese 422 b</name>
 			<period errorminus="0.098" errorplus="0.082">26.161</period>
@@ -37,6 +37,6 @@
 			<description>The planet candidate orbiting GJ 422 was identified by Bayesian analysis of 24 UVES and 25 HARPS radial velocity measurements.</description>
 			<list>Controversial</list>
 			<lastupdate>15/04/21</lastupdate>
-		</planet>
-	</star>
-</system>
+		<lastupdate /><lastupdate>1/05/25</lastupdate><periastron>0</periastron><periastron>246.37</periastron></planet>
+	<spectraltype /><spectraltype>M3.5V</spectraltype></star>
+<declination /><declination>--56 00 -1628</declination><rightascension /><rightascension>+169 00 03</rightascension></system>

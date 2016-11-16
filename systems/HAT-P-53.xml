@@ -3,7 +3,7 @@
 	<rightascension>01 27 29.05</rightascension>
 	<declination>+38 58 05.3</declination>
 	<distance errorminus="43" errorplus="43">719</distance>
-	<star>
+	<star star_magV_errorminus="[0.18, 0, 0.0]" star_magV_errorplus="[0.18, 0, 0.0]">
 		<name>HAT-P-53</name>
 		<name>GSC 2813-01266</name>
 		<name>2MASS J01272906+3858053</name>
@@ -16,7 +16,7 @@
 		<magK errorminus="0.019" errorplus="0.019">12.100</magK>
 		<metallicity errorminus="0.080" errorplus="0.080">0.000</metallicity>
 		<age errorminus="0.83" errorplus="1.45">4.67</age>
-		<planet>
+		<planet planet_transittime_errorminus="[0.00044, 0, 0.00044]" planet_transittime_errorplus="[0.00044, 0, 0.00044]">
 			<name>HAT-P-53 b</name>
 			<name>GSC 2813-01266 b</name>
 			<name>2MASS J01272906+3858053 b</name>
@@ -34,6 +34,6 @@
 			<lastupdate>15/03/13</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<transittime>0</transittime><transittime>2455829.44781</transittime><lastupdate>1/11/19</lastupdate><lastupdate>1/08/17</lastupdate></planet>
+	<magV>0</magV><magV>13.73</magV></star>
+<declination>+38d58m05.3s</declination><declination>+38 00 3485</declination><rightascension>01h27m29.07s</rightascension><rightascension>+21 00 3135</rightascension></system>

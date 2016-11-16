@@ -3,7 +3,7 @@
 	<rightascension>18 00 38.89431</rightascension>
 	<declination>+29 34 18.9202</declination>
 	<distance errorminus="0.4" errorplus="0.4">28.93</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<mass errorminus="0.03" errorplus="0.03">0.99</mass>
 		<magV>7.08</magV>
 		<magB>7.72</magB>
@@ -38,6 +38,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/06/29</lastupdate>
 			<discoveryyear>2015</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/09/10</lastupdate><lastupdate>1/09/03</lastupdate></planet>
+	<magV>0</magV><magV>7.1</magV></star>
+<declination>+29d34m18.9s</declination><declination>+29 00 2059</declination><rightascension>18h00m38.89s</rightascension><rightascension>+270 00 585</rightascension></system>

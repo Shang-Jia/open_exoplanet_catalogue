@@ -33,6 +33,6 @@
 			<lastupdate>15/11/01</lastupdate>
 			<list>Confirmed planets</list>
 			<istransiting>1</istransiting>
-		</planet>
+		<discoveryyear /><discoveryyear>2016</discoveryyear><lastupdate>1/09/15</lastupdate><lastupdate>1/05/06</lastupdate></planet>
 	</star>
-</system>
+<declination>-47d36m49.3s</declination><declination>--47 00 -2209</declination><rightascension>12h48m45.55s</rightascension><rightascension>+192 00 690</rightascension></system>

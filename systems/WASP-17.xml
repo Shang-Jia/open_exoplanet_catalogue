@@ -3,7 +3,7 @@
 	<rightascension>15 59 51</rightascension>
 	<declination>-28 03 42</declination>
 	<distance errorminus="60" errorplus="60">400</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, -0.13]" star_mass_errorplus="[0.0, 0, -0.13]" star_radius_errorminus="[0.0, 0, -0.18]" star_radius_errorplus="[0.0, 0, -0.18]">
 		<mass>1.306</mass>
 		<radius>1.572</radius>
 		<magV>11.6</magV>
@@ -31,8 +31,8 @@
 			<discoveryyear>2009</discoveryyear>
 			<temperature>1517.8</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/09/08</lastupdate><lastupdate>1/09/14</lastupdate></planet>
 		<name>WASP-17</name>
 		<temperature>6650.0</temperature>
-	</star>
-</system>
+	<mass>0</mass><mass>1.2</mass><radius>0</radius><radius>1.38</radius></star>
+<declination>-28d03m42.2s</declination><declination>--28 00 -222</declination><rightascension>15h59m50.95s</rightascension><rightascension>+239 00 3465</rightascension></system>

@@ -3,7 +3,7 @@
 	<rightascension>16 10 23</rightascension>
 	<declination>+43 49 18</declination>
 	<distance>18.1</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.0]" star_mass_errorplus="[0.0, 0, 0.0]">
 		<name>14 Her</name>
 		<name>HD 145675</name>
 		<name>HIP 79248</name>
@@ -25,7 +25,7 @@
 		<temperature>5311.0</temperature>
 		<metallicity>0.43</metallicity>
 		<spectraltype>K0 V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.005]" planet_eccentricity_errorplus="[0.0, 0, 0.005]" planet_mass_errorminus="[0.0, 0, 0.19]" planet_mass_errorplus="[0.0, 0, 0.19]" planet_periastron_errorminus="[0.0, 0, 0.9]" planet_periastron_errorplus="[0.0, 0, 0.9]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.05]" planet_semimajoraxis_errorplus="[0.0, 0, 0.05]">
 			<name>14 Her b</name>
 			<name>HD 145675 b</name>
 			<name>GJ 614 b</name>
@@ -40,7 +40,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/21</lastupdate>
 			<discoveryyear>2002</discoveryyear>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.369</eccentricity><semimajoraxis>0</semimajoraxis><semimajoraxis>2.77</semimajoraxis><mass>0</mass><mass>4.64</mass><period>0</period><period>1773.4</period><lastupdate>1/05/14</lastupdate><lastupdate>1/08/27</lastupdate><periastron>0</periastron><periastron>22.6</periastron></planet>
 		<planet>
 			<name>14 Her c</name>
 			<name>HD 145675 c</name>
@@ -57,5 +57,5 @@
 			<lastupdate>15/09/21</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.9</mass></star>
+<declination>+43d49m03.5s</declination><declination>+43 00 2958</declination><rightascension>16h10m24.31s</rightascension><rightascension>+242 00 2145</rightascension></system>

@@ -35,7 +35,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<description>HD 103720 is a very young star orbited by a giant Jupiter planet.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/11/21</lastupdate>
+			<lastupdate>1/01/08</lastupdate>
 		</planet>
-	</star>
-</system>
+	<spectraltype /><spectraltype>K3V</spectraltype></star>
+<declination>-02d46m44.2s</declination><declination>--2 00 -2804</declination><rightascension>11h56m41.18s</rightascension><rightascension>+179 00 615</rightascension></system>

@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-311 c</name>
 			<name>KOI-1608 c</name>
@@ -47,4 +47,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>18h48m14.71s</rightascension><rightascension>+282 00 221</rightascension><declination>+47d05m07.8s</declination><declination>+47 00 308</declination></system>

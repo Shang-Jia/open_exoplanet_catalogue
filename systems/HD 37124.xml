@@ -26,7 +26,7 @@
 			<lastupdate>11/01/07</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<temperature>306.6</temperature>
-		</planet>
+		<lastupdate>1/08/18</lastupdate><lastupdate>1/05/20</lastupdate></planet>
 		<planet>
 			<name>HD 37124 c</name>
 			<list>Confirmed planets</list>
@@ -54,4 +54,4 @@
 		<name>HD 37124</name>
 		<temperature>5610.0</temperature>
 	</star>
-</system>
+<declination>+20d43m50.8s</declination><declination>+20 00 2630</declination><rightascension>05h37m02.49s</rightascension><rightascension>+84 00 930</rightascension></system>

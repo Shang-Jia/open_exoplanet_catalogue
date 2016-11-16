@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[0.4, 0, 0.0]" system_distance_errorplus="[0.4, 0, 0.0]">
 	<name>HD 197037</name>
 	<rightascension>20 39 32.96014</rightascension>
 	<declination>+42 14 54.7845</declination>
@@ -43,7 +43,7 @@
 				<lastupdate>16/01/22</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<lastupdate>1/05/14</lastupdate><lastupdate>1/02/04</lastupdate></planet>
 		</star>
 		<star>
 			<name>HD 197037 B</name>
@@ -51,4 +51,4 @@
 			<mass errorminus="0.0477" errorplus="0.0098">0.3412</mass>
 		</star>
 	</binary>
-</system>
+<distance>0</distance><distance>33.0</distance><declination>+42d14m54.8s</declination><declination>+42 00 895</declination><rightascension>20h39m32.96s</rightascension><rightascension>+309 00 3195</rightascension></system>

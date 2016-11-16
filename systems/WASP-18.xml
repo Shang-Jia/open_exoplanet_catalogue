@@ -34,8 +34,8 @@
 			<discoveryyear>2009</discoveryyear>
 			<temperature>2187.5</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/07/05</lastupdate></planet>
 		<name>WASP-18</name>
 		<temperature>6400.0</temperature>
 	</star>
-</system>
+<rightascension>01h37m25.03s</rightascension><rightascension>+24 00 1275</rightascension><declination>-45d40m40.4s</declination><declination>--45 00 -2440</declination></system>

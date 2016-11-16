@@ -3,7 +3,7 @@
 	<rightascension>18 42 45</rightascension>
 	<declination>+05 56 16</declination>
 	<distance>560</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.0, 0, 0.03]" star_metallicity_errorplus="[0.0, 0, 0.03]" star_radius_errorminus="[0.0, 0, 0.13]" star_radius_errorplus="[0.0, 0, 0.13]" star_temperature_errorminus="[0.0, 0, 72.0]" star_temperature_errorplus="[0.0, 0, 72.0]">
 		<mass>1.27</mass>
 		<radius>1.37</radius>
 		<magV errorminus="0.38" errorplus="0.38">12.80</magV>
@@ -13,7 +13,7 @@
 		<magK errorminus="0.022" errorplus="0.022">11.248</magK>
 		<metallicity>-0.03</metallicity>
 		<spectraltype>F6V</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.27]" planet_mass_errorplus="[0.0, 0, 0.27]" planet_radius_errorminus="[0.0, 0, 0.033]" planet_radius_errorplus="[0.0, 0, 0.033]">
 			<name>CoRoT-11 b</name>
 			<name>CoRoT-Exo-11 b</name>
 			<name>2MASS J18424494+0556156 b</name>
@@ -31,8 +31,8 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1593.4</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass>0</mass><mass>2.33</mass><radius>0</radius><radius>1.43</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/08/17</lastupdate></planet>
 		<name>CoRoT-11</name>
 		<temperature>6440.0</temperature>
-	</star>
-</system>
+	<radius>0</radius><radius>1.36</radius><temperature>0</temperature><temperature>6343.0</temperature><metallicity>0</metallicity><metallicity>0.04</metallicity></star>
+<declination>+05d56m15.7s</declination><declination>+05 00 3376</declination><rightascension>18h42m44.94s</rightascension><rightascension>+280 00 2475</rightascension></system>

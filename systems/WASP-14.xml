@@ -40,7 +40,7 @@
 				<temperature>1718.8</temperature>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<lastupdate>1/05/14</lastupdate><lastupdate>1/05/23</lastupdate></planet>
 		</star>
 		<star>
 			<name>WASP-14 B</name>
@@ -51,4 +51,4 @@
 			<mass errorminus="0.037" errorplus="0.037">0.331</mass>
 		</star>
 	</binary>
-</system>
+<declination>+21d53m41.0s</declination><declination>+21 00 3221</declination><rightascension>14h33m06.35s</rightascension><rightascension>+218 00 990</rightascension></system>

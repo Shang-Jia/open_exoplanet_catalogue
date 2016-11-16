@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-271 c</name>
 			<name>KOI-1151 c</name>
@@ -59,4 +59,4 @@
 			<radius errorminus="0.004" errorplus="0.004">0.059</radius>
 		</planet>
 	</star>
-</system>
+<rightascension>18h52m00.72s</rightascension><rightascension>+283 00 11</rightascension><declination>+44d17m03.2s</declination><declination>+44 00 1023</declination></system>

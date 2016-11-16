@@ -3,7 +3,7 @@
 	<rightascension>23 20 14</rightascension>
 	<declination>+61 58 12</declination>
 	<distance>290.2</distance>
-	<star>
+	<star star_radius_errorminus="[0.0, 0, 9.5]" star_radius_errorplus="[0.0, 0, 9.5]" star_temperature_errorminus="[0.0, 0, 110.0]" star_temperature_errorplus="[0.0, 0, 110.0]">
 		<mass>1.2</mass>
 		<radius>49.7</radius>
 		<temperature>5080</temperature>
@@ -26,7 +26,7 @@
 			<lastupdate>12/11/12</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>965.5</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/11/13</lastupdate></planet>
 		<name>HD 220074</name>
-	</star>
-</system>
+	<radius>0</radius><radius>49.67</radius><temperature>0</temperature><temperature>3935.0</temperature><spectraltype /><spectraltype>M2III</spectraltype></star>
+<rightascension>23h20m14.38s</rightascension><rightascension>+350 00 210</rightascension><declination>+61d58m12.5s</declination><declination>+61 00 3492</declination></system>

@@ -1,9 +1,9 @@
-<system>
+<system system_distance_errorminus="[0.0, 0, 0.0]" system_distance_errorplus="[0.0, 0, 0.0]">
 	<name>HD 37605</name>
 	<rightascension>05 40 01</rightascension>
 	<declination>+06 03 38</declination>
 	<distance>42.9</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]" star_mass_errorminus="[0.0, 0, 0.05]" star_mass_errorplus="[0.0, 0, 0.05]" star_metallicity_errorminus="[0.0, 0, 0.03]" star_metallicity_errorplus="[0.0, 0, 0.03]">
 		<mass>0.8</mass>
 		<magV>8.69</magV>
 		<magB>9.52</magB>
@@ -14,7 +14,7 @@
 		<magK>6.82</magK>
 		<metallicity>0.39</metallicity>
 		<spectraltype>K0V</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.072]" planet_mass_errorplus="[0.0, 0, 0.072]" planet_semimajoraxis_errorminus="[0.0, 0, 0.058]" planet_semimajoraxis_errorplus="[0.0, 0, 0.058]">
 			<name>HD 37605 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.813</mass>
@@ -26,7 +26,7 @@
 			<lastupdate>12/01/19</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>413.9</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/10/29</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>3.814</semimajoraxis><mass>0</mass><mass>3.366</mass></planet>
 		<planet>
 			<name>HD 37605 c</name>
 			<list>Confirmed planets</list>
@@ -42,5 +42,5 @@
 		</planet>
 		<name>HD 37605</name>
 		<temperature>5448.0</temperature>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>0.34</metallicity><magV>0</magV><magV>8.66</magV><mass>0</mass><mass>1.0</mass></star>
+<distance>0</distance><distance>44.0</distance><rightascension>05h40m01.73s</rightascension><rightascension>+85 00 15</rightascension><declination>+06d03m38.1s</declination><declination>+06 00 218</declination></system>

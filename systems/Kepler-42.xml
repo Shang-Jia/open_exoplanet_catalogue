@@ -4,7 +4,7 @@
 	<rightascension>19 28 52</rightascension>
 	<declination>+43 37 09</declination>
 	<distance>38.7</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.0, 0, 0.17]" star_metallicity_errorplus="[0.0, 0, 0.17]">
 		<name>Kepler-42</name>
 		<name>KOI-961</name>
 		<name>KIC 8561063</name>
@@ -19,7 +19,7 @@
 		<magH errorminus="0.018" errorplus="0.018">11.685</magH>
 		<magK errorminus="0.018" errorplus="0.018">11.465</magK>
 		<spectraltype>M3V</spectraltype>
-		<planet>
+		<planet planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 0.018]" planet_radius_errorplus="[0.0, 0, 0.018]">
 			<name>Kepler-42 b</name>
 			<name>KOI-961 b</name>
 			<name>KOI-961.01</name>
@@ -39,7 +39,7 @@
 
 Image credit: NASA/JPL-Caltech</imagedescription>
 			<istransiting>1</istransiting>
-		</planet>
+		<period>0</period><period>0.45328509</period><radius>0</radius><radius>0.065</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/08/30</lastupdate></planet>
 		<planet>
 			<name>Kepler-42 c</name>
 			<name>KOI-961 c</name>
@@ -82,5 +82,5 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 Image credit: NASA/JPL-Caltech</imagedescription>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>-0.48</metallicity></star>
+<declination>+44d37m09.0s</declination><declination>+44 00 2230</declination><rightascension>19h28m52.57s</rightascension><rightascension>+292 00 795</rightascension></system>

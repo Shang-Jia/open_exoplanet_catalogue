@@ -2,7 +2,7 @@
 	<name>EPIC 203826436</name>
 	<rightascension>16 13 48.24</rightascension>
 	<declination>-24 47 13.4</declination>
-	<star>
+	<star star_magK_errorminus="[0.021, 0, 0.0]" star_magK_errorplus="[0.021, 0, 0.0]" star_magV_errorminus="[0.03, 0, 0.0]" star_magV_errorplus="[0.03, 0, 0.0]">
 		<name>EPIC 203826436</name>
 		<name>J16134824-2447132</name>
 		<magB errorminus="0.010" errorplus="0.010">13.463</magB>
@@ -27,7 +27,7 @@
 			<description>EPIC 203826436 is a multi-transiting system in the K2 mission campaign 2 field.</description>
 			<lastupdate>15/12/06</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<lastupdate /><lastupdate>1/06/09</lastupdate></planet>
 		<planet>
 			<name>EPIC 203826436 c</name>
 			<transittime errorminus="0.0023" errorplus="0.0023" unit="BJD">2456898.8603</transittime>
@@ -56,5 +56,5 @@
 			<lastupdate>15/12/06</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
-	</star>
-</system>
+	<magK>0</magK><magK>12.24</magK><magV>0</magV><magV>12.52</magV></star>
+<declination /><declination>--24 00 -2833</declination><rightascension /><rightascension>+243 00 1620</rightascension></system>

@@ -13,7 +13,7 @@
 		<magK errorminus="0.033" errorplus="0.033">6.646</magK>
 		<metallicity>0.366</metallicity>
 		<spectraltype>G3V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.0656]" planet_eccentricity_errorplus="[0.0, 0, 0.0569]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>HD 33283 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.33</mass>
@@ -24,8 +24,8 @@
 			<lastupdate>06/04/18</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>695.7</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.458</eccentricity><period>0</period><period>18.1801</period><lastupdate>1/11/19</lastupdate><lastupdate>1/02/16</lastupdate></planet>
 		<name>HD 33283</name>
 		<temperature>5995.0</temperature>
 	</star>
-</system>
+<declination>-26d47m50.9s</declination><declination>--26 00 -2870</declination><rightascension>05h08m01.01s</rightascension><rightascension>+77 00 15</rightascension></system>

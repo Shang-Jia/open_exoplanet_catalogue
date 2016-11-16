@@ -25,8 +25,8 @@
 			<lastupdate>10/12/29</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>250.5</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/29</lastupdate></planet>
 		<name>HD 142415</name>
 		<temperature>5834.0</temperature>
 	</star>
-</system>
+<declination>-60d12m00.9s</declination><declination>--60 00 -720</declination><rightascension>15h57m40.79s</rightascension><rightascension>+239 00 1500</rightascension></system>

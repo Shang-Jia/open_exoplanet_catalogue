@@ -31,8 +31,8 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1396.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/24</lastupdate></planet>
 		<name>CoRoT-18</name>
 		<temperature>5440.0</temperature>
 	</star>
-</system>
+<declination>-00d01m53.7s</declination><declination>+00 00 113</declination><rightascension>06h32m41.38s</rightascension><rightascension>+98 00 615</rightascension></system>

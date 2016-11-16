@@ -3,7 +3,7 @@
 	<rightascension>19 49 17</rightascension>
 	<declination>+04 40 20</declination>
 	<distance>344</distance>
-	<star>
+	<star star_magV_errorminus="[0.15, 0, 0.0]" star_magV_errorplus="[0.15, 0, 0.0]" star_mass_errorminus="[0.0, 0, 0.09]" star_mass_errorplus="[0.0, 0, 0.09]" star_metallicity_errorminus="[0.0, 0, 0.05]" star_metallicity_errorplus="[0.0, 0, 0.05]" star_radius_errorminus="[0.0, 0, 0.08]" star_radius_errorplus="[0.0, 0, 0.08]" star_temperature_errorminus="[0.0, 0, 51.0]" star_temperature_errorplus="[0.0, 0, 51.0]">
 		<mass>1.418</mass>
 		<radius>1.683</radius>
 		<magV errorminus="0.15" errorplus="0.15">11.36</magV>
@@ -13,7 +13,7 @@
 		<magK errorminus="0.029" errorplus="0.029">9.728</magK>
 		<metallicity>0.21</metallicity>
 		<spectraltype>F</spectraltype>
-		<planet>
+		<planet planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>HAT-P-41 b</name>
 			<name>2MASS 19491743+0440207</name>
 			<list>Confirmed planets</list>
@@ -30,8 +30,8 @@
 			<temperature>1689.7</temperature>
 			<transittime errorminus="0.00107" errorplus="0.00107" unit="BJD">2454983.86167</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/25</lastupdate><period>0</period><period>2.694047</period></planet>
 		<name>HAT-P-41</name>
 		<temperature>6390.0</temperature>
-	</star>
-</system>
+	<radius>0</radius><radius>1.19</radius><temperature>0</temperature><temperature>6479.0</temperature><metallicity>0</metallicity><metallicity>0.13</metallicity><magV>0</magV><magV>11.087</magV><mass>0</mass><mass>1.28</mass></star>
+<declination>+04d40m20.7s</declination><declination>+04 00 2421</declination><rightascension>19h49m17.44s</rightascension><rightascension>+297 00 1155</rightascension></system>

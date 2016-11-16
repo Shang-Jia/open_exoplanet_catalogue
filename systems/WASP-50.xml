@@ -3,7 +3,7 @@
 	<rightascension>02 54 45</rightascension>
 	<declination>-10 53 53</declination>
 	<distance>230</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.057]" star_mass_errorplus="[0.0, 0, 0.057]" star_radius_errorminus="[0.0, 0, 0.019]" star_radius_errorplus="[0.0, 0, 0.019]">
 		<name>WASP-50</name>
 		<name>TYC 5290-462-1</name>
 		<name>2MASS J02544513-1053530</name>
@@ -20,7 +20,7 @@
 		<magK errorminus="0.021" errorplus="0.021">9.969</magK>
 		<metallicity>-0.12</metallicity>
 		<spectraltype>G9</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.068]" planet_mass_errorplus="[0.0, 0, 0.068]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 0.026]" planet_radius_errorplus="[0.0, 0, 0.026]" planet_semimajoraxis_errorminus="[0.0, 0, 0.00064]" planet_semimajoraxis_errorplus="[0.0, 0, 0.00064]">
 			<name>WASP-50 b</name>
 			<name>TYC 5290-462-1 b</name>
 			<name>2MASS J02544513-1053530 b</name>
@@ -41,7 +41,7 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1289.9</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>0.02913</semimajoraxis><mass>0</mass><mass>1.437</mass><radius>0</radius><radius>1.138</radius><period>0</period><period>1.9550959</period><lastupdate>1/05/14</lastupdate><lastupdate>1/05/03</lastupdate></planet>
 		<temperature>5400.0</temperature>
-	</star>
-</system>
+	<radius>0</radius><radius>0.855</radius><mass>0</mass><mass>0.861</mass></star>
+<declination>-10d53m53.1s</declination><declination>--10 00 -3233</declination><rightascension>02h54m45.14s</rightascension><rightascension>+43 00 2475</rightascension></system>

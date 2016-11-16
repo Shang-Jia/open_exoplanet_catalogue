@@ -24,8 +24,8 @@
 			<lastupdate>10/12/31</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>128.4</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/31</lastupdate></planet>
 		<name>HD 117207</name>
 		<temperature>5432.0</temperature>
 	</star>
-</system>
+<declination>-35d34m15.6s</declination><declination>--35 00 -2055</declination><rightascension>13h29m21.11s</rightascension><rightascension>+202 00 1215</rightascension></system>

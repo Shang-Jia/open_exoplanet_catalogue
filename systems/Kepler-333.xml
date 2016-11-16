@@ -5,7 +5,7 @@
 	<rightascension>19 29 08</rightascension>
 	<declination>+40 54 48</declination>
 	<distance>288.94</distance>
-	<star>
+	<star star_mass_errorminus="[0.015, 0, 0.0]" star_mass_errorplus="[0.015, 0, 0.0]">
 		<magJ errorminus="0.023" errorplus="0.023">12.860</magJ>
 		<magH errorminus="0.025" errorplus="0.025">12.227</magH>
 		<magK errorminus="0.025" errorplus="0.025">12.118</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-333 c</name>
 			<name>KOI-1908 c</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.54</mass></star>
+<rightascension>19h29m08.66s</rightascension><rightascension>+292 00 1030</rightascension><declination>+40d54m48.9s</declination><declination>+40 00 3289</declination></system>

@@ -2,7 +2,7 @@
 	<name>WASP-95</name>
 	<rightascension>22 29 50</rightascension>
 	<declination>-48 00 11</declination>
-	<star>
+	<star star_age_errorminus="[0.0, 0, 1.0]" star_age_errorplus="[0.0, 0, 1.7]">
 		<name>WASP-95</name>
 		<name>1SWASP J222949.73-480011.0</name>
 		<name>2MASS 22294972-4800111</name>
@@ -35,6 +35,6 @@
 			<lastupdate>13/10/22</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/28</lastupdate></planet>
+	<age>0</age><age>2.4</age></star>
+<declination>-48d00m11.1s</declination><declination>--48 00 -11</declination><rightascension>22h29m49.73s</rightascension><rightascension>+337 00 1650</rightascension></system>

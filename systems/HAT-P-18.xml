@@ -14,7 +14,7 @@
 		<magK errorminus="0.017" errorplus="0.017">10.234</magK>
 		<metallicity errorminus="8" errorplus="8">0.1</metallicity>
 		<spectraltype>K</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.009, 0, 0.084]" planet_eccentricity_errorplus="[0.03, 0, 0.15]" planet_mass_errorminus="[0.008, 0, 0.032]" planet_mass_errorplus="[0.008, 0, 0.034]" planet_period_errorminus="[4.3e-05, 0, 0.0]" planet_period_errorplus="[4.3e-05, 0, 0.0]">
 			<name>HAT-P-18 b</name>
 			<name>2MASS J17052315+3300450 b</name>
 			<list>Confirmed planets</list>
@@ -30,8 +30,8 @@
 			<temperature errorminus="15" errorplus="15">841</temperature>
 			<transittime errorminus="0.2174" errorplus="0.2174" unit="BJD">2454715.02174</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.106</eccentricity><mass>0</mass><mass>0.183</mass><period>0</period><period>5.508029</period><lastupdate>1/05/14</lastupdate><lastupdate>1/11/12</lastupdate></planet>
 		<name>HAT-P-18</name>
 		<temperature errorminus="50" errorplus="50">4870</temperature>
 	</star>
-</system>
+<rightascension>17h05m23.15s</rightascension><rightascension>+256 00 1260</rightascension></system>

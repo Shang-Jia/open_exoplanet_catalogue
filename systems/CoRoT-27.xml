@@ -14,7 +14,7 @@
 		<age errorminus="2.72" errorplus="2.72">4.21</age>
 		<metallicity errorminus="0.1" errorplus="0.1">0.1</metallicity>
 		<spectraltype>G2</spectraltype>
-		<planet>
+		<planet planet_inclination_errorminus="[-0.87, 0, 0.87]" planet_inclination_errorplus="[1.2, 0, 1.2]">
 			<name>CoRoT-27 b</name>
 			<name>2MASS 1183241962 b</name>
 			<list>Confirmed planets</list>
@@ -31,6 +31,6 @@
 			<lastupdate>14/01/07</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<discoveryyear /><discoveryyear>2012</discoveryyear><inclination>0</inclination><inclination>86.7</inclination><lastupdate>1/05/14</lastupdate><lastupdate>1/07/10</lastupdate></planet>
 	</star>
-</system>
+<declination>+05d32m18.5s</declination><declination>+05 00 1939</declination><rightascension>18h33m59.00s</rightascension><rightascension>+278 00 1785</rightascension></system>

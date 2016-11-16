@@ -6,8 +6,8 @@
 	<star>
 		<name>omi CrB</name>
 		<name>Omicron Coronae Borealis</name>
-		<name>ο CrB</name>
-		<name>ο Coronae Borealis</name>
+		<name>&#959; CrB</name>
+		<name>&#959; Coronae Borealis</name>
 		<name>1 Coronae Borealis</name>
 		<name>1 CrB</name>
 		<name>HD 136512</name>
@@ -30,7 +30,7 @@
 		<planet>
 			<name>omi CrB b</name>
 			<name>Omicron Coronae Borealis b</name>
-			<name>ο CrB b</name>
+			<name>&#959; CrB b</name>
 			<name>HD 136512 b</name>
 			<name>HR 5709 b</name>
 			<name>HIP 75049 b</name>
@@ -45,6 +45,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/09/03</lastupdate><lastupdate>1/09/07</lastupdate></planet>
+	<spectraltype /><spectraltype>K0III</spectraltype></star>
+<declination>+29d36m58.4s</declination><declination>+26 00 2573</declination><rightascension>15h20m08.56s</rightascension><rightascension>+233 00 2430</rightascension></system>

@@ -44,7 +44,7 @@
 				<temperature>943.2</temperature>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<lastupdate>1/05/14</lastupdate><lastupdate /></planet>
 		</star>
 		<star>
 			<name>WASP-11 B</name>
@@ -56,4 +56,4 @@
 			<mass errorminus="0.047" errorplus="0.047">0.344</mass>
 		</star>
 	</binary>
-</system>
+<declination>+30d40m24.9s</declination><declination /><rightascension>03h09m28.55s</rightascension><rightascension /></system>

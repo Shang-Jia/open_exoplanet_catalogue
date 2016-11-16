@@ -22,8 +22,8 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/10/22</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-		</planet>
+		<lastupdate /><lastupdate>1/10/22</lastupdate></planet>
 		<name>HD 176051</name>
 		<temperature>5700.0</temperature>
 	</star>
-</system>
+<declination /><declination>+32 00 3245</declination><rightascension /><rightascension>+284 00 930</rightascension></system>

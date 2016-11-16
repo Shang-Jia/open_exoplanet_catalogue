@@ -12,7 +12,7 @@
 		<magK errorminus="0.027" errorplus="0.027">6.998</magK>
 		<metallicity>0.11</metallicity>
 		<spectraltype>K4 V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.0203]" planet_eccentricity_errorplus="[0.0, 0, 0.0177]" planet_mass_errorminus="[0.0, 0, 0.0]" planet_mass_errorplus="[0.0, 0, 0.0]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>HD 63454 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.38</mass>
@@ -23,8 +23,8 @@
 			<lastupdate>11/06/01</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>926.7</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.0177</eccentricity><mass>0</mass><mass>0.39</mass><period>0</period><period>2.81747</period><lastupdate>1/03/26</lastupdate><lastupdate>1/02/20</lastupdate></planet>
 		<name>HD 63454</name>
 		<temperature>4841.0</temperature>
 	</star>
-</system>
+<declination>-78d16m44.3s</declination><declination>--78 00 -1004</declination><rightascension>07h39m21.85s</rightascension><rightascension>+114 00 3015</rightascension></system>

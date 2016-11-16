@@ -12,7 +12,7 @@
 		<magK errorminus="0.018" errorplus="0.018">5.868</magK>
 		<metallicity>0.08</metallicity>
 		<spectraltype>G1V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.036]" planet_eccentricity_errorplus="[0.0, 0, 0.036]" planet_mass_errorminus="[0.0, 0, 0.0]" planet_mass_errorplus="[0.0, 0, 0.0]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.0042]" planet_semimajoraxis_errorplus="[0.0, 0, 0.0042]">
 			<name>HD 10180 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.0040894108</mass>
@@ -24,7 +24,7 @@
 			<lastupdate>12/11/10</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1915.3</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.026</eccentricity><semimajoraxis>0</semimajoraxis><semimajoraxis>0.2699</semimajoraxis><mass>0</mass><mass>0.07897304</mass><period>0</period><period>49.745</period><lastupdate>1/06/25</lastupdate><lastupdate>1/01/31</lastupdate></planet>
 		<planet>
 			<name>HD 10180 c</name>
 			<list>Confirmed planets</list>
@@ -133,4 +133,4 @@
 		<temperature>5911.0</temperature>
 	</star>
 	<videolink>http://youtu.be/8fLnxGRXcsI</videolink>
-</system>
+<rightascension>01h37m53.58s</rightascension><rightascension>+24 00 1710</rightascension><declination>-60d30m41.5s</declination><declination>--60 00 -1842</declination></system>

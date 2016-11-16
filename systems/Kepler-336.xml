@@ -5,7 +5,7 @@
 	<rightascension>19 20 57</rightascension>
 	<declination>+41 19 52</declination>
 	<distance>794.61</distance>
-	<star>
+	<star star_mass_errorminus="[0.06, 0, 0.0]" star_mass_errorplus="[0.06, 0, 0.0]">
 		<magJ errorminus="0.019" errorplus="0.019">12.488</magJ>
 		<magH errorminus="0.018" errorplus="0.018">12.194</magH>
 		<magK errorminus="0.022" errorplus="0.022">12.144</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-336 c</name>
 			<name>KOI-1916 c</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.89</mass></star>
+<rightascension>19h20m57.03s</rightascension><rightascension>+290 00 856</rightascension><declination>+41d19m52.9s</declination><declination>+41 00 1193</declination></system>

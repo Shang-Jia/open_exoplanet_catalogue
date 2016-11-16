@@ -22,7 +22,7 @@
 		<spectraltype>M3.5 V</spectraltype>
 		<mass>0.27</mass>
 		<temperature>3028</temperature>
-		<planet>
+		<planet planet_periastron_errorminus="[0.0, 0, 0.0]" planet_periastron_errorplus="[0.0, 0, 0.0]">
 			<name>GJ 682 b</name>
 			<name>Gliese 682 b</name>
 			<period errorminus="0.040" errorplus="0.062">17.478</period>
@@ -36,7 +36,7 @@
 			<description>The planet candidates orbiting GJ 682 were identified by Bayesian analysis of 49 UVES and 12 HARPS radial velocity measurements.</description>
 			<list>Controversial</list>
 			<lastupdate>15/04/21</lastupdate>
-		</planet>
+		<lastupdate /><lastupdate>1/05/25</lastupdate><periastron>0</periastron><periastron>85.94</periastron></planet>
 		<planet>
 			<name>GJ 682 c</name>
 			<name>Gliese 682 c</name>
@@ -52,5 +52,5 @@
 			<list>Controversial</list>
 			<lastupdate>15/04/21</lastupdate>
 		</planet>
-	</star>
-</system>
+	<spectraltype /><spectraltype>M3.5V</spectraltype></star>
+<declination /><declination>--43 00 -2451</declination><rightascension /><rightascension>+264 00 955</rightascension></system>

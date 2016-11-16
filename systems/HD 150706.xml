@@ -24,8 +24,8 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/05/25</lastupdate>
 			<discoveryyear>2002</discoveryyear>
-		</planet>
+		<lastupdate>1/07/23</lastupdate><lastupdate>1/05/25</lastupdate></planet>
 		<name>HD 150706</name>
 		<temperature>5741.0</temperature>
 	</star>
-</system>
+<declination>+79d47m23.2s</declination><declination>+79 00 2843</declination><rightascension>16h31m17.59s</rightascension><rightascension>+247 00 2955</rightascension></system>

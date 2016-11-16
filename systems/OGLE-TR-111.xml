@@ -28,8 +28,8 @@
 			<discoveryyear>2004</discoveryyear>
 			<temperature>940.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/02/25</lastupdate><lastupdate>1/02/26</lastupdate></planet>
 		<name>OGLE-TR-111</name>
 		<temperature>5070.0</temperature>
-	</star>
-</system>
+	<spectraltype /><spectraltype>G or K</spectraltype></star>
+<declination>-61d24m20.3s</declination><declination>--61 00 -1460</declination><rightascension>10h53m17.91s</rightascension><rightascension>+163 00 1170</rightascension></system>

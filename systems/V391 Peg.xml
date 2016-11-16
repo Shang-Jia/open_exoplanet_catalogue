@@ -21,8 +21,8 @@
 			<lastupdate>07/09/14</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>475.2</temperature>
-		</planet>
+		<lastupdate /><lastupdate>1/08/22</lastupdate></planet>
 		<name>V391 Peg</name>
 		<temperature>29300.0</temperature>
 	</star>
-</system>
+<declination /><declination>+26 00 1508</declination><rightascension /><rightascension>+331 00 180</rightascension></system>

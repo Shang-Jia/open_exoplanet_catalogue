@@ -1,9 +1,9 @@
-<system>
+<system system_distance_errorminus="[0.0, 0, 0.0]" system_distance_errorplus="[0.0, 0, 0.0]">
 	<name>HD 164922</name>
 	<rightascension>18 02 30</rightascension>
 	<declination>+26 18 46</declination>
 	<distance>21.93</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]" star_mass_errorminus="[0.0, 0, 0.012]" star_mass_errorplus="[0.0, 0, 0.012]" star_metallicity_errorminus="[0.0, 0, 0.05]" star_metallicity_errorplus="[0.0, 0, 0.05]" star_radius_errorminus="[0.0, 0, 0.017]" star_radius_errorplus="[0.0, 0, 0.017]" star_temperature_errorminus="[0.0, 0, 32.0]" star_temperature_errorplus="[0.0, 0, 32.0]">
 		<mass>0.94</mass>
 		<radius>0.9</radius>
 		<magV>7.01</magV>
@@ -15,7 +15,7 @@
 		<magK errorminus="0.020" errorplus="0.020">5.113</magK>
 		<metallicity>0.17</metallicity>
 		<spectraltype>K0V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.05]" planet_eccentricity_errorplus="[0.0, 0, 0.05]" planet_mass_errorminus="[0.0, 0, 0.015]" planet_mass_errorplus="[0.0, 0, 0.015]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.012]" planet_semimajoraxis_errorplus="[0.0, 0, 0.012]" planet_temperature_errorminus="[0.0, 0, 0.0]" planet_temperature_errorplus="[0.0, 0, 0.0]">
 			<name>HD 164922 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.36</mass>
@@ -26,8 +26,8 @@
 			<lastupdate>06/07/15</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>155.0</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.126</eccentricity><lastupdate>1/10/27</lastupdate><lastupdate>1/07/04</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>2.115</semimajoraxis><mass>0</mass><mass>0.3385</mass><period>0</period><period>1201.1</period><temperature>0</temperature><temperature>159.4</temperature></planet>
 		<name>HD 164922</name>
 		<temperature>5385.0</temperature>
-	</star>
-</system>
+	<radius>0</radius><radius>0.999</radius><temperature>0</temperature><temperature>5293.0</temperature><metallicity>0</metallicity><metallicity>0.16</metallicity><magV>0</magV><magV>6.99</magV><spectraltype /><spectraltype>G9V</spectraltype><mass>0</mass><mass>0.874</mass></star>
+<distance>0</distance><distance>22.13</distance><declination>+26d18m46.8s</declination><declination>+26 00 1126</declination><rightascension>18h02m30.86s</rightascension><rightascension>+270 00 2250</rightascension></system>

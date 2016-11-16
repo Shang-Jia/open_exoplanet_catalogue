@@ -11,7 +11,7 @@
 		<temperature errorminus="100" errorplus="100">6050</temperature>
 		<metallicity errorminus="0.11" errorplus="0.11">-0.02</metallicity>
 		<spectraltype>F9</spectraltype>
-		<planet>
+		<planet planet_semimajoraxis_errorminus="[0.0007, 0, 0.0007]" planet_semimajoraxis_errorplus="[0.0007, 0, 0.0007]">
 			<name>WASP-124 b</name>
 			<name>2MASS J22105143-3044588 b</name>
 			<list>Confirmed planets</list>
@@ -28,6 +28,6 @@
 			<istransiting>1</istransiting>
 			<lastupdate>16/02/04</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>0.0499</semimajoraxis><lastupdate>1/05/05</lastupdate><lastupdate>1/02/05</lastupdate></planet>
 	</star>
-</system>
+<declination>-30d44m58.8s</declination><declination>--30 00 -2698</declination><rightascension>22h10m51.44s</rightascension><rightascension>+332 00 2565</rightascension></system>

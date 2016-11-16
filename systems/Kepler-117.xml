@@ -5,7 +5,7 @@
 	<rightascension>19 15 10.326</rightascension>
 	<declination>+48 02 24.81</declination>
 	<distance errorminus="50" errorplus="50">1430</distance>
-	<star>
+	<star star_radius_errorminus="[0.049, 0, 0.28]" star_radius_errorplus="[0.049, 0, 0.28]">
 		<name>Kepler-117</name>
 		<name>KOI-209</name>
 		<name>KIC 10723750</name>
@@ -43,7 +43,7 @@
 			<lastupdate>14/11/17</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/11/19</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-117 b</name>
 			<name>KOI-209 b</name>
@@ -66,5 +66,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<radius>0</radius><radius>1.47</radius></star>
+<declination>+48d02m24.8s</declination><declination>+48 00 145</declination><rightascension>19h15m10.33s</rightascension><rightascension>+288 00 2855</rightascension></system>

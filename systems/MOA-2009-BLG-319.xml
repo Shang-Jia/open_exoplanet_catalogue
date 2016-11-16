@@ -15,8 +15,8 @@
 			<discoverymethod>microlensing</discoverymethod>
 			<lastupdate>10/10/12</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-		</planet>
+		<lastupdate /><lastupdate>1/10/12</lastupdate></planet>
 		<name>MOA-2009-BLG-319</name>
 		<temperature>5150.0</temperature>
 	</star>
-</system>
+<declination /><declination>--26 00 -2951</declination><rightascension /><rightascension>+271 00 2670</rightascension></system>

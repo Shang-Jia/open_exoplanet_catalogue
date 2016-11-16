@@ -23,7 +23,7 @@
 			<lastupdate>09/01/13</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>660.5</temperature>
-		</planet>
+		<lastupdate>1/07/23</lastupdate><lastupdate>1/06/03</lastupdate></planet>
 		<planet>
 			<name>HD 181433 c</name>
 			<list>Confirmed planets</list>
@@ -52,4 +52,4 @@
 		<temperature>4962.0</temperature>
 	</star>
 	<videolink>http://youtu.be/71IuY-AQBUY</videolink>
-</system>
+<declination>-66d28m07.7s</declination><declination>--66 00 -1688</declination><rightascension>19h25m09.57s</rightascension><rightascension>+291 00 1050</rightascension></system>

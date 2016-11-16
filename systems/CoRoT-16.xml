@@ -31,8 +31,8 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1085.5</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/24</lastupdate></planet>
 		<name>CoRoT-16</name>
 		<temperature>5650.0</temperature>
 	</star>
-</system>
+<declination>-06d00m09.3s</declination><declination>--6 00 -9</declination><rightascension>18h34m05.93s</rightascension><rightascension>+278 00 1890</rightascension></system>

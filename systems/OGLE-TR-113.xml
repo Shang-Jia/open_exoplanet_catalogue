@@ -3,7 +3,7 @@
 	<rightascension>10 52 24.40</rightascension>
 	<declination>-61 26 48.5</declination>
 	<distance>1500</distance>
-	<star>
+	<star star_age_errorminus="[2.4, 0, 0.0]" star_age_errorplus="[0.8, 0, 0.0]">
 		<name>OGLE-TR-113</name>
 		<name>V752 Car</name>
 		<name>V752 Carinae</name>
@@ -16,7 +16,7 @@
 		<temperature errorminus="75" errorplus="75">4790</temperature>
 		<age errorminus="2.4" errorplus="0.8">13.2</age>
 		<spectraltype>K</spectraltype>
-		<planet>
+		<planet planet_inclination_errorminus="[0.62, 0, 0.6]" planet_inclination_errorplus="[1.6, 0, 0.6]" planet_period_errorminus="[1.4e-07, 0, 0.0]" planet_period_errorplus="[1.4e-07, 0, 0.0]" planet_radius_errorminus="[0.052, 0, 0.05]" planet_radius_errorplus="[0.057, 0, 0.05]">
 			<name>OGLE-TR-113 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.16" errorplus="0.16">1.26</mass>
@@ -31,6 +31,6 @@
 			<lastupdate>15/11/16</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<radius>0</radius><radius>1.11</radius><inclination>0</inclination><inclination>89.4</inclination><period>0</period><period>1.4324772</period><lastupdate>1/05/14</lastupdate><lastupdate>1/02/26</lastupdate></planet>
+	<age>0</age><age>0.7</age></star>
+<declination>-61d26m48.5s</declination><declination>--61 00 -1608</declination><rightascension>10h52m24.40s</rightascension><rightascension>+163 00 360</rightascension></system>

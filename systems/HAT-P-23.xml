@@ -3,7 +3,7 @@
 	<rightascension>20 24 30</rightascension>
 	<declination>+16 45 44</declination>
 	<distance>393</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.0, 0, 0.03]" star_metallicity_errorplus="[0.0, 0, 0.03]" star_radius_errorminus="[0.0, 0, 0.05]" star_radius_errorplus="[0.0, 0, 0.05]" star_temperature_errorminus="[0.0, 0, 30.0]" star_temperature_errorplus="[0.0, 0, 30.0]">
 		<mass>1.13</mass>
 		<radius>1.203</radius>
 		<magV errorminus="0.020" errorplus="0.020">11.94</magV>
@@ -31,8 +31,8 @@
 			<temperature>1873.6</temperature>
 			<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2454852.26464</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/03/26</lastupdate><lastupdate>1/05/20</lastupdate></planet>
 		<name>HAT-P-23</name>
 		<temperature>5905.0</temperature>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>0.16</metallicity><radius>0</radius><radius>1.29</radius><temperature>0</temperature><temperature>5924.0</temperature></star>
+<declination>+16d45m43.7s</declination><declination>+16 00 2744</declination><rightascension>20h24m29.72s</rightascension><rightascension>+306 00 450</rightascension></system>

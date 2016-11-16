@@ -5,7 +5,7 @@
 	<rightascension>19 36 29</rightascension>
 	<declination>+48 20 58</declination>
 	<distance>267.07</distance>
-	<star>
+	<star star_temperature_errorminus="[100.0, 0, 0.0]" star_temperature_errorplus="[100.0, 0, 0.0]">
 		<magJ errorminus="0.029" errorplus="0.029">12.035</magJ>
 		<magH errorminus="0.026" errorplus="0.026">11.469</magH>
 		<magK errorminus="0.022" errorplus="0.022">11.366</magK>
@@ -15,7 +15,7 @@
 		<temperature errorminus="100" errorplus="100">4605</temperature>
 		<radius errorminus=".035" errorplus="0.035">0.667</radius>
 		<mass errorminus="0.0230" errorplus="0.0230">0.7090</mass>
-		<planet>
+		<planet planet_period_errorminus="[1.3e-05, 0, 0.0]" planet_period_errorplus="[1.3e-05, 0, 0.0]" planet_transittime_errorminus="[0.00098, 0, 0.0015]" planet_transittime_errorplus="[0.00098, 0, 0.0015]">
 			<name>Kepler-114 c</name>
 			<name>KOI-156 c</name>
 			<name>KOI-156.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/20</lastupdate><transittime>0</transittime><transittime>2454976.039</transittime><period>0</period><period>8.041</period><discoveryyear /><discoveryyear>2013</discoveryyear></planet>
 		<planet>
 			<name>Kepler-114 b</name>
 			<name>KOI-156 b</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<temperature>0</temperature><temperature>4450.0</temperature></star>
+<rightascension>19h36m29.14s</rightascension><rightascension>+294 00 435</rightascension><declination>+48d20m58.3s</declination><declination>+48 00 1258</declination></system>

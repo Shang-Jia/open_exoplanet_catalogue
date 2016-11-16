@@ -31,8 +31,8 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1410.6</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/17</lastupdate></planet>
 		<name>WASP-31</name>
 		<temperature>6200.0</temperature>
 	</star>
-</system>
+<declination>-19d03m17.2s</declination><declination>--19 00 -197</declination><rightascension>11h17m45.37s</rightascension><rightascension>+169 00 1575</rightascension></system>

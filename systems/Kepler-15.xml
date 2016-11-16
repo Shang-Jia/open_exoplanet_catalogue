@@ -12,7 +12,7 @@
 		<magK errorminus="0.028" errorplus="0.028">12.216</magK>
 		<metallicity errorminus="0.15" errorplus="0.08">0.36</metallicity>
 		<spectraltype>G</spectraltype>
-		<planet>
+		<planet planet_temperature_errorminus="[0.0, 0, 0.0]" planet_temperature_errorplus="[0.0, 0, 0.0]">
 			<name>Kepler-15 b</name>
 			<name>2MASS J19444814+4908244 b</name>
 			<name>KOI-128.01</name>
@@ -31,10 +31,10 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1027.9</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<temperature>0</temperature><temperature>1225.0</temperature><lastupdate>1/05/14</lastupdate><lastupdate>1/10/19</lastupdate></planet>
 		<name>Kepler-15</name>
 		<name>KOI-128</name>
 		<name>KIC 11359879</name>
 		<temperature errorminus="109" errorplus="89">5514</temperature>
 	</star>
-</system>
+<declination>+49d08m24.4s</declination><declination>+49 00 504</declination><rightascension>19h44m48.14s</rightascension><rightascension>+296 00 722</rightascension></system>

@@ -22,7 +22,7 @@
 			<spectraltype>M4</spectraltype>
 			<name>NN Ser B</name>
 		</star>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.019, 0, 0.02]" planet_eccentricity_errorplus="[0.019, 0, 0.02]" planet_mass_errorminus="[0.09, 0, 0.38]" planet_mass_errorplus="[0.09, 0, 0.38]" planet_periastron_errorminus="[2.6, 0, 4.0]" planet_periastron_errorplus="[2.6, 0, 4.0]" planet_period_errorminus="[21.184, 0, 0.0]" planet_period_errorplus="[21.184, 0, 0.0]">
 			<name>NN Ser (AB) c</name>
 			<name>NN Ser c</name>
 			<name>NN Serpentis (AB) c</name>
@@ -37,7 +37,7 @@
 			<lastupdate>13/06/20</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<list>Planets in binary systems, P-type</list>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.2</eccentricity><mass>0</mass><mass>2.28</mass><period>0</period><period>2830.0</period><lastupdate /><lastupdate>1/02/26</lastupdate><periastron>0</periastron><periastron>74.0</periastron></planet>
 		<planet>
 			<name>NN Ser (AB) d</name>
 			<name>NN Ser d</name>
@@ -55,4 +55,4 @@
 			<list>Planets in binary systems, P-type</list>
 		</planet>
 	</binary>
-</system>
+<rightascension /><rightascension>+238 00 840</rightascension><declination /><declination>+12 00 3287</declination></system>

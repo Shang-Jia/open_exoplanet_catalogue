@@ -44,8 +44,8 @@
 				<description>The planet HD 20782 b is orbiting the main sequence star HD 20782, a star in a binary system in which both stars host a planetary systems. This is the first such system.</description>
 				<lastupdate>16/01/10</lastupdate>
 				<discoveryyear>2006</discoveryyear>
-			</planet>
-		</star>
+			<lastupdate /><lastupdate>1/05/08</lastupdate></planet>
+		<spectraltype /><spectraltype>G9.5V</spectraltype></star>
 		<star>
 			<name>HD 20781</name>
 			<name>HIP 15526</name>
@@ -94,4 +94,4 @@
 			</planet>
 		</star>
 	</binary>
-</system>
+<declination /><declination>--28 00 -2822</declination><rightascension /><rightascension>+50 00 45</rightascension></system>

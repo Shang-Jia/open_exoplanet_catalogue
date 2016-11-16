@@ -32,8 +32,8 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1521.3</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/07/24</lastupdate></planet>
 		<name>WASP-26</name>
 		<temperature>5950.0</temperature>
 	</star>
-</system>
+<declination>-15d16m02.3s</declination><declination>--15 00 -962</declination><rightascension>00h18m24.70s</rightascension><rightascension>+04 00 2175</rightascension></system>

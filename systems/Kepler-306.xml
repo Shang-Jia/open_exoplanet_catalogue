@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-306 b</name>
 			<name>KOI-1567 b</name>
@@ -80,4 +80,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h14m09.28s</rightascension><rightascension>+288 00 1939</rightascension><declination>+40d36m58.1s</declination><declination>+40 00 2218</declination></system>

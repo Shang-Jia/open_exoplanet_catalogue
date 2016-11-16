@@ -30,8 +30,8 @@
 			<discoveryyear>2008</discoveryyear>
 			<temperature>1511.3</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/06/18</lastupdate></planet>
 		<name>WASP-15</name>
 		<temperature>6300.0</temperature>
 	</star>
-</system>
+<rightascension>13h55m42.71s</rightascension><rightascension>+208 00 3345</rightascension><declination>-32d09m34.6s</declination><declination>--32 00 -575</declination></system>

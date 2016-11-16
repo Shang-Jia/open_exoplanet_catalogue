@@ -21,7 +21,7 @@
 		<magJ errorminus="0.027" errorplus="0.027">7.863</magJ>
 		<magH errorminus="0.061" errorplus="0.061">7.458</magH>
 		<magK errorminus="0.021" errorplus="0.021">7.326</magK>
-		<planet>
+		<planet planet_periastron_errorminus="[5.0, 0, 4.0]" planet_periastron_errorplus="[2.0, 0, 4.0]">
 			<name>HD 108341 b</name>
 			<semimajoraxis errorminus="0.04" errorplus="0.04">2</semimajoraxis>
 			<eccentricity errorminus="0.08" errorplus="0.09">0.85</eccentricity>
@@ -33,7 +33,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<description>Further data to be collected in August 2015 will result in more accurate parameters.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/11/21</lastupdate>
-		</planet>
-	</star>
-</system>
+			<lastupdate>1/01/08</lastupdate>
+		<periastron>0</periastron><periastron>56.7</periastron></planet>
+	<spectraltype /><spectraltype>K2V</spectraltype></star>
+<declination>-71d25m22.7s</declination><declination>--71 00 -1523</declination><rightascension>12h27m31.39s</rightascension><rightascension>+186 00 3165</rightascension></system>

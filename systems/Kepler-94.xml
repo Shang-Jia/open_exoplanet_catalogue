@@ -31,7 +31,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/17</lastupdate></planet>
 		<planet>
 			<name>Kepler-94 c</name>
 			<name>KOI-104.10</name>
@@ -46,4 +46,4 @@
 			<discoverymethod>RV</discoverymethod>
 		</planet>
 	</star>
-</system>
+<declination>+47d29m49.7s</declination><declination>+47 00 1790</declination><rightascension>18h44m46.74s</rightascension><rightascension>+281 00 701</rightascension></system>

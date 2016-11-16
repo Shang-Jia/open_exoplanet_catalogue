@@ -17,7 +17,7 @@
 		<temperature errorminus="106" errorplus="106">6106</temperature>
 		<radius errorminus="0.035" errorplus="0.035">1.359</radius>
 		<mass errorminus="0.0400" errorplus="0.0400">1.2690</mass>
-		<planet>
+		<planet planet_period_errorminus="[0.000128, 0, 0.0]" planet_period_errorplus="[0.000128, 0, 0.0]">
 			<name>Kepler-127 d</name>
 			<name>KOI-271 d</name>
 			<name>KOI-271.01</name>
@@ -35,7 +35,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/16</lastupdate><period>0</period><period>48.62997</period></planet>
 		<planet>
 			<name>Kepler-127 c</name>
 			<name>KOI-271 c</name>
@@ -74,4 +74,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+46d01m40.7s</declination><declination>+46 00 101</declination><rightascension>19h00m45.60s</rightascension><rightascension>+285 00 684</rightascension></system>

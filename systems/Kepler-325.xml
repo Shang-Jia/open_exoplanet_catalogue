@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-325 c</name>
 			<name>KOI-1832 c</name>
@@ -64,4 +64,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h19m20.50s</rightascension><rightascension>+289 00 3008</rightascension><declination>+49d49m32.3s</declination><declination>+49 00 2972</declination></system>

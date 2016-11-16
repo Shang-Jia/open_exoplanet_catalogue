@@ -5,7 +5,7 @@
 	<rightascension>19 11 35</rightascension>
 	<declination>+40 38 16</declination>
 	<distance>1659.85</distance>
-	<star>
+	<star star_mass_errorminus="[0.33, 0, 5.82]" star_mass_errorplus="[0.33, 0, 1.31]" star_radius_errorminus="[0.264, 0, 0.3]" star_radius_errorplus="[0.264, 0, 0.3]" star_temperature_errorminus="[100.0, 0, 0.0]" star_temperature_errorplus="[100.0, 0, 0.0]">
 		<magJ errorminus="0.025" errorplus="0.025">13.894</magJ>
 		<magH errorminus="0.027" errorplus="0.027">13.545</magH>
 		<magK errorminus="0.04" errorplus="0.04">13.51</magK>
@@ -15,7 +15,7 @@
 		<temperature errorminus="100" errorplus="100">5751</temperature>
 		<radius errorminus=".264" errorplus="0.264">1.430</radius>
 		<mass errorminus="0.3300" errorplus="0.3300">0.9700</mass>
-		<planet>
+		<planet planet_period_errorminus="[3.3e-05, 0, 0.0]" planet_period_errorplus="[3.3e-05, 0, 0.0]" planet_radius_errorminus="[0.0483, 0, 0.724]" planet_radius_errorplus="[0.13943, 0, 0.501]">
 			<name>Kepler-238 e</name>
 			<name>KOI-834 e</name>
 			<name>KOI-834.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/30</lastupdate><period>0</period><period>23.654</period><radius>0</radius><radius>0.501</radius><discoveryyear /><discoveryyear>2013</discoveryyear></planet>
 		<planet>
 			<name>Kepler-238 d</name>
 			<name>KOI-834 d</name>
@@ -95,5 +95,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<radius>0</radius><radius>0.9</radius><temperature>0</temperature><temperature>5614.0</temperature><mass>0</mass><mass>1.43</mass></star>
+<rightascension>19h11m35.31s</rightascension><rightascension>+287 00 3225</rightascension><declination>+40d38m16.1s</declination><declination>+40 00 2296</declination></system>

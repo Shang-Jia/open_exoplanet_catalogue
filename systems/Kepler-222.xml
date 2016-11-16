@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-222 d</name>
 			<name>KOI-723 d</name>
@@ -64,4 +64,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h11m37.46s</rightascension><rightascension>+287 00 3262</rightascension><declination>+46d56m16.0s</declination><declination>+46 00 3376</declination></system>

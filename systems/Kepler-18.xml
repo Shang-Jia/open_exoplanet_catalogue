@@ -15,7 +15,7 @@
 		<magH errorminus="0.025" errorplus="0.025">11.873</magH>
 		<magK errorminus="0.019" errorplus="0.019">11.756</magK>
 		<metallicity>0.2</metallicity>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.00597803857408]" planet_mass_errorplus="[0.0, 0, 0.00597803857408]" planet_radius_errorminus="[0.0, 0, 0.0223035459069]" planet_radius_errorplus="[0.0, 0, 0.0223035459069]">
 			<name>Kepler-18 b</name>
 			<name>KOI-137 b</name>
 			<name>KOI-137.03</name>
@@ -35,7 +35,7 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1181.7</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/11/05</lastupdate><mass>0</mass><mass>0.0541169807759</mass><radius>0</radius><radius>0.48889372628</radius></planet>
 		<planet>
 			<name>Kepler-18 c</name>
 			<name>KOI-137 c</name>
@@ -78,4 +78,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+44d44m46.8s</declination><declination>+44 00 2687</declination><rightascension>19h52m19.07s</rightascension><rightascension>+298 00 285</rightascension></system>

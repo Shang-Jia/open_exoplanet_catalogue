@@ -8,8 +8,8 @@
 	<star>
 		<name>alf Ari</name>
 		<name>Alpha Arietis</name>
-		<name>α Ari</name>
-		<name>α Arietis</name>
+		<name>&#945; Ari</name>
+		<name>&#945; Arietis</name>
 		<name>Hamal</name>
 		<name>13 Ari</name>
 		<name>13 Arietis</name>
@@ -45,6 +45,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/17</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/04/19</lastupdate></planet>
 	</star>
-</system>
+<declination>+23d27m44.7s</declination><declination>+23 00 1664</declination><rightascension>02h07m10.41s</rightascension><rightascension>+31 00 2850</rightascension></system>

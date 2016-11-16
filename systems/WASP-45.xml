@@ -31,8 +31,8 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1094.2</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/12/03</lastupdate><lastupdate>1/05/17</lastupdate></planet>
 		<name>WASP-45</name>
 		<temperature>5140.0</temperature>
 	</star>
-</system>
+<rightascension>00h20m57.00s</rightascension><rightascension>+05 00 855</rightascension><declination>-35d59m53.7s</declination><declination>--35 00 -3594</declination></system>

@@ -5,7 +5,7 @@
 	<rightascension>19 45 26</rightascension>
 	<declination>+39 06 54</declination>
 	<distance>1302.83</distance>
-	<star>
+	<star star_temperature_errorminus="[200.0, 0, 0.0]" star_temperature_errorplus="[200.0, 0, 0.0]">
 		<magJ errorminus="0.023" errorplus="0.023">13.643</magJ>
 		<magH errorminus="0.025" errorplus="0.025">13.382</magH>
 		<magK errorminus="0.03" errorplus="0.03">13.28</magK>
@@ -15,7 +15,7 @@
 		<temperature errorminus="200" errorplus="200">6099</temperature>
 		<radius errorminus=".526" errorplus="0.526">1.127</radius>
 		<mass errorminus="0.1200" errorplus="0.1200">1.0400</mass>
-		<planet>
+		<planet planet_period_errorminus="[0.799833, 0, 0.0]" planet_period_errorplus="[4.799833, 0, 0.0]">
 			<name>Kepler-58 b</name>
 			<name>KOI-1336 b</name>
 			<name>KOI-1336.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/27</lastupdate><period>0</period><period>15.5741568</period><discoveryyear /><discoveryyear>2012</discoveryyear></planet>
 		<planet>
 			<name>Kepler-58 c</name>
 			<name>KOI-1336 c</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<temperature>0</temperature><temperature>5843.0</temperature></star>
+<rightascension>19h45m26.08s</rightascension><rightascension>+296 00 1290</rightascension><declination>+39d06m54.7s</declination><declination>+39 00 415</declination></system>

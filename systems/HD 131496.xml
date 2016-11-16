@@ -3,7 +3,7 @@
 	<rightascension>14 53 23</rightascension>
 	<declination>+18 14 07</declination>
 	<distance>110</distance>
-	<star>
+	<star star_radius_errorminus="[0.0, 0, 0.1]" star_radius_errorplus="[0.0, 0, 0.1]">
 		<mass>1.61</mass>
 		<radius>4.3</radius>
 		<magV>7.96</magV>
@@ -25,8 +25,8 @@
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>321.8</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/09/02</lastupdate></planet>
 		<name>HD 131496</name>
 		<temperature>4927.0</temperature>
-	</star>
-</system>
+	<radius>0</radius><radius>4.6</radius><spectraltype /><spectraltype>K0</spectraltype></star>
+<rightascension>14h53m23.03s</rightascension><rightascension>+223 00 1245</rightascension><declination>+18d14m07.4s</declination><declination>+18 00 847</declination></system>

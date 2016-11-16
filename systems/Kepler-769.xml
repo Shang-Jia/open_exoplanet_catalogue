@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000019520" errorplus="0.000019520">7.426089980</period>
 			<radius errorminus="0.041" errorplus="0.116">0.261</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-769 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.024" errorplus="0.068">0.160</radius>
 		</planet>
 	</star>
-</system>
+<declination>+38d21m29.6s</declination><declination>+38 00 1290</declination><rightascension>19h30m51.14s</rightascension><rightascension>+292 00 2567</rightascension></system>

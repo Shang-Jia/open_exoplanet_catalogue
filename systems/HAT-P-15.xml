@@ -3,7 +3,7 @@
 	<rightascension>04 24 59.534</rightascension>
 	<declination>+39 27 38.31</declination>
 	<distance>190</distance>
-	<star>
+	<star star_magV_errorminus="[0.024, 0, 0.0]" star_magV_errorplus="[0.024, 0, 0.0]">
 		<mass>1.013</mass>
 		<radius>1.08</radius>
 		<magV errorminus="0.024" errorplus="0.024">12.41</magV>
@@ -30,8 +30,8 @@
 			<temperature>819.9</temperature>
 			<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">2454638.56019</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/31</lastupdate></planet>
 		<name>HAT-P-15</name>
 		<temperature>5568.0</temperature>
-	</star>
-</system>
+	<magV>0</magV><magV>12.16</magV></star>
+<declination>+39d27m38.3s</declination><declination>+39 00 1658</declination><rightascension>04h24m59.53s</rightascension><rightascension>+66 00 900</rightascension></system>

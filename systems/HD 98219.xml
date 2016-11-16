@@ -13,7 +13,7 @@
 		<magK errorminus="0.023" errorplus="0.023">5.813</magK>
 		<metallicity>-0.02</metallicity>
 		<spectraltype>K0</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, inf]" planet_eccentricity_errorplus="[0.0, 0, nan]">
 			<name>HD 98219 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.8</mass>
@@ -25,8 +25,8 @@
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>419.8</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.21</eccentricity><lastupdate>1/05/14</lastupdate><lastupdate>1/09/02</lastupdate></planet>
 		<name>HD 98219</name>
 		<temperature>4992.0</temperature>
-	</star>
-</system>
+	<spectraltype /><spectraltype>K0III/IV</spectraltype></star>
+<rightascension>11h17m47.55s</rightascension><rightascension>+169 00 1620</rightascension><declination>-23d58m31.5s</declination><declination>--23 00 -3511</declination></system>

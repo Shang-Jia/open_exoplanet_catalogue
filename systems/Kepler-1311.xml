@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000138700" errorplus="0.000138700">11.172699400</period>
 			<radius errorminus="0.023" errorplus="0.022">0.111</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-1311 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.021" errorplus="0.025">0.109</radius>
 		</planet>
 	</star>
-</system>
+<declination>+43d49m27.9s</declination><declination>+43 00 2968</declination><rightascension>19h18m36.30s</rightascension><rightascension>+289 00 2345</rightascension></system>

@@ -9,7 +9,7 @@
 		<magB errorminus="0.02" errorplus="0.02">8.65</magB>
 		<metallicity>-0.12</metallicity>
 		<spectraltype>G5 V</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.04]" planet_mass_errorplus="[0.0, 0, 0.04]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.03]" planet_semimajoraxis_errorplus="[0.0, 0, 0.03]">
 			<name>HD 65216 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.21</mass>
@@ -20,7 +20,7 @@
 			<lastupdate>10/12/30</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>193.9</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/26</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>1.3</semimajoraxis><mass>0</mass><mass>1.26</mass><period>0</period><period>572.4</period></planet>
 		<planet>
 			<name>HD 65216 c</name>
 			<list>Confirmed planets</list>
@@ -34,4 +34,4 @@
 		<name>HD 65216</name>
 		<temperature>5666.0</temperature>
 	</star>
-</system>
+<declination>-63d38m50.4s</declination><declination>--63 00 -2330</declination><rightascension>07h53m41.32s</rightascension><rightascension>+118 00 1515</rightascension></system>

@@ -17,7 +17,7 @@
 		<magK errorminus="0.020" errorplus="0.020">11.614</magK>
 		<metallicity errorminus="0.080" errorplus="0.080">0.270</metallicity>
 		<age errorminus="1.7" errorplus="1.7">8.2</age>
-		<planet>
+		<planet planet_transittime_errorminus="[0.0004, 0, 0.0004]" planet_transittime_errorplus="[0.0004, 0, 0.0004]">
 			<name>HAT-P-51 b</name>
 			<name>GSC 2296-00637 b</name>
 			<name>2MASS J01241564+3248387 b</name>
@@ -35,6 +35,6 @@
 			<lastupdate>15/03/13</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<transittime>0</transittime><transittime>2456194.12204</transittime><lastupdate>1/11/19</lastupdate><lastupdate>1/08/17</lastupdate></planet>
 	</star>
-</system>
+<declination>+32d48m38.8s</declination><declination>+32 00 2919</declination><rightascension>01h24m15.65s</rightascension><rightascension>+21 00 240</rightascension></system>

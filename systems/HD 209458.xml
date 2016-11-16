@@ -3,7 +3,7 @@
 	<rightascension>22 03 10</rightascension>
 	<declination>+18 53 04</declination>
 	<distance>47</distance>
-	<star>
+	<star star_magV_errorminus="[0.01, 0, 0.0]" star_magV_errorplus="[0.01, 0, 0.0]">
 		<mass errorminus="0.022" errorplus="0.022">1.148</mass>
 		<radius errorminus="0.059" errorplus="0.059">1.146</radius>
 		<magV errorminus="0.01" errorplus="0.01">7.63</magV>
@@ -15,7 +15,7 @@
 		<temperature errorminus="33" errorplus="33">6075</temperature>
 		<age errorminus="2" errorplus="2">4</age>
 		<spectraltype>G0V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.003, 0, 0.0082]" planet_eccentricity_errorplus="[0.003, 0, 0.0078]" planet_mass_errorminus="[0.017, 0, 0.017]" planet_mass_errorplus="[0.017, 0, 0.017]" planet_period_errorminus="[3.8e-07, 0, 0.0]" planet_period_errorplus="[3.8e-07, 0, 0.0]">
 			<name>HD 209458 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.017" errorplus="0.017">0.714</mass>
@@ -39,7 +39,7 @@
 		ESO/L. Calcada</imagedescription>
 			<temperature>1316.1</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.0082</eccentricity><mass>0</mass><mass>0.69</mass><lastupdate>1/08/21</lastupdate><lastupdate>1/06/02</lastupdate><period>0</period><period>3.52472</period></planet>
 		<name>HD 209458</name>
-	</star>
-</system>
+	<spectraltype /><spectraltype>G0 V</spectraltype><magV>0</magV><magV>7.65</magV></star>
+<declination>+18d53m03.5s</declination><declination>+18 00 3184</declination><rightascension>22h03m10.77s</rightascension><rightascension>+330 00 2850</rightascension></system>

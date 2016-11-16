@@ -2,7 +2,7 @@
 	<name>CoRoT-21</name>
 	<rightascension>06 44 12.64</rightascension>
 	<declination>-00 17 57.06</declination>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<mass>1.29</mass>
 		<radius>1.945</radius>
 		<magV>15.84</magV>
@@ -28,8 +28,8 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1867.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate /><lastupdate>1/01/24</lastupdate></planet>
 		<name>CoRoT-21</name>
 		<temperature>6200.0</temperature>
-	</star>
-</system>
+	<magV>0</magV><magV>16.0</magV><spectraltype /><spectraltype>F8IV</spectraltype></star>
+<declination /><declination>+00 00 -1077</declination><rightascension /><rightascension>+101 00 189</rightascension></system>

@@ -31,7 +31,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/11/23</lastupdate></planet>
 		<planet>
 			<name>Kepler-406 c</name>
 			<name>KOI-321.02</name>
@@ -48,4 +48,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+44d58m05.6s</declination><declination>+44 00 3486</declination><rightascension>19h27m23.53s</rightascension><rightascension>+291 00 3053</rightascension></system>

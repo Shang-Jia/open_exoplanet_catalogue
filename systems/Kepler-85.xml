@@ -5,7 +5,7 @@
 	<rightascension>19 23 53</rightascension>
 	<declination>+45 17 25</declination>
 	<distance>804.74</distance>
-	<star>
+	<star star_temperature_errorminus="[100.0, 0, 0.0]" star_temperature_errorplus="[100.0, 0, 0.0]">
 		<magJ errorminus="0.023" errorplus="0.023">13.552</magJ>
 		<magH errorminus="0.024" errorplus="0.024">13.192</magH>
 		<magK errorminus="0.023" errorplus="0.023">13.083</magK>
@@ -15,7 +15,7 @@
 		<temperature errorminus="100" errorplus="100">5436</temperature>
 		<radius errorminus=".130" errorplus="0.130">0.893</radius>
 		<mass errorminus="0.0650" errorplus="0.0650">0.9410</mass>
-		<planet>
+		<planet planet_period_errorminus="[5e-05, 0, 0.0]" planet_period_errorplus="[5e-05, 0, 0.0]" planet_transittime_errorminus="[0.00328, 0, 0.0]" planet_transittime_errorplus="[0.00328, 0, 0.0]">
 			<name>Kepler-85 b</name>
 			<name>KOI-2038 b</name>
 			<name>KOI-2038.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/09/24</lastupdate><transittime>0</transittime><transittime>2454972.7166</transittime><period>0</period><period>8.305992</period><discoveryyear /><discoveryyear>2013</discoveryyear></planet>
 		<planet>
 			<name>Kepler-85 c</name>
 			<name>KOI-2038 c</name>
@@ -79,5 +79,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<temperature>0</temperature><temperature>5666.0</temperature></star>
+<rightascension>19h23m53.62s</rightascension><rightascension>+290 00 3510</rightascension><declination>+45d17m25.1s</declination><declination>+45 00 1045</declination></system>

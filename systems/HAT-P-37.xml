@@ -14,7 +14,7 @@
 		<magK errorminus="0.020" errorplus="0.020">11.667</magK>
 		<metallicity>0.03</metallicity>
 		<spectraltype>G</spectraltype>
-		<planet>
+		<planet planet_semimajoraxis_errorminus="[0.0, 0, 0.0006]" planet_semimajoraxis_errorplus="[0.0, 0, 0.0006]">
 			<name>HAT-P-37 b</name>
 			<name>2MASS 18571105+5116088</name>
 			<list>Confirmed planets</list>
@@ -31,8 +31,8 @@
 			<temperature>1166.3</temperature>
 			<transittime errorminus="0.00029" errorplus="0.00029" unit="BJD">2455642.14318</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>0.0379</semimajoraxis><lastupdate>1/05/14</lastupdate><lastupdate>1/01/14</lastupdate></planet>
 		<name>HAT-P-37</name>
 		<temperature>5500.0</temperature>
 	</star>
-</system>
+<declination>+51d16m08.9s</declination><declination>+51 00 969</declination><rightascension>18h57m11.06s</rightascension><rightascension>+284 00 1065</rightascension></system>

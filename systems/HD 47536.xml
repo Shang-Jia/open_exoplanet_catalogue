@@ -3,7 +3,7 @@
 	<rightascension>06 37 47</rightascension>
 	<declination>-32 20 23</declination>
 	<distance>121.36</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.06]" star_mass_errorplus="[0.0, 0, 0.06]" star_metallicity_errorminus="[0.0, 0, 0.0]" star_metallicity_errorplus="[0.0, 0, 0.0]">
 		<mass>0.99</mass>
 		<radius>23.47</radius>
 		<magV>5.25</magV>
@@ -13,7 +13,7 @@
 		<magB errorminus="0.01" errorplus="0.01">6.43</magB>
 		<metallicity>-0.65</metallicity>
 		<spectraltype>K1 III</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.4, 0, 0.0]" planet_mass_errorplus="[0.4, 0, 0.0]" planet_period_errorminus="[2.6, 0, 0.0]" planet_period_errorplus="[2.6, 0, 0.0]" planet_semimajoraxis_errorminus="[0.005, 0, 0.0]" planet_semimajoraxis_errorplus="[0.005, 0, 0.0]">
 			<name>HD 47536 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.4" errorplus="0.4">4.0</mass>
@@ -26,7 +26,7 @@
 			<lastupdate>15/05/24</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<description>The planet HD 47536 b orbits a metal-poor red giant star.</description>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>1.61</semimajoraxis><lastupdate>1/03/26</lastupdate><lastupdate>1/08/10</lastupdate><mass>0</mass><mass>5.0</mass><period>0</period><period>430.0</period></planet>
 		<planet>
 			<name>HD 47536 c</name>
 			<list>Controversial</list>
@@ -39,5 +39,5 @@
 		</planet>
 		<name>HD 47536</name>
 		<temperature>4380.0</temperature>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>-0.68</metallicity><mass>0</mass><mass>0.94</mass></star>
+<declination>-32d20m23.0s</declination><declination>--32 00 -1223</declination><rightascension>06h37m47.62s</rightascension><rightascension>+99 00 1605</rightascension></system>

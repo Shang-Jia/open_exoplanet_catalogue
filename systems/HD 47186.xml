@@ -23,7 +23,7 @@
 			<lastupdate>09/01/13</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>1123.6</temperature>
-		</planet>
+		<lastupdate>1/03/26</lastupdate><lastupdate>1/05/20</lastupdate></planet>
 		<planet>
 			<name>HD 47186 c</name>
 			<list>Confirmed planets</list>
@@ -39,4 +39,4 @@
 		<name>HD 47186</name>
 		<temperature>5675.0</temperature>
 	</star>
-</system>
+<declination>-27d37m20.3s</declination><declination>--27 00 -2240</declination><rightascension>06h36m08.79s</rightascension><rightascension>+99 00 135</rightascension></system>

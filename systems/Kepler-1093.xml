@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000121100" errorplus="0.000121100">25.082462600</period>
 			<radius errorminus="0.022" errorplus="0.055">0.174</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-1093 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.024" errorplus="0.064">0.175</radius>
 		</planet>
 	</star>
-</system>
+<declination>+41d25m12.6s</declination><declination>+41 00 1513</declination><rightascension>18h59m54.72s</rightascension><rightascension>+284 00 3521</rightascension></system>

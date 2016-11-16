@@ -28,8 +28,8 @@
 			<temperature>987.0</temperature>
 			<transittime errorminus="0.00035" errorplus="0.00035" unit="BJD">2455863.11957</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/25</lastupdate></planet>
 		<name>HAT-P-38</name>
 		<temperature>5330.0</temperature>
 	</star>
-</system>
+<rightascension>02h21m31.98s</rightascension><rightascension /><declination>+32d14m46.1s</declination><declination /></system>

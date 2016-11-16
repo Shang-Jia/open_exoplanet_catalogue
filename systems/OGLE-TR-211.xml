@@ -2,7 +2,7 @@
 	<name>OGLE-TR-211</name>
 	<rightascension>10 40 15</rightascension>
 	<declination>-62 27 20</declination>
-	<star>
+	<star star_magI_errorminus="[0.03, 0, 0.0]" star_magI_errorplus="[0.03, 0, 0.0]">
 		<magB>15.3</magB>
 		<magR>14.9</magR>
 		<magI errorminus="0.03" errorplus="0.03">14.36</magI>
@@ -27,8 +27,8 @@
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1581.5</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/06/24</lastupdate></planet>
 		<name>OGLE-TR-211</name>
 		<temperature>6325.0</temperature>
-	</star>
-</system>
+	<magI>0</magI><magI>14.3</magI></star>
+<declination>-62d27m20.2s</declination><declination>--62 00 -1640</declination><rightascension>10h40m14.39s</rightascension><rightascension>+160 00 225</rightascension></system>

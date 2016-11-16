@@ -3,7 +3,7 @@
 	<rightascension>19 35 56.41</rightascension>
 	<declination>+36 17 46.76</declination>
 	<distance>3200</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<mass>1.2</mass>
 		<radius>1.15</radius>
 		<temperature>6250</temperature>
@@ -14,7 +14,7 @@
 		<magH errorminus="0.081" errorplus="0.081">15.187</magH>
 		<magK errorminus="0.199" errorplus="0.199">15.271</magK>
 		<spectraltype>F</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.1]" planet_eccentricity_errorplus="[0.0, 0, 0.0]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>WTS-1 b</name>
 			<list>Confirmed planets</list>
 			<mass>4.01</mass>
@@ -30,7 +30,7 @@
 			<discoveryyear>2012</discoveryyear>
 			<temperature>1362.3</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.1</eccentricity><period>0</period><period>3.352059</period><lastupdate>1/05/14</lastupdate><lastupdate>1/05/28</lastupdate></planet>
 		<name>WTS-1</name>
-	</star>
-</system>
+	<magV>0</magV><magV>16.3</magV></star>
+<rightascension>19h35m58.37s</rightascension><rightascension>+293 00 3570</rightascension><declination>+36d17m25.2s</declination><declination>+36 00 1045</declination></system>

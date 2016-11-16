@@ -3,7 +3,7 @@
 	<rightascension>11 05 45.94825</rightascension>
 	<declination>+44 18 05.6092</declination>
 	<distance errorminus="135" errorplus="135">483</distance>
-	<star>
+	<star star_magV_errorminus="[0.011, 0, 0.0]" star_magV_errorplus="[0.011, 0, 0.0]">
 		<name>HD 96127</name>
 		<name>HIP 54232</name>
 		<name>TYC 3012-667-1</name>
@@ -34,6 +34,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/17</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/10/11</lastupdate></planet>
+	<magV>0</magV><magV>7.43</magV></star>
+<declination>+44d18m05.6s</declination><declination>+44 00 1086</declination><rightascension>11h05m45.95s</rightascension><rightascension>+166 00 1590</rightascension></system>

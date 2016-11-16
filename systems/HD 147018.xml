@@ -23,7 +23,7 @@
 			<lastupdate>09/08/12</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>481.2</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/20</lastupdate></planet>
 		<planet>
 			<name>HD 147018 c</name>
 			<list>Confirmed planets</list>
@@ -39,4 +39,4 @@
 		<name>HD 147018</name>
 		<temperature>5441.0</temperature>
 	</star>
-</system>
+<declination>-61d41m19.5s</declination><declination>--61 00 -2480</declination><rightascension>16h23m00.15s</rightascension><rightascension>+245 00 2700</rightascension></system>

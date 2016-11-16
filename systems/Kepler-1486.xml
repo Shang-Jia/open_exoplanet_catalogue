@@ -19,6 +19,6 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000982500" errorplus="0.000982500">54.649575900</period>
 			<radius errorminus="0.026" errorplus="0.052">0.207</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 	</star>
-</system>
+<declination>+45d26m23.0s</declination><declination>+45 00 1583</declination><rightascension>19h22m21.69s</rightascension><rightascension>+290 00 2125</rightascension></system>

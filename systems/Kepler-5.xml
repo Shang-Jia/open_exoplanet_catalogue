@@ -11,7 +11,7 @@
 		<mass errorminus="0.059" errorplus="0.040">1.374</mass>
 		<radius errorminus="0.062" errorplus="0.043">1.793</radius>
 		<metallicity>0.04</metallicity>
-		<planet>
+		<planet planet_temperature_errorminus="[0.0, 0, 0.0]" planet_temperature_errorplus="[0.0, 0, 0.0]">
 			<name>Kepler-5 b</name>
 			<name>2MASS J19573768+4402061 b</name>
 			<name>KIC 8191672 b</name>
@@ -30,10 +30,10 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1652.1</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/10/15</lastupdate><lastupdate>1/02/26</lastupdate><temperature>0</temperature><temperature>1752.0</temperature></planet>
 		<name>Kepler-5</name>
 		<name>KOI-18</name>
 		<name>KIC 8191672</name>
 		<temperature errorminus="60" errorplus="60">6297.0</temperature>
 	</star>
-</system>
+<declination>+44d02m06.2s</declination><declination>+44 00 126</declination><rightascension>19h57m37.68s</rightascension><rightascension>+299 00 1470</rightascension></system>

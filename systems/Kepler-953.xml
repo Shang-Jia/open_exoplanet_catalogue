@@ -2,7 +2,7 @@
 	<name>Kepler-953</name>
 	<rightascension>19 15 53</rightascension>
 	<declination>+44 37 28</declination>
-	<star>
+	<star star_metallicity_errorminus="[0.07, 0, 0.0]" star_metallicity_errorplus="[0.07, 0, 0.0]" star_radius_errorminus="[0.07, 0, 0.0]" star_radius_errorplus="[0.09, 0, 0.0]" star_temperature_errorminus="[45.6, 0, 0.0]" star_temperature_errorplus="[40.8, 0, 0.0]">
 		<name>Kepler-953</name>
 		<temperature errorminus="45.6" errorplus="40.8">5416.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.95</mass>
@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000083060" errorplus="0.000083060">88.406552580</period>
 			<radius errorminus="0.029" errorplus="0.033">0.376</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/24</lastupdate></planet>
 		<planet>
 			<name>Kepler-953 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -32,5 +32,5 @@
 			<period errorminus="0.000025280" errorplus="0.000025280">9.109671120</period>
 			<radius errorminus="0.008" errorplus="0.010">0.106</radius>
 		</planet>
-	</star>
-</system>
+	<radius>0</radius><radius>0.822</radius><temperature>0</temperature><temperature>5114.0</temperature><metallicity>0</metallicity><metallicity>0.015</metallicity></star>
+<declination>+44d37m28.3s</declination><declination>+44 00 2248</declination><rightascension>19h15m53.20s</rightascension><rightascension>+288 00 3495</rightascension></system>

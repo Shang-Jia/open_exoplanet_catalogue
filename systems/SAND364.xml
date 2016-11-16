@@ -4,7 +4,7 @@
 	<rightascension>08 49 56.5208</rightascension>
 	<declination>+11 41 32.989</declination>
 	<distance errorminus="50" errorplus="50">750</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>SAND364</name>
 		<name>NGC 2682 SAND 364</name>
 		<name>BD+12 1917</name>
@@ -32,6 +32,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/01/14</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate /><lastupdate>1/01/15</lastupdate></planet>
+	<magV>0</magV><magV>9.8</magV></star>
+<declination /><declination>+11 00 2493</declination><rightascension /><rightascension>+132 00 1755</rightascension></system>

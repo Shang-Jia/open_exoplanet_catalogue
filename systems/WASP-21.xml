@@ -3,7 +3,7 @@
 	<rightascension>23 09 58</rightascension>
 	<declination>+18 23 46</declination>
 	<distance>230</distance>
-	<star>
+	<star star_mass_errorminus="[0.079, 0, 0.025]" star_mass_errorplus="[0.079, 0, 0.025]" star_radius_errorminus="[0.051, 0, 0.04]" star_radius_errorplus="[0.051, 0, 0.04]">
 		<name>WASP-21</name>
 		<mass errorminus="0.079" errorplus="0.079">0.890</mass>
 		<radius errorminus="0.051" errorplus="0.051">1.136</radius>
@@ -16,7 +16,7 @@
 		<magK errorminus="0.017" errorplus="0.017">9.982</magK>
 		<metallicity errorminus="0.11" errorplus="0.11">-0.46</metallicity>
 		<spectraltype>G3V</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.019, 0, 0.01]" planet_mass_errorplus="[0.019, 0, 0.01]" planet_period_errorminus="[3e-06, 0, 0.0]" planet_period_errorplus="[3e-06, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0015, 0, 0.00044]" planet_semimajoraxis_errorplus="[0.0015, 0, 0.00044]">
 			<name>WASP-21 b</name>
 			<name>2MASS J23095825+1823459 b</name>
 			<list>Confirmed planets</list>
@@ -32,6 +32,6 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature errorminus="28" errorplus="28">1333</temperature>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/26</lastupdate><mass>0</mass><mass>0.3</mass><period>0</period><period>4.3225126</period><semimajoraxis>0</semimajoraxis><semimajoraxis>0.052</semimajoraxis></planet>
+	<mass>0</mass><mass>1.01</mass><radius>0</radius><radius>1.06</radius></star>
+<declination>+18d23m45.9s</declination><declination>+18 00 1426</declination><rightascension>23h09m58.25s</rightascension><rightascension>+347 00 1770</rightascension></system>

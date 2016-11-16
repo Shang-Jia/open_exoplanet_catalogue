@@ -9,7 +9,7 @@
 		<magB errorminus="0.02" errorplus="0.02">8.31</magB>
 		<metallicity>0.18</metallicity>
 		<spectraltype>F8 V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.0147]" planet_eccentricity_errorplus="[0.0, 0, 0.0365]" planet_mass_errorminus="[0.0, 0, 0.0]" planet_mass_errorplus="[0.0, 0, 0.0]">
 			<name>HD 212301 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.45</mass>
@@ -20,8 +20,8 @@
 			<lastupdate>10/12/23</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>1541.3</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.0147</eccentricity><lastupdate>1/05/14</lastupdate><lastupdate>1/07/27</lastupdate><mass>0</mass><mass>0.4</mass></planet>
 		<name>HD 212301</name>
 		<temperature>5998.0</temperature>
 	</star>
-</system>
+<declination>-77d43m04.5s</declination><declination>--77 00 -2584</declination><rightascension>22h27m30.92s</rightascension><rightascension>+336 00 3150</rightascension></system>

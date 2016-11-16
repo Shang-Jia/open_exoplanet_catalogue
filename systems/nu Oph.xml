@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[0.56, 0, 0.0]" system_distance_errorplus="[0.56, 0, 0.0]">
 	<name>nu Oph</name>
 	<rightascension>17 59 01.59191</rightascension>
 	<declination>-09 46 25.0798</declination>
@@ -7,8 +7,8 @@
 		<name>nu Oph</name>
 		<name>nu. Oph</name>
 		<name>Nu Ophiuchi</name>
-		<name>ν Oph</name>
-		<name>ν Ophiuchi</name>
+		<name>&#957; Oph</name>
+		<name>&#957; Ophiuchi</name>
 		<name>64 Oph</name>
 		<name>64 Ophiuchi</name>
 		<name>HD 163917</name>
@@ -30,7 +30,7 @@
 		<radius lowerlimit="14.1" upperlimit="16.2">15.1</radius>
 		<temperature errorminus="25" errorplus="25">4928</temperature>
 		<metallicity errorminus="0.05" errorplus="0.05">0.13</metallicity>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.013, 0, 0.0]" planet_eccentricity_errorplus="[0.013, 0, 0.0]">
 			<name>nu Oph b</name>
 			<list>Confirmed planets</list>
 			<mass type="msini">24</mass>
@@ -43,7 +43,7 @@
 			<description>The Nu Ophiuchi system contains a pair of massive planets or brown dwarfs close to a 6:1 resonance.</description>
 			<lastupdate>15/11/02</lastupdate>
 			<discoveryyear>2004</discoveryyear>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.18</eccentricity><lastupdate>1/09/03</lastupdate><lastupdate>1/08/21</lastupdate></planet>
 		<planet>
 			<name>nu Oph c</name>
 			<list>Confirmed planets</list>
@@ -59,4 +59,4 @@
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>
-</system>
+<distance>0</distance><distance>46.8</distance><declination>-09d46m25.1s</declination><declination>--9 00 -2785</declination><rightascension>17h59m01.59s</rightascension><rightascension>+269 00 2730</rightascension></system>

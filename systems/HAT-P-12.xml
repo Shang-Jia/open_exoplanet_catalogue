@@ -13,7 +13,7 @@
 		<magH errorminus="0.022" errorplus="0.022">10.236</magH>
 		<magK errorminus="0.016" errorplus="0.016">10.108</magK>
 		<metallicity>-0.29</metallicity>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0131831482239]" planet_mass_errorplus="[0.0, 0, 0.0131831482239]" planet_radius_errorminus="[0.0, 0, 0.0205192622344]" planet_radius_errorplus="[0.0, 0, 2.85485387609]">
 			<name>HAT-P-12 b</name>
 			<name>2MASS J13573347+4329367 b</name>
 			<list>Confirmed planets</list>
@@ -29,8 +29,8 @@
 			<discoveryyear>2009</discoveryyear>
 			<temperature>875.4</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/21</lastupdate><mass>0</mass><mass>0.210489884529</mass><radius>0</radius><radius>0.954591764817</radius></planet>
 		<name>HAT-P-12</name>
 		<temperature>4650.0</temperature>
 	</star>
-</system>
+<rightascension>13h57m33.48s</rightascension><rightascension>+209 00 1410</rightascension><declination>+43d29m36.7s</declination><declination>+43 00 1777</declination></system>

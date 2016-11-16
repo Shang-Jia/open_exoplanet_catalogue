@@ -15,7 +15,7 @@
 		<temperature errorminus="200" errorplus="200">5588</temperature>
 		<radius errorminus=".415" errorplus="0.415">0.817</radius>
 		<mass errorminus="0.0520" errorplus="0.0520">0.9180</mass>
-		<planet>
+		<planet planet_radius_errorminus="[0.00365, 0, 0.093]" planet_radius_errorplus="[0.09478, 0, 0.093]">
 			<name>Kepler-230 b</name>
 			<name>KOI-759 b</name>
 			<name>KOI-759.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate><radius>0</radius><radius>0.182</radius></planet>
 		<planet>
 			<name>Kepler-230 c</name>
 			<name>KOI-759 c</name>
@@ -48,4 +48,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h02m52.45s</rightascension><rightascension>+285 00 2587</rightascension><declination>+48d30m21.1s</declination><declination>+48 00 1821</declination></system>

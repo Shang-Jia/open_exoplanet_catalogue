@@ -24,7 +24,7 @@
 			<separation errorminus="0.002" errorplus="0.002" unit="arcsec">2.204</separation>
 			<separation errorminus="30" errorplus="30" unit="AU">320</separation>
 			<positionangle errorminus="0.05" errorplus="0.05">175.97</positionangle>
-			<spectraltype errorminus="0.5" errorplus="0.5">M9γ</spectraltype>
+			<spectraltype errorminus="0.5" errorplus="0.5">M9&#947;</spectraltype>
 			<magJ errorminus="0.04" errorplus="0.04">16.13</magJ>
 			<magH errorminus="0.04" errorplus="0.04">15.52</magH>
 			<magK errorminus="0.02" errorplus="0.02">14.87</magK>
@@ -33,6 +33,6 @@
 			<discoveryyear>2010</discoveryyear>
 			<image>GSC 06214-00210</image>
 			<imagedescription>This image shows the star GSC 06214-00210 and its planetary mass companion. Credit: Michael Ireland (Macquarie University)</imagedescription>
-		</planet>
+		<lastupdate>1/04/01</lastupdate><lastupdate /></planet>
 	</star>
-</system>
+<declination>-20d43m09.1s</declination><declination /><rightascension>16h21m54.67s</rightascension><rightascension /></system>

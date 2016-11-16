@@ -31,8 +31,8 @@
 			<discoveryyear>2009</discoveryyear>
 			<temperature>1160.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/06/18</lastupdate></planet>
 		<name>WASP-16</name>
 		<temperature>5550.0</temperature>
 	</star>
-</system>
+<declination>-20d16m31.7s</declination><declination>--20 00 -992</declination><rightascension>14h18m43.93s</rightascension><rightascension>+214 00 2460</rightascension></system>

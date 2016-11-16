@@ -4,7 +4,7 @@
 	<rightascension>08 44 26</rightascension>
 	<declination>+01 51 36</declination>
 	<distance errorminus="20" errorplus="20">125</distance>
-	<star>
+	<star star_radius_errorminus="[0.018, 0, 0.015]" star_radius_errorplus="[0.018, 0, 0.015]">
 		<name>WASP-84</name>
 		<name>2MASS 08442570+0151361</name>
 		<mass errorminus="0.057" errorplus="0.057">0.854</mass>
@@ -18,7 +18,7 @@
 		<magJ errorminus="0.03" errorplus="0.03">9.35</magJ>
 		<magH errorminus="0.02" errorplus="0.02">8.96</magH>
 		<magK errorminus="0.02" errorplus="0.02">8.86</magK>
-		<planet>
+		<planet planet_inclination_errorminus="[0.037, 0, 0.05]" planet_inclination_errorplus="[0.037, 0, 0.05]" planet_radius_errorminus="[0.025, 0, 0.022]" planet_radius_errorplus="[0.025, 0, 0.022]" planet_temperature_errorminus="[13.0, 0, 0.0]" planet_temperature_errorplus="[13.0, 0, 0.0]">
 			<name>WASP-84 b</name>
 			<name>2MASS 08442570+0151361 b</name>
 			<list>Confirmed planets</list>
@@ -35,6 +35,6 @@
 			<lastupdate>14/09/22</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<radius>0</radius><radius>0.942</radius><temperature>0</temperature><temperature>797.0</temperature><inclination>0</inclination><inclination>88.368</inclination><lastupdate>1/10/15</lastupdate><lastupdate>1/02/16</lastupdate></planet>
+	<radius>0</radius><radius>0.748</radius></star>
+<declination>+01d51m36.1s</declination><declination>+01 00 3036</declination><rightascension>08h44m25.70s</rightascension><rightascension>+131 00 390</rightascension></system>

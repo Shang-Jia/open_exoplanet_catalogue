@@ -26,8 +26,8 @@
 			<discoveryyear>2002</discoveryyear>
 			<temperature>1390.3</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate /><lastupdate>1/08/16</lastupdate></planet>
 		<name>OGLE-TR-56</name>
 		<temperature>5940.0</temperature>
 	</star>
-</system>
+<declination /><declination>--29 00 -1941</declination><rightascension /><rightascension>+269 00 525</rightascension></system>

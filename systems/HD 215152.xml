@@ -24,7 +24,7 @@
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>704.7</temperature>
-		</planet>
+		<lastupdate /><lastupdate>1/09/12</lastupdate></planet>
 		<planet>
 			<name>HD 215152 c</name>
 			<list>Confirmed planets</list>
@@ -41,4 +41,4 @@
 		<name>HD 215152</name>
 		<temperature>5150.0</temperature>
 	</star>
-</system>
+<rightascension /><rightascension>+340 00 3015</rightascension><declination /><declination>--6 00 -1443</declination></system>

@@ -5,7 +5,7 @@
 	<rightascension>18 58 42</rightascension>
 	<declination>+44 47 51</declination>
 	<distance>1052.20</distance>
-	<star>
+	<star star_temperature_errorminus="[55.0, 0, 0.0]" star_temperature_errorplus="[155.0, 0, 0.0]">
 		<magJ errorminus="0.028" errorplus="0.028">14.080</magJ>
 		<magH errorminus="0.027" errorplus="0.027">13.718</magH>
 		<magK errorminus="0.05" errorplus="0.05">13.65</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-282 e</name>
 			<name>KOI-1278 e</name>
@@ -79,5 +79,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<temperature>0</temperature><temperature>5876.0</temperature></star>
+<rightascension>18h58m42.55s</rightascension><rightascension>+269 00 2445</rightascension><declination>+44d47m51.7s</declination><declination>+44 00 2871</declination></system>

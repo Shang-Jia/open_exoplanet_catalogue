@@ -3,7 +3,7 @@
 	<rightascension>00 49 13</rightascension>
 	<declination>-24 08 12</declination>
 	<distance>56.5</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>HD 4732</name>
 		<mass>1.74</mass>
 		<radius>5.4</radius>
@@ -30,7 +30,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/10/26</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-		</planet>
+		<discoveryyear /><discoveryyear>2013</discoveryyear><lastupdate>1/05/14</lastupdate><lastupdate>1/04/28</lastupdate></planet>
 		<planet>
 			<name>HD 4732 c</name>
 			<name>HR 228 c</name>
@@ -46,6 +46,6 @@
 			<lastupdate>12/10/26</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
-	</star>
+	<magV>0</magV><magV>5.9</magV></star>
 	<videolink>http://youtu.be/iPuHKvxb_Wg</videolink>
-</system>
+<rightascension>00h49m13.95s</rightascension><rightascension>+12 00 1109</rightascension><declination>-24d08m12.0s</declination><declination>--24 00 -492</declination></system>

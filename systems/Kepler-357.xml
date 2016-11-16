@@ -15,7 +15,7 @@
 		<temperature errorminus="200" errorplus="200">5036</temperature>
 		<radius errorminus=".487" errorplus="0.487">0.834</radius>
 		<mass errorminus="0.0840" errorplus="0.0840">0.7270</mass>
-		<planet>
+		<planet planet_radius_errorminus="[0.00365, 0, 0.182]" planet_radius_errorplus="[0.18591, 0, 0.182]">
 			<name>Kepler-357 d</name>
 			<name>KOI-2073 d</name>
 			<name>KOI-2073.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate><radius>0</radius><radius>0.306</radius></planet>
 		<planet>
 			<name>Kepler-357 b</name>
 			<name>KOI-2073 b</name>
@@ -64,4 +64,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h24m58.34s</rightascension><rightascension>+291 00 875</rightascension></system>

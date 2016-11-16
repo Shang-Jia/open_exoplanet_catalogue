@@ -15,7 +15,7 @@
 		<temperature errorminus="06" errorplus="206">5502</temperature>
 		<radius errorminus=".559" errorplus="0.559">2.019</radius>
 		<mass errorminus="0.3000" errorplus="0.3000">0.9700</mass>
-		<planet>
+		<planet planet_radius_errorminus="[0.00729, 0, 0.096]" planet_radius_errorplus="[0.09842, 0, 0.096]">
 			<name>Kepler-368 b</name>
 			<name>KOI-2175 b</name>
 			<name>KOI-2175.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate><radius>0</radius><radius>0.346</radius></planet>
 		<planet>
 			<name>Kepler-368 c</name>
 			<name>KOI-2175 c</name>
@@ -48,4 +48,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h27m31.21s</rightascension><rightascension>+291 00 3168</rightascension><declination>+45d23m16.6s</declination><declination>+45 00 1397</declination></system>

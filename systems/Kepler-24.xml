@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>Kepler-24 b</name>
 			<name>KOI-1102 b</name>
@@ -80,4 +80,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h21m39.18s</rightascension><rightascension /><declination>+38d20m37.5s</declination><declination /></system>

@@ -17,7 +17,7 @@
 		<temperature errorminus="94" errorplus="94">6239</temperature>
 		<radius errorminus="0.024" errorplus="0.024">1.358</radius>
 		<mass errorminus="0.0560" errorplus="0.0560">1.1100</mass>
-		<planet>
+		<planet planet_period_errorminus="[2.8e-05, 0, 0.0]" planet_period_errorplus="[2.8e-05, 0, 0.0]" planet_radius_errorminus="[0.00911, 0, 0.0018]" planet_radius_errorplus="[0.00911, 0, 0.0018]">
 			<name>Kepler-126 b</name>
 			<name>KOI-260 b</name>
 			<name>KOI-260.01</name>
@@ -35,7 +35,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<radius>0</radius><radius>0.1284</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/12/16</lastupdate><period>0</period><period>10.495634</period></planet>
 		<planet>
 			<name>Kepler-126 d</name>
 			<name>KOI-260 d</name>
@@ -75,4 +75,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+44d12m30.8s</declination><declination>+44 00 751</declination><rightascension>19h17m23.35s</rightascension><rightascension>+289 00 1250</rightascension></system>

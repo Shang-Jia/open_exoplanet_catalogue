@@ -16,8 +16,8 @@
 			<discoverymethod>microlensing</discoverymethod>
 			<lastupdate>12/03/22</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-		</planet>
+		<lastupdate /><lastupdate>1/03/22</lastupdate></planet>
 		<name>MOA-bin-1</name>
 		<temperature>5700.0</temperature>
 	</star>
-</system>
+<declination /><declination>--29 00 -2858</declination><rightascension /><rightascension>+267 00 2850</rightascension></system>

@@ -5,7 +5,7 @@
 	<rightascension>19 13 59</rightascension>
 	<declination>+51 04 54</declination>
 	<distance>302.28</distance>
-	<star>
+	<star star_mass_errorminus="[0.016, 0, 0.0]" star_mass_errorplus="[0.016, 0, 0.0]">
 		<magJ errorminus="0.03" errorplus="0.03">12.53</magJ>
 		<magH errorminus="0.04" errorplus="0.04">11.89</magH>
 		<magK errorminus="0.03" errorplus="0.03">11.80</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-155 c</name>
 			<name>KOI-438 c</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.58</mass></star>
+<rightascension>19h13m59.00s</rightascension><rightascension>+288 00 1785</rightascension><declination>+51d04m55.0s</declination><declination>+51 00 295</declination></system>

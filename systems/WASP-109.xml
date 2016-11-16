@@ -3,7 +3,7 @@
 	<rightascension>15 28 13.23</rightascension>
 	<declination>-16 24 38.8</declination>
 	<distance errorminus="30" errorplus="30">330</distance>
-	<star>
+	<star star_mass_errorminus="[0.13, 0, 0.09]" star_mass_errorplus="[0.13, 0, 0.09]">
 		<name>WASP-109</name>
 		<spectraltype>F4</spectraltype>
 		<age errorminus="0.9" errorplus="0.9">2.6</age>
@@ -29,6 +29,6 @@
 			<lastupdate>14/10/14</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<lastupdate /><lastupdate>1/01/10</lastupdate></planet>
+	<mass>0</mass><mass>1.203</mass></star>
+<declination /><declination>--16 00 -1479</declination><rightascension /><rightascension>+232 00 195</rightascension></system>

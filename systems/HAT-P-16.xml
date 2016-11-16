@@ -8,7 +8,7 @@
 		<separation errorminus="0.0015" errorplus="0.0015" unit="arcsec">0.6916</separation>
 		<separation errorminus="6.9" errorplus="6.9" unit="AU">162.5</separation>
 		<positionangle errorminus="0.12" errorplus="0.12">153.83</positionangle>
-		<star>
+		<star star_magV_errorminus="[0.06, 0, 0.0]" star_magV_errorplus="[0.06, 0, 0.0]" star_radius_errorminus="[0.025, 0, 0.054]" star_radius_errorplus="[0.025, 0, 0.054]">
 			<name>HAT-P-16 A</name>
 			<mass errorminus="0.055" errorplus="0.055">1.216</mass>
 			<radius errorminus="0.025" errorplus="0.025">1.158</radius>
@@ -20,7 +20,7 @@
 			<magK errorminus="0.020" errorplus="0.020">9.553</magK>
 			<metallicity errorminus="0.08" errorplus="0.08">0.12</metallicity>
 			<spectraltype>F8</spectraltype>
-			<planet>
+			<planet planet_inclination_errorminus="[0.59, 0, 0.7]" planet_inclination_errorplus="[0.59, 0, 0.7]" planet_period_errorminus="[1.5e-06, 0, 0.0]" planet_period_errorplus="[1.5e-06, 0, 0.0]" planet_radius_errorminus="[0.037, 0, 0.066]" planet_radius_errorplus="[0.037, 0, 0.066]">
 				<name>HAT-P-16 b</name>
 				<name>HAT-P-16 A b</name>
 				<list>Confirmed planets</list>
@@ -37,8 +37,8 @@
 				<transittime errorminus="0.00040" errorplus="0.00040" unit="BJD">2455027.59821</transittime>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
+			<radius>0</radius><radius>1.289</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/07/22</lastupdate><inclination>0</inclination><inclination>86.6</inclination><period>0</period><period>2.77596</period></planet>
+		<radius>0</radius><radius>1.237</radius><magV>0</magV><magV>10.8</magV></star>
 		<star>
 			<name>HAT-P-16 B</name>
 			<magJ errorminus="0.039" errorplus="0.039">15.271</magJ>
@@ -48,4 +48,4 @@
 			<mass errorminus="0.023" errorplus="0.023">0.188</mass>
 		</star>
 	</binary>
-</system>
+<declination>+42d27m47.1s</declination><declination>+42 00 1667</declination><rightascension>00h38m17.56s</rightascension><rightascension>+09 00 2070</rightascension></system>

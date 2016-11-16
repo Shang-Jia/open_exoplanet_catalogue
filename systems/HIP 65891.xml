@@ -3,7 +3,7 @@
 	<rightascension>13 30 25.27310</rightascension>
 	<declination>-58 39 51.6746</declination>
 	<distance errorminus="11" errorplus="11">136</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>HIP 65891</name>
 		<name>HD 117253</name>
 		<name>2MASS J13302527-5839517</name>
@@ -36,6 +36,6 @@
 			<lastupdate>15/05/25</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<description>HIP 65891 is one of the most massive stars known to host a planetary system having a close-in planet.</description>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/06/04</lastupdate><lastupdate>1/05/29</lastupdate></planet>
+	<magV>0</magV><magV>6.75</magV></star>
+<declination>-58d39m51.7s</declination><declination>--58 00 -2392</declination><rightascension>13h30m25.27s</rightascension><rightascension>+202 00 2175</rightascension></system>

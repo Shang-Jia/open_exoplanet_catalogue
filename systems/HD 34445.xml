@@ -3,7 +3,7 @@
 	<rightascension>05 17 40.98051</rightascension>
 	<declination>+07 21 12.0508</declination>
 	<distance errorminus="1.4" errorplus="1.4">46.5</distance>
-	<star>
+	<star star_magV_errorminus="[0.01, 0, 0.0]" star_magV_errorplus="[0.01, 0, 0.0]">
 		<name>HD 34445</name>
 		<name>HIP 24681</name>
 		<name>TYC 112-182-1</name>
@@ -29,6 +29,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>16/03/09</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/30</lastupdate><discoveryyear /><discoveryyear>2004</discoveryyear></planet>
+	<spectraltype /><spectraltype>G0</spectraltype><magV>0</magV><magV>7.31</magV></star>
+<declination>+07d21m12.0s</declination><declination>+07 00 1272</declination><rightascension>05h17m40.98s</rightascension><rightascension>+79 00 1515</rightascension></system>

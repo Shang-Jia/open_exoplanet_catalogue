@@ -28,6 +28,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/01/25</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/23</lastupdate></planet>
+	<spectraltype /><spectraltype>G3-4</spectraltype></star>
+<declination>-37d48m10.9s</declination><declination>--36 00 -709</declination><rightascension>13h12m03.19s</rightascension><rightascension>+198 00 45</rightascension></system>

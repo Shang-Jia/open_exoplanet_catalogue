@@ -2,7 +2,7 @@
 	<name>KIC 10001893</name>
 	<rightascension>19 09 33.405</rightascension>
 	<declination>+46 59 04.16</declination>
-	<star>
+	<star star_temperature_errorminus="[500.0, 0, 300.0]" star_temperature_errorplus="[500.0, 0, 300.0]">
 		<name>KIC 10001893</name>
 		<name>Kepler-429</name>
 		<name>2MASS J19093340+4659041</name>
@@ -22,7 +22,7 @@
 			<discoveryyear>2014</discoveryyear>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>15/01/26</lastupdate>
-		</planet>
+		<lastupdate>1/10/03</lastupdate><lastupdate>1/10/29</lastupdate></planet>
 		<planet>
 			<name>KIC 10001893 c</name>
 			<name>KIC 10001893_2</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>15/01/26</lastupdate>
 		</planet>
-	</star>
-</system>
+	<temperature>0</temperature><temperature>26700.0</temperature></star>
+<rightascension>19h09m33.41s</rightascension><rightascension>+287 00 1401</rightascension><declination>+46d59m04.2s</declination><declination>+46 00 3544</declination></system>

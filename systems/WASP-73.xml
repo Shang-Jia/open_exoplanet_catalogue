@@ -29,6 +29,6 @@
 			<discoveryyear>2013</discoveryyear>
 			<transittime errorminus="0.0011" errorplus="0.0011" unit="HJD">2456128.7063</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/28</lastupdate></planet>
 	</star>
-</system>
+<declination>-58d08m56.0s</declination><declination>--57 00 -3064</declination><rightascension>21h19m47.91s</rightascension><rightascension>+319 00 3420</rightascension></system>

@@ -39,7 +39,7 @@
 				<temperature>1825.6</temperature>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<lastupdate>1/05/14</lastupdate><lastupdate>1/11/02</lastupdate></planet>
 		</star>
 		<star>
 			<name>WASP-3 B</name>
@@ -50,4 +50,4 @@
 			<mass errorminus="0.0048" errorplus="0.0048">0.1053</mass>
 		</star>
 	</binary>
-</system>
+<declination>+35d39m41.5s</declination><declination>+35 00 2382</declination><rightascension>18h34m31.63s</rightascension><rightascension>+278 00 2280</rightascension></system>

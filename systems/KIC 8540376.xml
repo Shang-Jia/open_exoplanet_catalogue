@@ -27,7 +27,7 @@
 			<description>The planet KIC 8540376 b was discovered and validated by the Planet Hunters project in 2015. Only two transits have been observed for this planet. The planet is validated with a confidence of 0.999.</description>
 			<lastupdate>16/01/09</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<lastupdate>1/01/05</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>KIC 8540376 c</name>
 			<name>Kepler-457 c</name>
@@ -43,4 +43,4 @@
 			<list>Confirmed planets</list>
 		</planet>
 	</star>
-</system>
+<declination>+44d41m40.5s</declination><declination /><rightascension>18h49m30.61s</rightascension><rightascension /></system>

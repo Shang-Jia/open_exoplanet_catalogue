@@ -34,7 +34,7 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>940.6</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/04/24</lastupdate></planet>
 		<temperature>5200.0</temperature>
-	</star>
-</system>
+	<spectraltype /><spectraltype>kov</spectraltype></star>
+<rightascension>19h42m58.52s</rightascension><rightascension>+295 00 2685</rightascension><declination>-19d56m58.5s</declination><declination>--19 00 -3418</declination></system>

@@ -3,7 +3,7 @@
 	<rightascension>08 51 00.807</rightascension>
 	<declination>+11 48 52.76</declination>
 	<distance errorminus="50" errorplus="50">850</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>YBP1194</name>
 		<magB>15.28</magB>
 		<magV>14.61</magV>
@@ -28,6 +28,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/01/14</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate /><lastupdate>1/01/15</lastupdate></planet>
+	<magV>0</magV><magV>14.6</magV></star>
+<declination /><declination>+11 00 2933</declination><rightascension /><rightascension>+132 00 2715</rightascension></system>

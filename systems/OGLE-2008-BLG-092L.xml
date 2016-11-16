@@ -5,10 +5,10 @@
 	<distance>7000</distance>
 	<binary>
 		<separation unit="AU">41</separation>
-		<star>
+		<star star_mass_errorminus="[0.0, 0, 0.0]" star_mass_errorplus="[0.0, 0, 0.0]">
 			<name>OGLE-2008-BLG-092L</name>
 			<mass>0.58</mass>
-			<planet>
+			<planet planet_mass_errorminus="[0.0, 0, 0.0]" planet_mass_errorplus="[0.0, 0, 0.0]">
 				<name>OGLE-2008-BLG-092L b</name>
 				<list>Confirmed planets</list>
 				<mass>0.12347045</mass>
@@ -19,11 +19,11 @@
 				<lastupdate>14/09/04</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
+			<lastupdate /><lastupdate>1/08/27</lastupdate><mass>0</mass><mass>0.137</mass></planet>
+		<mass>0</mass><mass>0.6</mass></star>
 		<star>
 			<name>OGLE-2008-BLG-092L B</name>
 			<mass>0.12</mass>
 		</star>
 	</binary>
-</system>
+<declination /><declination>--34 00 -2616</declination><rightascension /><rightascension>+266 00 3141</rightascension></system>

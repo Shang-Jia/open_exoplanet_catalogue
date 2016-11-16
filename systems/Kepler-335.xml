@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-335 c</name>
 			<name>KOI-1915 c</name>
@@ -47,4 +47,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h44m15.43s</rightascension><rightascension>+296 00 231</rightascension><declination>+45d25m43.0s</declination><declination>+45 00 1543</declination></system>

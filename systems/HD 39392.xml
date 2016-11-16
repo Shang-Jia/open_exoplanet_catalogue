@@ -2,7 +2,7 @@
 	<name>HD 39392</name>
 	<rightascension>05 53 19</rightascension>
 	<declination>+22 04 20</declination>
-	<star>
+	<star star_metallicity_errorminus="[0.03, 0, 0.03]" star_metallicity_errorplus="[0.03, 0, 0.03]">
 		<mass errorminus="0.08" errorplus="0.08">1.08</mass>
 		<magV>8.38</magV>
 		<magJ errorminus="0.023" errorplus="0.023">7.280</magJ>
@@ -11,7 +11,7 @@
 		<magB errorminus="0.02" errorplus="0.02">8.94</magB>
 		<metallicity errorminus="0.03" errorplus="0.03">-0.32</metallicity>
 		<spectraltype>F8</spectraltype>
-		<planet>
+		<planet planet_semimajoraxis_errorminus="[0.03, 0, 0.03]" planet_semimajoraxis_errorplus="[0.03, 0, 0.03]">
 			<name>HD 39392 b</name>
 			<mass errorminus="0.08" errorplus="0.08">13.2</mass>
 			<period errorminus="1.2" errorplus="1.4">394.3</period>
@@ -21,8 +21,8 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>16/03/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>1.08</semimajoraxis><lastupdate /><lastupdate>1/02/10</lastupdate></planet>
 		<name>HD 39392</name>
 		<temperature errorminus="42" errorplus="42">5951</temperature>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>0.32</metallicity></star>
+<declination /><declination>+22 00 260</declination><rightascension /><rightascension>+88 00 1185</rightascension></system>

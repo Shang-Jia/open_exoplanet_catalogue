@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000006180" errorplus="0.000006180">9.467814050</period>
 			<radius errorminus="0.014" errorplus="0.011">0.194</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-732 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.009" errorplus="0.006">0.113</radius>
 		</planet>
 	</star>
-</system>
+<declination>+45d57m31.6s</declination><declination>+45 00 3452</declination><rightascension>18h54m55.69s</rightascension><rightascension>+283 00 2635</rightascension></system>

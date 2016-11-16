@@ -3,7 +3,7 @@
 	<rightascension>19 06 33</rightascension>
 	<declination>+38 20 37</declination>
 	<distance>191</distance>
-	<star>
+	<star star_magV_errorminus="[0.06, 0, 0.0]" star_magV_errorplus="[0.06, 0, 0.0]" star_mass_errorminus="[0.03, 0, 0.06]" star_mass_errorplus="[0.03, 0, 0.06]" star_metallicity_errorminus="[0.03, 0, 0.09]" star_metallicity_errorplus="[0.03, 0, 0.09]" star_radius_errorminus="[0.01, 0, 0.13]" star_radius_errorplus="[0.01, 0, 0.13]" star_temperature_errorminus="[27.0, 0, 80.0]" star_temperature_errorplus="[27.0, 0, 80.0]">
 		<name>Kepler-25</name>
 		<name>KOI-244</name>
 		<name>KIC 4349452</name>
@@ -36,7 +36,7 @@
 			<discoveryyear>2012</discoveryyear>
 			<temperature>1220.6</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/11/27</lastupdate></planet>
 		<planet>
 			<name>Kepler-25 c</name>
 			<name>KIC 4349452 c</name>
@@ -69,5 +69,5 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>RV</discoverymethod>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>1.22</mass><radius>0</radius><radius>1.36</radius><temperature>0</temperature><temperature>6190.0</temperature><metallicity>0</metallicity><metallicity>0.01</metallicity><magV>0</magV><magV>11.0</magV></star>
+<declination>+39d29m16.4s</declination><declination>+39 00 1756</declination><rightascension>19h06m33.21s</rightascension><rightascension>+286 00 2295</rightascension></system>

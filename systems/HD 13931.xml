@@ -3,7 +3,7 @@
 	<rightascension>02 16 47.37946</rightascension>
 	<declination>+43 46 22.7907</declination>
 	<distance errorminus="1.3" errorplus="1.3">44.2</distance>
-	<star>
+	<star star_magV_errorminus="[0.01, 0, 0.0]" star_magV_errorplus="[0.01, 0, 0.0]">
 		<name>HD 13931</name>
 		<name>HIP 10626</name>
 		<name>TYC 2842-200-1</name>
@@ -35,6 +35,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>16/03/09</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/30</lastupdate></planet>
+	<spectraltype /><spectraltype>G0</spectraltype><magV>0</magV><magV>7.61</magV></star>
+<declination>+43d46m22.8s</declination><declination>+43 00 2783</declination><rightascension>02h16m47.38s</rightascension><rightascension>+34 00 705</rightascension></system>

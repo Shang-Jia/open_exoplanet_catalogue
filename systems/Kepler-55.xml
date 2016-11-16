@@ -5,7 +5,7 @@
 	<rightascension>19 00 40</rightascension>
 	<declination>+44 01 35</declination>
 	<distance>610.01</distance>
-	<star>
+	<star star_radius_errorminus="[0.028, 0, 0.0]" star_radius_errorplus="[0.028, 0, 0.0]" star_temperature_errorminus="[100.0, 0, 0.0]" star_temperature_errorplus="[100.0, 0, 0.0]">
 		<magJ errorminus="0.03" errorplus="0.03">13.97</magJ>
 		<magH errorminus="0.03" errorplus="0.03">13.36</magH>
 		<magK errorminus="0.049" errorplus="0.049">13.289</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-55 b</name>
 			<name>KOI-904 b</name>
@@ -95,5 +95,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<radius>0</radius><radius>0.58</radius><temperature>0</temperature><temperature>4362.0</temperature></star>
+<rightascension>19h00m40.40s</rightascension><rightascension>+285 00 600</rightascension><declination>+44d01m35.3s</declination><declination>+44 00 95</declination></system>

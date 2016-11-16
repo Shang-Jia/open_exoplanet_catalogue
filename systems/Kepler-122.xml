@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-122 b</name>
 			<name>KOI-232 b</name>
@@ -95,4 +95,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h24m26.85s</rightascension><rightascension>+291 00 403</rightascension><declination>+39d56m56.8s</declination><declination>+39 00 3417</declination></system>

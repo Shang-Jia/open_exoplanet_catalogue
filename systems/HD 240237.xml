@@ -2,7 +2,7 @@
 	<name>HD 240237</name>
 	<rightascension>23 15 42.22361</rightascension>
 	<declination>+58 02 35.6654</declination>
-	<star>
+	<star star_magV_errorminus="[0.01, 0, 0.0]" star_magV_errorplus="[0.01, 0, 0.0]">
 		<name>HD 240237</name>
 		<name>HIP 114840</name>
 		<name>TYC 4006-19-1</name>
@@ -33,6 +33,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/17</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/11/19</lastupdate><lastupdate>1/10/11</lastupdate></planet>
+	<magV>0</magV><magV>8.19</magV></star>
+<declination>+58d02m35.7s</declination><declination>+58 00 156</declination><rightascension>23h15m42.22s</rightascension><rightascension>+348 00 3330</rightascension></system>

@@ -5,7 +5,7 @@
 	<rightascension>19 48 06</rightascension>
 	<declination>+48 12 30</declination>
 	<distance>512.66</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.1, 0, 0.0]" star_metallicity_errorplus="[0.1, 0, 0.0]">
 		<magJ errorminus="0.022" errorplus="0.022">11.392</magJ>
 		<magH errorminus="0.018" errorplus="0.018">11.114</magH>
 		<magK errorminus="0.016" errorplus="0.016">11.060</magK>
@@ -16,7 +16,7 @@
 		<radius errorminus="0.047" errorplus="0.047">1.411</radius>
 		<mass errorminus="0.0390" errorplus="0.0390">1.1830</mass>
 		<metallicity errorminus="0.10" errorplus="0.10">0.27</metallicity>
-		<planet>
+		<planet planet_period_errorminus="[1.1e-05, 0, 0.0]" planet_period_errorplus="[1.1e-05, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0005, 0, 0.0]" planet_semimajoraxis_errorplus="[0.0005, 0, 0.0]">
 			<name>Kepler-107 e</name>
 			<name>KOI-117 e</name>
 			<name>KOI-117.01</name>
@@ -34,7 +34,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>0.044</semimajoraxis><lastupdate>1/05/14</lastupdate><lastupdate>1/12/15</lastupdate><period>0</period><period>3.180026</period></planet>
 		<planet>
 			<name>Kepler-107 c</name>
 			<name>KOI-117 c</name>
@@ -92,5 +92,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>-0.092</metallicity></star>
+<declination>+48d12m31.0s</declination><declination>+48 00 751</declination><rightascension>19h48m06.78s</rightascension><rightascension>+297 00 102</rightascension></system>

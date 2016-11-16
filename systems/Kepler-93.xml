@@ -36,7 +36,7 @@
 			<lastupdate>15/01/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>Kepler-93 c</name>
 			<name>KOI-69.10</name>
@@ -52,4 +52,4 @@
 			<discoverymethod>RV</discoverymethod>
 		</planet>
 	</star>
-</system>
+<declination>+38d40m20.5s</declination><declination /><rightascension>19h25m40.39s</rightascension><rightascension /></system>

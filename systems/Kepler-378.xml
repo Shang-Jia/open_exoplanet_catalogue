@@ -5,7 +5,7 @@
 	<rightascension>19 39 47</rightascension>
 	<declination>+46 26 19</declination>
 	<distance>154.57</distance>
-	<star>
+	<star star_mass_errorminus="[0.095, 0, 0.0]" star_mass_errorplus="[0.095, 0, 0.0]">
 		<magJ errorminus="0.021" errorplus="0.021">10.846</magJ>
 		<magH errorminus="0.020" errorplus="0.020">10.317</magH>
 		<magK errorminus="0.017" errorplus="0.017">10.201</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-378 c</name>
 			<name>KOI-2287 c</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.96</mass></star>
+<rightascension>19h39m47.66s</rightascension><rightascension>+294 00 3415</rightascension><declination>+46d26m19.1s</declination><declination>+46 00 1579</declination></system>

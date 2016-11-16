@@ -28,8 +28,8 @@
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1235.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/06/24</lastupdate></planet>
 		<name>OGLE-TR-182</name>
 		<temperature>5924.0</temperature>
 	</star>
-</system>
+<declination>-61d05m42.9s</declination><declination>--61 00 -343</declination><rightascension>11h09m18.71s</rightascension><rightascension>+167 00 1185</rightascension></system>

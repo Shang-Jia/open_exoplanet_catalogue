@@ -16,7 +16,7 @@
 		<temperature>5638</temperature>
 		<metallicity>-0.29</metallicity>
 		<spectraltype>G4V</spectraltype>
-		<planet>
+		<planet planet_radius_errorminus="[0.0, 0, 0.021]" planet_radius_errorplus="[0.0, 0, 0.03]">
 			<name>Kepler-69 b</name>
 			<name>KOI-172.01</name>
 			<name>KOI-172 b</name>
@@ -34,7 +34,7 @@
 			<lastupdate>13/04/18</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/07/10</lastupdate><radius>0</radius><radius>0.153</radius></planet>
 		<planet>
 			<name>Kepler-69 c</name>
 			<name>KOI-172.02</name>
@@ -59,4 +59,4 @@ Credit: NASA/Ames/JPL-Caltech.</imagedescription>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h33m02.63s</rightascension><rightascension>+293 00 945</rightascension><declination>+44d52m08.0s</declination><declination>+44 00 3128</declination></system>

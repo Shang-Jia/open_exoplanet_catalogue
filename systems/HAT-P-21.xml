@@ -31,8 +31,8 @@
 			<temperature>1161.5</temperature>
 			<transittime errorminus="0.00069" errorplus="0.00069" unit="BJD">2454996.41312</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/09/28</lastupdate></planet>
 		<name>HAT-P-21</name>
 		<temperature>5588.0</temperature>
 	</star>
-</system>
+<declination>+41d01m40.6s</declination><declination>+41 00 101</declination><rightascension>11h25m05.99s</rightascension><rightascension>+171 00 990</rightascension></system>

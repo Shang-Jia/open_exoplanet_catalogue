@@ -15,7 +15,7 @@
 		<magK errorminus="0.021" errorplus="0.021">9.806</magK>
 		<metallicity>0.03</metallicity>
 		<spectraltype>K0V</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.00380706667086]" planet_mass_errorplus="[0.0, 0, 0.00380706667086]" planet_radius_errorminus="[0.0, 0, 0.0080292765265]" planet_radius_errorplus="[0.0, 0, 0.0080292765265]">
 			<name>CoRoT-7 b</name>
 			<name>CoRoT-Exo-7 b</name>
 			<name>CoRoTID 102708694 b</name>
@@ -33,7 +33,7 @@
 			<temperature>1666.1</temperature>
 			<transittime errorminus="0.003" errorplus="0.003" unit="BJD">2454446.737</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<radius>0</radius><radius>0.148987686658</radius><lastupdate>1/03/05</lastupdate><lastupdate>1/11/05</lastupdate><mass>0</mass><mass>0.0233458137998</mass></planet>
 		<planet>
 			<name>CoRoT-7 c</name>
 			<name>CoRoT-Exo-7 c</name>
@@ -54,4 +54,4 @@
 		<name>CoRoT-7</name>
 		<temperature>5313.0</temperature>
 	</star>
-</system>
+<declination>-01d03m46.9s</declination><declination>--1 00 -226</declination><rightascension>06h43m49.47s</rightascension><rightascension>+100 00 3435</rightascension></system>

@@ -21,7 +21,7 @@
 		<spectraltype>M2 V</spectraltype>
 		<mass>0.43</mass>
 		<temperature>3371</temperature>
-		<planet>
+		<planet planet_periastron_errorminus="[0.0, 0, 0.0]" planet_periastron_errorplus="[0.0, 0, 0.0]">
 			<name>GJ 180 b</name>
 			<name>Gliese 180 b</name>
 			<period errorminus="0.020" errorplus="0.018">17.380</period>
@@ -35,7 +35,7 @@
 			<description>The planet candidates orbiting GJ 180 were identified by Bayesian analysis of 56 UVES and 31 HARPS radial velocity measurements.</description>
 			<list>Controversial</list>
 			<lastupdate>15/04/21</lastupdate>
-		</planet>
+		<lastupdate /><lastupdate>1/05/25</lastupdate><periastron>0</periastron><periastron>11.46</periastron></planet>
 		<planet>
 			<name>GJ 180 c</name>
 			<name>Gliese 180 c</name>
@@ -51,5 +51,5 @@
 			<list>Controversial</list>
 			<lastupdate>15/04/21</lastupdate>
 		</planet>
-	</star>
-</system>
+	<spectraltype /><spectraltype>M2V</spectraltype></star>
+<declination /><declination>--17 00 -2784</declination><rightascension /><rightascension>+73 00 1650</rightascension></system>

@@ -22,8 +22,8 @@
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>769.4</temperature>
-		</planet>
+		<lastupdate /><lastupdate>1/09/12</lastupdate></planet>
 		<name>HD 189567</name>
 		<temperature>5940.0</temperature>
 	</star>
-</system>
+<rightascension /><rightascension>+301 00 1395</rightascension><declination /><declination>--67 00 -1155</declination></system>

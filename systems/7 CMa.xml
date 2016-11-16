@@ -8,8 +8,8 @@
 		<name>7 Canis Majoris</name>
 		<name>nu.02 CMa</name>
 		<name>Nu-2 Canis Majoris</name>
-		<name>ν2 CMa</name>
-		<name>ν2 Canis Majoris</name>
+		<name>&#957;2 CMa</name>
+		<name>&#957;2 Canis Majoris</name>
 		<name>HD 47205</name>
 		<name>HIP 31592</name>
 		<name>TYC 5956-2621-1</name>
@@ -47,6 +47,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/10/25</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-		</planet>
+		<lastupdate>1/10/22</lastupdate><lastupdate>1/10/19</lastupdate></planet>
 	</star>
-</system>
+<declination>-19d15m21.2s</declination><declination>--19 00 -921</declination><rightascension>06h36m41.04s</rightascension><rightascension>+99 00 615</rightascension></system>

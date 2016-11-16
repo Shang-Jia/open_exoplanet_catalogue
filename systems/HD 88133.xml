@@ -15,7 +15,7 @@
 		<magK>6.20</magK>
 		<metallicity>0.34</metallicity>
 		<spectraltype>G5 IV</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.0508]" planet_eccentricity_errorplus="[0.0, 0, 0.0761]" planet_mass_errorminus="[0.0, 0, 0.0]" planet_mass_errorplus="[0.0, 0, 0.0]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>HD 88133 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.22</mass>
@@ -26,8 +26,8 @@
 			<lastupdate>09/10/06</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>1550.6</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.0761</eccentricity><lastupdate>1/10/13</lastupdate><lastupdate>1/02/24</lastupdate><mass>0</mass><mass>0.3</mass><period>0</period><period>3.41566</period></planet>
 		<name>HD 88133</name>
 		<temperature>5494.0</temperature>
 	</star>
-</system>
+<declination>+18d11m12.7s</declination><declination>+18 00 672</declination><rightascension>10h10m07.68s</rightascension><rightascension>+152 00 1905</rightascension></system>

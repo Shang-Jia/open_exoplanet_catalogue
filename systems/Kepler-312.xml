@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-312 b</name>
 			<name>KOI-1628 b</name>
@@ -47,4 +47,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h53m34.99s</rightascension><rightascension>+298 00 1425</rightascension><declination>+42d27m35.1s</declination><declination>+42 00 1655</declination></system>

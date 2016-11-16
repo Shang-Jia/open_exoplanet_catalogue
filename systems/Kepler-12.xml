@@ -14,7 +14,7 @@
 		<magK errorminus="0.023" errorplus="0.023">12.066</magK>
 		<metallicity errorminus="0.14" errorplus="0.13">0.08</metallicity>
 		<spectraltype>G0</spectraltype>
-		<planet>
+		<planet planet_radius_errorminus="[0.04, 0, 0.032]" planet_radius_errorplus="[0.03, 0, 0.032]" planet_temperature_errorminus="[0.0, 0, 0.0]" planet_temperature_errorplus="[0.0, 0, 0.0]">
 			<name>Kepler-12 b</name>
 			<name>GSC 03549-00844 b</name>
 			<name>KOI-20.01</name>
@@ -34,10 +34,10 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1354.2</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<radius>0</radius><radius>1.695</radius><temperature>0</temperature><temperature>1477.0</temperature><lastupdate>1/10/15</lastupdate><lastupdate>1/02/26</lastupdate></planet>
 		<name>Kepler-12</name>
 		<name>KOI-20</name>
 		<name>KIC 11804465</name>
 		<temperature errorminus="123" errorplus="105">5953</temperature>
 	</star>
-</system>
+<declination>+50d02m25.4s</declination><declination /><rightascension>19h04m58.42s</rightascension><rightascension /></system>

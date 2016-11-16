@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000052910" errorplus="0.000052910">18.925402740</period>
 			<radius errorminus="0.015" errorplus="0.029">0.205</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-770 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -45,4 +45,4 @@
 			<radius errorminus="0.010" errorplus="0.017">0.125</radius>
 		</planet>
 	</star>
-</system>
+<declination>+38d22m29.7s</declination><declination>+38 00 1350</declination><rightascension>19h05m57.70s</rightascension><rightascension>+286 00 1766</rightascension></system>

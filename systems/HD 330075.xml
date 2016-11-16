@@ -9,7 +9,7 @@
 		<magB errorminus="0.04" errorplus="0.04">10.23</magB>
 		<metallicity>0.03</metallicity>
 		<spectraltype>G5</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.0684]" planet_eccentricity_errorplus="[0.0, 0, 0.0187]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>HD 330075 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.62</mass>
@@ -20,8 +20,8 @@
 			<lastupdate>10/12/29</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>1023.2</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.0187</eccentricity><lastupdate>1/11/19</lastupdate><lastupdate>1/02/25</lastupdate><period>0</period><period>3.6413</period></planet>
 		<name>HD 330075</name>
 		<temperature>6295.0</temperature>
 	</star>
-</system>
+<declination>-49d57m48.7s</declination><declination>--49 00 -3468</declination><rightascension>15h49m37.69s</rightascension><rightascension>+237 00 1455</rightascension></system>

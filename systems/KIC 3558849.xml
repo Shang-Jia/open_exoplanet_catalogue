@@ -30,7 +30,7 @@
 			<description>The planet KIC 3558849 b was discovered and validated by the Planet Hunters project in 2015. Only one transit has been observed for this planet. The planet is validated with a confidence of 0.997.</description>
 			<lastupdate>16/01/09</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<lastupdate>1/01/05</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>KOI-4307.01</name>
 			<period errorminus="0.003187" errorplus="0.003187">160.850816</period>
@@ -45,4 +45,4 @@
 			<list>Controversial</list>
 		</planet>
 	</star>
-</system>
+<declination>+38d36m18.7s</declination><declination /><rightascension>19h39m47.96s</rightascension><rightascension /></system>

@@ -3,7 +3,7 @@
 	<rightascension>04 21 53</rightascension>
 	<declination>+57 49 01</declination>
 	<distance>260</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.08]" star_mass_errorplus="[0.0, 0, 0.08]" star_metallicity_errorminus="[0.0, 0, 0.04]" star_metallicity_errorplus="[0.0, 0, 0.04]" star_radius_errorminus="[0.0, 0, 0.08]" star_radius_errorplus="[0.0, 0, 0.08]" star_temperature_errorminus="[0.0, 0, 44.0]" star_temperature_errorplus="[0.0, 0, 44.0]">
 		<mass>1.213</mass>
 		<radius>1.377</radius>
 		<magV>9.8</magV>
@@ -29,8 +29,8 @@
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1554.5</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/31</lastupdate></planet>
 		<name>XO-3</name>
 		<temperature>6429.0</temperature>
-	</star>
-</system>
+	<radius>0</radius><radius>1.49</radius><temperature>0</temperature><temperature>6781.0</temperature><metallicity>0</metallicity><metallicity>-0.08</metallicity><mass>0</mass><mass>1.41</mass></star>
+<rightascension>04h21m52.70s</rightascension><rightascension>+65 00 1695</rightascension><declination>+57d49m01.9s</declination><declination>+57 00 2941</declination></system>

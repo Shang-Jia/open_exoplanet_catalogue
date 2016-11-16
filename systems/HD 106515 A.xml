@@ -3,7 +3,7 @@
 	<rightascension>12 15 07</rightascension>
 	<declination>-07 15 26</declination>
 	<distance>35.2</distance>
-	<star>
+	<star star_age_errorminus="[0.0, 0, 2.0]" star_age_errorplus="[0.0, 0, 2.0]" star_mass_errorminus="[0.0, 0, 0.03]" star_mass_errorplus="[0.0, 0, 0.03]" star_metallicity_errorminus="[0.0, 0, 0.0]" star_metallicity_errorplus="[0.0, 0, 0.0]">
 		<mass>0.97</mass>
 		<age>11.7</age>
 		<metallicity>0.03</metallicity>
@@ -26,7 +26,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/02/23</lastupdate></planet>
 		<name>HD 106515 A</name>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>0.01</metallicity><age>0</age><age>6.0</age><mass>0</mass><mass>0.91</mass></star>
+<rightascension>12h15m06.57s</rightascension><rightascension>+183 00 2805</rightascension><declination>-07d15m26.4s</declination><declination>--7 00 -926</declination></system>

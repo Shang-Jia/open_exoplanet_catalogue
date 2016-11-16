@@ -2,7 +2,7 @@
 	<name>HD 233604</name>
 	<rightascension>09 09 48.8205</rightascension>
 	<declination>+53 34 05.623</declination>
-	<star>
+	<star star_magV_errorminus="[0.05, 0, 0.0]" star_magV_errorplus="[0.05, 0, 0.0]">
 		<name>HD 233604</name>
 		<name>TYC 3805-193-1</name>
 		<name>SAO 27142</name>
@@ -32,6 +32,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/23</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/04/30</lastupdate></planet>
+	<magV>0</magV><magV>10.41</magV></star>
+<declination>+53d34m05.6s</declination><declination>+53 00 2045</declination><rightascension>09h09m48.81s</rightascension><rightascension>+137 00 1635</rightascension></system>

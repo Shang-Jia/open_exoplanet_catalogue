@@ -5,7 +5,7 @@
 	<rightascension>19 46 37</rightascension>
 	<declination>+46 50 06</declination>
 	<distance>428.30</distance>
-	<star>
+	<star star_mass_errorminus="[0.033, 0, 0.0]" star_mass_errorplus="[0.033, 0, 0.0]">
 		<magJ errorminus="0.021" errorplus="0.021">12.413</magJ>
 		<magH errorminus="0.017" errorplus="0.017">11.995</magH>
 		<magK errorminus="0.019" errorplus="0.019">11.900</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-221 d</name>
 			<name>KOI-720 d</name>
@@ -79,5 +79,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.72</mass></star>
+<rightascension>19h46m37.14s</rightascension><rightascension>+296 00 2357</rightascension><declination>+46d50m07.0s</declination><declination>+46 00 3007</declination></system>

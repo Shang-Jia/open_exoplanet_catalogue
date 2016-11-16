@@ -31,7 +31,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/26</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/02/23</lastupdate></planet>
 		<planet>
 			<name>BD+20 2457 c</name>
 			<name>BD20 2457 c</name>
@@ -48,4 +48,4 @@
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
-</system>
+<declination>+19d53m29.1s</declination><declination>+19 00 3209</declination><rightascension>10h16m44.86s</rightascension><rightascension>+154 00 675</rightascension></system>

@@ -24,7 +24,7 @@
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>581.9</temperature>
-		</planet>
+		<lastupdate /><lastupdate>1/09/12</lastupdate></planet>
 		<planet>
 			<name>HD 21693 c</name>
 			<list>Confirmed planets</list>
@@ -41,4 +41,4 @@
 		<name>HD 21693</name>
 		<temperature>5940.0</temperature>
 	</star>
-</system>
+<rightascension /><rightascension>+51 00 2880</rightascension><declination /><declination>--58 00 -1165</declination></system>

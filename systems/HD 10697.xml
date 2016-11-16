@@ -13,7 +13,7 @@
 		<magK errorminus="0.021" errorplus="0.021">4.601</magK>
 		<metallicity>0.1</metallicity>
 		<spectraltype>G5 IV</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.984]" planet_mass_errorplus="[0.0, 0, 3.3]">
 			<name>HD 10697 b</name>
 			<list>Confirmed planets</list>
 			<mass>6.38</mass>
@@ -25,8 +25,8 @@
 			<lastupdate>10/10/19</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 			<temperature>221.8</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/14</lastupdate><mass>0</mass><mass>6.83</mass></planet>
 		<name>HD 10697</name>
 		<temperature>5641.0</temperature>
 	</star>
-</system>
+<declination>+20d04m59.3s</declination><declination>+20 00 299</declination><rightascension>01h44m55.82s</rightascension><rightascension>+26 00 825</rightascension></system>

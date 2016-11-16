@@ -3,7 +3,7 @@
 	<rightascension>06 30 47.10797</rightascension>
 	<declination>+58 09 45.4809</declination>
 	<distance errorminus="1.5" errorplus="1.5">55.8</distance>
-	<star>
+	<star star_magH_errorminus="[0.252, 0, 0.0]" star_magH_errorplus="[0.252, 0, 0.0]">
 		<name>6 Lyn</name>
 		<name>6 Lyncis</name>
 		<name>HD 45410</name>
@@ -25,7 +25,7 @@
 		<metallicity>-0.13</metallicity>
 		<spectraltype>K0IV</spectraltype>
 		<temperature>4978.0</temperature>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.059, 0, 0.052]" planet_eccentricity_errorplus="[0.066, 0, 0.052]" planet_mass_errorminus="[0.16, 0, 66.0]" planet_mass_errorplus="[0.11, 0, 69.0]" planet_periastron_errorminus="[52.6, 0, 27.0]" planet_periastron_errorplus="[75.5, 0, 27.0]" planet_period_errorminus="[8.47, 0, 0.0]" planet_period_errorplus="[16.27, 0, 0.0]">
 			<name>6 Lyn b</name>
 			<name>6 Lyncis b</name>
 			<name>HD 45410 b</name>
@@ -42,6 +42,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/20</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<eccentricity>0</eccentricity><eccentricity>0.134</eccentricity><periastron>0</periastron><periastron>27.0</periastron><mass>0</mass><mass>69.0</mass><period>0</period><period>899.0</period><lastupdate>1/09/03</lastupdate><lastupdate>1/08/27</lastupdate></planet>
+	<magH>0</magH><magH>3.03</magH></star>
+<declination>+58d09m45.5s</declination><declination>+58 00 586</declination><rightascension>06h30m47.11s</rightascension><rightascension>+97 00 2505</rightascension></system>

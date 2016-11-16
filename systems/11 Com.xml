@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[1.7, 0, 0.0]" system_distance_errorplus="[1.7, 0, 0.0]">
 	<name>11 Com</name>
 	<rightascension>12 20 43</rightascension>
 	<declination>+17 47 34</declination>
@@ -36,7 +36,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/20</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/21</lastupdate></planet>
 	</star>
 	<videolink>http://youtu.be/qyJXJJDrEDo</videolink>
-</system>
+<distance>0</distance><distance>110.6</distance><declination>+17d47m34.3s</declination><declination>+17 00 2854</declination><rightascension>12h20m43.03s</rightascension><rightascension>+185 00 645</rightascension></system>

@@ -5,7 +5,7 @@
 	<rightascension>19 26 30</rightascension>
 	<declination>+41 12 30</declination>
 	<distance>429.55</distance>
-	<star>
+	<star star_mass_errorminus="[0.039, 0, 0.0]" star_mass_errorplus="[0.039, 0, 0.0]">
 		<magJ errorminus="0.021" errorplus="0.021">12.584</magJ>
 		<magH errorminus="0.018" errorplus="0.018">12.194</magH>
 		<magK errorminus="0.023" errorplus="0.023">12.075</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-390 c</name>
 			<name>KOI-2498 c</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.67</mass></star>
+<rightascension>19h26m30.91s</rightascension><rightascension>+291 00 2264</rightascension><declination>+41d12m31.0s</declination><declination>+41 00 751</declination></system>

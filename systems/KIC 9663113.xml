@@ -31,7 +31,7 @@
 			<description>The planet KIC 9663113 b was discovered and validated by the Planet Hunters project in 2015. Only two transits have been observed for this planet.</description>
 			<lastupdate>16/01/09</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<lastupdate>1/01/05</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>KOI-179.01</name>
 			<period errorminus="0.000065" errorplus="0.000065">20.74028413</period>
@@ -46,4 +46,4 @@
 			<list>Controversial</list>
 		</planet>
 	</star>
-</system>
+<declination>+46d19m43.3s</declination><declination /><rightascension>19h48m10.90s</rightascension><rightascension /></system>

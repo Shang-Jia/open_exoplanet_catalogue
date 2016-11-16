@@ -3,7 +3,7 @@
 	<rightascension>13 55 02</rightascension>
 	<declination>-17 30 13</declination>
 	<distance>330</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.037]" star_mass_errorplus="[0.0, 0, 0.037]" star_radius_errorminus="[0.0, 0, 0.036]" star_radius_errorplus="[0.0, 0, 0.036]">
 		<spectraltype>G1</spectraltype>
 		<mass>1.01</mass>
 		<radius>1.06</radius>
@@ -13,7 +13,7 @@
 		<magH errorminus="0.023" errorplus="0.023">10.443</magH>
 		<magK errorminus="0.024" errorplus="0.024">10.396</magK>
 		<metallicity>-0.2</metallicity>
-		<planet>
+		<planet planet_temperature_errorminus="[0.0, 0, 0.0]" planet_temperature_errorplus="[0.0, 0, 0.0]">
 			<name>WASP-55 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.57</mass>
@@ -29,8 +29,8 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1160.1</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<temperature>0</temperature><temperature>1290.0</temperature><lastupdate>1/02/25</lastupdate><lastupdate>1/08/17</lastupdate></planet>
 		<name>WASP-55</name>
 		<temperature>5900.0</temperature>
-	</star>
-</system>
+	<radius>0</radius><radius>1.011</radius><mass>0</mass><mass>1.013</mass></star>
+<rightascension>13h35m01.95s</rightascension><rightascension>+203 00 2730</rightascension><declination>-17d30m12.5s</declination><declination>--17 00 -1813</declination></system>

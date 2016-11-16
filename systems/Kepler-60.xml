@@ -3,7 +3,7 @@
 	<rightascension>19 15 50.698</rightascension>
 	<declination>+42 15 54.04</declination>
 	<distance>664.24</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.0]" star_mass_errorplus="[0.0, 0, 0.0]">
 		<name>Kepler-60</name>
 		<name>KOI-2086</name>
 		<name>KIC 6768394</name>
@@ -14,7 +14,7 @@
 		<magK errorminus="0.018" errorplus="0.018">12.516</magK>
 		<mass>1.105</mass>
 		<radius>1.5</radius>
-		<planet>
+		<planet planet_period_errorminus="[0.0006, 0, 0.0]" planet_period_errorplus="[0.0006, 0, 0.0]">
 			<name>Kepler-60 b</name>
 			<name>KOI-2086.01</name>
 			<name>KOI-2086 b</name>
@@ -33,7 +33,7 @@
 			<lastupdate>15/11/16</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<period>0</period><period>8.9193459</period><lastupdate>1/04/07</lastupdate><lastupdate>1/03/16</lastupdate></planet>
 		<planet>
 			<name>Kepler-60 c</name>
 			<name>KOI-2086.02</name>
@@ -74,5 +74,5 @@
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>1.1</mass></star>
+<declination>+42d15m54.0s</declination><declination>+42 00 954</declination><rightascension>19h15m50.70s</rightascension><rightascension>+288 00 3465</rightascension></system>

@@ -5,7 +5,7 @@
 	<rightascension>20 03 27</rightascension>
 	<declination>+44 20 15</declination>
 	<distance>453.9</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<magB>13.68</magB>
 		<magV>12.98</magV>
 		<magJ errorminus="0.020" errorplus="0.020">11.752</magJ>
@@ -33,7 +33,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/10/13</lastupdate><lastupdate>1/11/20</lastupdate></planet>
 		<planet>
 			<name>Kepler-106 e</name>
 			<name>KOI-116.02</name>
@@ -79,5 +79,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<magV>0</magV><magV>12.882</magV></star>
+<declination>+44d20m15.2s</declination><declination>+44 00 1215</declination><rightascension>20h03m27.35s</rightascension><rightascension>+300 00 3110</rightascension></system>

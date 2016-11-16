@@ -13,7 +13,7 @@
 		<magK errorminus="0.024" errorplus="0.024">6.807</magK>
 		<metallicity>0.24</metallicity>
 		<spectraltype>G0V</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.03383]" planet_mass_errorplus="[0.0, 0, 0.03394]">
 			<name>HD 17156 b</name>
 			<list>Confirmed planets</list>
 			<mass>3.191</mass>
@@ -28,8 +28,8 @@
 			<discoveryyear>2007</discoveryyear>
 			<temperature>790.5</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass>0</mass><mass>3.195</mass><lastupdate>1/10/29</lastupdate><lastupdate>1/08/16</lastupdate></planet>
 		<name>HD 17156</name>
 		<temperature>6079.0</temperature>
-	</star>
-</system>
+	<spectraltype /><spectraltype>G0</spectraltype></star>
+<rightascension>02h49m44.49s</rightascension><rightascension>+42 00 1560</rightascension><declination>+71d45m11.6s</declination><declination>+71 00 2712</declination></system>

@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-354 d</name>
 			<name>KOI-2045 d</name>
@@ -63,4 +63,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h03m00.35s</rightascension><rightascension>+285 00 2705</rightascension><declination>+41d20m08.3s</declination><declination>+41 00 1208</declination></system>

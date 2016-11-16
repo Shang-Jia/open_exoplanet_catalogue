@@ -3,7 +3,7 @@
 	<rightascension>18 42 31.13</rightascension>
 	<declination>+06 30 50.04</declination>
 	<distance errorminus="25" errorplus="85">1000</distance>
-	<star>
+	<star star_magV_errorminus="[0.031, 0, 0.0]" star_magV_errorplus="[0.031, 0, 0.0]">
 		<name>CoRoT-25</name>
 		<name>2MASS J18423111+0630497</name>
 		<magU errorminus="0.47" errorplus="0.47">15.93</magU>
@@ -32,6 +32,6 @@
 			<transittime errorminus="0.0008" errorplus="0.0008" unit="HJD">2454576.2156</transittime>
 			<lastupdate>13/05/24</lastupdate>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<discoveryyear /><discoveryyear>2012</discoveryyear><lastupdate>1/05/14</lastupdate><lastupdate>1/05/21</lastupdate></planet>
+	<spectraltype /><spectraltype>G0V</spectraltype><magV>0</magV><magV>15.0</magV></star>
+<declination>+06d30m49.8s</declination><declination>+06 00 1850</declination><rightascension>18h42m31.12s</rightascension><rightascension>+280 00 2265</rightascension></system>

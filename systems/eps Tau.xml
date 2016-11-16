@@ -7,8 +7,8 @@
 		<name>eps Tau</name>
 		<name>eps Tauri</name>
 		<name>Epsilon Tauri</name>
-		<name>ε Tau</name>
-		<name>ε Tauri</name>
+		<name>&#949; Tau</name>
+		<name>&#949; Tauri</name>
 		<name>74 Tau</name>
 		<name>74 Tauri</name>
 		<name>Ain</name>
@@ -32,12 +32,12 @@
 		<spectraltype>K0 III</spectraltype>
 		<temperature errorminus="20" errorplus="20">4901</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">0.17</metallicity>
-		<planet>
+		<planet planet_mass_errorminus="[0.2, 0, 0.4]" planet_mass_errorplus="[0.2, 0, 0.5]">
 			<name>eps Tau b</name>
 			<name>eps Tauri b</name>
 			<name>Epsilon Tauri b</name>
-			<name>ε Tau b</name>
-			<name>ε Tauri b</name>
+			<name>&#949; Tau b</name>
+			<name>&#949; Tauri b</name>
 			<list>Confirmed planets</list>
 			<list>Planets in open clusters</list>
 			<mass errorminus="0.2" errorplus="0.2" type="msini">7.6</mass>
@@ -50,6 +50,6 @@
 			<description>Epsilon Tauri b orbits a giant star in the Hyades cluster.</description>
 			<lastupdate>15/12/11</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-		</planet>
+		<mass>0</mass><mass>7.34</mass><lastupdate>1/05/14</lastupdate><lastupdate>1/02/01</lastupdate></planet>
 	</star>
-</system>
+<declination>+19d10m49.6s</declination><declination>+19 00 650</declination><rightascension>04h28m37.00s</rightascension><rightascension>+67 00 555</rightascension></system>

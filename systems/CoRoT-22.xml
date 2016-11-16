@@ -3,7 +3,7 @@
 	<rightascension>18 42 40.109</rightascension>
 	<declination>+06 13 08.97</declination>
 	<distance errorminus="42" errorplus="25">592.0</distance>
-	<star>
+	<star star_magV_errorminus="[0.083, 0, 0.0]" star_magV_errorplus="[0.083, 0, 0.0]">
 		<magB errorminus="0.041" errorplus="0.041">14.740</magB>
 		<magV errorminus="0.083" errorplus="0.083">13.944</magV>
 		<magR errorminus="0.10" errorplus="0.10">14.03</magR>
@@ -36,6 +36,6 @@
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/08/28</lastupdate>
-		</planet>
-	</star>
-</system>
+		<discoveryyear /><discoveryyear>2011</discoveryyear><lastupdate>1/08/21</lastupdate><lastupdate>1/08/28</lastupdate></planet>
+	<magV>0</magV><magV>11.93</magV></star>
+<declination>+06d13m08.9s</declination><declination>+06 00 810</declination><rightascension>18h42m40.11s</rightascension><rightascension>+280 00 2400</rightascension></system>

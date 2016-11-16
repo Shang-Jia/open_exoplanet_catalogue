@@ -26,7 +26,7 @@
 			<lastupdate>11/01/04</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 			<temperature>291.4</temperature>
-		</planet>
+		<lastupdate>1/11/19</lastupdate><lastupdate>1/02/13</lastupdate></planet>
 		<planet>
 			<name>HD 12661 c</name>
 			<list>Confirmed planets</list>
@@ -42,4 +42,4 @@
 		<name>HD 12661</name>
 		<temperature>5742.0</temperature>
 	</star>
-</system>
+<declination>+25d24m51.5s</declination><declination>+25 00 1491</declination><rightascension>02h04m34.29s</rightascension><rightascension>+31 00 510</rightascension></system>

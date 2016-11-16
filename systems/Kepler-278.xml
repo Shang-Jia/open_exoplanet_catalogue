@@ -5,7 +5,7 @@
 	<rightascension>19 20 25</rightascension>
 	<declination>+38 42 08</declination>
 	<distance>511.95</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.1, 0, 0.0]" star_metallicity_errorplus="[0.1, 0, 0.0]">
 		<magB errorminus="0.24" errorplus="0.24">12.79</magB>
 		<magV errorminus="0.14" errorplus="0.14">11.81</magV>
 		<magJ errorminus="0.021" errorplus="0.021">10.047</magJ>
@@ -18,7 +18,7 @@
 		<radius errorminus="0.066" errorplus="0.066">2.935</radius>
 		<mass errorminus="0.0690" errorplus="0.0690">1.0790</mass>
 		<metallicity errorminus="0.10" errorplus="0.10">0.28</metallicity>
-		<planet>
+		<planet planet_period_errorminus="[0.000311, 0, 0.0]" planet_period_errorplus="[0.000311, 0, 0.0]" planet_radius_errorminus="[0.01458, 0, 0.023]" planet_radius_errorplus="[0.01458, 0, 0.023]" planet_semimajoraxis_errorminus="[0.004, 0, 0.0]" planet_semimajoraxis_errorplus="[0.004, 0, 0.0]">
 			<name>Kepler-278 b</name>
 			<name>KOI-1221 b</name>
 			<name>KOI-1221.01</name>
@@ -36,7 +36,7 @@
 			<lastupdate>15/07/28</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>0.207</semimajoraxis><radius>0</radius><radius>0.409</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/12/18</lastupdate><period>0</period><period>30.15856</period></planet>
 		<planet>
 			<name>Kepler-278 c</name>
 			<name>KOI-1221 c</name>
@@ -55,5 +55,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>0.422</metallicity></star>
+<declination>+38d42m08.0s</declination><declination>+38 00 2528</declination><rightascension>19h20m25.73s</rightascension><rightascension>+290 00 386</rightascension></system>

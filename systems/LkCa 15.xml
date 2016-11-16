@@ -24,8 +24,8 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>11/10/19</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-		</planet>
+		<lastupdate>1/12/03</lastupdate><lastupdate /></planet>
 		<name>LkCa 15</name>
 		<temperature>5150.0</temperature>
 	</star>
-</system>
+<rightascension>04h39m17.80s</rightascension><rightascension /><declination>+22d21m03.5s</declination><declination /></system>

@@ -24,7 +24,7 @@
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>851.8</temperature>
-		</planet>
+		<lastupdate /><lastupdate>1/09/12</lastupdate></planet>
 		<planet>
 			<name>HD 93385 c</name>
 			<list>Confirmed planets</list>
@@ -41,4 +41,4 @@
 		<name>HD 93385</name>
 		<temperature>5940.0</temperature>
 	</star>
-</system>
+<rightascension /><rightascension>+161 00 2025</rightascension><declination /><declination>--41 00 -1672</declination></system>

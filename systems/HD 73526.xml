@@ -14,7 +14,7 @@
 		<metallicity errorminus="0.05" errorplus="0.05">0.25</metallicity>
 		<age>5.59</age>
 		<spectraltype>G6 V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.021, 0, 0.03]" planet_eccentricity_errorplus="[0.021, 0, 0.03]" planet_period_errorminus="[0.21, 0, 0.0]" planet_period_errorplus="[0.21, 0, 0.0]">
 			<name>HD 73526 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.12" errorplus="0.12">2.35</mass>
@@ -26,7 +26,7 @@
 			<lastupdate>14/03/03</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>369.5</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.29</eccentricity><lastupdate>1/05/14</lastupdate><lastupdate>1/01/20</lastupdate><period>0</period><period>188.9</period></planet>
 		<planet>
 			<name>HD 73526 c</name>
 			<list>Confirmed planets</list>
@@ -43,4 +43,4 @@
 		<name>HD 73526</name>
 		<temperature>5590.0</temperature>
 	</star>
-</system>
+<declination>-41d19m08.8s</declination><declination>--41 00 -1148</declination><rightascension>08h37m16.48s</rightascension><rightascension>+129 00 1140</rightascension></system>

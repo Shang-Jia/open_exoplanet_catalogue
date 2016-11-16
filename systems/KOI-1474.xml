@@ -2,7 +2,7 @@
 	<name>KOI-1474</name>
 	<rightascension>19 41 40.30</rightascension>
 	<declination>+51 11 05.2</declination>
-	<star>
+	<star star_mass_errorminus="[0.07, 0, 0.08]" star_mass_errorplus="[0.08, 0, 0.08]" star_radius_errorminus="[0.07, 0, 0.21]" star_radius_errorplus="[0.08, 0, 0.21]" star_temperature_errorminus="[0.0, 0, 100.0]" star_temperature_errorplus="[0.0, 0, 100.0]">
 		<name>KOI-1474</name>
 		<name>Kepler-419</name>
 		<name>KIC 12365184</name>
@@ -34,7 +34,7 @@
 			<discoveryyear>2015</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/06/25</lastupdate><lastupdate>1/08/28</lastupdate><discoveryyear /><discoveryyear>2014</discoveryyear></planet>
 		<planet>
 			<name>Kepler-419 c</name>
 			<name>KOI-1474 c</name>
@@ -54,5 +54,5 @@
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>0</istransiting>
 		</planet>
-	</star>
-</system>
+	<radius>0</radius><radius>1.4</radius><temperature>0</temperature><temperature>6230.0</temperature><mass>0</mass><mass>1.22</mass></star>
+<declination>+51d11m05.2s</declination><declination>+51 00 665</declination><rightascension>19h41m40.30s</rightascension><rightascension>+295 00 1500</rightascension></system>

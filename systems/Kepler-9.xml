@@ -3,7 +3,7 @@
 	<rightascension>19 02 17</rightascension>
 	<declination>+38 24 03</declination>
 	<distance>650</distance>
-	<star>
+	<star star_mass_errorminus="[0.05, 0, 0.1]" star_mass_errorplus="[0.05, 0, 0.1]" star_metallicity_errorminus="[0.04, 0, 0.0]" star_metallicity_errorplus="[0.04, 0, 0.0]" star_radius_errorminus="[0.05, 0, 0.09]" star_radius_errorplus="[0.05, 0, 0.09]">
 		<name>Kepler-9</name>
 		<name>KOI-377</name>
 		<name>KIC 3323887</name>
@@ -17,7 +17,7 @@
 		<magH errorminus="0.021" errorplus="0.021">12.391</magH>
 		<magK errorminus="0.021" errorplus="0.021">12.337</magK>
 		<metallicity errorminus="0.04" errorplus="0.04">0.12</metallicity>
-		<planet>
+		<planet planet_mass_errorminus="[0.01, 0, 0.00314633609162]" planet_mass_errorplus="[0.01, 0, 0.00314633609162]" planet_radius_errorminus="[0.07, 0, 0.00892141836278]" planet_radius_errorplus="[0.07, 0, 0.00892141836278]">
 			<name>Kepler-9 b</name>
 			<name>2MASS J19021775+3824032 b</name>
 			<name>KIC 3323887 b</name>
@@ -36,7 +36,7 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>707.2</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<radius>0</radius><radius>0.954591764817</radius><mass>0</mass><mass>0.0975364188403</mass><lastupdate>1/05/14</lastupdate><lastupdate>1/08/16</lastupdate></planet>
 		<planet>
 			<name>Kepler-9 c</name>
 			<name>2MASS J19021775+3824032 c</name>
@@ -75,5 +75,5 @@
 			<temperature>1601.5</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>0.17</metallicity><mass>0</mass><mass>1.0</mass><radius>0</radius><radius>1.1</radius></star>
+<declination>+38d24m03.2s</declination><declination>+38 00 1443</declination><rightascension>19h02m17.76s</rightascension><rightascension>+285 00 2070</rightascension></system>

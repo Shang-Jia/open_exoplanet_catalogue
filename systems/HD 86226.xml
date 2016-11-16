@@ -3,7 +3,7 @@
 	<rightascension>09 56 30</rightascension>
 	<declination>-24 05 58</declination>
 	<distance>42.48</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.0]" star_mass_errorplus="[0.0, 0, 0.0]" star_metallicity_errorminus="[0.0, 0, 0.0]" star_metallicity_errorplus="[0.0, 0, 0.0]">
 		<name>HD 86226</name>
 		<age>1.5</age>
 		<mass>1.06</mass>
@@ -16,7 +16,7 @@
 		<metallicity>0.05</metallicity>
 		<radius>1.02</radius>
 		<spectraltype>G2V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.21]" planet_eccentricity_errorplus="[0.0, 0, 0.21]" planet_mass_errorminus="[0.0, 0, 1.0]" planet_mass_errorplus="[0.0, 0, 1.0]" planet_periastron_errorminus="[0.0, 0, 50.0]" planet_periastron_errorplus="[0.0, 0, 50.0]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.4]" planet_semimajoraxis_errorplus="[0.0, 0, 0.4]">
 			<name>HD 86226 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.92</mass>
@@ -28,7 +28,7 @@
 			<lastupdate>12/11/29</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>154.0</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.73</eccentricity><semimajoraxis>0</semimajoraxis><semimajoraxis>2.6</semimajoraxis><mass>0</mass><mass>1.5</mass><period>0</period><period>1534.0</period><lastupdate>1/05/14</lastupdate><lastupdate>1/08/27</lastupdate><periastron>0</periastron><periastron>58.0</periastron></planet>
 		<temperature>5940.0</temperature>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>-0.04</metallicity><mass>0</mass><mass>1.02</mass></star>
+<declination>-24d05m57.8s</declination><declination>--24 00 -358</declination><rightascension>09h56m29.85s</rightascension><rightascension>+149 00 450</rightascension></system>

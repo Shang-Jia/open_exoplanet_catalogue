@@ -30,8 +30,8 @@
 			<discoveryyear>2008</discoveryyear>
 			<temperature>1359.5</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/09/20</lastupdate></planet>
 		<name>WASP-7</name>
 		<temperature>6400.0</temperature>
 	</star>
-</system>
+<rightascension>20h44m10.23s</rightascension><rightascension>+311 00 150</rightascension><declination>-39d13m31.0s</declination><declination>--39 00 -811</declination></system>

@@ -33,7 +33,7 @@
 			<description>KOI-351 is the first seven planet system discovered by Kepler. It is somewhat similar to our own Solar System, but much more compact. Two independent groups have found the transits in the Kepler data, one of them being citizen scientists (PlanetHunters.org).</description>
 			<istransiting>1</istransiting>
 			<mass upperlimit="1.2" />
-		</planet>
+		<lastupdate /><lastupdate>1/02/24</lastupdate></planet>
 		<planet>
 			<name>Kepler-90 g</name>
 			<name>KOI-351 g</name>
@@ -138,4 +138,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination /><declination>+49 00 1099</declination><rightascension /><rightascension>+284 00 1561</rightascension></system>

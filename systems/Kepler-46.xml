@@ -35,7 +35,7 @@
 			<eccentricity>0.010</eccentricity>
 			<semimajoraxis>0.19680</semimajoraxis>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>Kepler-46 c</name>
 			<name>KIC 7109675 c</name>
@@ -72,4 +72,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+42d36m15.0s</declination><declination /><rightascension>19h17m04.50s</rightascension><rightascension /></system>

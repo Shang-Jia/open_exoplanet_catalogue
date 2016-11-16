@@ -14,7 +14,7 @@
 		<magK errorminus="0.03" errorplus="0.03">12.36</magK>
 		<metallicity>0.05</metallicity>
 		<spectraltype>G0V</spectraltype>
-		<planet>
+		<planet planet_radius_errorminus="[0.0, 0, 0.13]" planet_radius_errorplus="[0.0, 0, 0.13]">
 			<name>CoRoT-23 b</name>
 			<name>2MASS J18390782+0421281 b</name>
 			<list>Confirmed planets</list>
@@ -30,8 +30,8 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1508.9</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<radius>0</radius><radius>1.08</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/01/26</lastupdate></planet>
 		<name>CoRoT-23</name>
 		<temperature>5900.0</temperature>
 	</star>
-</system>
+<rightascension>18h39m07.83s</rightascension><rightascension>+279 00 2817</rightascension><declination>+04d21m28.1s</declination><declination>+04 00 1288</declination></system>

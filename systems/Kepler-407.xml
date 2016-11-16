@@ -31,7 +31,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/10/13</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>Kepler-407 c</name>
 			<name>KOI-1442.10</name>
@@ -46,4 +46,4 @@
 			<discoverymethod>RV</discoverymethod>
 		</planet>
 	</star>
-</system>
+<declination>+49d36m52.2s</declination><declination /><rightascension>19h04m08.72s</rightascension><rightascension /></system>

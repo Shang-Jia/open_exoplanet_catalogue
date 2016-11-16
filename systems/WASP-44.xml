@@ -2,7 +2,7 @@
 	<name>WASP-44</name>
 	<rightascension>00 15 37</rightascension>
 	<declination>-11 56 17</declination>
-	<star>
+	<star star_age_errorminus="[0.0, 0, 0.6]" star_age_errorplus="[0.0, 0, 0.6]" star_mass_errorminus="[0.0, 0, 0.034]" star_mass_errorplus="[0.0, 0, 0.034]" star_radius_errorminus="[0.0, 0, 0.07]" star_radius_errorplus="[0.0, 0, 0.07]">
 		<mass>0.917</mass>
 		<radius>0.865</radius>
 		<magV>12.9</magV>
@@ -15,7 +15,7 @@
 		<metallicity>0.06</metallicity>
 		<spectraltype>G8V</spectraltype>
 		<age>4.1</age>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.062]" planet_mass_errorplus="[0.0, 0, 0.062]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 0.11]" planet_radius_errorplus="[0.0, 0, 0.11]" planet_semimajoraxis_errorminus="[0.0, 0, 0.00041]" planet_semimajoraxis_errorplus="[0.0, 0, 0.00041]">
 			<name>WASP-44 b</name>
 			<name>2MASS J00153675-1156172 b</name>
 			<list>Confirmed planets</list>
@@ -32,8 +32,8 @@
 			<lastupdate>13/01/14</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>0.03473</semimajoraxis><radius>0</radius><radius>1.14</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/01/16</lastupdate><mass>0</mass><mass>0.889</mass><period>0</period><period>2.4238039</period></planet>
 		<name>WASP-44</name>
 		<temperature>5410.0</temperature>
-	</star>
-</system>
+	<age>0</age><age>0.9</age><mass>0</mass><mass>0.951</mass><radius>0</radius><radius>0.927</radius></star>
+<declination>-11d56m17.2s</declination><declination>--11 00 -3377</declination><rightascension>00h15m36.76s</rightascension><rightascension>+03 00 3255</rightascension></system>

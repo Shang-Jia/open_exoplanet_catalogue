@@ -5,7 +5,7 @@
 	<rightascension>19 39 05</rightascension>
 	<declination>+43 03 22</declination>
 	<distance>499.51</distance>
-	<star>
+	<star star_radius_errorminus="[0.021, 0, 0.0]" star_radius_errorplus="[0.021, 0, 0.0]" star_temperature_errorminus="[100.0, 0, 0.0]" star_temperature_errorplus="[100.0, 0, 0.0]">
 		<magJ errorminus="0.023" errorplus="0.023">13.508</magJ>
 		<magH errorminus="0.024" errorplus="0.024">12.897</magH>
 		<magK errorminus="0.021" errorplus="0.021">12.648</magK>
@@ -15,7 +15,7 @@
 		<temperature errorminus="100" errorplus="100">4252</temperature>
 		<radius errorminus=".021" errorplus="0.021">0.554</radius>
 		<mass errorminus="0.0330" errorplus="0.0330">0.5140</mass>
-		<planet>
+		<planet planet_period_errorminus="[0.0001, 0, 0.0]" planet_period_errorplus="[0.0001, 0, 0.0]" planet_radius_errorminus="[0.01094, 0, 0.0]" planet_radius_errorplus="[0.01094, 0, 0.0]" planet_transittime_errorminus="[0.00623, 0, 0.0091]" planet_transittime_errorplus="[0.00623, 0, 0.0091]">
 			<name>Kepler-54 b</name>
 			<name>KOI-886 b</name>
 			<name>KOI-886.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/17</lastupdate><transittime>0</transittime><transittime>2454976.44842</transittime><period>0</period><period>12.0717249</period><radius>0</radius><radius>0.11</radius><discoveryyear /><discoveryyear>2012</discoveryyear></planet>
 		<planet>
 			<name>Kepler-54 c</name>
 			<name>KOI-886 c</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<radius>0</radius><radius>0.5</radius><temperature>0</temperature><temperature>3705.0</temperature></star>
+<rightascension>19h39m05.75s</rightascension><rightascension>+294 00 2790</rightascension><declination>+43d03m22.7s</declination><declination>+43 00 203</declination></system>

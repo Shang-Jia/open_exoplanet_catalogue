@@ -17,7 +17,7 @@
 		<temperature errorminus="83" errorplus="83">5770</temperature>
 		<radius errorminus="0.051" errorplus="0.051">1.641</radius>
 		<mass errorminus="0.0690" errorplus="0.0690">1.1850</mass>
-		<planet>
+		<planet planet_period_errorminus="[6.8e-05, 0, 0.0]" planet_period_errorplus="[6.8e-05, 0, 0.0]">
 			<name>Kepler-129 b</name>
 			<name>KOI-275 b</name>
 			<name>KOI-275.01</name>
@@ -35,7 +35,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/17</lastupdate><period>0</period><period>15.791619</period></planet>
 		<planet>
 			<name>Kepler-129 c</name>
 			<name>KOI-275 c</name>
@@ -56,4 +56,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+47d50m54.9s</declination><declination>+47 00 3055</declination><rightascension>19h01m14.71s</rightascension><rightascension>+285 00 1121</rightascension></system>

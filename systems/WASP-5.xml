@@ -31,8 +31,8 @@
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1584.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/10/29</lastupdate><lastupdate>1/08/05</lastupdate></planet>
 		<name>WASP-5</name>
 		<temperature>5700.0</temperature>
 	</star>
-</system>
+<declination>-41d16m37.7s</declination><declination>--41 00 -998</declination><rightascension>23h57m23.76s</rightascension><rightascension>+359 00 1260</rightascension></system>

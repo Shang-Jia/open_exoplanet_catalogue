@@ -1,10 +1,10 @@
-<system>
+<system system_distance_errorminus="[0.0, 0, 0.0]" system_distance_errorplus="[0.0, 0, 0.0]">
 	<name>HD 120084</name>
 	<name>HR 5184</name>
 	<rightascension>13 42 39</rightascension>
 	<declination>+78 03 51</declination>
 	<distance>98</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.3]" star_mass_errorplus="[0.0, 0, 0.06]">
 		<magB>6.901</magB>
 		<magV>5.910</magV>
 		<magJ errorminus="0.282" errorplus="0.282">4.091</magJ>
@@ -30,6 +30,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>13/04/17</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/25</lastupdate></planet>
+	<mass>0</mass><mass>2.39</mass><spectraltype /><spectraltype>G7 III</spectraltype></star>
+<distance>0</distance><distance>97.7</distance><rightascension>13h42m39.20s</rightascension><rightascension>+205 00 2580</rightascension><declination>+78d03m52.0s</declination><declination>+78 00 222</declination></system>

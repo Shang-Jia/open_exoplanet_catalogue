@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000092250" errorplus="0.000092250">20.422287980</period>
 			<radius errorminus="0.015" errorplus="0.024">0.164</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-887 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.010" errorplus="0.015">0.101</radius>
 		</planet>
 	</star>
-</system>
+<declination>+39d49m01.2s</declination><declination>+39 00 2941</declination><rightascension>19h20m21.79s</rightascension><rightascension>+290 00 327</rightascension></system>

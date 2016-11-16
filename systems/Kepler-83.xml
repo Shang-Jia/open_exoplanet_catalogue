@@ -5,7 +5,7 @@
 	<rightascension>18 48 55</rightascension>
 	<declination>+43 39 56</declination>
 	<distance>619.67</distance>
-	<star>
+	<star star_radius_errorminus="[0.033, 0, 0.011]" star_radius_errorplus="[0.033, 0, 0.011]" star_temperature_errorminus="[16.0, 0, 75.0]" star_temperature_errorplus="[116.0, 0, 75.0]">
 		<magJ errorminus="0.021" errorplus="0.021">13.737</magJ>
 		<magH errorminus="0.023" errorplus="0.023">13.079</magH>
 		<magK errorminus="0.024" errorplus="0.024">12.947</magK>
@@ -15,7 +15,7 @@
 		<temperature errorminus="16" errorplus="116">4648</temperature>
 		<radius errorminus=".033" errorplus="0.033">0.594</radius>
 		<mass errorminus="0.0310" errorplus="0.0310">0.6640</mass>
-		<planet>
+		<planet planet_period_errorminus="[0.000102, 0, 0.0]" planet_period_errorplus="[0.000102, 0, 0.0]" planet_radius_errorminus="[0.0319, 0, 0.21]" planet_radius_errorplus="[0.0319, 0, 0.21]">
 			<name>Kepler-83 b</name>
 			<name>KOI-898 b</name>
 			<name>KOI-898.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/09/22</lastupdate><period>0</period><period>20.08976</period><radius>0</radius><radius>0.1733</radius><discoveryyear /><discoveryyear>2013</discoveryyear></planet>
 		<planet>
 			<name>Kepler-83 d</name>
 			<name>KOI-898 d</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<radius>0</radius><radius>0.539</radius><temperature>0</temperature><temperature>4164.0</temperature></star>
+<rightascension>18h48m55.81s</rightascension><rightascension>+282 00 837</rightascension><declination>+43d39m56.3s</declination><declination>+43 00 2396</declination></system>

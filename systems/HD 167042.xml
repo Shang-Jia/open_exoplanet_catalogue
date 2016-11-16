@@ -23,7 +23,7 @@
 		<magK errorminus="0.238" errorplus="0.238">3.550</magK>
 		<metallicity>0.05</metallicity>
 		<spectraltype>K1 IV</spectraltype>
-		<planet>
+		<planet planet_periastron_errorminus="[35.8, 0, 40.0]" planet_periastron_errorplus="[35.4, 0, 40.0]" planet_period_errorminus="[3.11, 0, 0.0]" planet_period_errorplus="[3.48, 0, 0.0]">
 			<name>HD 167042 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.12" errorplus="0.09" type="msini">1.70</mass>
@@ -36,6 +36,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/20</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<periastron>0</periastron><periastron>34.0</periastron><period>0</period><period>416.1</period><lastupdate>1/05/14</lastupdate><lastupdate>0/10/19</lastupdate></planet>
+	<spectraltype /><spectraltype>K1III</spectraltype></star>
+<declination>+54d17m11.6s</declination><declination>+54 00 1032</declination><rightascension>18h10m31.64s</rightascension><rightascension>+272 00 2280</rightascension></system>

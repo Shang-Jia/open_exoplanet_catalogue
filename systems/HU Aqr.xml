@@ -25,7 +25,7 @@
 			<mass errorminus="0.06" errorplus="0.06">0.18</mass>
 			<spectraltype>M4V</spectraltype>
 		</star>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.03]" planet_eccentricity_errorplus="[0.0, 0, 0.03]" planet_mass_errorminus="[0.0, 0, 0.1]" planet_mass_errorplus="[0.0, 0, 0.1]" planet_periastron_errorminus="[0.0, 0, 1.0]" planet_periastron_errorplus="[0.0, 0, 1.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.0]" planet_semimajoraxis_errorplus="[0.0, 0, 0.0]">
 			<name>HU Aqr (AB) b</name>
 			<mass>4.758</mass>
 			<semimajoraxis>3.602</semimajoraxis>
@@ -40,7 +40,7 @@
 			<lastupdate>15/05/24</lastupdate>
 			<description>The eclipse timing data for HU Aquarii does not allow for any stable coplanar 2-planet systems and is not sufficient to uniquely constrain a stable 3-planet system. The data given here are for a stable coplanar 3-planet system where the middle planet orbits in a retrograde direction. The eclipse timing variations may be due to the Applegate mechanism rather than reflex motion due to circumbinary planets: the luminosity variations associated with this mechanism may be smoothed out by the long thermal timescale of the stellar convection zone.</description>
 			<list>Planets in binary systems, P-type</list>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.29</eccentricity><lastupdate /><lastupdate>1/02/23</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>6.18</semimajoraxis><mass>0</mass><mass>5.9</mass><periastron>0</periastron><periastron>351.0</periastron></planet>
 		<planet>
 			<name>HU Aqr (AB) c</name>
 			<mass>20.20</mass>
@@ -74,4 +74,4 @@
 			<list>Planets in binary systems, P-type</list>
 		</planet>
 	</binary>
-</system>
+<declination /><declination>--5 00 -1061</declination><rightascension /><rightascension>+316 00 3570</rightascension></system>

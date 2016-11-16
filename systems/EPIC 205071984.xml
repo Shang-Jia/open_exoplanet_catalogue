@@ -14,7 +14,7 @@
 		<metallicity errorminus="0.04" errorplus="0.04">0.00</metallicity>
 		<mass errorminus="0.04" errorplus="0.04">0.87</mass>
 		<radius errorminus="0.05" errorplus="0.05">0.87</radius>
-		<planet>
+		<planet planet_semimajoraxis_errorminus="[0.0031, 0, 0.0024]" planet_semimajoraxis_errorplus="[0.0031, 0, 0.0024]">
 			<name>EPIC 205071984 b</name>
 			<transittime errorminus="0.0009" errorplus="0.0009" unit="BJD">2456900.9258</transittime>
 			<period errorminus="0.00020" errorplus="0.00020">8.99218</period>
@@ -27,7 +27,7 @@
 			<description>EPIC 205071984 is a multi-transiting system in the K2 mission campaign 2 field.</description>
 			<lastupdate>15/12/06</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>0.1407</semimajoraxis><lastupdate /><lastupdate>1/08/21</lastupdate></planet>
 		<planet>
 			<name>EPIC 205071984 c</name>
 			<transittime errorminus="0.0101" errorplus="0.0101" unit="BJD">2456899.4306</transittime>
@@ -57,4 +57,4 @@
 			<list>Confirmed planets</list>
 		</planet>
 	</star>
-</system>
+<declination /><declination>--19 00 -1954</declination><rightascension /><rightascension>+252 00 1534</rightascension></system>

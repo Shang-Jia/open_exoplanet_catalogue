@@ -3,7 +3,7 @@
 	<rightascension>19 50 50</rightascension>
 	<declination>+48 04 51</declination>
 	<distance>38</distance>
-	<star>
+	<star star_magV_errorminus="[0.02, 0, 0.0]" star_magV_errorplus="[0.02, 0, 0.0]">
 		<name>HAT-P-11</name>
 		<name>Kepler-3</name>
 		<name>KOI-3</name>
@@ -19,7 +19,7 @@
 		<magK errorminus="0.020" errorplus="0.020">7.009</magK>
 		<metallicity>0.31</metallicity>
 		<spectraltype>K4</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.0009]" planet_eccentricity_errorplus="[0.0, 0, 0.0003]" planet_inclination_errorminus="[0.0, 0, 0.09]" planet_inclination_errorplus="[0.0, 0, 0.15]" planet_mass_errorminus="[0.0, 0, 0.00899852122204]" planet_mass_errorplus="[0.0, 0, 0.00899852122204]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 1.33821275442]" planet_radius_errorplus="[0.0, 0, 1.33821275442]" planet_temperature_errorminus="[0.0, 0, 0.0]" planet_temperature_errorplus="[0.0, 0, 0.0]">
 			<name>HAT-P-11 b</name>
 			<name>HIP 97657 b</name>
 			<name>TYC 3561-02092-1 b</name>
@@ -43,7 +43,7 @@
 			<temperature>790.9</temperature>
 			<transittime errorminus="0.00032" errorplus="0.00032" unit="BJD">2454605.89132</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.265</eccentricity><temperature>0</temperature><temperature>750.0</temperature><radius>0</radius><radius>0.421983088559</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/11/02</lastupdate><mass>0</mass><mass>0.0824340056005</mass><inclination>0</inclination><inclination>89.05</inclination><period>0</period><period>4.887802443</period></planet>
 		<temperature>4780.0</temperature>
-	</star>
-</system>
+	<magV>0</magV><magV>9.59</magV></star>
+<declination>+48d04m51.1s</declination><declination>+48 00 291</declination><rightascension>19h50m50.24s</rightascension><rightascension>+297 00 2550</rightascension></system>

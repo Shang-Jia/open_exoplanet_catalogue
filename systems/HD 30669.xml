@@ -35,6 +35,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>15/11/21</lastupdate>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/01/08</lastupdate><lastupdate>1/06/14</lastupdate></planet>
+	<spectraltype /><spectraltype>G9V</spectraltype></star>
+<declination>-28d25m09.5s</declination><declination>--28 00 -1509</declination><rightascension>04h48m28.49s</rightascension><rightascension>+72 00 435</rightascension></system>

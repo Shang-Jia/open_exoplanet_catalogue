@@ -3,7 +3,7 @@
 	<rightascension>21 52 35</rightascension>
 	<declination>-26 49 44</declination>
 	<distance>54.4</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<mass>0.94</mass>
 		<radius>0.901</radius>
 		<magV>5.11</magV>
@@ -25,7 +25,7 @@
 			<lastupdate>12/07/13</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>316.5</temperature>
-		</planet>
+		<lastupdate>1/09/10</lastupdate><lastupdate>1/05/26</lastupdate></planet>
 		<planet>
 			<name>HD 207832 c</name>
 			<list>Confirmed planets</list>
@@ -41,5 +41,5 @@
 		</planet>
 		<name>HD 207832</name>
 		<temperature>5710.0</temperature>
-	</star>
-</system>
+	<magV>0</magV><magV>8.7986</magV></star>
+<rightascension>21h52m36.28s</rightascension><rightascension>+328 00 540</rightascension><declination>-26d01m35.6s</declination><declination>--26 00 -96</declination></system>

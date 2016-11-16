@@ -27,7 +27,7 @@
 			<name>KOI-1740.01</name>
 			<name>KIC 6762829 B</name>
 		</star>
-		<planet>
+		<planet planet_inclination_errorminus="[0.0, 0, 0.026]" planet_inclination_errorplus="[0.0, 0, 0.026]" planet_radius_errorminus="[0.0, 0, 0.01]" planet_radius_errorplus="[0.0, 0, 0.01]">
 			<name>Kepler-38 (AB) b</name>
 			<name>KIC 6762829 (AB) b</name>
 			<name>KOI-1740.02</name>
@@ -47,7 +47,7 @@
 			<discoveryyear>2012</discoveryyear>
 			<list>Planets in binary systems, P-type</list>
 			<istransiting>1</istransiting>
-		</planet>
+		<inclination>0</inclination><inclination>89.446</inclination><radius>0</radius><radius>0.39</radius><lastupdate /><lastupdate>1/02/23</lastupdate></planet>
 	</binary>
 	<videolink>http://youtu.be/4ivxxwksL04</videolink>
-</system>
+<rightascension /><rightascension>+286 00 2985</rightascension><declination /><declination>+42 00 1005</declination></system>

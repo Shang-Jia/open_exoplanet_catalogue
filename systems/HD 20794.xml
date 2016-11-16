@@ -3,7 +3,7 @@
 	<rightascension>03 19 55</rightascension>
 	<declination>-43 30 10</declination>
 	<distance>6.06</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.04]" star_mass_errorplus="[0.0, 0, 0.04]" star_metallicity_errorminus="[0.0, 0, 0.06]" star_metallicity_errorplus="[0.0, 0, 0.06]">
 		<mass>0.70</mass>
 		<magV>4.26</magV>
 		<magR>3.65</magR>
@@ -14,7 +14,7 @@
 		<magK errorminus="0.278" errorplus="0.278">2.636</magK>
 		<metallicity>-0.40</metallicity>
 		<spectraltype>G8V</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0013]" planet_mass_errorplus="[0.0, 0, 0.0013]">
 			<name>HD 20794 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.0084933</mass>
@@ -26,7 +26,7 @@
 			<lastupdate>11/08/18</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>661.0</temperature>
-		</planet>
+		<mass>0</mass><mass>0.0076</mass><lastupdate>1/08/27</lastupdate><lastupdate>1/08/03</lastupdate></planet>
 		<planet>
 			<name>HD 20794 c</name>
 			<list>Confirmed planets</list>
@@ -55,5 +55,5 @@
 		</planet>
 		<name>HD 20794</name>
 		<temperature>5490.0</temperature>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>-0.38</metallicity><mass>0</mass><mass>0.85</mass></star>
+<declination>-43d04m11.2s</declination><declination>--43 00 -251</declination><rightascension>03h19m55.65s</rightascension><rightascension>+49 00 3540</rightascension></system>

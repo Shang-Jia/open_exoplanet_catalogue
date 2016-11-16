@@ -21,7 +21,7 @@
 		<temperature errorminus="100" errorplus="100">4861</temperature>
 		<radius errorminus="0.41" errorplus="0.41">5.29</radius>
 		<age errorminus="0.48" errorplus="0.76">1.88</age>
-		<planet>
+		<planet planet_periastron_errorminus="[30.0, 0, 67.0]" planet_periastron_errorplus="[30.0, 0, 67.0]">
 			<name>HD 33844 b</name>
 			<period errorminus="6.4" errorplus="6.4">547.9</period>
 			<eccentricity errorminus="0.07" errorplus="0.07">0.16</eccentricity>
@@ -34,7 +34,7 @@
 			<description>The HD 33844 system consists of a pair of super-jovian planets in or close to the 3:5 resonance orbiting a red giant star.</description>
 			<lastupdate>15/12/28</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<periastron>0</periastron><periastron>71.0</periastron><lastupdate>1/01/14</lastupdate><lastupdate>1/12/24</lastupdate></planet>
 		<planet>
 			<name>HD 33844 c</name>
 			<period errorminus="32.5" errorplus="32.5">924.3</period>
@@ -50,4 +50,4 @@
 			<list>Confirmed planets</list>
 		</planet>
 	</star>
-</system>
+<declination>-14d57m04.0s</declination><declination>--13 00 -176</declination><rightascension>05h12m36.10s</rightascension><rightascension>+78 00 540</rightascension></system>

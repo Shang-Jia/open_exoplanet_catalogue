@@ -15,7 +15,7 @@
 		<temperature errorminus="200" errorplus="200">6012</temperature>
 		<radius errorminus=".519" errorplus="0.519">1.024</radius>
 		<mass errorminus="0.0830" errorplus="0.0830">1.0120</mass>
-		<planet>
+		<planet planet_radius_errorminus="[0.00273, 0, 0.092]" planet_radius_errorplus="[0.09386, 0, 0.092]">
 			<name>Kepler-341 c</name>
 			<name>KOI-1952 c</name>
 			<name>KOI-1952.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate><radius>0</radius><radius>0.178</radius></planet>
 		<planet>
 			<name>Kepler-341 d</name>
 			<name>KOI-1952 d</name>
@@ -80,4 +80,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h19m26.78s</rightascension><rightascension>+289 00 3102</rightascension><declination>+43d28m22.0s</declination><declination>+43 00 1702</declination></system>

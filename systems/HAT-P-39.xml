@@ -3,7 +3,7 @@
 	<rightascension>07 35 02</rightascension>
 	<declination>+17 49 48</declination>
 	<distance>642</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<mass>1.404</mass>
 		<radius>1.625</radius>
 		<magV>12.422</magV>
@@ -29,8 +29,8 @@
 			<temperature>1601.9</temperature>
 			<transittime errorminus="0.00041" errorplus="0.00041" unit="BJD">2455208.75049</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/21</lastupdate></planet>
 		<name>HAT-P-39</name>
 		<temperature>6430.0</temperature>
-	</star>
-</system>
+	<magV>0</magV><magV>11.422</magV></star>
+<rightascension>07h35m01.98s</rightascension><rightascension>+113 00 2730</rightascension><declination>+17d49m48.3s</declination><declination>+17 00 2988</declination></system>

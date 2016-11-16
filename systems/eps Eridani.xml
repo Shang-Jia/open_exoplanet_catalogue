@@ -1,14 +1,14 @@
-<system>
+<system system_distance_errorminus="[0.0017, 0, 0.0]" system_distance_errorplus="[0.0017, 0, 0.0]">
 	<name>eps Eridani</name>
 	<rightascension>03 32 55.84496</rightascension>
 	<declination>-09 27 29.7312</declination>
 	<distance errorminus="0.0017" errorplus="0.0017">3.2161</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.05]" star_mass_errorplus="[0.0, 0, 0.05]" star_metallicity_errorminus="[0.0, 0, 0.04]" star_metallicity_errorplus="[0.0, 0, 0.04]" star_radius_errorminus="[0.01, 0, 0.085]" star_radius_errorplus="[0.01, 0, 0.085]">
 		<name>eps Eridani</name>
 		<name>eps Eri</name>
 		<name>Epsilon Eridani</name>
-		<name>ε Eri</name>
-		<name>ε Eridani</name>
+		<name>&#949; Eri</name>
+		<name>&#949; Eridani</name>
 		<name>18 Eri</name>
 		<name>18 Eridani</name>
 		<name>HR 1084</name>
@@ -33,12 +33,12 @@
 		<metallicity>-0.07</metallicity>
 		<spectraltype>K2 V</spectraltype>
 		<age errorminus="0.2" errorplus="0.2">0.7</age>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.11, 0, 0.039]" planet_eccentricity_errorplus="[0.11, 0, 0.039]" planet_mass_errorminus="[0.058, 0, 0.742]" planet_mass_errorplus="[0.058, 0, 0.949]" planet_periastron_errorminus="[9.8, 0, 3.0]" planet_periastron_errorplus="[9.8, 0, 3.0]" planet_period_errorminus="[36.0, 0, 0.0]" planet_period_errorplus="[36.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.36]" planet_semimajoraxis_errorplus="[0.0, 0, 0.36]">
 			<name>eps Eridani b</name>
 			<name>eps Eri b</name>
 			<name>Epsilon Eridani b</name>
-			<name>ε Eri b</name>
-			<name>ε Eridani b</name>
+			<name>&#949; Eri b</name>
+			<name>&#949; Eridani b</name>
 			<name>18 Eri b</name>
 			<name>18 Eridani b</name>
 			<name>HR 1084 b</name>
@@ -53,8 +53,8 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/12</lastupdate>
 			<discoveryyear>2000</discoveryyear>
-			<description>The planet eps Eri b has been inferred from radial velocities. The host star is active and recent studies have resulted in either non-detection of the planet (Zechmeister et al. 2013) or orbital parameters incompatible with previous solutions (Anglada-Escudé &amp; Butler 2012). The radial velocity variations may therefore be related to a stellar activity cycle rather than an orbiting planet.</description>
-		</planet>
-	</star>
+			<description>The planet eps Eri b has been inferred from radial velocities. The host star is active and recent studies have resulted in either non-detection of the planet (Zechmeister et al. 2013) or orbital parameters incompatible with previous solutions (Anglada-Escud&#233; &amp; Butler 2012). The radial velocity variations may therefore be related to a stellar activity cycle rather than an orbiting planet.</description>
+		<eccentricity>0</eccentricity><eccentricity>0.702</eccentricity><periastron>0</periastron><periastron>47.0</periastron><mass>0</mass><mass>3.09</mass><period>0</period><period>2502.0</period><lastupdate /><lastupdate>1/07/29</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>3.39</semimajoraxis></planet>
+	<metallicity>0</metallicity><metallicity>-0.13</metallicity><radius>0</radius><radius>0.895</radius><mass>0</mass><mass>0.83</mass></star>
 	<videolink>http://youtu.be/gUwIp4_smcY</videolink>
-</system>
+<distance>0</distance><distance>3.2</distance><declination /><declination>--9 00 -1649</declination><rightascension /><rightascension>+53 00 825</rightascension></system>

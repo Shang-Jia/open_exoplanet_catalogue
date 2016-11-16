@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[0.0, 0, 0.0]" system_distance_errorplus="[0.0, 0, 0.0]">
 	<name>HD 158038</name>
 	<rightascension>17 25 45</rightascension>
 	<declination>+27 18 12</declination>
@@ -13,7 +13,7 @@
 		<magK errorminus="0.027" errorplus="0.027">5.156</magK>
 		<metallicity>0.28</metallicity>
 		<spectraltype>K0</spectraltype>
-		<planet>
+		<planet planet_semimajoraxis_errorminus="[0.0, 0, 0.04]" planet_semimajoraxis_errorplus="[0.0, 0, 0.04]">
 			<name>HD 158038 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.8</mass>
@@ -25,8 +25,8 @@
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>381.6</temperature>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>1.52</semimajoraxis><lastupdate>1/05/14</lastupdate><lastupdate>1/09/02</lastupdate></planet>
 		<name>HD 158038</name>
 		<temperature>4897.0</temperature>
-	</star>
-</system>
+	<spectraltype /><spectraltype>K2III</spectraltype></star>
+<distance>0</distance><distance>103.6</distance><rightascension>17h25m45.43s</rightascension><rightascension>+261 00 1575</rightascension><declination>+27d18m12.0s</declination><declination>+27 00 1092</declination></system>

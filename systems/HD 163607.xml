@@ -26,7 +26,7 @@
 			<lastupdate>11/09/15</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>499.8</temperature>
-		</planet>
+		<lastupdate>1/06/25</lastupdate><lastupdate>1/05/20</lastupdate></planet>
 		<planet>
 			<name>HD 163607 c</name>
 			<list>Confirmed planets</list>
@@ -43,4 +43,4 @@
 		<name>HD 163607</name>
 		<temperature>5543.0</temperature>
 	</star>
-</system>
+<rightascension>17h53m40.50s</rightascension><rightascension>+268 00 1500</rightascension><declination>+56d23m31.0s</declination><declination>+56 00 1411</declination></system>

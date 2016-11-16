@@ -5,7 +5,7 @@
 	<rightascension>19 41 13</rightascension>
 	<declination>+42 28 31</declination>
 	<distance>326.20</distance>
-	<star>
+	<star star_mass_errorminus="[0.037, 0, 0.037]" star_mass_errorplus="[0.037, 0, 0.037]">
 		<magV errorminus="0.27" errorplus="0.27">15.17</magV>
 		<magR errorminus="0.06" errorplus="0.06">15.06</magR>
 		<magI errorminus="0.18" errorplus="0.18">13.95</magI>
@@ -41,6 +41,6 @@
 			
 Credit: Joe Gallagher</imagedescription>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<discoveryyear /><discoveryyear>2012</discoveryyear><lastupdate>1/05/14</lastupdate><lastupdate>1/05/28</lastupdate></planet>
+	<mass>0</mass><mass>0.635</mass></star>
+<declination>+42d28m31.0s</declination><declination>+42 00 1711</declination><rightascension>19h41m13.08s</rightascension><rightascension>+295 00 1095</rightascension></system>

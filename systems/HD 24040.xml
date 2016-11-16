@@ -22,7 +22,7 @@
 		<temperature errorminus="44" errorplus="44">5853</temperature>
 		<mass errorminus="0.10" errorplus="0.10">1.18</mass>
 		<radius errorminus="0.039" errorplus="0.039">1.154</radius>
-		<planet>
+		<planet planet_periastron_errorminus="[24.0, 0, 54.0]" planet_periastron_errorplus="[24.0, 0, 54.0]" planet_period_errorminus="[25.0, 0, 0.0]" planet_period_errorplus="[25.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.067, 0, 0.38]" planet_semimajoraxis_errorplus="[0.067, 0, 0.38]">
 			<name>HD 24040 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.12" errorplus="0.12">4.10</mass>
@@ -35,6 +35,6 @@
 			<description>HD 24040 b is a massive Jupiter-analogue orbiting a sunlike star. The radial velocity measurements for the star exhibit a linear trend, indicating the presence of an additional object in the system.</description>
 			<lastupdate>15/08/15</lastupdate>
 			<discoveryyear>2006</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/25</lastupdate><periastron>0</periastron><periastron>154.0</periastron><period>0</period><period>3668.0</period><semimajoraxis>0</semimajoraxis><semimajoraxis>4.92</semimajoraxis></planet>
 	</star>
-</system>
+<declination>+17d28m34.9s</declination><declination>+17 00 1715</declination><rightascension>03h50m22.97s</rightascension><rightascension>+57 00 2145</rightascension></system>

@@ -33,7 +33,7 @@
 			<lastupdate>15/12/12</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>Kepler-51 c</name>
 			<name>KOI-620.03</name>
@@ -73,4 +73,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+49d56m15.7s</declination><declination /><rightascension>19h45m55.15s</rightascension><rightascension /></system>

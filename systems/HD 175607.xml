@@ -3,7 +3,7 @@
 	<rightascension>19 01 05.49</rightascension>
 	<declination>-66 11 33.65</declination>
 	<distance errorminus="2.07" errorplus="2.07">45.27</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>HD 175607</name>
 		<name>HIP 93373</name>
 		<name>TYC 9082-1542-1</name>
@@ -21,7 +21,7 @@
 		<mass errorminus="0.01" errorplus="0.01">0.71</mass>
 		<radius errorminus="0.01" errorplus="0.01">0.70</radius>
 		<age errorminus="1.58" errorplus="1.58">10.32</age>
-		<planet>
+		<planet planet_period_errorminus="[1.1, 0, 0.0]" planet_period_errorplus="[1.1, 0, 0.0]">
 			<name>HD 175607 b</name>
 			<period errorminus="1.10" errorplus="1.10">8.98</period>
 			<mass errorminus="0.0035" errorplus="0.0035" type="msini">0.0283</mass>
@@ -33,7 +33,7 @@
 			<description>HD 175607 b is a sub-Neptune planet orbiting a metal-poor star.</description>
 			<lastupdate>15/11/15</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<lastupdate>1/11/19</lastupdate><lastupdate>1/12/30</lastupdate><period>0</period><period>29.01</period></planet>
 		<planet>
 			<name>HD 175607 c</name>
 			<period errorminus="45.50" errorplus="103.27">1336.61</period>
@@ -47,5 +47,5 @@
 			<lastupdate>15/11/15</lastupdate>
 			<list>Controversial</list>
 		</planet>
-	</star>
-</system>
+	<magV>0</magV><magV>8.6</magV></star>
+<declination>-66d11m33.6s</declination><declination>--66 00 -694</declination><rightascension>19h01m05.49s</rightascension><rightascension>+285 00 975</rightascension></system>

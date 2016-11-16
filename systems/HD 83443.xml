@@ -13,7 +13,7 @@
 		<magK errorminus="0.020" errorplus="0.020">6.444</magK>
 		<metallicity>0.35</metallicity>
 		<spectraltype>K0 V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.0135]" planet_eccentricity_errorplus="[0.0, 0, 0.007]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>HD 83443 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.4</mass>
@@ -24,8 +24,8 @@
 			<lastupdate>06/11/25</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>1218.5</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.007</eccentricity><lastupdate>1/05/14</lastupdate><lastupdate>1/02/24</lastupdate><period>0</period><period>2.98572</period></planet>
 		<name>HD 83443</name>
 		<temperature>5460.0</temperature>
 	</star>
-</system>
+<declination>-43d16m19.9s</declination><declination>--43 00 -979</declination><rightascension>09h37m11.83s</rightascension><rightascension>+144 00 1065</rightascension></system>

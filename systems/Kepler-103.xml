@@ -1,11 +1,11 @@
-<system>
+<system system_distance_errorminus="[0.0, 0, 0.0]" system_distance_errorplus="[0.0, 0, 0.0]">
 	<name>Kepler-103</name>
 	<name>KOI-108</name>
 	<name>KIC 4914423</name>
 	<rightascension>19 15 56.2</rightascension>
 	<declination>+40 03 52</declination>
 	<distance>476.8</distance>
-	<star>
+	<star star_age_errorminus="[0.0, 0, 0.62]" star_age_errorplus="[0.0, 0, 0.69]" star_magV_errorminus="[0.16, 0, 0.0]" star_magV_errorplus="[0.16, 0, 0.0]">
 		<magB errorminus="0.24" errorplus="0.24">12.68</magB>
 		<magV errorminus="0.16" errorplus="0.16">11.88</magV>
 		<magJ errorminus="0.021" errorplus="0.021">11.193</magJ>
@@ -19,7 +19,7 @@
 		<mass errorminus="0.07" errorplus="0.07">1.09</mass>
 		<radius errorminus="0.04" errorplus="0.04">1.44</radius>
 		<age>5.70</age>
-		<planet>
+		<planet planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>Kepler-103 b</name>
 			<name>KOI-108.01</name>
 			<name>KOI-108 b</name>
@@ -37,7 +37,7 @@
 			<lastupdate>15/06/12</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/11/20</lastupdate><period>0</period><period>15.965316</period></planet>
 		<planet>
 			<name>Kepler-103 c</name>
 			<name>KOI-108.02</name>
@@ -57,5 +57,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<age>0</age><age>6.67</age><magV>0</magV><magV>12.287</magV></star>
+<distance>0</distance><distance>473.56</distance><declination>+40d03m52.3s</declination><declination>+40 00 232</declination><rightascension>19h15m56.29s</rightascension><rightascension>+288 00 3094</rightascension></system>

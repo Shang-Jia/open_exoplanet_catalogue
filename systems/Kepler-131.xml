@@ -33,7 +33,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/11/23</lastupdate></planet>
 		<planet>
 			<name>Kepler-131 c</name>
 			<name>KOI-283.02</name>
@@ -50,4 +50,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+40d56m32.3s</declination><declination>+40 00 3392</declination><rightascension>19h14m07.40s</rightascension><rightascension>+288 00 1911</rightascension></system>

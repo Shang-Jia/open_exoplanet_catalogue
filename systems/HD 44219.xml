@@ -24,8 +24,8 @@
 			<lastupdate>10/09/08</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>260.2</temperature>
-		</planet>
+		<lastupdate>1/01/22</lastupdate><lastupdate>1/09/08</lastupdate></planet>
 		<name>HD 44219</name>
 		<temperature>5752.0</temperature>
 	</star>
-</system>
+<declination>-10d43m30.0s</declination><declination>--10 00 -2610</declination><rightascension>06h20m14.32s</rightascension><rightascension>+95 00 210</rightascension></system>

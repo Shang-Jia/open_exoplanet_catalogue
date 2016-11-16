@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000010630" errorplus="0.000010630">7.751924920</period>
 			<radius errorminus="0.004" errorplus="0.005">0.178</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-625 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.003" errorplus="0.004">0.094</radius>
 		</planet>
 	</star>
-</system>
+<declination>+39d38m15.3s</declination><declination>+39 00 2295</declination><rightascension>19h28m36.11s</rightascension><rightascension>+292 00 542</rightascension></system>

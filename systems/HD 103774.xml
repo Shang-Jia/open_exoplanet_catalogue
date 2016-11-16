@@ -15,7 +15,7 @@
 		<magK errorminus="0.020" errorplus="0.020">6.000</magK>
 		<metallicity>0.28</metallicity>
 		<spectraltype>F5V</spectraltype>
-		<planet>
+		<planet planet_periastron_errorminus="[0.0, 0, 64.0]" planet_periastron_errorplus="[0.0, 0, 64.0]">
 			<name>HD 103774 b</name>
 			<name>HIP 58263 b</name>
 			<list>Confirmed planets</list>
@@ -29,6 +29,6 @@
 			<discoveryyear>2013</discoveryyear>
 			<description>The Star HD 103774 hosts a Neptune mass planet. The star shows signs for varying activity during the nine year observing campaign. The planet was discovered with the European HARPS instrument.</description>
 			<temperature>1310.9</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/17</lastupdate><periastron>0</periastron><periastron>318.0</periastron></planet>
 	</star>
-</system>
+<rightascension>11h56m55.59s</rightascension><rightascension>+179 00 840</rightascension><declination>-12d06m28.5s</declination><declination>--12 00 -388</declination></system>

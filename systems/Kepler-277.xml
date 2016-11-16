@@ -3,7 +3,7 @@
 	<rightascension>19 06 19</rightascension>
 	<declination>+39 04 37</declination>
 	<distance>951.43</distance>
-	<star>
+	<star star_temperature_errorminus="[56.0, 0, 0.0]" star_temperature_errorplus="[56.0, 0, 0.0]">
 		<name>Kepler-277</name>
 		<name>KOI-1215</name>
 		<name>KIC 3939150</name>
@@ -30,7 +30,7 @@
 			<lastupdate>13/09/13</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/20</lastupdate></planet>
 		<planet>
 			<name>Kepler-277 c</name>
 			<name>KOI-1215 c</name>
@@ -48,5 +48,5 @@
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<temperature>0</temperature><temperature>6306.0</temperature></star>
+<declination>+39d04m38.0s</declination><declination>+39 00 278</declination><rightascension>19h06m19.96s</rightascension><rightascension>+286 00 2100</rightascension></system>

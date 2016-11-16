@@ -5,7 +5,7 @@
 	<rightascension>19 56 53</rightascension>
 	<declination>+40 20 35</declination>
 	<distance>1013.46</distance>
-	<star>
+	<star star_radius_errorminus="[0.05, 0, 0.3]" star_radius_errorplus="[0.05, 0, 0.3]" star_temperature_errorminus="[100.0, 0, 0.0]" star_temperature_errorplus="[100.0, 0, 0.0]">
 		<magJ errorminus="0.029" errorplus="0.029">14.250</magJ>
 		<magH errorminus="0.03" errorplus="0.03">13.74</magH>
 		<magK errorminus="0.04" errorplus="0.04">13.70</magK>
@@ -15,7 +15,7 @@
 		<temperature errorminus="100" errorplus="100">5100</temperature>
 		<radius errorminus=".050" errorplus="0.050">0.794</radius>
 		<mass errorminus="0.3000" errorplus="0.3000">0.9000</mass>
-		<planet>
+		<planet planet_period_errorminus="[5.6e-05, 0, 0.0]" planet_period_errorplus="[5.6e-05, 0, 0.0]" planet_radius_errorminus="[0.02734, 0, 0.1]" planet_radius_errorplus="[0.02734, 0, 0.1]" planet_transittime_errorminus="[0.00322, 0, 0.0]" planet_transittime_errorplus="[0.00322, 0, 0.0]">
 			<name>Kepler-305 b</name>
 			<name>KOI-1563 b</name>
 			<name>KOI-1563.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/20</lastupdate><transittime>0</transittime><transittime>2455192.6276</transittime><period>0</period><period>8.291</period><radius>0</radius><radius>0.295</radius><discoveryyear /><discoveryyear>2013</discoveryyear></planet>
 		<planet>
 			<name>Kepler-305 c</name>
 			<name>KOI-1563 c</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<radius>0</radius><radius>0.87</radius><temperature>0</temperature><temperature>4918.0</temperature></star>
+<rightascension>19h56m53.83s</rightascension><rightascension>+299 00 810</rightascension><declination>+40d20m35.5s</declination><declination>+40 00 1235</declination></system>

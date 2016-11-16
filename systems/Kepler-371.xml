@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-371 c</name>
 			<name>KOI-2194 c</name>
@@ -47,4 +47,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h29m18.35s</rightascension><rightascension>+292 00 1175</rightascension><declination>+38d39m27.3s</declination><declination>+38 00 2367</declination></system>

@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[30.0, 0, 0.0]" system_distance_errorplus="[30.0, 0, 0.0]">
 	<name>WASP-12</name>
 	<rightascension>06 30 33</rightascension>
 	<declination>+29 40 20</declination>
@@ -7,7 +7,7 @@
 		<separation errorminus="0.019" errorplus="0.019" unit="arcsec">1.064</separation>
 		<separation errorminus="5" errorplus="5" unit="AU">266</separation>
 		<positionangle>251.3</positionangle>
-		<star>
+		<star star_temperature_errorminus="[64.0, 0, 150.0]" star_temperature_errorplus="[64.0, 0, 150.0]">
 			<name>WASP-12</name>
 			<name>WASP-12 A</name>
 			<mass>1.35</mass>
@@ -41,8 +41,8 @@
 				<temperature>2319.7</temperature>
 				<list>Planets in binary systems, S-type</list>
 				<istransiting>1</istransiting>
-			</planet>
-		</star>
+			<lastupdate>1/09/15</lastupdate><lastupdate>1/06/02</lastupdate></planet>
+		<temperature>0</temperature><temperature>6300.0</temperature></star>
 		<binary>
 			<separation errorminus="0.0006" errorplus="0.0006" unit="arcsec">0.0843</separation>
 			<separation errorminus="3" errorplus="3" unit="AU">21</separation>
@@ -65,4 +65,4 @@
 			</star>
 		</binary>
 	</binary>
-</system>
+<distance>0</distance><distance>427.0</distance><declination>+29d40m20.2s</declination><declination>+29 00 2420</declination><rightascension>06h30m32.79s</rightascension><rightascension>+97 00 2295</rightascension></system>

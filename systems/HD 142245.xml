@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[0.0, 0, 0.0]" system_distance_errorplus="[0.0, 0, 0.0]">
 	<name>HD 142245</name>
 	<rightascension>15 52 56</rightascension>
 	<declination>+15 25 50</declination>
@@ -13,7 +13,7 @@
 		<magK errorminus="0.031" errorplus="0.031">5.110</magK>
 		<metallicity>0.23</metallicity>
 		<spectraltype>A</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, inf]" planet_eccentricity_errorplus="[0.0, 0, nan]">
 			<name>HD 142245 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.9</mass>
@@ -25,8 +25,8 @@
 			<lastupdate>11/08/23</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>292.8</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.32</eccentricity><lastupdate>1/05/14</lastupdate><lastupdate>1/09/02</lastupdate></planet>
 		<name>HD 142245</name>
 		<temperature>4878.0</temperature>
-	</star>
-</system>
+	<spectraltype /><spectraltype>K0</spectraltype></star>
+<distance>0</distance><distance>109.5</distance><rightascension>15h52m56.28s</rightascension><rightascension>+238 00 840</rightascension><declination>+15d25m50.5s</declination><declination>+15 00 1551</declination></system>

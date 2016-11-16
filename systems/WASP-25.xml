@@ -32,8 +32,8 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1135.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/07/24</lastupdate></planet>
 		<name>WASP-25</name>
 		<temperature>5750.0</temperature>
 	</star>
-</system>
+<declination>-27d31m19.9s</declination><declination>--27 00 -1880</declination><rightascension>13h01m26.37s</rightascension><rightascension>+195 00 1290</rightascension></system>

@@ -5,7 +5,7 @@
 	<rightascension>19 33 24</rightascension>
 	<declination>+48 26 40</declination>
 	<distance>691.82</distance>
-	<star>
+	<star star_mass_errorminus="[0.037, 0, 0.0]" star_mass_errorplus="[0.037, 0, 0.0]">
 		<magJ errorminus="0.025" errorplus="0.025">13.280</magJ>
 		<magH errorminus="0.024" errorplus="0.024">12.895</magH>
 		<magK errorminus="0.03" errorplus="0.03">12.87</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-339 d</name>
 			<name>KOI-1931 d</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.84</mass></star>
+<rightascension>19h33m24.41s</rightascension><rightascension>+293 00 1266</rightascension><declination>+48d26m40.7s</declination><declination>+48 00 1601</declination></system>

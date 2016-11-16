@@ -24,7 +24,7 @@
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>770.9</temperature>
-		</planet>
+		<lastupdate /><lastupdate>1/09/12</lastupdate></planet>
 		<planet>
 			<name>HD 31527 c</name>
 			<list>Confirmed planets</list>
@@ -54,4 +54,4 @@
 		<name>HD 31527</name>
 		<temperature>5940.0</temperature>
 	</star>
-</system>
+<rightascension /><rightascension>+73 00 3270</rightascension><declination /><declination>--23 00 -871</declination></system>

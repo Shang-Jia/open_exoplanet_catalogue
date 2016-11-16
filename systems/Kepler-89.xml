@@ -3,7 +3,7 @@
 	<rightascension>19 49 19</rightascension>
 	<declination>+41 53 28</declination>
 	<distance>426.2</distance>
-	<star>
+	<star star_age_errorminus="[0.0, 0, 0.3]" star_age_errorplus="[0.0, 0, 0.3]" star_metallicity_errorminus="[0.0, 0, 0.04]" star_metallicity_errorplus="[0.0, 0, 0.04]" star_temperature_errorminus="[58.0, 0, 30.0]" star_temperature_errorplus="[58.0, 0, 30.0]">
 		<name>Kepler-89</name>
 		<name>KOI-94</name>
 		<name>KIC 6462863</name>
@@ -16,7 +16,7 @@
 		<age>3.16</age>
 		<metallicity>0.02</metallicity>
 		<spectraltype>F</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.007]" planet_mass_errorplus="[0.0, 0, 0.008]" planet_period_errorminus="[0.00012, 0, 0.0]" planet_period_errorplus="[0.00012, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 0.05]" planet_radius_errorplus="[0.0, 0, 0.05]" planet_semimajoraxis_errorminus="[0.0, 0, 0.0]" planet_semimajoraxis_errorplus="[0.0, 0, 0.0]">
 			<name>Kepler-89 b</name>
 			<name>KOI-94 b</name>
 			<name>KOI-94.04</name>
@@ -36,7 +36,7 @@
 			<discoveryyear>2012</discoveryyear>
 			<temperature>1486</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>0.298</semimajoraxis><radius>0</radius><radius>0.55</radius><lastupdate /><lastupdate>1/05/27</lastupdate><mass>0</mass><mass>0.041</mass><period>0</period><period>54.319931</period></planet>
 		<planet>
 			<name>Kepler-89 c</name>
 			<name>KOI-94 c</name>
@@ -100,5 +100,5 @@
 			<temperature>584</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<age>0</age><age>3.9</age><metallicity>0</metallicity><metallicity>-0.01</metallicity><temperature>0</temperature><temperature>6116.0</temperature></star>
+<declination /><declination>+41 00 3208</declination><rightascension /><rightascension>+297 00 1200</rightascension></system>

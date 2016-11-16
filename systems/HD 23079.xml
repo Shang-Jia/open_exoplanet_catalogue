@@ -13,7 +13,7 @@
 		<magB errorminus="0.01" errorplus="0.01">7.68</magB>
 		<metallicity>-0.24</metallicity>
 		<spectraltype>F8/G0 V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.031]" planet_eccentricity_errorplus="[0.0, 0, 0.031]" planet_mass_errorminus="[0.0, 0, 0.21]" planet_mass_errorplus="[0.0, 0, 0.21]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.093]" planet_semimajoraxis_errorplus="[0.0, 0, 0.093]">
 			<name>HD 23079 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.5</mass>
@@ -24,8 +24,8 @@
 			<lastupdate>10/12/30</lastupdate>
 			<discoveryyear>2001</discoveryyear>
 			<temperature>223.8</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.102</eccentricity><semimajoraxis>0</semimajoraxis><semimajoraxis>1.596</semimajoraxis><mass>0</mass><mass>2.45</mass><period>0</period><period>730.6</period><lastupdate>1/07/23</lastupdate><lastupdate>1/01/21</lastupdate></planet>
 		<name>HD 23079</name>
 		<temperature>5848.0</temperature>
 	</star>
-</system>
+<declination>-52d54m57.0s</declination><declination>--52 00 -3297</declination><rightascension>03h39m43.09s</rightascension><rightascension>+54 00 3345</rightascension></system>

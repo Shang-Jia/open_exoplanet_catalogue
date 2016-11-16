@@ -28,7 +28,7 @@
 			<discoveryyear>2015</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/11/19</lastupdate><lastupdate>1/05/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-431 c</name>
 			<name>KOI-3097 c</name>
@@ -62,4 +62,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>18h44m26.96s</rightascension><rightascension>+281 00 404</rightascension><declination>+43d13m40.0s</declination><declination>+43 00 820</declination></system>

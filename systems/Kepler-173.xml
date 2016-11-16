@@ -5,7 +5,7 @@
 	<rightascension>19 38 35</rightascension>
 	<declination>+41 53 02</declination>
 	<distance>809.64</distance>
-	<star>
+	<star star_mass_errorminus="[0.12, 0, 0.0]" star_mass_errorplus="[0.12, 0, 0.0]">
 		<magJ errorminus="0.024" errorplus="0.024">13.081</magJ>
 		<magH errorminus="0.03" errorplus="0.03">12.76</magH>
 		<magK errorminus="0.03" errorplus="0.03">12.67</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-173 b</name>
 			<name>KOI-511 b</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.78</mass></star>
+<rightascension>19h38m35.21s</rightascension><rightascension>+294 00 2328</rightascension><declination>+41d53m02.8s</declination><declination>+41 00 3183</declination></system>

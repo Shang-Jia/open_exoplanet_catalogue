@@ -24,7 +24,7 @@
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>701.2</temperature>
-		</planet>
+		<lastupdate /><lastupdate>1/09/12</lastupdate></planet>
 		<planet>
 			<name>HD 51608 c</name>
 			<list>Confirmed planets</list>
@@ -41,4 +41,4 @@
 		<name>HD 51608</name>
 		<temperature>5150.0</temperature>
 	</star>
-</system>
+<rightascension /><rightascension>+103 00 2565</rightascension><declination /><declination>--55 00 -934</declination></system>

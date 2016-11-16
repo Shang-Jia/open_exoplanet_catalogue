@@ -1,11 +1,11 @@
-<system>
+<system system_distance_errorminus="[78.0, 0, 0.0]" system_distance_errorplus="[78.0, 0, 0.0]">
 	<name>HATS-3</name>
 	<name>2MASS 20494978-2425436</name>
 	<name>GSC 6926-00454</name>
 	<rightascension>20 49 59</rightascension>
 	<declination>-24 25 44</declination>
 	<distance errorminus="78" errorplus="78">556</distance>
-	<star>
+	<star star_magV_errorminus="[0.2, 0, 0.0]" star_magV_errorplus="[0.2, 0, 0.0]" star_mass_errorminus="[0.088, 0, 0.036]" star_mass_errorplus="[0.088, 0, 0.036]" star_radius_errorminus="[0.242, 0, 0.03]" star_radius_errorplus="[0.242, 0, 0.03]">
 		<name>HATS-3</name>
 		<name>2MASS 20494978-2425436</name>
 		<name>GSC 6926-00454</name>
@@ -20,7 +20,7 @@
 		<magH errorminus="0.024" errorplus="0.024">10.719</magH>
 		<age errorminus="0.4" errorplus="0.8">3.1</age>
 		<spectraltype>F</spectraltype>
-		<planet>
+		<planet planet_radius_errorminus="[0.238, 0, 0.035]" planet_radius_errorplus="[0.238, 0, 0.035]" planet_semimajoraxis_errorminus="[0.0011, 0, 0.0006]" planet_semimajoraxis_errorplus="[0.0011, 0, 0.0004]" planet_temperature_errorminus="[127.0, 0, 0.0]" planet_temperature_errorplus="[127.0, 0, 0.0]">
 			<name>HATS-3 b</name>
 			<name>2MASS 20494978-2425436 b</name>
 			<name>GSC 6926-00454 b</name>
@@ -39,6 +39,6 @@
 			<lastupdate>13/06/04</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>0.0485</semimajoraxis><radius>0</radius><radius>1.381</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/07/30</lastupdate><temperature>0</temperature><temperature>1648.0</temperature></planet>
+	<radius>0</radius><radius>1.404</radius><mass>0</mass><mass>1.209</mass><magV>0</magV><magV>11.44</magV></star>
+<distance>0</distance><distance>453.0</distance><declination>-24d25m43.7s</declination><declination>--24 00 -1544</declination><rightascension>20h49m49.79s</rightascension><rightascension>+312 00 1650</rightascension></system>

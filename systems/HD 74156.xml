@@ -3,7 +3,7 @@
 	<rightascension>08 42 25.1</rightascension>
 	<declination>+04 34 41.1</declination>
 	<distance errorminus="2.2" errorplus="2.2">64.4</distance>
-	<star>
+	<star star_radius_errorminus="[0.044, 0, 0.19]" star_radius_errorplus="[0.044, 0, 0.19]" star_temperature_errorminus="[44.0, 0, 100.0]" star_temperature_errorplus="[44.0, 0, 100.0]">
 		<name>HD 74156</name>
 		<name>HIP 42723</name>
 		<name>SAO 117040</name>
@@ -35,7 +35,7 @@
 			<description>HD 74156 b is a giant planet in a highly eccentric orbit. It is the inner member of a hierarchical system of two planets.</description>
 			<lastupdate>15/08/15</lastupdate>
 			<discoveryyear>2003</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/15</lastupdate></planet>
 		<planet>
 			<name>HD 74156 c</name>
 			<list>Confirmed planets</list>
@@ -50,5 +50,5 @@
 			<lastupdate>15/08/15</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 		</planet>
-	</star>
-</system>
+	<spectraltype /><spectraltype>G1V</spectraltype><radius>0</radius><radius>1.64</radius><temperature>0</temperature><temperature>5960.0</temperature></star>
+<declination>+04d34m41.2s</declination><declination>+04 00 2081</declination><rightascension>08h42m25.12s</rightascension><rightascension>+130 00 2175</rightascension></system>

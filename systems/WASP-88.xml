@@ -2,7 +2,7 @@
 	<name>WASP-88</name>
 	<rightascension>20 38 03</rightascension>
 	<declination>-48 27 43</declination>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>WASP-88</name>
 		<mass errorminus="0.05" errorplus="0.05">1.45</mass>
 		<radius errorminus="0.06" errorplus="0.12">2.08</radius>
@@ -28,6 +28,6 @@
 			<discoveryyear>2013</discoveryyear>
 			<transittime errorminus="0.00086" errorplus="0.00085" unit="HJD">2456474.73154</transittime>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/26</lastupdate></planet>
+	<magV>0</magV><magV>10.4</magV></star>
+<declination>-48d27m43.4s</declination><declination>--47 00 -1937</declination><rightascension>20h38m02.69s</rightascension><rightascension>+309 00 1845</rightascension></system>

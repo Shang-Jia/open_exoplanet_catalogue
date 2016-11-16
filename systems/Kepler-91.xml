@@ -15,7 +15,7 @@
 		<radius errorminus="0.16" errorplus="0.16">6.30</radius>
 		<metallicity errorminus="0.07" errorplus="0.07">0.11</metallicity>
 		<temperature errorminus="75" errorplus="75">4550</temperature>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0088, 0, 0.017]" planet_eccentricity_errorplus="[0.0095, 0, 0.013]" planet_inclination_errorminus="[0.65, 0, 1.6]" planet_inclination_errorplus="[0.63, 0, 1.0]" planet_mass_errorminus="[0.06, 0, 0.13]" planet_mass_errorplus="[0.06, 0, 0.13]" planet_periastron_errorminus="[7.1, 0, 74.0]" planet_periastron_errorplus="[8.7, 0, 21.0]" planet_period_errorminus="[2.647e-05, 0, 0.0]" planet_period_errorplus="[2.647e-05, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.007]" planet_semimajoraxis_errorplus="[0.0, 0, 0.002]">
 			<name>Kepler-91 b</name>
 			<name>KIC 8219268 b</name>
 			<name>KOI-2133.01</name>
@@ -34,6 +34,6 @@
 			<lastupdate>15/01/27</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.066</eccentricity><semimajoraxis>0</semimajoraxis><semimajoraxis>0.072</semimajoraxis><lastupdate>1/10/15</lastupdate><lastupdate>1/08/15</lastupdate><periastron>0</periastron><periastron>316.8</periastron><mass>0</mass><mass>0.73</mass><inclination>0</inclination><inclination>68.5</inclination><period>0</period><period>6.24658</period></planet>
 	</star>
-</system>
+<declination>+44d07m00.2s</declination><declination>+44 00 420</declination><rightascension>19h02m41.49s</rightascension><rightascension>+285 00 2415</rightascension></system>

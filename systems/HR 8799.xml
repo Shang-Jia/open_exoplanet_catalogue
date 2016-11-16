@@ -3,7 +3,7 @@
 	<rightascension>23 07 28.71507</rightascension>
 	<declination>+21 08 03.3053</declination>
 	<distance errorminus="1.09" errorplus="1.09">39.40</distance>
-	<star>
+	<star star_age_errorminus="[0.0132, 0, 0.03]" star_age_errorplus="[0.007, 0, 0.03]" star_mass_errorminus="[0.024, 0, 0.0]" star_mass_errorplus="[0.038, 0, 0.0]">
 		<name>HR 8799</name>
 		<name>V342 Peg</name>
 		<name>V342 Pegasi</name>
@@ -24,7 +24,7 @@
 		<radius errorminus="0.06" errorplus="0.06">1.44</radius>
 		<metallicity>-0.47</metallicity>
 		<spectraltype>kA5hF0mA5 V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.0]" planet_eccentricity_errorplus="[0.0, 0, 0.0]" planet_inclination_errorminus="[2.84, 0, 0.0]" planet_inclination_errorplus="[2.84, 0, 0.0]" planet_mass_errorminus="[0.0, 0, 3.0]" planet_mass_errorplus="[0.0, 0, 3.0]" planet_radius_errorminus="[0.0, 0, 0.0]" planet_radius_errorplus="[0.0, 0, 0.0]">
 			<name>HR 8799 b</name>
 			<name>HD 218396 b</name>
 			<list>Confirmed planets</list>
@@ -38,13 +38,13 @@
 			<temperature>1100</temperature>
 			<spectraltype>L/T</spectraltype>
 			<metallicity>0.5</metallicity>
-			<description>HR 8799 is a young Lambda Boötis star in the constellation of Pegasus. It hosts a debris disk and at least 4 planets. The outer two planets have peculiar spectral energy distributions that match a blend of L and T-type spectra.</description>
+			<description>HR 8799 is a young Lambda Bo&#246;tis star in the constellation of Pegasus. It hosts a debris disk and at least 4 planets. The outer two planets have peculiar spectral energy distributions that match a blend of L and T-type spectra.</description>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>15/11/26</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<image>HR 8799</image>
 			<imagedescription>This image shows three planets orbiting the star HR 8799. It was obtained with the Keck II telescope on Hawaii. Credit: C. Marois et al., NRC Canada.</imagedescription>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.1</eccentricity><radius>0</radius><radius>1.2</radius><mass>0</mass><mass>10.0</mass><inclination>0</inclination><inclination>28.0</inclination><lastupdate>1/05/14</lastupdate><lastupdate>1/08/30</lastupdate></planet>
 		<planet>
 			<name>HR 8799 c</name>
 			<name>HD 218396 c</name>
@@ -59,7 +59,7 @@
 			<temperature>1200</temperature>
 			<spectraltype>L/T</spectraltype>
 			<metallicity>0.5</metallicity>
-			<description>HR 8799 is a young Lambda Boötis star in the constellation of Pegasus. It hosts a debris disk and at least 4 planets. The outer two planets have peculiar spectral energy distributions that match a blend of L and T-type spectra.</description>
+			<description>HR 8799 is a young Lambda Bo&#246;tis star in the constellation of Pegasus. It hosts a debris disk and at least 4 planets. The outer two planets have peculiar spectral energy distributions that match a blend of L and T-type spectra.</description>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>15/11/26</lastupdate>
 			<discoveryyear>2008</discoveryyear>
@@ -80,7 +80,7 @@
 			<temperature>1200</temperature>
 			<spectraltype>L7</spectraltype>
 			<metallicity>0.5</metallicity>
-			<description>HR 8799 is a young Lambda Boötis star in the constellation of Pegasus. It hosts a debris disk and at least 4 planets. The inner two planets have spectral energy distributions that best match dusty L7 dwarfs.</description>
+			<description>HR 8799 is a young Lambda Bo&#246;tis star in the constellation of Pegasus. It hosts a debris disk and at least 4 planets. The inner two planets have spectral energy distributions that best match dusty L7 dwarfs.</description>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>15/11/26</lastupdate>
 			<discoveryyear>2008</discoveryyear>
@@ -101,12 +101,12 @@
 			<temperature>1200</temperature>
 			<spectraltype>L7</spectraltype>
 			<metallicity>0.5</metallicity>
-			<description>HR 8799 is a young Lambda Boötis star in the constellation of Pegasus. It hosts a debris disk and at least 4 planets. The inner two planets have spectral energy distributions that best match dusty L7 dwarfs.</description>
+			<description>HR 8799 is a young Lambda Bo&#246;tis star in the constellation of Pegasus. It hosts a debris disk and at least 4 planets. The inner two planets have spectral energy distributions that best match dusty L7 dwarfs.</description>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>15/11/26</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<image>HR 8799</image>
 			<imagedescription>This image shows three planets orbiting the star HR 8799. It was obtained with the Keck II telescope on Hawaii. Credit: C. Marois et al., NRC Canada.</imagedescription>
 		</planet>
-	</star>
-</system>
+	<age>0</age><age>0.06</age><spectraltype /><spectraltype>A5V</spectraltype><mass>0</mass><mass>1.56</mass></star>
+<declination>+21d08m03.3s</declination><declination>+21 00 483</declination><rightascension>23h07m28.72s</rightascension><rightascension>+346 00 3135</rightascension></system>

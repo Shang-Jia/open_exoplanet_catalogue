@@ -5,7 +5,7 @@
 	<rightascension>19 29 10</rightascension>
 	<declination>+40 35 30</declination>
 	<distance>385.34</distance>
-	<star>
+	<star star_radius_errorminus="[0.021, 0, 0.0]" star_radius_errorplus="[0.021, 0, 0.0]" star_temperature_errorminus="[100.0, 0, 0.0]" star_temperature_errorplus="[100.0, 0, 0.0]">
 		<magJ errorminus="0.021" errorplus="0.021">13.184</magJ>
 		<magH errorminus="0.023" errorplus="0.023">12.487</magH>
 		<magK errorminus="0.023" errorplus="0.023">12.383</magK>
@@ -15,7 +15,7 @@
 		<temperature errorminus="100" errorplus="100">4252</temperature>
 		<radius errorminus=".021" errorplus="0.021">0.559</radius>
 		<mass errorminus="0.0090" errorplus="0.0090">0.5490</mass>
-		<planet>
+		<planet planet_period_errorminus="[2.1e-05, 0, 0.0]" planet_period_errorplus="[2.1e-05, 0, 0.0]" planet_radius_errorminus="[0.0082, 0, 0.0]" planet_radius_errorplus="[0.0082, 0, 0.0]" planet_transittime_errorminus="[0.00108, 0, 0.0022]" planet_transittime_errorplus="[0.00108, 0, 0.0022]">
 			<name>Kepler-49 b</name>
 			<name>KOI-248 b</name>
 			<name>KOI-248.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/17</lastupdate><transittime>0</transittime><transittime>2455002.84919</transittime><period>0</period><period>10.9129343</period><radius>0</radius><radius>0.23</radius><discoveryyear /><discoveryyear>2012</discoveryyear></planet>
 		<planet>
 			<name>Kepler-49 c</name>
 			<name>KOI-248 c</name>
@@ -79,5 +79,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<radius>0</radius><radius>0.53</radius><temperature>0</temperature><temperature>3974.0</temperature></star>
+<rightascension>19h29m10.70s</rightascension><rightascension>+292 00 1065</rightascension><declination>+40d35m30.5s</declination><declination>+40 00 2130</declination></system>

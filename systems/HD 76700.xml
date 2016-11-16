@@ -13,7 +13,7 @@
 		<magB>8.88</magB>
 		<metallicity>0.14</metallicity>
 		<spectraltype>G6 V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.0426]" planet_eccentricity_errorplus="[0.0, 0, 0.0587]" planet_mass_errorminus="[0.0, 0, 0.0]" planet_mass_errorplus="[0.0, 0, 0.0]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>HD 76700 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.197</mass>
@@ -24,8 +24,8 @@
 			<lastupdate>10/12/29</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>1315.4</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.0616</eccentricity><lastupdate>1/04/24</lastupdate><lastupdate>1/02/25</lastupdate><mass>0</mass><mass>0.23</mass><period>0</period><period>3.97101</period></planet>
 		<name>HD 76700</name>
 		<temperature>5726.0</temperature>
 	</star>
-</system>
+<declination>-66d48m03.6s</declination><declination>--66 00 -2883</declination><rightascension>08h53m55.51s</rightascension><rightascension>+133 00 1725</rightascension></system>

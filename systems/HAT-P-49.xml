@@ -3,7 +3,7 @@
 	<rightascension>20 21 46</rightascension>
 	<declination>-26 41 34</declination>
 	<distance errorminus="13" errorplus="24">322</distance>
-	<star>
+	<star star_magV_errorminus="[0.01, 0, 0.0]" star_magV_errorplus="[0.01, 0, 0.0]">
 		<name>HAT-P-49</name>
 		<name>GSC 2163-00549</name>
 		<name>2MASS 20214593+2641335</name>
@@ -35,6 +35,6 @@
 			<lastupdate>14/01/25</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/21</lastupdate></planet>
+	<magV>0</magV><magV>10.21</magV></star>
+<declination>+26d41m33.5s</declination><declination>+26 00 2494</declination><rightascension>20h21m45.94s</rightascension><rightascension>+305 00 1590</rightascension></system>

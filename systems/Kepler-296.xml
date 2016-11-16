@@ -9,7 +9,7 @@
 		<separation errorminus="0.004" errorplus="0.004" unit="arcsec">0.217</separation>
 		<separation unit="AU">80</separation>
 		<positionangle errorminus="0.8" errorplus="0.8">217.3</positionangle>
-		<star>
+		<star star_magJ_errorminus="[0.03, 0, 0.0]" star_magJ_errorplus="[0.03, 0, 0.0]" star_magK_errorminus="[0.03, 0, 0.0]" star_magK_errorplus="[0.03, 0, 0.0]" star_radius_errorminus="[0.087, 0, 0.02]" star_radius_errorplus="[0.066, 0, 0.02]" star_temperature_errorminus="[130.0, 0, 100.0]" star_temperature_errorplus="[130.0, 0, 100.0]">
 			<name>Kepler-296 A</name>
 			<name>KOI-1422 A</name>
 			<name>KIC 11497958 A</name>
@@ -42,7 +42,7 @@
 				<lastupdate>15/05/11</lastupdate>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-			</planet>
+			<lastupdate>1/09/03</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 			<planet>
 				<name>Kepler-296 d</name>
 				<name>Kepler-296 Ad</name>
@@ -131,7 +131,7 @@
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
 			</planet>
-		</star>
+		<magK>0</magK><magK>12.6</magK><temperature>0</temperature><temperature>4249.0</temperature><radius>0</radius><radius>0.56</radius><magJ>0</magJ><magJ>13.391</magJ></star>
 		<star>
 			<name>Kepler-296 B</name>
 			<name>KOI-1422 B</name>
@@ -145,4 +145,4 @@
 			<mass errorminus="0.079" errorplus="0.070">0.326</mass>
 		</star>
 	</binary>
-</system>
+<declination>+49d26m14.4s</declination><declination>+49 00 1574</declination><rightascension>19h06m09.60s</rightascension><rightascension>+286 00 1944</rightascension></system>

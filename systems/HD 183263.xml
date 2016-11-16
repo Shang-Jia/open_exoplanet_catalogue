@@ -3,7 +3,7 @@
 	<rightascension>19 28 24.6</rightascension>
 	<declination>+08 21 28.9</declination>
 	<distance errorminus="2.8" errorplus="2.8">55.1</distance>
-	<star>
+	<star star_radius_errorminus="[0.038, 0, 0.0]" star_radius_errorplus="[0.038, 0, 0.0]" star_temperature_errorminus="[44.0, 0, 0.0]" star_temperature_errorplus="[44.0, 0, 0.0]">
 		<name>HD 183263</name>
 		<name>HIP 95740</name>
 		<name>SAO 124664</name>
@@ -20,7 +20,7 @@
 		<metallicity errorminus="0.030" errorplus="0.030">0.302</metallicity>
 		<spectraltype>G2IV</spectraltype>
 		<temperature errorminus="44" errorplus="44">5936</temperature>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.01, 0, 0.076]" planet_eccentricity_errorplus="[0.01, 0, 0.076]" planet_mass_errorminus="[0.12, 0, 0.59]" planet_mass_errorplus="[0.12, 0, 0.59]" planet_periastron_errorminus="[22.0, 0, 9.1]" planet_periastron_errorplus="[22.0, 0, 9.1]" planet_period_errorminus="[71.0, 0, 0.0]" planet_period_errorplus="[71.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.11, 0, 0.47]" planet_semimajoraxis_errorplus="[0.11, 0, 0.47]">
 			<name>HD 183263 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.034" errorplus="0.034">3.635</mass>
@@ -33,7 +33,7 @@
 			<description>HD 183263 b is a giant planet in an elliptical orbit.</description>
 			<lastupdate>15/08/15</lastupdate>
 			<discoveryyear>2004</discoveryyear>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.253</eccentricity><semimajoraxis>0</semimajoraxis><semimajoraxis>4.25</semimajoraxis><lastupdate>1/07/23</lastupdate><lastupdate>0/12/10</lastupdate><periastron>0</periastron><periastron>339.6</periastron><mass>0</mass><mass>3.82</mass><period>0</period><period>2950.0</period></planet>
 		<planet>
 			<name>HD 183263 c</name>
 			<list>Confirmed planets</list>
@@ -48,5 +48,5 @@
 			<lastupdate>15/08/15</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
-	</star>
-</system>
+	<radius>0</radius><radius>1.21</radius><temperature>0</temperature><temperature>5888.0</temperature></star>
+<declination>+08d21m29.0s</declination><declination>+08 00 1288</declination><rightascension>19h28m24.57s</rightascension><rightascension>+292 00 360</rightascension></system>

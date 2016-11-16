@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[200.0, 0, 0.0]" system_distance_errorplus="[200.0, 0, 0.0]">
 	<name>PSR B1620-26</name>
 	<name>B1620-26</name>
 	<rightascension>16 23 38.2218</rightascension>
@@ -27,7 +27,7 @@
 			<spectraltype>D</spectraltype>
 			<mass errorminus="0.04" errorplus="0.04">0.34</mass>
 		</star>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 1.0]" planet_mass_errorplus="[0.0, 0, 1.0]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.0]" planet_semimajoraxis_errorplus="[0.0, 0, 0.0]">
 			<name>PSR B1620-26 b</name>
 			<name>B1620-26 b</name>
 			<name>PSR B1620-26 (AB) b</name>
@@ -43,6 +43,6 @@
 			<discoveryyear>1994</discoveryyear>
 			<list>Planets in binary systems, P-type</list>
 			<list>Planets in globular clusters</list>
-		</planet>
+		<lastupdate>1/04/30</lastupdate><lastupdate>1/07/11</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>23.0</semimajoraxis><mass>0</mass><mass>2.5</mass><period>0</period><period>36525.0</period><discoveryyear /><discoveryyear>2003</discoveryyear></planet>
 	</binary>
-</system>
+<declination>-26d31m53.7s</declination><declination>--26 00 -1913</declination><rightascension>16h23m38.22s</rightascension><rightascension>+245 00 3270</rightascension><distance>0</distance><distance>3800.0</distance></system>

@@ -23,7 +23,7 @@
 			<lastupdate>10/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>984.3</temperature>
-		</planet>
+		<lastupdate>1/11/19</lastupdate><lastupdate>1/12/06</lastupdate></planet>
 		<planet>
 			<name>HD 215497 c</name>
 			<list>Confirmed planets</list>
@@ -39,4 +39,4 @@
 		<name>HD 215497</name>
 		<temperature>5113.0</temperature>
 	</star>
-</system>
+<declination>-56d35m58.3s</declination><declination>--56 00 -2158</declination><rightascension>22h46m36.75s</rightascension><rightascension>+341 00 2355</rightascension></system>

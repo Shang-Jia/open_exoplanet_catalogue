@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[21.0, 0, 0.0]" system_distance_errorplus="[21.0, 0, 0.0]">
 	<name>HAT-P-50</name>
 	<rightascension>07 52 15.20</rightascension>
 	<declination>+12 08 21.9</declination>
@@ -17,7 +17,7 @@
 		<magK errorminus="0.018" errorplus="0.018">10.500</magK>
 		<metallicity errorminus="0.080" errorplus="0.080">-0.180</metallicity>
 		<age errorminus="0.27" errorplus="1.44">3.37</age>
-		<planet>
+		<planet planet_transittime_errorminus="[0.00036, 0, 0.00036]" planet_transittime_errorplus="[0.00036, 0, 0.00036]">
 			<name>HAT-P-50 b</name>
 			<name>GSC 0787-00340 b</name>
 			<name>2MASS J07521521+1208218 b</name>
@@ -35,6 +35,6 @@
 			<lastupdate>15/03/13</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<transittime>0</transittime><transittime>2456285.90993</transittime><lastupdate>1/11/19</lastupdate><lastupdate>1/07/27</lastupdate></planet>
 	</star>
-</system>
+<distance>0</distance><distance>597.0</distance><declination>+12d08m21.9s</declination><declination>+28 00 502</declination><rightascension>07h52m15.22s</rightascension><rightascension>+118 00 225</rightascension></system>

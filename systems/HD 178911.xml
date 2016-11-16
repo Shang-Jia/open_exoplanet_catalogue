@@ -36,7 +36,7 @@
 				<discoveryyear>2001</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 				<temperature>469.8</temperature>
-			</planet>
+			<lastupdate>1/05/14</lastupdate><lastupdate>1/12/29</lastupdate></planet>
 			<temperature>5650.0</temperature>
 		</star>
 		<binary>
@@ -54,4 +54,4 @@
 			</star>
 		</binary>
 	</binary>
-</system>
+<rightascension>19h09m03.11s</rightascension><rightascension>+287 00 945</rightascension><declination>+34d35m59.5s</declination><declination>+34 00 2159</declination></system>

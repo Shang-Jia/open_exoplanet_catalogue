@@ -5,7 +5,7 @@
 	<rightascension>18 47 39</rightascension>
 	<declination>+42 46 31</declination>
 	<distance>385.13</distance>
-	<star>
+	<star star_mass_errorminus="[0.019, 0, 0.0]" star_mass_errorplus="[0.019, 0, 0.0]">
 		<magB errorminus="0.23" errorplus="0.23">12.69</magB>
 		<magV errorminus="0.19" errorplus="0.19">12.20</magV>
 		<magJ errorminus="0.021" errorplus="0.021">11.050</magJ>
@@ -32,7 +32,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-144 c</name>
 			<name>KOI-369 c</name>
@@ -49,5 +49,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>1.03</mass></star>
+<declination>+42d46m31.8s</declination><declination>+42 00 2792</declination><rightascension>18h47m39.76s</rightascension><rightascension>+281 00 3296</rightascension></system>

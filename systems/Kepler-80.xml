@@ -5,7 +5,7 @@
 	<rightascension>19 44 27</rightascension>
 	<declination>+39 58 43</declination>
 	<distance>418.17</distance>
-	<star>
+	<star star_radius_errorminus="[0.022, 0, 0.0]" star_radius_errorplus="[0.022, 0, 0.0]" star_temperature_errorminus="[4.0, 0, 0.0]" star_temperature_errorplus="[74.0, 0, 0.0]">
 		<magJ errorminus="0.023" errorplus="0.023">12.954</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.354</magH>
 		<magK errorminus="0.020" errorplus="0.020">12.253</magK>
@@ -15,7 +15,7 @@
 		<temperature errorminus="4" errorplus="74">4613</temperature>
 		<radius errorminus=".022" errorplus="0.022">0.637</radius>
 		<mass errorminus="0.0160" errorplus="0.0160">0.7220</mass>
-		<planet>
+		<planet planet_period_errorminus="[1.8e-05, 0, 0.0]" planet_period_errorplus="[1.8e-05, 0, 0.0]" planet_radius_errorminus="[0.02643, 0, 0.0]" planet_radius_errorplus="[0.02643, 0, 0.0]">
 			<name>Kepler-80 b</name>
 			<name>KOI-500 b</name>
 			<name>KOI-500.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/08/04</lastupdate><lastupdate>1/07/27</lastupdate><period>0</period><period>9.52</period><radius>0</radius><radius>0.23</radius><discoveryyear /><discoveryyear>2012</discoveryyear></planet>
 		<planet>
 			<name>Kepler-80 c</name>
 			<name>KOI-500 c</name>
@@ -91,5 +91,5 @@
 			<period errorminus="0.000001580" errorplus="0.000001580">0.986787060</period>
 			<radius errorminus="0.003" errorplus="0.005">0.110</radius>
 		</planet>
-	</star>
-</system>
+	<radius>0</radius><radius>0.738</radius><temperature>0</temperature><temperature>4250.0</temperature></star>
+<rightascension>19h44m27.02s</rightascension><rightascension>+296 00 405</rightascension><declination>+39d58m43.6s</declination><declination>+39 00 3524</declination></system>

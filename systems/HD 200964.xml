@@ -33,7 +33,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/23</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/26</lastupdate></planet>
 		<planet>
 			<name>HD 200964 c</name>
 			<list>Confirmed planets</list>
@@ -47,5 +47,5 @@
 			<lastupdate>15/09/23</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
-	</star>
-</system>
+	<spectraltype /><spectraltype>KO</spectraltype></star>
+<declination>+03d48m11.2s</declination><declination>+03 00 2891</declination><rightascension>21h06m39.84s</rightascension><rightascension>+316 00 2400</rightascension></system>

@@ -13,7 +13,7 @@
 		<magK errorminus="0.036" errorplus="0.036">4.165</magK>
 		<metallicity>-0.05</metallicity>
 		<spectraltype>K0V</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.071]" planet_mass_errorplus="[0.0, 0, inf]">
 			<name>HD 69830 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.033</mass>
@@ -25,7 +25,7 @@
 			<lastupdate>12/01/31</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>801.2</temperature>
-		</planet>
+		<lastupdate>1/03/26</lastupdate><lastupdate>1/01/31</lastupdate><mass>0</mass><mass>0.15</mass></planet>
 		<planet>
 			<name>HD 69830 c</name>
 			<list>Confirmed planets</list>
@@ -55,4 +55,4 @@
 		<name>HD 69830</name>
 		<temperature>5385.0</temperature>
 	</star>
-</system>
+<declination>-12d37m55.8s</declination><declination>--12 00 -2275</declination><rightascension>08h18m23.95s</rightascension><rightascension>+124 00 2145</rightascension></system>

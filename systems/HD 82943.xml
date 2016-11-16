@@ -3,7 +3,7 @@
 	<rightascension>09 34 50</rightascension>
 	<declination>-12 07 46</declination>
 	<distance>27.46</distance>
-	<star>
+	<star star_age_errorminus="[0.0, 0, 0.0]" star_age_errorplus="[0.0, 0, 0.0]" star_mass_errorminus="[0.0, 0, 0.0]" star_mass_errorplus="[0.0, 0, 0.0]">
 		<name>HD 82943</name>
 		<temperature>5874.0</temperature>
 		<mass>1.13</mass>
@@ -13,7 +13,7 @@
 		<metallicity>0.32</metallicity>
 		<spectraltype>G0</spectraltype>
 		<age>3</age>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0]" planet_mass_errorplus="[0.0, 0, 0.0]">
 			<name>HD 82943 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.75</mass>
@@ -28,7 +28,7 @@
 			<lastupdate>13/06/05</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>250.5</temperature>
-		</planet>
+		<mass>0</mass><mass>14.4</mass><lastupdate>1/05/14</lastupdate><lastupdate>1/09/09</lastupdate></planet>
 		<planet>
 			<name>HD 82943 c</name>
 			<list>Confirmed planets</list>
@@ -45,5 +45,5 @@
 			<discoveryyear>2003</discoveryyear>
 			<temperature>314.7</temperature>
 		</planet>
-	</star>
-</system>
+	<age>0</age><age>3.08</age><mass>0</mass><mass>1.18</mass></star>
+<rightascension>09h34m50.73s</rightascension><rightascension>+143 00 2550</rightascension><declination>-12d07m46.4s</declination><declination>--12 00 -466</declination></system>

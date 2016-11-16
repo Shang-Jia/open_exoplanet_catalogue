@@ -23,7 +23,7 @@
 			<lastupdate>12/01/31</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>273.1</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/31</lastupdate></planet>
 		<planet>
 			<name>HD 45364 c</name>
 			<list>Confirmed planets</list>
@@ -39,4 +39,4 @@
 		<name>HD 45364</name>
 		<temperature>5434.0</temperature>
 	</star>
-</system>
+<declination>-31d28m51.4s</declination><declination>--31 00 -1731</declination><rightascension>06h25m38.48s</rightascension><rightascension>+96 00 1470</rightascension></system>

@@ -3,7 +3,7 @@
 	<rightascension>14 36 00</rightascension>
 	<declination>+09 44 47</declination>
 	<distance>16.6</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.0]" star_mass_errorplus="[0.0, 0, 0.0]">
 		<mass>0.828</mass>
 		<radius>0.73</radius>
 		<magV>7.51</magV>
@@ -15,7 +15,7 @@
 		<magK errorminus="0.017" errorplus="0.017">5.142</magK>
 		<metallicity>0.08</metallicity>
 		<spectraltype>K0V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.04, 0, 0.1]" planet_eccentricity_errorplus="[0.03, 0, 0.1]" planet_mass_errorminus="[0.18, 0, 0.022]" planet_mass_errorplus="[0.15, 0, 0.022]" planet_periastron_errorminus="[9.2, 0, 36.0]" planet_periastron_errorplus="[6.4, 0, 36.0]" planet_period_errorminus="[3.6, 0, 0.0]" planet_period_errorplus="[4.2, 0, 0.0]">
 			<name>HD 128311 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.18" errorplus="0.15">1.83</mass>
@@ -29,7 +29,7 @@
 			<lastupdate>15/01/08</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>177.7</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.25</eccentricity><lastupdate>1/06/25</lastupdate><lastupdate>1/01/04</lastupdate><periastron>0</periastron><periastron>110.9</periastron><mass>0</mass><mass>2.18</mass><period>0</period><period>448.6</period></planet>
 		<planet>
 			<name>HD 128311 c</name>
 			<list>Confirmed planets</list>
@@ -47,5 +47,5 @@
 		</planet>
 		<name>HD 128311</name>
 		<temperature>4965.0</temperature>
-	</star>
-</system>
+	<mass>0</mass><mass>0.84</mass></star>
+<declination>+09d44m47.5s</declination><declination>+09 00 2687</declination><rightascension>14h36m00.56s</rightascension><rightascension>+219 00 00</rightascension></system>

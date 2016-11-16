@@ -5,7 +5,7 @@
 	<rightascension>19 15 14</rightascension>
 	<declination>+39 46 14</declination>
 	<distance>542.69</distance>
-	<star>
+	<star star_mass_errorminus="[0.11, 0, 0.0]" star_mass_errorplus="[0.11, 0, 0.0]">
 		<magJ errorminus="0.023" errorplus="0.023">12.631</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.315</magH>
 		<magK errorminus="0.020" errorplus="0.020">12.208</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-319 d</name>
 			<name>KOI-1805 d</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>1.29</mass></star>
+<rightascension>19h15m14.87s</rightascension><rightascension>+288 00 2923</rightascension><declination>+39d46m14.4s</declination><declination>+39 00 2774</declination></system>

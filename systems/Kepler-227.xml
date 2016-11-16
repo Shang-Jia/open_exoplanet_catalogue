@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/09</lastupdate></planet>
 		<planet>
 			<name>Kepler-227 c</name>
 			<name>KOI-752 c</name>
@@ -48,4 +48,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h27m44.22s</rightascension><rightascension>+291 00 3363</rightascension><declination>+48d08m29.9s</declination><declination>+48 00 510</declination></system>

@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[0.0, 0, 0.0]" system_distance_errorplus="[0.0, 0, 0.0]">
 	<name>HIP 97233</name>
 	<rightascension>19 45 41.274</rightascension>
 	<declination>-00 41 47.93</declination>
@@ -31,6 +31,6 @@
 			<list>Confirmed planets</list>
 			<description>The minimum mass of this object is above the deuterium-burning threshold but below the midpoint of the brown dwarf desert. The parent star is near the base of the red giant branch.</description>
 			<lastupdate>15/01/06</lastupdate>
-		</planet>
+		<lastupdate>1/10/03</lastupdate><lastupdate>1/10/09</lastupdate></planet>
 	</star>
-</system>
+<distance>0</distance><distance>106.5</distance><declination>-00d41m47.9s</declination><declination>+00 00 -2508</declination><rightascension>19h45m41.27s</rightascension><rightascension>+296 00 1515</rightascension></system>

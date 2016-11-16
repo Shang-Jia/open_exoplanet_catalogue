@@ -5,7 +5,7 @@
 	<rightascension>19 23 18</rightascension>
 	<declination>+44 11 02</declination>
 	<distance>344.01</distance>
-	<star>
+	<star star_mass_errorminus="[0.014, 0, 0.0]" star_mass_errorplus="[0.014, 0, 0.0]">
 		<magJ errorminus="0.023" errorplus="0.023">13.324</magJ>
 		<magH errorminus="0.018" errorplus="0.018">12.681</magH>
 		<magK errorminus="0.020" errorplus="0.020">12.542</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-316 b</name>
 			<name>KOI-1713 b</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.53</mass></star>
+<rightascension>19h23m18.25s</rightascension><rightascension>+290 00 2974</rightascension><declination>+44d11m02.8s</declination><declination>+44 00 663</declination></system>

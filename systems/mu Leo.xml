@@ -4,12 +4,12 @@
 	<rightascension>09 52 45.81654</rightascension>
 	<declination>+26 00 25.0319</declination>
 	<distance errorminus="0.23" errorplus="0.23">38.05</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.05, 0, 0.04]" star_metallicity_errorplus="[0.05, 0, 0.04]">
 		<name>mu Leo</name>
 		<name>HD 85503</name>
 		<name>mu Leonis</name>
-		<name>μ Leo</name>
-		<name>μ Leonis</name>
+		<name>&#956; Leo</name>
+		<name>&#956; Leonis</name>
 		<name>mu. Leo</name>
 		<name>24 Leonis</name>
 		<name>24 Leo</name>
@@ -51,6 +51,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/26</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/12</lastupdate></planet>
+	<metallicity>0</metallicity><metallicity>0.3</metallicity></star>
+<declination>+26d00m25.0s</declination><declination>+26 00 25</declination><rightascension>09h52m45.82s</rightascension><rightascension>+148 00 690</rightascension></system>

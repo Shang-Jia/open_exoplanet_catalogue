@@ -36,7 +36,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/11/19</lastupdate><lastupdate>1/02/12</lastupdate></planet>
 		<planet>
 			<name>PH3 c</name>
 			<name>Kepler-289 d</name>
@@ -76,4 +76,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+42d52m58.3s</declination><declination>+42 00 3178</declination><rightascension>19h49m51.68s</rightascension><rightascension>+297 00 1675</rightascension></system>

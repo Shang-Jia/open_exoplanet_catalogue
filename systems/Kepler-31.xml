@@ -5,7 +5,7 @@
 	<rightascension>19 36 05</rightascension>
 	<declination>+45 51 11</declination>
 	<distance>1790.60</distance>
-	<star>
+	<star star_temperature_errorminus="[68.0, 0, 200.0]" star_temperature_errorplus="[168.0, 0, 200.0]">
 		<magJ errorminus="0.029" errorplus="0.029">14.233</magJ>
 		<magH errorminus="0.038" errorplus="0.038">13.984</magH>
 		<magK errorminus="0.05" errorplus="0.05">13.87</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/03/24</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-31 c</name>
 			<name>KOI-935 c</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<temperature>0</temperature><temperature>6340.0</temperature></star>
+<rightascension>19h36m05.52s</rightascension><rightascension>+294 00 90</rightascension><declination>+45d51m11.1s</declination><declination>+45 00 3071</declination></system>

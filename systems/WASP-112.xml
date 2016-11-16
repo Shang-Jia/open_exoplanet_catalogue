@@ -13,7 +13,7 @@
 		<radius errorminus="0.037" errorplus="0.037">1.002</radius>
 		<magV>13.3</magV>
 		<magK>11.9</magK>
-		<planet>
+		<planet planet_inclination_errorminus="[0.28, 0, 0.28]" planet_inclination_errorplus="[0.28, 0, 0.28]">
 			<name>WASP-112 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.12" errorplus="0.12">0.88</mass>
@@ -29,6 +29,6 @@
 			<lastupdate>14/10/14</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<inclination>0</inclination><inclination>88.68</inclination><lastupdate /><lastupdate>1/10/29</lastupdate></planet>
 	</star>
-</system>
+<declination /><declination>--35 00 -554</declination><rightascension /><rightascension>+339 00 1755</rightascension></system>

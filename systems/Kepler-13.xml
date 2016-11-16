@@ -11,7 +11,7 @@
 		<separation errorminus="0.05" errorplus="0.05" unit="arcsec">1.15</separation>
 		<separation errorminus="120" errorplus="120" unit="AU">610</separation>
 		<positionangle errorminus="1" errorplus="1">281</positionangle>
-		<star>
+		<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]" star_mass_errorminus="[0.1, 0, 0.0]" star_mass_errorplus="[0.1, 0, 0.0]" star_metallicity_errorminus="[0.2, 0, 0.0]" star_metallicity_errorplus="[0.2, 0, 0.0]" star_radius_errorminus="[0.04, 0, 0.0]" star_radius_errorplus="[0.04, 0, 0.0]" star_temperature_errorminus="[250.0, 0, 400.0]" star_temperature_errorplus="[250.0, 0, 400.0]">
 			<name>Kepler-13 A</name>
 			<name>KOI-13 A</name>
 			<name>KIC 9941662 A</name>
@@ -29,7 +29,7 @@
 			<age errorminus="0.146" errorplus="0.183">0.708</age>
 			<metallicity errorminus="0.20" errorplus="0.20">0.20</metallicity>
 			<spectraltype>A</spectraltype>
-			<planet>
+			<planet planet_inclination_errorminus="[0.0, 0, 0.2]" planet_inclination_errorplus="[0.0, 0, 0.2]" planet_mass_errorminus="[0.16, 0, 1.5]" planet_mass_errorplus="[0.16, 0, 1.5]" planet_period_errorminus="[3.7e-07, 0, 0.0]" planet_period_errorplus="[3.7e-07, 0, 0.0]" planet_radius_errorminus="[0.04, 0, 0.038]" planet_radius_errorplus="[0.04, 0, 0.038]" planet_transittime_errorminus="[1e-05, 0, 0.0013]" planet_transittime_errorplus="[1e-05, 0, 0.0013]">
 				<name>Kepler-13 A b</name>
 				<name>Kepler-13 b</name>
 				<name>KOI-13 b</name>
@@ -52,8 +52,8 @@
 				<discoveryyear>2011</discoveryyear>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
+			<transittime>0</transittime><transittime>2455138.7439</transittime><radius>0</radius><radius>1.406</radius><mass>0</mass><mass>6.6</mass><inclination>0</inclination><inclination>81.8</inclination><period>0</period><period>1.7633587</period><lastupdate /><lastupdate>1/02/24</lastupdate></planet>
+		<metallicity>0</metallicity><metallicity>-0.14</metallicity><mass>0</mass><mass>2.05</mass><temperature>0</temperature><temperature>8500.0</temperature><radius>0</radius><radius>2.55</radius><magV>0</magV><magV>10.0</magV></star>
 		<binary>
 			<name>Kepler-13 BC</name>
 			<name>KOI-13 BC</name>
@@ -88,4 +88,4 @@
 		</binary>
 	</binary>
 	<videolink>http://youtu.be/v26NOR1Ihuc</videolink>
-</system>
+<declination /><declination>+46 00 3126</declination><rightascension /><rightascension>+286 00 3495</rightascension></system>

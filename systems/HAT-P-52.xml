@@ -17,7 +17,7 @@
 		<magK errorminus="0.021" errorplus="0.021">11.621</magK>
 		<metallicity errorminus="0.080" errorplus="0.080">0.280</metallicity>
 		<age errorminus="4.1" errorplus="4.1">9.4</age>
-		<planet>
+		<planet planet_transittime_errorminus="[0.00041, 0, 0.00041]" planet_transittime_errorplus="[0.00041, 0, 0.00041]">
 			<name>HAT-P-52 b</name>
 			<name>GSC 1793-01136 b</name>
 			<name>2MASS J02505320+2901206 b</name>
@@ -35,6 +35,6 @@
 			<lastupdate>15/03/13</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<transittime>0</transittime><transittime>2455852.10329</transittime><lastupdate>1/11/19</lastupdate><lastupdate>1/08/17</lastupdate></planet>
 	</star>
-</system>
+<declination>+29d01m20.6s</declination><declination>+29 00 81</declination><rightascension>02h50m53.20s</rightascension><rightascension>+42 00 2595</rightascension></system>

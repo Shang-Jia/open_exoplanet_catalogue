@@ -5,7 +5,7 @@
 	<rightascension>19 26 25</rightascension>
 	<declination>+38 24 37</declination>
 	<distance>785.94</distance>
-	<star>
+	<star star_mass_errorminus="[0.065, 0, 0.0]" star_mass_errorplus="[0.065, 0, 0.0]">
 		<magJ errorminus="0.023" errorplus="0.023">12.697</magJ>
 		<magH errorminus="0.021" errorplus="0.021">12.384</magH>
 		<magK errorminus="0.025" errorplus="0.025">12.320</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-376 b</name>
 			<name>KOI-2278 b</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>1.05</mass></star>
+<rightascension>19h26m25.72s</rightascension><rightascension>+291 00 2186</rightascension><declination>+38d24m37.4s</declination><declination>+38 00 1477</declination></system>

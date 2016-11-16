@@ -5,7 +5,7 @@
 	<rightascension>19 34 16</rightascension>
 	<declination>+39 02 10</declination>
 	<distance>1559.37</distance>
-	<star>
+	<star star_temperature_errorminus="[200.0, 0, 0.0]" star_temperature_errorplus="[200.0, 0, 0.0]">
 		<magJ errorminus="0.026" errorplus="0.026">14.234</magJ>
 		<magH errorminus="0.028" errorplus="0.028">13.867</magH>
 		<magK errorminus="0.05" errorplus="0.05">13.84</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/30</lastupdate><discoveryyear /><discoveryyear>2013</discoveryyear></planet>
 		<planet>
 			<name>Kepler-276 b</name>
 			<name>KOI-1203 b</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<temperature>0</temperature><temperature>5812.0</temperature></star>
+<rightascension>19h34m16.36s</rightascension><rightascension>+293 00 2040</rightascension><declination>+39d02m10.8s</declination><declination>+39 00 131</declination></system>

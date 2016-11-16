@@ -3,7 +3,7 @@
 	<rightascension>10 22 44</rightascension>
 	<declination>+50 07 42</declination>
 	<distance>82</distance>
-	<star>
+	<star star_magV_errorminus="[0.02, 0, 0.0]" star_magV_errorplus="[0.02, 0, 0.0]">
 		<mass>0.916</mass>
 		<radius>1.04</radius>
 		<magV errorminus="0.02" errorplus="0.02">9.76</magV>
@@ -14,7 +14,7 @@
 		<magK errorminus="0.021" errorplus="0.021">7.837</magK>
 		<metallicity>0.24</metallicity>
 		<spectraltype>G5</spectraltype>
-		<planet>
+		<planet planet_inclination_errorminus="[0.0, 0, 3.7]" planet_inclination_errorplus="[0.0, 0, 3.7]">
 			<name>HAT-P-22 b</name>
 			<name>HD 233731 b</name>
 			<name>TYC 3441-00925-1 b</name>
@@ -33,8 +33,8 @@
 			<temperature>1171.7</temperature>
 			<transittime errorminus="0.00025" errorplus="0.00025" unit="BJD">2454930.22001</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/20</lastupdate><inclination>0</inclination><inclination>73.6</inclination></planet>
 		<name>HAT-P-22</name>
 		<temperature>5302.0</temperature>
-	</star>
-</system>
+	<magV>0</magV><magV>9.73</magV></star>
+<declination>+50d07m42.0s</declination><declination>+50 00 462</declination><rightascension>10h22m43.61s</rightascension><rightascension>+155 00 2460</rightascension></system>

@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[0.0, 0, 0.0]" system_distance_errorplus="[0.0, 0, 0.0]">
 	<name>HD 116029</name>
 	<rightascension>13 20 39</rightascension>
 	<declination>+24 38 55</declination>
@@ -13,7 +13,7 @@
 		<magK errorminus="0.016" errorplus="0.016">5.534</magK>
 		<metallicity>0.18</metallicity>
 		<spectraltype>K1</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, inf]" planet_eccentricity_errorplus="[0.0, 0, nan]">
 			<name>HD 116029 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.1</mass>
@@ -25,8 +25,8 @@
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>355.0</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.21</eccentricity><lastupdate>1/05/14</lastupdate><lastupdate>1/09/02</lastupdate></planet>
 		<name>HD 116029</name>
 		<temperature>4951.0</temperature>
-	</star>
-</system>
+	<spectraltype /><spectraltype>K1III</spectraltype></star>
+<distance>0</distance><distance>123.2</distance><rightascension>13h20m39.54s</rightascension><rightascension>+200 00 600</rightascension><declination>+24d38m55.3s</declination><declination>+24 00 2335</declination></system>

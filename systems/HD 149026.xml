@@ -13,7 +13,7 @@
 		<magK errorminus="0.009" errorplus="0.009">6.819</magK>
 		<metallicity>0.36</metallicity>
 		<spectraltype>G0IV</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0114]" planet_mass_errorplus="[0.0, 0, 0.0135]">
 			<name>HD 149026 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.356</mass>
@@ -28,8 +28,8 @@
 			<discoveryyear>2005</discoveryyear>
 			<temperature>1601.5</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass>0</mass><mass>0.357</mass><lastupdate>1/10/15</lastupdate><lastupdate>1/02/24</lastupdate></planet>
 		<name>HD 149026</name>
 		<temperature>6147.0</temperature>
-	</star>
-</system>
+	<spectraltype /><spectraltype>G0 IV</spectraltype></star>
+<rightascension>16h30m29.62s</rightascension><rightascension>+247 00 2235</rightascension><declination>+38d20m50.3s</declination><declination>+38 00 1250</declination></system>

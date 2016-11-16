@@ -29,8 +29,8 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1647.5</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/21</lastupdate></planet>
 		<name>WASP-66</name>
 		<temperature errorminus="150" errorplus="150">6600.0</temperature>
 	</star>
-</system>
+<rightascension>10h32m53.99s</rightascension><rightascension>+158 00 810</rightascension><declination>-34d59m23.4s</declination><declination>--34 00 -3563</declination></system>

@@ -3,7 +3,7 @@
 	<rightascension>06 30 53</rightascension>
 	<declination>+00 13 37</declination>
 	<distance errorminus="120" errorplus="120">1230</distance>
-	<star>
+	<star star_radius_errorminus="[0.05, 0, 0.0]" star_radius_errorplus="[0.05, 0, 0.0]">
 		<mass errorminus="0.14" errorplus="0.14">1.14</mass>
 		<radius errorminus="0.05" errorplus="0.05">1.02</radius>
 		<magV>14.66</magV>
@@ -16,7 +16,7 @@
 		<metallicity errorminus="0.12" errorplus="0.12">0.14</metallicity>
 		<age errorminus="0.04" errorplus="0.8">0.1</age>
 		<spectraltype>G2V</spectraltype>
-		<planet>
+		<planet planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>CoRoT-20 b</name>
 			<name>CoRoT-Exo 20 b</name>
 			<name>2MASS J06305289+0013369 b</name>
@@ -34,8 +34,8 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature errorminus="24" errorplus="24">1002</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<period>0</period><period>9.24285</period><lastupdate>1/05/14</lastupdate><lastupdate>1/07/10</lastupdate></planet>
 		<name>CoRoT-20</name>
 		<temperature errorminus="90" errorplus="90">5880.0</temperature>
-	</star>
-</system>
+	<radius>0</radius><radius>0.92</radius></star>
+<declination>+00d13m36.9s</declination><declination>+00 00 817</declination><rightascension>06h30m52.90s</rightascension><rightascension>+97 00 2630</rightascension></system>

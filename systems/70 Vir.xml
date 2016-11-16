@@ -1,9 +1,9 @@
-<system>
+<system system_distance_errorminus="[0.2, 0, 0.0]" system_distance_errorplus="[0.2, 0, 0.0]">
 	<name>70 Vir</name>
 	<rightascension>13 28 25.80861</rightascension>
 	<declination>+13 46 43.6386</declination>
 	<distance errorminus="0.2" errorplus="0.2">18.1</distance>
-	<star>
+	<star star_age_errorminus="[0.51, 0, 0.0]" star_age_errorplus="[0.51, 0, 0.0]" star_magV_errorminus="[0.009, 0, 0.0]" star_magV_errorplus="[0.009, 0, 0.0]" star_mass_errorminus="[0.002, 0, 0.0]" star_mass_errorplus="[0.002, 0, 0.0]">
 		<name>70 Vir</name>
 		<name>BD+14 2621</name>
 		<name>Gliese 9446</name>
@@ -25,7 +25,7 @@
 		<age errorminus="0.51" errorplus="0.51">7.77</age>
 		<spectraltype>G4 V</spectraltype>
 		<temperature errorminus="44" errorplus="44">5439</temperature>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.002, 0, 0.0]" planet_eccentricity_errorplus="[0.002, 0, 0.0]" planet_mass_errorminus="[0.02, 0, 0.0]" planet_mass_errorplus="[0.02, 0, 0.0]" planet_period_errorminus="[0.0014, 0, 0.0]" planet_period_errorplus="[0.0014, 0, 0.0]">
 			<name>70 Vir b</name>
 			<name>BD+14 2621 b</name>
 			<name>Gliese 9446 b</name>
@@ -45,6 +45,6 @@
 			<lastupdate>15/04/15</lastupdate>
 			<discoveryyear>1996</discoveryyear>
 			<temperature>479.1</temperature>
-		</planet>
-	</star>
-</system>
+		<eccentricity>0</eccentricity><eccentricity>0.43</eccentricity><mass>0</mass><mass>6.6</mass><period>0</period><period>116.67</period><lastupdate>1/04/24</lastupdate><lastupdate>1/12/29</lastupdate></planet>
+	<age>0</age><age>7.09</age><mass>0</mass><mass>0.92</mass><magV>0</magV><magV>5.0</magV></star>
+<distance>0</distance><distance>22.0</distance><declination>+13d46m43.6s</declination><declination>+13 00 2832</declination><rightascension>13h28m25.81s</rightascension><rightascension>+202 00 390</rightascension></system>

@@ -38,9 +38,9 @@
 				<discoverymethod>RV</discoverymethod>
 				<discoveryyear>2008</discoveryyear>
 				<lastupdate>14/11/06</lastupdate>
-				<description>Reffert &amp; Quirrenbach (2011) derive a best-fit inclination of 177.8° giving a true mass of 263 Jupiter masses. While the 3-sigma error region allows inclinations from 2° to 178.8°, the highest probability density is for nearly face-on orbits.</description>
+				<description>Reffert &amp; Quirrenbach (2011) derive a best-fit inclination of 177.8&#176; giving a true mass of 263 Jupiter masses. While the 3-sigma error region allows inclinations from 2&#176; to 178.8&#176;, the highest probability density is for nearly face-on orbits.</description>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<lastupdate>1/05/14</lastupdate><lastupdate /></planet>
 		</star>
 		<star>
 			<name>HD 156846 B</name>
@@ -51,4 +51,4 @@
 			<spectraltype>M</spectraltype>
 		</star>
 	</binary>
-</system>
+<declination>-19d20m01.5s</declination><declination /><rightascension>17h20m34.31s</rightascension><rightascension /></system>

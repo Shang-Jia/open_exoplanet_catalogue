@@ -15,7 +15,7 @@
 		<temperature errorminus="200" errorplus="200">5895</temperature>
 		<radius errorminus=".452" errorplus="0.452">0.941</radius>
 		<mass errorminus="0.0900" errorplus="0.0900">0.9970</mass>
-		<planet>
+		<planet planet_radius_errorminus="[0.00365, 0, 0.093]" planet_radius_errorplus="[0.09478, 0, 0.093]">
 			<name>Kepler-308 b</name>
 			<name>KOI-1593 b</name>
 			<name>KOI-1593.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate><radius>0</radius><radius>0.193</radius></planet>
 		<planet>
 			<name>Kepler-308 c</name>
 			<name>KOI-1593 c</name>
@@ -48,4 +48,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h43m08.44s</rightascension><rightascension>+295 00 2827</rightascension><declination>+40d26m22.4s</declination><declination>+40 00 1582</declination></system>

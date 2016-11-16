@@ -5,7 +5,7 @@
 	<rightascension>19 21 31</rightascension>
 	<declination>+43 17 34</declination>
 	<distance>114.07</distance>
-	<star>
+	<star star_radius_errorminus="[0.024, 0, 0.05]" star_radius_errorplus="[0.024, 0, 0.05]">
 		<name>KOI-314</name>
 		<name>Kepler-138</name>
 		<name>KIC 7603200</name>
@@ -17,7 +17,7 @@
 		<spectraltype>M1V</spectraltype>
 		<mass errorminus="0.055" errorplus="0.055">0.521</mass>
 		<metallicity errorminus="0.099" errorplus="0.099">-0.280</metallicity>
-		<planet>
+		<planet planet_period_errorminus="[0.0006, 0, 0.0]" planet_period_errorplus="[0.0004, 0, 0.0]" planet_radius_errorminus="[0.002916, 0, 0.006]" planet_radius_errorplus="[0.002916, 0, 0.006]">
 			<name>KOI-314 b</name>
 			<name>Kepler-138 c</name>
 			<name>KOI-314.01</name>
@@ -36,7 +36,7 @@
 			<discoveryyear>2014</discoveryyear>
 			<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 			<istransiting>1</istransiting>
-		</planet>
+		<radius>0</radius><radius>0.052</radius><lastupdate>1/06/17</lastupdate><lastupdate>1/06/18</lastupdate><period>0</period><period>10.31320643</period></planet>
 		<planet>
 			<name>KOI-314 c</name>
 			<name>Kepler-138 d</name>
@@ -73,5 +73,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<radius>0</radius><radius>0.54</radius></star>
+<declination>+43d17m34.7s</declination><declination>+43 00 1055</declination><rightascension>19h21m31.57s</rightascension><rightascension>+290 00 1380</rightascension></system>

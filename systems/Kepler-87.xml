@@ -33,7 +33,7 @@
 			<discoveryyear>2013</discoveryyear>
 			<list>Confirmed planets</list>
 			<istransiting>1</istransiting>
-		</planet>
+		<discoveryyear /><discoveryyear>2012</discoveryyear><lastupdate>1/05/14</lastupdate><lastupdate>1/10/11</lastupdate></planet>
 		<planet>
 			<name>Kepler-87 c</name>
 			<name>KOI-1574 c</name>
@@ -54,4 +54,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+46d57m54.5s</declination><declination>+46 00 3474</declination><rightascension>19h51m40.05s</rightascension><rightascension>+297 00 3300</rightascension></system>

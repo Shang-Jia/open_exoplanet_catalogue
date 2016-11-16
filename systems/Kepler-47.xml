@@ -58,7 +58,7 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<list>Planets in binary systems, P-type</list>
 			<temperature>448.8</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate /><lastupdate>1/02/23</lastupdate></planet>
 		<planet>
 			<name>Kepler-47 (AB) c</name>
 			<name>KIC 10020423 c</name>
@@ -86,4 +86,4 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 		</planet>
 	</binary>
 	<videolink>http://youtu.be/T_m9-foLW2E</videolink>
-</system>
+<declination /><declination>+46 00 3312</declination><rightascension /><rightascension>+295 00 1072</rightascension></system>

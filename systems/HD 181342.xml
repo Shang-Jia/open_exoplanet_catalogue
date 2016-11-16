@@ -14,7 +14,7 @@
 		<magK errorminus="0.020" errorplus="0.020">5.251</magK>
 		<metallicity>0.26</metallicity>
 		<spectraltype>K0III</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.07]" planet_eccentricity_errorplus="[0.0, 0, 0.07]" planet_mass_errorminus="[0.0, 0, 0.2]" planet_mass_errorplus="[0.0, 0, 0.2]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.04]" planet_semimajoraxis_errorplus="[0.0, 0, 0.04]">
 			<name>HD 181342 b</name>
 			<list>Confirmed planets</list>
 			<mass>3.3</mass>
@@ -22,11 +22,11 @@
 			<semimajoraxis>1.78</semimajoraxis>
 			<eccentricity>0.177</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
+			<lastupdate>1/03/17</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>354.7</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.1</eccentricity><semimajoraxis>0</semimajoraxis><semimajoraxis>1.65</semimajoraxis><mass>0</mass><mass>2.9</mass><period>0</period><period>562.0</period></planet>
 		<name>HD 181342</name>
 		<temperature>5014.0</temperature>
 	</star>
-</system>
+<declination>-23d37m10.5s</declination><declination>--23 00 -2230</declination><rightascension>19h21m04.23s</rightascension><rightascension>+290 00 960</rightascension></system>

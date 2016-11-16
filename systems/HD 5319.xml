@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[11.0, 0, 0.0]" system_distance_errorplus="[11.0, 0, 0.0]">
 	<name>HD 5319</name>
 	<rightascension>00 55 01.400</rightascension>
 	<declination>+00 47 22.40</declination>
@@ -38,7 +38,7 @@
 			<lastupdate>14/11/19</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>303.8</temperature>
-		</planet>
+		<lastupdate>1/12/03</lastupdate><lastupdate>1/08/10</lastupdate><discoveryyear /><discoveryyear>2016</discoveryyear></planet>
 		<planet>
 			<name>HD 5319 c</name>
 			<name>HIP 4297 c</name>
@@ -59,4 +59,4 @@
 		</planet>
 		<temperature>5052.0</temperature>
 	</star>
-</system>
+<distance>0</distance><distance>100.0</distance><declination>+00d47m22.4s</declination><declination>+00 00 2842</declination><rightascension>00h55m01.40s</rightascension><rightascension>+13 00 2715</rightascension></system>

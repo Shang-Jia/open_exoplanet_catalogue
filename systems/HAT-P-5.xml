@@ -31,8 +31,8 @@
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1387.4</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/22</lastupdate></planet>
 		<name>HAT-P-5</name>
 		<temperature>5960.0</temperature>
 	</star>
-</system>
+<rightascension>18h17m37.31s</rightascension><rightascension>+67 00 810</rightascension><declination>+36d37m17.1s</declination><declination>--21 00 -1735</declination></system>

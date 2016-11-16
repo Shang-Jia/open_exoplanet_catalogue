@@ -26,7 +26,7 @@
 			<lastupdate>10/12/29</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>256.8</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/17</lastupdate></planet>
 		<planet>
 			<name>HD 108874 c</name>
 			<list>Confirmed planets</list>
@@ -42,4 +42,4 @@
 		<name>HD 108874</name>
 		<temperature>5407.0</temperature>
 	</star>
-</system>
+<declination>+22d52m47.4s</declination><declination>+22 00 3167</declination><rightascension>12h30m26.88s</rightascension><rightascension>+187 00 2190</rightascension></system>

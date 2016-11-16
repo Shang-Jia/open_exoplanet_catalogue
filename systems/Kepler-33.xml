@@ -19,7 +19,7 @@
 		<metallicity errorminus="0.0019" errorplus="0.0019">0.0250</metallicity>
 		<radius errorminus="0.18" errorplus="0.14">1.82</radius>
 		<age errorminus="1.03" errorplus="0.74">4.27</age>
-		<planet>
+		<planet planet_radius_errorminus="[0.0, 0, 0.037]" planet_radius_errorplus="[0.0, 0, 0.037]">
 			<name>Kepler-33 b</name>
 			<name>KOI-707.05</name>
 			<name>KOI-707 b</name>
@@ -36,7 +36,7 @@
 			<temperature>1349.8</temperature>
 			<transittime errorminus="0.0075" errorplus="0.0075" unit="BJD">2454964.8981</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<radius>0</radius><radius>0.4</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/12/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-33 c</name>
 			<name>KOI-707.04</name>
@@ -112,4 +112,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+46d00m18.8s</declination><declination>+46 00 19</declination><rightascension>19h16m18.61s</rightascension><rightascension>+289 00 285</rightascension></system>

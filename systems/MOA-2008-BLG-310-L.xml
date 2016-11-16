@@ -16,8 +16,8 @@
 			<lastupdate>09/08/10</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>152.7</temperature>
-		</planet>
+		<lastupdate /><lastupdate>0/08/10</lastupdate></planet>
 		<name>MOA-2008-BLG-310-L</name>
 		<temperature>5700.0</temperature>
 	</star>
-</system>
+<declination /><declination>--34 00 -2801</declination><rightascension /><rightascension>+268 00 2010</rightascension></system>

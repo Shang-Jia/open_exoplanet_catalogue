@@ -33,6 +33,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<description>HD 131664 b was originally detected by radial velocity measurements, giving a minimum mass of 18.15 Jupiter masses. Using Hipparcos astrometry, the inclination and true mass have been determined, indicating that the object is either a massive brown dwarf or a low-mass star.</description>
 			<lastupdate>15/01/14</lastupdate>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate /></planet>
 	</star>
-</system>
+<declination>-73d32m07.2s</declination><declination /><rightascension>15h00m06.08s</rightascension><rightascension /></system>

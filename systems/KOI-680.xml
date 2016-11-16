@@ -3,7 +3,7 @@
 	<rightascension>19 29 08.959</rightascension>
 	<declination>+43 11 50.21</declination>
 	<distance errorminus="200" errorplus="200">2070</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.1, 0, 0.0]" star_metallicity_errorplus="[0.1, 0, 0.0]" star_radius_errorminus="[0.3, 0, 0.0]" star_radius_errorplus="[0.3, 0, 0.0]">
 		<name>KOI-680</name>
 		<name>Kepler-435</name>
 		<name>KIC 7529266</name>
@@ -19,7 +19,7 @@
 		<magK errorminus="0.022" errorplus="0.022">12.291</magK>
 		<metallicity errorminus="0.10" errorplus="0.10">-0.17</metallicity>
 		<temperature errorminus="110" errorplus="110">6090</temperature>
-		<planet>
+		<planet planet_mass_errorminus="[0.15, 0, 0.0]" planet_mass_errorplus="[0.15, 0, 0.0]" planet_period_errorminus="[1.8e-06, 0, 0.0]" planet_period_errorplus="[1.8e-06, 0, 0.0]" planet_radius_errorminus="[0.18, 0, 0.0]" planet_radius_errorplus="[0.18, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0018, 0, 0.0]" planet_semimajoraxis_errorplus="[0.0018, 0, 0.0]">
 			<name>KOI-680 b</name>
 			<name>KOI-680.01</name>
 			<name>Kepler-435 b</name>
@@ -37,6 +37,6 @@
 			<discoveryyear>2012</discoveryyear>
 			<temperature errorminus="70" errorplus="70">1729</temperature>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<radius>0</radius><radius>0.65</radius><mass>0</mass><mass>0.62</mass><period>0</period><period>8.6</period><lastupdate /><lastupdate>1/06/05</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>0.08</semimajoraxis></planet>
+	<radius>0</radius><radius>1.16</radius><metallicity>0</metallicity><metallicity>-0.46</metallicity></star>
+<declination /><declination>+43 00 710</declination><rightascension /><rightascension>+292 00 1035</rightascension></system>

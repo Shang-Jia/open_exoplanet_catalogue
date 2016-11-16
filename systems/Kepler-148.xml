@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-148 b</name>
 			<name>KOI-398 b</name>
@@ -60,4 +60,4 @@
 			<radius errorminus="0.037" errorplus="0.046">0.774</radius>
 		</planet>
 	</star>
-</system>
+<rightascension>19h19m08.69s</rightascension><rightascension>+289 00 2830</rightascension><declination>+46d51m31.6s</declination><declination>+46 00 3092</declination></system>

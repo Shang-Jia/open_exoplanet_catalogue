@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000003610" errorplus="0.000003610">3.692983730</period>
 			<radius errorminus="0.007" errorplus="0.007">0.178</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-968 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.006" errorplus="0.007">0.151</radius>
 		</planet>
 	</star>
-</system>
+<declination>+50d06m43.3s</declination><declination>+50 00 403</declination><rightascension>19h02m24.61s</rightascension><rightascension>+285 00 2169</rightascension></system>

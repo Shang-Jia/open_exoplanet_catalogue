@@ -13,7 +13,7 @@
 		<magK errorminus="0.015" errorplus="0.015">5.211</magK>
 		<metallicity>0.04</metallicity>
 		<spectraltype>G5</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 6.1276]" planet_mass_errorplus="[0.0, 0, 12.184]">
 			<name>HD 168443 b</name>
 			<list>Confirmed planets</list>
 			<mass>7.659</mass>
@@ -24,7 +24,7 @@
 			<lastupdate>11/09/26</lastupdate>
 			<discoveryyear>1998</discoveryyear>
 			<temperature>549.0</temperature>
-		</planet>
+		<lastupdate>1/02/05</lastupdate><lastupdate>1/08/22</lastupdate><mass>0</mass><mass>29.463</mass></planet>
 		<planet>
 			<name>HD 168443 c</name>
 			<list>Confirmed planets</list>
@@ -41,4 +41,4 @@
 		<name>HD 168443</name>
 		<temperature>5591.0</temperature>
 	</star>
-</system>
+<declination>-09d35m44.6s</declination><declination>--9 00 -2134</declination><rightascension>18h20m03.93s</rightascension><rightascension>+275 00 60</rightascension></system>

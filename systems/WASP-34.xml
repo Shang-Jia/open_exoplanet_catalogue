@@ -32,8 +32,8 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1058.7</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/13</lastupdate></planet>
 		<name>WASP-34</name>
 		<temperature>5700.0</temperature>
 	</star>
-</system>
+<declination>-23d51m38.3s</declination><declination>--23 00 -3098</declination><rightascension>11h01m35.89s</rightascension><rightascension>+165 00 1440</rightascension></system>

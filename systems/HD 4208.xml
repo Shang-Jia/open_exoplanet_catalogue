@@ -13,7 +13,7 @@
 		<magK errorminus="0.021" errorplus="0.021">6.163</magK>
 		<metallicity>-0.284</metallicity>
 		<spectraltype>G5 V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.04]" planet_eccentricity_errorplus="[0.0, 0, 0.04]" planet_mass_errorminus="[0.0, 0, 0.073]" planet_mass_errorplus="[0.0, 0, 0.073]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.096]" planet_semimajoraxis_errorplus="[0.0, 0, 0.096]">
 			<name>HD 4208 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.8</mass>
@@ -24,8 +24,8 @@
 			<lastupdate>09/10/08</lastupdate>
 			<discoveryyear>2001</discoveryyear>
 			<temperature>173.7</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.052</eccentricity><lastupdate>1/07/23</lastupdate><lastupdate>1/01/21</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>1.65</semimajoraxis><mass>0</mass><mass>0.804</mass><period>0</period><period>828.0</period></planet>
 		<name>HD 4208</name>
 		<temperature>5571.0</temperature>
 	</star>
-</system>
+<declination>-26d30m56.4s</declination><declination>--26 00 -1856</declination><rightascension>00h44m26.65s</rightascension><rightascension>+11 00 390</rightascension></system>

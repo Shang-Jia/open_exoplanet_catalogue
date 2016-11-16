@@ -3,7 +3,7 @@
 	<rightascension>09 54 34.3880</rightascension>
 	<declination>+40 23 16.981</declination>
 	<distance>178</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.0, 0, 0.081]" star_metallicity_errorplus="[0.0, 0, 0.081]">
 		<name>KELT-3</name>
 		<name>BD+41 2024</name>
 		<name>TYC 2996-683-1</name>
@@ -21,7 +21,7 @@
 		<magH errorminus="0.019" errorplus="0.019">8.728</magH>
 		<magK errorminus="0.019" errorplus="0.019">8.662</magK>
 		<temperature>6304</temperature>
-		<planet>
+		<planet planet_inclination_errorminus="[0.0, 0, 0.4]" planet_inclination_errorplus="[0.0, 0, 0.4]" planet_mass_errorminus="[0.0, 0, 0.07]" planet_mass_errorplus="[0.0, 0, 0.07]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 0.08]" planet_radius_errorplus="[0.0, 0, 0.08]" planet_semimajoraxis_errorminus="[0.0, 0, 0.00067]" planet_semimajoraxis_errorplus="[0.0, 0, 0.00067]">
 			<name>KELT-3 b</name>
 			<name>BD+41 2024 b</name>
 			<name>TYC 2996-683-1 b</name>
@@ -42,6 +42,6 @@
 			<discoveryyear>2012</discoveryyear>
 			<temperature>1667.7</temperature>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>0.04117</semimajoraxis><mass>0</mass><mass>1.418</mass><inclination>0</inclination><inclination>84.6</inclination><period>0</period><period>2.7033902</period><radius>0</radius><radius>1.333</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/08/20</lastupdate></planet>
+	<metallicity>0</metallicity><metallicity>0.048</metallicity><spectraltype /><spectraltype>F</spectraltype></star>
+<declination>+40d23m17.0s</declination><declination>+40 00 1397</declination><rightascension>09h54m34.40s</rightascension><rightascension>+148 00 2310</rightascension></system>

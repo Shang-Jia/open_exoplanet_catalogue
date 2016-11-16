@@ -30,8 +30,8 @@
 			<discoveryyear>2008</discoveryyear>
 			<temperature>975.6</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/06/05</lastupdate></planet>
 		<name>CoRoT-4</name>
 		<temperature>6190.0</temperature>
 	</star>
-</system>
+<declination>-00d40m22.0s</declination><declination>+00 00 -2422</declination><rightascension>06h48m46.72s</rightascension><rightascension>+102 00 705</rightascension></system>

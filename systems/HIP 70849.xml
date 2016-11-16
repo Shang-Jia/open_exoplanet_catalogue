@@ -28,7 +28,7 @@
 				<lastupdate>11/07/05</lastupdate>
 				<discoveryyear>2009</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<lastupdate>1/05/14</lastupdate><lastupdate>1/07/05</lastupdate></planet>
 			<name>HIP 70849</name>
 			<temperature>4105.0</temperature>
 		</star>
@@ -40,4 +40,4 @@
 			<mass>0.05</mass>
 		</star>
 	</binary>
-</system>
+<declination>-46d27m49.7s</declination><declination>--46 00 -1670</declination><rightascension>14h29m18.56s</rightascension><rightascension>+217 00 1185</rightascension></system>

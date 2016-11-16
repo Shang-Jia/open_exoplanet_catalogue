@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-401 c</name>
 			<name>KOI-2714 c</name>
@@ -59,4 +59,4 @@
 			<radius errorminus="0.023" errorplus="0.036">0.203</radius>
 		</planet>
 	</star>
-</system>
+<rightascension>19h20m19.86s</rightascension><rightascension>+290 00 298</rightascension><declination>+50d51m48.5s</declination><declination>+50 00 3109</declination></system>

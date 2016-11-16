@@ -19,7 +19,7 @@
 		<metallicity>0.07</metallicity>
 		<spectraltype>F6V</spectraltype>
 		<age errorminus="0.050" errorplus="0.100">0.150</age>
-		<planet>
+		<planet planet_periastron_errorminus="[3.7, 0, 3.7]" planet_periastron_errorplus="[3.6, 0, 3.7]">
 			<name>HD 113337 b</name>
 			<name>HIP 63584 b</name>
 			<name>HR 4934 b</name>
@@ -33,6 +33,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>13/10/10</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-		</planet>
+		<periastron>0</periastron><periastron>219.2</periastron><lastupdate>1/05/14</lastupdate><lastupdate>1/07/10</lastupdate></planet>
 	</star>
-</system>
+<declination>+63d36m36.8s</declination><declination>+63 00 2197</declination><rightascension>13h01m46.93s</rightascension><rightascension>+195 00 1605</rightascension></system>

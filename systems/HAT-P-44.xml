@@ -37,7 +37,7 @@
 			<lastupdate>13/08/16</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/21</lastupdate></planet>
 		<planet>
 			<name>HAT-P-44 c</name>
 			<name>GSC 3465-00123 c</name>
@@ -54,4 +54,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>14h12m34.58s</rightascension><rightascension>+213 00 525</rightascension></system>

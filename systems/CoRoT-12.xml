@@ -29,8 +29,8 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1318.7</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/16</lastupdate></planet>
 		<name>CoRoT-12</name>
 		<temperature>5675.0</temperature>
 	</star>
-</system>
+<declination>-01d17m47.2s</declination><declination>--1 00 -1067</declination><rightascension>06h43m03.76s</rightascension><rightascension>+100 00 2760</rightascension></system>

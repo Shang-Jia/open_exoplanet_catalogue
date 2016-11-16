@@ -31,7 +31,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/03/26</lastupdate>
 			<discoveryyear>2015</discoveryyear>
-		</planet>
+		<lastupdate>1/04/01</lastupdate><lastupdate>1/07/27</lastupdate></planet>
 		<name>HD 1666</name>
 		<name>BD-20 48</name>
 		<name>PPM 208672</name>
@@ -39,5 +39,5 @@
 		<name>2MASS J00205233-1955522</name>
 		<name>HIP 1666</name>
 		<temperature errorminus="44" errorplus="44">6317</temperature>
-	</star>
-</system>
+	<spectraltype /><spectraltype>F7 V</spectraltype></star>
+<declination>-19d55m52.4s</declination><declination>--19 00 -3352</declination><rightascension>00h20m52.34s</rightascension><rightascension>+05 00 780</rightascension></system>

@@ -15,7 +15,7 @@
 		<magK errorminus="0.036" errorplus="0.036">3.999</magK>
 		<metallicity>0.05</metallicity>
 		<spectraltype>K0 V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.036]" planet_eccentricity_errorplus="[0.0, 0, 0.036]" planet_mass_errorminus="[0.0, 0, 0.00972]" planet_mass_errorplus="[0.0, 0, 0.291]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.003]" planet_semimajoraxis_errorplus="[0.0, 0, 0.003]">
 			<name>HD 3651 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.2</mass>
@@ -27,7 +27,7 @@
 			<lastupdate>10/10/19</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>405.0</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.596</eccentricity><mass>0</mass><mass>0.231</mass><period>0</period><period>62.218</period><lastupdate>1/05/14</lastupdate><lastupdate>1/02/01</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>0.295</semimajoraxis></planet>
 		<planet>
 			<name>HD 3651.02</name>
 			<list>Controversial</list>
@@ -45,4 +45,4 @@
 		<name>HD 3651</name>
 		<temperature>5173.0</temperature>
 	</star>
-</system>
+<declination>+21d15m01.7s</declination><declination>+21 00 901</declination><rightascension>00h39m21.81s</rightascension><rightascension>+09 00 3015</rightascension></system>

@@ -3,7 +3,7 @@
 	<rightascension>19 23 14.28</rightascension>
 	<declination>-20 09 58.7</declination>
 	<distance errorminus="30" errorplus="42">622</distance>
-	<star>
+	<star star_magV_errorminus="[0.01, 0, 0.0]" star_magV_errorplus="[0.01, 0, 0.0]">
 		<name>HATS-9</name>
 		<name>2MASS 19231442-2009587</name>
 		<name>GSC 6305-02502</name>
@@ -34,6 +34,6 @@
 			<lastupdate>15/02/28</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/21</lastupdate><lastupdate>1/08/17</lastupdate></planet>
+	<magV>0</magV><magV>13.3</magV></star>
+<declination>-20d09m58.7s</declination><declination>--20 00 -539</declination><rightascension>19h23m14.42s</rightascension><rightascension>+290 00 2910</rightascension></system>

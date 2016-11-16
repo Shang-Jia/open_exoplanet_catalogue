@@ -44,7 +44,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/24</lastupdate>
 			<discoveryyear>1996</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>47 UMa c</name>
 			<name>47 Ursae Majoris c</name>
@@ -80,4 +80,4 @@
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>
-</system>
+<declination>+40d25m48.9s</declination><declination /><rightascension>10h59m27.97s</rightascension><rightascension /></system>

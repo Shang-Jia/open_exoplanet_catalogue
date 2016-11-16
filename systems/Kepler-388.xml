@@ -5,7 +5,7 @@
 	<rightascension>18 59 18</rightascension>
 	<declination>+44 36 31</declination>
 	<distance>399.01</distance>
-	<star>
+	<star star_mass_errorminus="[0.015, 0, 0.0]" star_mass_errorplus="[0.015, 0, 0.0]">
 		<magJ errorminus="0.023" errorplus="0.023">13.261</magJ>
 		<magH errorminus="0.021" errorplus="0.021">12.657</magH>
 		<magK errorminus="0.026" errorplus="0.026">12.544</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-388 c</name>
 			<name>KOI-2466 c</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.59</mass></star>
+<rightascension>18h59m18.73s</rightascension><rightascension>+284 00 2981</rightascension><declination>+44d36m31.4s</declination><declination>+44 00 2191</declination></system>

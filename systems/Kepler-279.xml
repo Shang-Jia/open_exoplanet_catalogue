@@ -5,7 +5,7 @@
 	<rightascension>19 09 33</rightascension>
 	<declination>+42 11 41</declination>
 	<distance>1287.10</distance>
-	<star>
+	<star star_radius_errorminus="[0.315, 0, 0.52]" star_radius_errorplus="[0.315, 0, 0.52]">
 		<magJ errorminus="0.021" errorplus="0.021">12.724</magJ>
 		<magH errorminus="0.020" errorplus="0.020">12.509</magH>
 		<magK errorminus="0.019" errorplus="0.019">12.509</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-279 b</name>
 			<name>KOI-1236 b</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<radius>0</radius><radius>1.27</radius></star>
+<rightascension>19h09m33.89s</rightascension><rightascension>+287 00 1410</rightascension><declination>+42d11m41.4s</declination><declination>+42 00 702</declination></system>

@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-359 b</name>
 			<name>KOI-2092 b</name>
@@ -63,4 +63,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h33m10.47s</rightascension><rightascension>+293 00 1057</rightascension><declination>+42d11m46.9s</declination><declination>+42 00 707</declination></system>

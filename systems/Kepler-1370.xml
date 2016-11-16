@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000111100" errorplus="0.000111100">20.264168400</period>
 			<radius errorminus="0.023" errorplus="0.059">0.164</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-1370 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.016" errorplus="0.050">0.113</radius>
 		</planet>
 	</star>
-</system>
+<declination>+41d46m42.5s</declination><declination>+41 00 2803</declination><rightascension>18h58m15.76s</rightascension><rightascension>+284 00 2036</rightascension></system>

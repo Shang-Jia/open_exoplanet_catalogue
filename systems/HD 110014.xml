@@ -3,7 +3,7 @@
 	<rightascension>12 39 14</rightascension>
 	<declination>-07 59 44</declination>
 	<distance>90</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.28]" star_mass_errorplus="[0.0, 0, 0.28]" star_metallicity_errorminus="[0.0, 0, 0.05]" star_metallicity_errorplus="[0.0, 0, 0.05]">
 		<mass>2.09</mass>
 		<radius>20.9</radius>
 		<magV>4.66</magV>
@@ -23,7 +23,7 @@
 			<lastupdate>15/05/24</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<description>HD 110014 b is a planet in an eccentric orbit around a red giant star.</description>
-		</planet>
+		<lastupdate /><lastupdate>1/09/03</lastupdate></planet>
 		<planet>
 			<name>HD 110014 c</name>
 			<list>Confirmed planets</list>
@@ -40,5 +40,5 @@
 		</planet>
 		<name>HD 110014</name>
 		<temperature>4445.0</temperature>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>0.19</metallicity><mass>0</mass><mass>2.17</mass></star>
+<rightascension /><rightascension>+189 00 2910</rightascension><declination /><declination>--7 00 -3584</declination></system>

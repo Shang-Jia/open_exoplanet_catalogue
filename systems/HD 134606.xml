@@ -24,7 +24,7 @@
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>817.0</temperature>
-		</planet>
+		<lastupdate /><lastupdate>1/09/12</lastupdate></planet>
 		<planet>
 			<name>HD 134606 c</name>
 			<list>Confirmed planets</list>
@@ -54,4 +54,4 @@
 		<name>HD 134606</name>
 		<temperature>5940.0</temperature>
 	</star>
-</system>
+<rightascension /><rightascension>+228 00 2925</rightascension><declination /><declination>--70 00 -1871</declination></system>

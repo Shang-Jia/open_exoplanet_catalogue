@@ -34,6 +34,6 @@
 			<discoveryyear>2013</discoveryyear>
 			<description>WASP-75 b is a transiting Hot Jupiter. Its radius is slightly inflated as compared to theoretical planet models with no core.</description>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/06/14</lastupdate></planet>
 	</star>
-</system>
+<declination>-10d40m32.0s</declination><declination>--10 00 -2432</declination><rightascension>22h49m32.57s</rightascension><rightascension>+342 00 1395</rightascension></system>

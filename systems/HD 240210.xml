@@ -3,7 +3,7 @@
 	<rightascension>23 10 29.2303</rightascension>
 	<declination>+57 01 46.035</declination>
 	<distance errorminus="53" errorplus="53">143</distance>
-	<star>
+	<star star_magV_errorminus="[0.01, 0, 0.0]" star_magV_errorplus="[0.01, 0, 0.0]" star_mass_errorminus="[0.15, 0, 0.25]" star_mass_errorplus="[0.15, 0, 0.25]">
 		<name>HD 240210</name>
 		<name>TYC 4006-980-1</name>
 		<name>SAO 35195</name>
@@ -18,7 +18,7 @@
 		<temperature errorminus="25" errorplus="25">4297</temperature>
 		<metallicity errorminus="0.12" errorplus="0.12">-0.18</metallicity>
 		<spectraltype>K3III</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0]" planet_mass_errorplus="[0.0, 0, 0.0]">
 			<name>HD 240210 b</name>
 			<list>Confirmed planets</list>
 			<mass type="msini">5.21</mass>
@@ -30,6 +30,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/26</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/11/19</lastupdate><lastupdate>1/08/27</lastupdate><mass>0</mass><mass>6.9</mass></planet>
+	<mass>0</mass><mass>1.25</mass><magV>0</magV><magV>8.33</magV></star>
+<declination>+57d01m46.0s</declination><declination>+57 00 106</declination><rightascension>23h10m29.23s</rightascension><rightascension>+347 00 2235</rightascension></system>

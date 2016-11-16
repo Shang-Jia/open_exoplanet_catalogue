@@ -5,7 +5,7 @@
 	<rightascension>19 41 09</rightascension>
 	<declination>+48 35 58</declination>
 	<distance>753.63</distance>
-	<star>
+	<star star_mass_errorminus="[0.084, 0, 0.0]" star_mass_errorplus="[0.084, 0, 0.0]">
 		<magJ errorminus="0.023" errorplus="0.023">13.113</magJ>
 		<magH errorminus="0.021" errorplus="0.021">12.803</magH>
 		<magK errorminus="0.027" errorplus="0.027">12.742</magK>
@@ -15,7 +15,7 @@
 		<temperature errorminus="200" errorplus="200">5986</temperature>
 		<radius errorminus=".410" errorplus="0.410">0.900</radius>
 		<mass errorminus="0.0840" errorplus="0.0840">1.0350</mass>
-		<planet>
+		<planet planet_radius_errorminus="[0.00365, 0, 0.093]" planet_radius_errorplus="[0.09478, 0, 0.093]">
 			<name>Kepler-300 c</name>
 			<name>KOI-1435 c</name>
 			<name>KOI-1435.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate><radius>0</radius><radius>0.201</radius></planet>
 		<planet>
 			<name>Kepler-300 b</name>
 			<name>KOI-1435 b</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.94</mass></star>
+<rightascension>19h41m09.29s</rightascension><rightascension>+295 00 1039</rightascension><declination>+48d35m59.0s</declination><declination>+48 00 2159</declination></system>

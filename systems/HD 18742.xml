@@ -13,7 +13,7 @@
 		<magK errorminus="0.024" errorplus="0.024">5.554</magK>
 		<metallicity>-0.04</metallicity>
 		<spectraltype>K0</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, inf]" planet_eccentricity_errorplus="[0.0, 0, nan]">
 			<name>HD 18742 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.7</mass>
@@ -25,8 +25,8 @@
 			<lastupdate>12/08/07</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>354.4</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.23</eccentricity><lastupdate>1/05/14</lastupdate><lastupdate>1/09/02</lastupdate></planet>
 		<name>HD 18742</name>
 		<temperature>5048.0</temperature>
-	</star>
-</system>
+	<spectraltype /><spectraltype>G9IV</spectraltype></star>
+<rightascension>03h00m10.66s</rightascension><rightascension>+45 00 165</rightascension><declination>-20d48m09.4s</declination><declination>--20 00 -2889</declination></system>

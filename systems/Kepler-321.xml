@@ -5,7 +5,7 @@
 	<rightascension>19 37 48</rightascension>
 	<declination>+44 08 45</declination>
 	<distance>461.82</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.0]" star_mass_errorplus="[0.0, 0, 0.0]">
 		<magJ errorminus="0.021" errorplus="0.021">11.621</magJ>
 		<magH errorminus="0.017" errorplus="0.017">11.300</magH>
 		<magK errorminus="0.016" errorplus="0.016">11.249</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-321 b</name>
 			<name>KOI-1809 b</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>1.01</mass></star>
+<rightascension>19h37m48.88s</rightascension><rightascension>+294 00 1633</rightascension><declination>+44d08m44.7s</declination><declination>+44 00 525</declination></system>

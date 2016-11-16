@@ -13,7 +13,7 @@
 		<magK errorminus="0.024" errorplus="0.024">7.468</magK>
 		<metallicity>0.1</metallicity>
 		<spectraltype>A5</spectraltype>
-		<planet>
+		<planet planet_inclination_errorminus="[0.0, 0, 1.8]" planet_inclination_errorplus="[0.0, 0, 1.8]" planet_mass_errorminus="[0.0, 0, 0.1]" planet_mass_errorplus="[0.0, 0, 0.1]" planet_radius_errorminus="[0.0, 0, 0.014]" planet_radius_errorplus="[0.0, 0, 0.014]">
 			<name>WASP-33 b</name>
 			<name>HIP 11397 b</name>
 			<name>TYC 2831-00594-1 b</name>
@@ -34,8 +34,8 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>2451.5</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass>0</mass><mass>2.1</mass><inclination>0</inclination><inclination>87.7</inclination><radius>0</radius><radius>1.603</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/09/30</lastupdate></planet>
 		<name>WASP-33</name>
 		<temperature>7400.0</temperature>
 	</star>
-</system>
+<rightascension>02h26m51.06s</rightascension><rightascension>+36 00 2565</rightascension><declination>+37d33m01.7s</declination><declination>+37 00 1982</declination></system>

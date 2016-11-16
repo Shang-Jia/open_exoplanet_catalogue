@@ -15,7 +15,7 @@
 		<magK errorminus="0.020" errorplus="0.020">8.783</magK>
 		<metallicity>0.11</metallicity>
 		<spectraltype>K4V</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0201050876255]" planet_mass_errorplus="[0.0, 0, 0.0201050876255]" planet_radius_errorminus="[0.0, 0, 0.0347935316148]" planet_radius_errorplus="[0.0, 0, 0.0553127938492]">
 			<name>WASP-29 b</name>
 			<name>2MASS J23513108-3954241 b</name>
 			<name>TYC 8015-1020-1 b</name>
@@ -32,8 +32,8 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>910.6</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<radius>0</radius><radius>0.84128975161</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/05/21</lastupdate><mass>0</mass><mass>0.242897146273</mass></planet>
 		<name>WASP-29</name>
 		<temperature>4800.0</temperature>
 	</star>
-</system>
+<declination>-39d54m24.2s</declination><declination>--39 00 -3264</declination><rightascension>23h51m31.09s</rightascension><rightascension>+357 00 3165</rightascension></system>

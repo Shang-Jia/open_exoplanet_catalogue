@@ -3,7 +3,7 @@
 	<rightascension>20 18 09.32</rightascension>
 	<declination>-01 04 32.6</declination>
 	<distance errorminus="20" errorplus="20">120</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>WASP-74</name>
 		<name>1SWASP J201809.32-010432.6</name>
 		<name>2MASS 20180931-0104324</name>
@@ -42,6 +42,6 @@
 			<lastupdate>14/10/24</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/07/09</lastupdate><lastupdate>1/04/06</lastupdate></planet>
+	<magV>0</magV><magV>9.7</magV></star>
+<declination>-01d04m32.4s</declination><declination>--1 00 -273</declination><rightascension>20h18m09.32s</rightascension><rightascension>+304 00 1950</rightascension></system>

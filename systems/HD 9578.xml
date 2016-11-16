@@ -20,8 +20,8 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-		</planet>
+		<lastupdate /><lastupdate>1/12/06</lastupdate></planet>
 		<name>HD 9578</name>
 		<temperature>5940.0</temperature>
 	</star>
-</system>
+<declination /><declination>--38 00 -882</declination><rightascension /><rightascension>+23 00 1155</rightascension></system>

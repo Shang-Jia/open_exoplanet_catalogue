@@ -13,8 +13,8 @@
 			<discoverymethod>microlensing</discoverymethod>
 			<lastupdate>09/12/08</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-		</planet>
+		<lastupdate /><lastupdate>0/12/08</lastupdate></planet>
 		<name>OGLE-2007-BLG-368L</name>
 		<temperature>5700.0</temperature>
 	</star>
-</system>
+<declination /><declination>--32 00 -855</declination><rightascension /><rightascension>+269 00 390</rightascension></system>

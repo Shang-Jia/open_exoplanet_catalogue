@@ -15,7 +15,7 @@
 			<magB>8.47</magB>
 			<metallicity>0.19</metallicity>
 			<spectraltype>G9V</spectraltype>
-			<planet>
+			<planet planet_mass_errorminus="[0.0, 0, 16.0]" planet_mass_errorplus="[0.0, 0, 81.0]">
 				<name>HD 142022 A b</name>
 				<list>Confirmed planets</list>
 				<mass>5.1</mass>
@@ -29,13 +29,13 @@
 				<discoveryyear>2005</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 				<temperature>112.3</temperature>
-			</planet>
+			<lastupdate>1/05/14</lastupdate><lastupdate>1/05/26</lastupdate><mass>0</mass><mass>29.0</mass></planet>
 			<temperature>5382.0</temperature>
-		</star>
+		<spectraltype /><spectraltype>K0 V</spectraltype></star>
 		<star>
 			<name>HD 142022 B</name>
 			<mass>0.60</mass>
 			<spectraltype>K7V</spectraltype>
 		</star>
 	</binary>
-</system>
+<rightascension>16h10m15.02s</rightascension><rightascension>+242 00 2025</rightascension><declination>-84d13m53.8s</declination><declination>--84 00 -833</declination></system>

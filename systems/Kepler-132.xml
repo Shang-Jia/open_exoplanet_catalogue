@@ -31,7 +31,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-132 c</name>
 			<name>KOI-284 c</name>
@@ -77,4 +77,4 @@
 			<radius errorminus="0.011" errorplus="0.014">0.105</radius>
 		</planet>
 	</star>
-</system>
+<declination>+41d20m34.9s</declination><declination>+41 00 1235</declination><rightascension>18h52m56.59s</rightascension><rightascension>+283 00 849</rightascension></system>

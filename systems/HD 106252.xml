@@ -15,7 +15,7 @@
 		<magK>5.93</magK>
 		<metallicity>-0.078</metallicity>
 		<spectraltype>G0</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 25.3]" planet_mass_errorplus="[0.0, 0, 39.5]">
 			<name>HD 106252 b</name>
 			<list>Confirmed planets</list>
 			<mass>7.56</mass>
@@ -27,8 +27,8 @@
 			<lastupdate>11/01/11</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>158.8</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/09/14</lastupdate><mass>0</mass><mass>32.9</mass></planet>
 		<name>HD 106252</name>
 		<temperature>5754.0</temperature>
 	</star>
-</system>
+<declination>+10d02m29.9s</declination><declination>+10 00 149</declination><rightascension>12h13m29.51s</rightascension><rightascension>+183 00 1335</rightascension></system>

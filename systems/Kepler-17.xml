@@ -14,7 +14,7 @@
 		<magK errorminus="0.023" errorplus="0.023">12.585</magK>
 		<metallicity errorminus="0.10" errorplus="0.10">0.26</metallicity>
 		<spectraltype>G2V</spectraltype>
-		<planet>
+		<planet planet_temperature_errorminus="[0.0, 0, 0.0]" planet_temperature_errorplus="[0.0, 0, 0.0]">
 			<name>Kepler-17 b</name>
 			<name>2MASS J19533486+4748540 b</name>
 			<name>KOI-203.01</name>
@@ -34,10 +34,10 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1622.7</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<temperature>0</temperature><temperature>1655.0</temperature><lastupdate>1/05/14</lastupdate><lastupdate>1/10/19</lastupdate></planet>
 		<name>Kepler-17</name>
 		<name>KOI-203</name>
 		<name>KIC 10619192</name>
 		<temperature errorminus="85" errorplus="85">5781</temperature>
 	</star>
-</system>
+<declination>+47d48m54.0s</declination><declination>+47 00 2934</declination><rightascension>19h53m34.87s</rightascension><rightascension>+298 00 1425</rightascension></system>

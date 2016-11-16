@@ -14,7 +14,7 @@
 		<magK errorminus="0.023" errorplus="0.023">11.688</magK>
 		<metallicity>-0.01</metallicity>
 		<spectraltype>G3V</spectraltype>
-		<planet>
+		<planet planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 0.04]" planet_radius_errorplus="[0.0, 0, 0.04]">
 			<name>CoRoT-9 b</name>
 			<name>CoRoT-Exo-9 b</name>
 			<name>2MASS J18430881+0612150 b</name>
@@ -33,8 +33,8 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>376.6</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<radius>0</radius><radius>0.94</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/06/05</lastupdate><period>0</period><period>95.273804</period></planet>
 		<name>CoRoT-9</name>
 		<temperature>5625.0</temperature>
 	</star>
-</system>
+<declination>+06d12m15.0s</declination><declination>+06 00 735</declination><rightascension>18h43m08.81s</rightascension><rightascension>+280 00 2835</rightascension></system>

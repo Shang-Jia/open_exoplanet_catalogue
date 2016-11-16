@@ -26,8 +26,8 @@
 			<lastupdate>10/06/28</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>452.6</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/06/28</lastupdate></planet>
 		<name>HD 109246</name>
 		<temperature>5844.0</temperature>
-	</star>
-</system>
+	<spectraltype /><spectraltype>GOV</spectraltype></star>
+<declination>+74d29m22.4s</declination><declination>+74 00 1762</declination><rightascension>12h32m07.19s</rightascension><rightascension>+188 00 105</rightascension></system>

@@ -19,7 +19,7 @@
 		<magK errorminus="0.013" errorplus="0.013">10.871</magK>
 		<metallicity>0.02</metallicity>
 		<spectraltype>G8</spectraltype>
-		<planet>
+		<planet planet_inclination_errorminus="[0.0, 0, 1.594]" planet_inclination_errorplus="[0.0, 0, 0.215]" planet_mass_errorminus="[0.0, 0, 0.00453]" planet_mass_errorplus="[0.0, 0, 0.00444]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 0.003]" planet_radius_errorplus="[0.0, 0, 0.0059]" planet_semimajoraxis_errorminus="[0.0, 0, 0.0015]" planet_semimajoraxis_errorplus="[0.0, 0, 0.0009]">
 			<name>Kepler-20 b</name>
 			<name>2MASS J19104752+4220194 b</name>
 			<name>KOI-70.02</name>
@@ -38,7 +38,7 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1092.1</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>0.0463</semimajoraxis><radius>0</radius><radius>0.1667</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/08/26</lastupdate><mass>0</mass><mass>0.0305</mass><inclination>0</inclination><inclination>87.355</inclination><period>0</period><period>3.69611525</period></planet>
 		<planet>
 			<name>Kepler-20 c</name>
 			<name>2MASS J19104752+4220194 c</name>
@@ -118,4 +118,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+42d20m19.4s</declination><declination>+42 00 1219</declination><rightascension>19h10m47.52s</rightascension><rightascension>+287 00 2520</rightascension></system>

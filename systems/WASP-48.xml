@@ -28,8 +28,8 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature errorminus="70" errorplus="70">2030</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/03/26</lastupdate><lastupdate>1/08/16</lastupdate></planet>
 		<name>WASP-48</name>
 		<temperature errorminus="150" errorplus="150">5920</temperature>
 	</star>
-</system>
+<declination>+55d28m23.4s</declination><declination>+55 00 1703</declination><rightascension>19h24m38.96s</rightascension><rightascension>+291 00 585</rightascension></system>

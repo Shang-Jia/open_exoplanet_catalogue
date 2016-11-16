@@ -13,7 +13,7 @@
 		<magK errorminus="0.018" errorplus="0.018">6.530</magK>
 		<metallicity>0.19</metallicity>
 		<spectraltype>G0IV</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.036]" planet_eccentricity_errorplus="[0.0, 0, 0.036]" planet_mass_errorminus="[0.0, 0, 0.0044]" planet_mass_errorplus="[0.0, 0, 0.0044]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.0]" planet_semimajoraxis_errorplus="[0.0, 0, 0.0]">
 			<name>HD 219828 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.066</mass>
@@ -24,8 +24,8 @@
 			<lastupdate>10/12/21</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1485.2</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.059</eccentricity><semimajoraxis>0</semimajoraxis><semimajoraxis>0.045</semimajoraxis><mass>0</mass><mass>0.0661</mass><period>0</period><period>3.834887</period><lastupdate>1/06/03</lastupdate><lastupdate>1/05/24</lastupdate></planet>
 		<name>HD 219828</name>
 		<temperature>5891.0</temperature>
 	</star>
-</system>
+<declination>+18d38m44.6s</declination><declination>+18 00 2325</declination><rightascension>23h18m46.74s</rightascension><rightascension>+349 00 2505</rightascension></system>

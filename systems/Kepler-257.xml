@@ -5,7 +5,7 @@
 	<rightascension>19 49 15</rightascension>
 	<declination>+46 01 23</declination>
 	<distance>1167.03</distance>
-	<star>
+	<star star_magK_errorminus="[0.0, 0, 0.0]" star_magK_errorplus="[0.0, 0, 0.0]">
 		<magJ errorminus="0.023" errorplus="0.023">13.916</magJ>
 		<magH errorminus="0.026" errorplus="0.026">13.448</magH>
 		<magK>13.371</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-257 b</name>
 			<name>KOI-941 b</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<magK>0</magK><magK>13.372</magK></star>
+<rightascension>19h49m15.84s</rightascension><rightascension>+297 00 1138</rightascension><declination>+46d01m23.8s</declination><declination>+46 00 84</declination></system>

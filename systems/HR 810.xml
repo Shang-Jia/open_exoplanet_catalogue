@@ -25,8 +25,8 @@
 			<lastupdate>10/12/29</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<temperature>373.3</temperature>
-		</planet>
+		<lastupdate>1/04/30</lastupdate><lastupdate>1/12/29</lastupdate></planet>
 		<name>HR 810</name>
 		<temperature>5997.0</temperature>
 	</star>
-</system>
+<declination>-50d48m01.1s</declination><declination>--50 00 -2892</declination><rightascension>02h42m33.47s</rightascension><rightascension>+40 00 2265</rightascension></system>

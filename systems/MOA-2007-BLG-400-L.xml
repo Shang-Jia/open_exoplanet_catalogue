@@ -15,8 +15,8 @@
 			<lastupdate>10/12/06</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>104.6</temperature>
-		</planet>
+		<lastupdate /><lastupdate>1/12/06</lastupdate></planet>
 		<name>MOA-2007-BLG-400-L</name>
 		<temperature>5700.0</temperature>
 	</star>
-</system>
+<declination /><declination>--29 00 -807</declination><rightascension /><rightascension>+272 00 1530</rightascension></system>

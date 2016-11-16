@@ -29,8 +29,8 @@
 			<discoveryyear>2008</discoveryyear>
 			<temperature>1133.5</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/02/12</lastupdate><lastupdate>1/09/20</lastupdate></planet>
 		<name>XO-5</name>
 		<temperature>5510.0</temperature>
 	</star>
-</system>
+<declination>+39d05m40.5s</declination><declination>+39 00 341</declination><rightascension>07h46m51.97s</rightascension><rightascension>+116 00 2580</rightascension></system>

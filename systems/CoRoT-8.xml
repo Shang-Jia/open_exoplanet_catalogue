@@ -3,7 +3,7 @@
 	<rightascension>19 26 21</rightascension>
 	<declination>+01 25 36</declination>
 	<distance>380</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<mass>0.88</mass>
 		<radius>0.77</radius>
 		<magV>14.797</magV>
@@ -15,7 +15,7 @@
 		<magK errorminus="0.021" errorplus="0.021">11.463</magK>
 		<metallicity>0.3</metallicity>
 		<spectraltype>K1V</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0339804297895]" planet_mass_errorplus="[0.0, 0, 0.0339804297895]" planet_radius_errorminus="[0.0, 0, 0.0196271203981]" planet_radius_errorplus="[0.0, 0, 0.0196271203981]">
 			<name>CoRoT-8 b</name>
 			<name>CoRoT-Exo-8 b</name>
 			<name>2MASS J19262124+0125352 b</name>
@@ -33,8 +33,8 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>783.1</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass>0</mass><mass>0.215838655885</mass><radius>0</radius><radius>0.569186491545</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/08/16</lastupdate></planet>
 		<name>CoRoT-8</name>
 		<temperature>5080.0</temperature>
-	</star>
-</system>
+	<magV>0</magV><magV>14.8</magV></star>
+<declination>+01d25m35.2s</declination><declination>+01 00 1536</declination><rightascension>19h26m21.24s</rightascension><rightascension>+291 00 2115</rightascension></system>

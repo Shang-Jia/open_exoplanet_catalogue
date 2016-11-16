@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000026760" errorplus="0.000026760">5.185614200</period>
 			<radius errorminus="0.044" errorplus="0.095">0.209</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-1154 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.044" errorplus="0.085">0.211</radius>
 		</planet>
 	</star>
-</system>
+<declination>+39d52m38.1s</declination><declination>+39 00 3158</declination><rightascension>19h49m54.51s</rightascension><rightascension>+297 00 1718</rightascension></system>

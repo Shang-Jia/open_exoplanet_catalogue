@@ -1,9 +1,9 @@
-<system>
+<system system_distance_errorminus="[2.4, 0, 0.0]" system_distance_errorplus="[2.4, 0, 0.0]">
 	<name>HD 104985</name>
 	<rightascension>12 05 15.11890</rightascension>
 	<declination>+76 54 20.6475</declination>
 	<distance errorminus="2.4" errorplus="2.4">97.1</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]" star_mass_errorminus="[0.0, 0, 0.0]" star_mass_errorplus="[0.0, 0, 0.0]" star_metallicity_errorminus="[0.0, 0, 0.0]" star_metallicity_errorplus="[0.0, 0, 0.0]" star_radius_errorminus="[0.0, 0, 0.36]" star_radius_errorplus="[0.0, 0, 0.36]" star_temperature_errorminus="[0.0, 0, 0.0]" star_temperature_errorplus="[0.0, 0, 0.0]">
 		<name>HD 104985</name>
 		<name>HIP 58952</name>
 		<name>TYC 4550-2113-1</name>
@@ -35,6 +35,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/23</lastupdate>
 			<discoveryyear>2003</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/01/22</lastupdate></planet>
+	<radius>0</radius><radius>10.87</radius><temperature>0</temperature><temperature>4786.0</temperature><magV>0</magV><magV>5.79</magV><mass>0</mass><mass>1.6</mass><metallicity>0</metallicity><metallicity>-0.35</metallicity></star>
+<distance>0</distance><distance>102.0</distance><declination>+76d54m20.6s</declination><declination>+76 00 3260</declination><rightascension>12h05m15.12s</rightascension><rightascension>+181 00 1125</rightascension></system>

@@ -29,7 +29,7 @@
 			<mass>0.81</mass>
 			<radius>0.7861</radius>
 		</star>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0199792341818]" planet_mass_errorplus="[0.0, 0, 0.0199792341818]" planet_radius_errorminus="[0.0, 0, 0.0133821275442]" planet_radius_errorplus="[0.0, 0, 0.0133821275442]">
 			<name>Kepler-35 (AB) b</name>
 			<name>KIC 9837578 (AB) b</name>
 			<name>KIC 9837578 b</name>
@@ -55,6 +55,6 @@
 Illustration by Lynette Cook, http://extrasolar.spaceart.org.</imagedescription>
 			<list>Planets in binary systems, P-type</list>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate /><lastupdate>1/02/23</lastupdate><mass>0</mass><mass>0.126797344492</mass><radius>0</radius><radius>0.727987738403</radius></planet>
 	</binary>
-</system>
+<rightascension /><rightascension>+294 00 1785</rightascension><declination /><declination>+46 00 2484</declination></system>

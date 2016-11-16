@@ -14,7 +14,7 @@
 		<mass errorminus="0.09" errorplus="0.09">1.11</mass>
 		<radius errorminus="0.04" errorplus="0.06">1.05</radius>
 		<magV>12.9</magV>
-		<planet>
+		<planet planet_period_errorminus="[1.5e-05, 0, 0.0]" planet_period_errorplus="[1.5e-05, 0, 0.0]">
 			<name>WASP-83 b</name>
 			<name>1SWASP J124036.51-191703.4 b</name>
 			<name>2MASS 12403650-1917032 b</name>
@@ -32,6 +32,6 @@
 			<lastupdate>14/10/24</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/07/09</lastupdate><lastupdate>1/07/27</lastupdate><period>0</period><period>4.071252</period></planet>
 	</star>
-</system>
+<declination>-19d17m03.3s</declination><declination>--19 00 -1023</declination><rightascension>12h40m36.50s</rightascension><rightascension>+190 00 555</rightascension></system>

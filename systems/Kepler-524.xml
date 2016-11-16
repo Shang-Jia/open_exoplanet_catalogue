@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000020380" errorplus="0.000020380">7.974198070</period>
 			<radius errorminus="0.011" errorplus="0.012">0.170</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-524 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.006" errorplus="0.007">0.086</radius>
 		</planet>
 	</star>
-</system>
+<declination>+49d09m43.4s</declination><declination>+49 00 583</declination><rightascension>19h47m26.21s</rightascension><rightascension>+296 00 3093</rightascension></system>

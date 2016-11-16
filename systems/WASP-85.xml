@@ -30,7 +30,7 @@
 				<spinorbitalignment lowerlimit="10" />
 				<list>Planets in binary systems, S-type</list>
 				<istransiting>1</istransiting>
-			</planet>
+			<lastupdate>1/07/07</lastupdate><lastupdate /></planet>
 		</star>
 		<star>
 			<name>WASP-85 B</name>
@@ -44,4 +44,4 @@
 		<separation unit="arcsec">1.48</separation>
 		<positionangle>99.6</positionangle>
 	</binary>
-</system>
+<declination>+06d33m49.4s</declination><declination /><rightascension>11h43m38.01s</rightascension><rightascension /></system>

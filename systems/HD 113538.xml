@@ -3,7 +3,7 @@
 	<rightascension>13 04 57.47691</rightascension>
 	<declination>-52 26 34.5223</declination>
 	<distance errorminus="0.34" errorplus="0.34">15.87</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>HD 113538</name>
 		<name>HIP 63833</name>
 		<name>TYC 8258-2139-1</name>
@@ -37,7 +37,7 @@
 			<maximumrvtime errorminus="17" errorplus="17">2455500</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
 			<description>These planet parameters have been derived from ten years of HARPS data.</description>
-			<lastupdate>15/11/21</lastupdate>
+			<lastupdate>1/01/08</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 		<planet>
@@ -54,5 +54,5 @@
 			<lastupdate>15/11/21</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
-	</star>
-</system>
+	<magV>0</magV><magV>9.06</magV></star>
+<declination>-52d26m34.5s</declination><declination>--52 00 -1595</declination><rightascension>13h04m57.48s</rightascension><rightascension>+196 00 855</rightascension></system>

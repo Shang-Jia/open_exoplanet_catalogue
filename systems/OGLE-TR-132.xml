@@ -27,8 +27,8 @@
 			<discoveryyear>2004</discoveryyear>
 			<temperature>1812.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/10/29</lastupdate><lastupdate>1/12/16</lastupdate></planet>
 		<name>OGLE-TR-132</name>
 		<temperature>6210.0</temperature>
 	</star>
-</system>
+<declination>-61d57m25.9s</declination><declination>--61 00 -3445</declination><rightascension>10h50m34.72s</rightascension><rightascension>+162 00 2310</rightascension></system>

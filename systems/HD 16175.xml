@@ -3,7 +3,7 @@
 	<rightascension>02 37 02</rightascension>
 	<declination>+42 03 45</declination>
 	<distance>59.8</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.0, 0, 0.03]" star_metallicity_errorplus="[0.0, 0, 0.03]" star_temperature_errorminus="[0.0, 0, 34.0]" star_temperature_errorplus="[0.0, 0, 34.0]">
 		<mass>1.35</mass>
 		<radius>1.87</radius>
 		<magV>7.28</magV>
@@ -13,7 +13,7 @@
 		<magK errorminus="0.021" errorplus="0.021">5.853</magK>
 		<metallicity>0.23</metallicity>
 		<spectraltype>G0</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.02]" planet_eccentricity_errorplus="[0.0, 0, 0.02]" planet_mass_errorminus="[0.0, 0, 0.37]" planet_mass_errorplus="[0.0, 0, 0.37]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_semimajoraxis_errorminus="[0.0, 0, 0.076]" planet_semimajoraxis_errorplus="[0.0, 0, 0.076]">
 			<name>HD 16175 b</name>
 			<list>Confirmed planets</list>
 			<mass>4.4</mass>
@@ -24,8 +24,8 @@
 			<lastupdate>09/04/21</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>243.7</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.637</eccentricity><semimajoraxis>0</semimajoraxis><semimajoraxis>2.148</semimajoraxis><mass>0</mass><mass>4.77</mass><period>0</period><period>995.4</period><lastupdate>1/05/19</lastupdate><lastupdate>1/04/29</lastupdate></planet>
 		<name>HD 16175</name>
 		<temperature>6000.0</temperature>
-	</star>
-</system>
+	<temperature>0</temperature><temperature>6022.0</temperature><metallicity>0</metallicity><metallicity>0.37</metallicity></star>
+<declination>+42d03m45.5s</declination><declination>+42 00 225</declination><rightascension>02h37m01.91s</rightascension><rightascension>+39 00 930</rightascension></system>

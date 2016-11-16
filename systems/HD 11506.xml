@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[1.6, 0, 0.0]" system_distance_errorplus="[1.6, 0, 0.0]">
 	<name>HD 11506</name>
 	<rightascension>01 52 50.535</rightascension>
 	<declination>-19 30 25.11</declination>
@@ -19,7 +19,7 @@
 		<magB errorminus="0.01" errorplus="0.01">8.11</magB>
 		<metallicity>0.31</metallicity>
 		<spectraltype>G0V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.01, 0, 0.12]" planet_eccentricity_errorplus="[0.01, 0, 0.12]" planet_mass_errorminus="[0.07, 0, 0.47]" planet_mass_errorplus="[0.07, 0, 0.9]" planet_period_errorminus="[5.9, 0, 0.0]" planet_period_errorplus="[5.9, 0, 0.0]" planet_semimajoraxis_errorminus="[0.007, 0, 0.12]" planet_semimajoraxis_errorplus="[0.007, 0, 0.12]">
 			<name>HD 11506 b</name>
 			<name>HIP 8770 b</name>
 			<name>BD-20 358 b</name>
@@ -36,7 +36,7 @@
 			<lastupdate>14/11/19</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>200.7</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.22</eccentricity><semimajoraxis>0</semimajoraxis><semimajoraxis>2.43</semimajoraxis><lastupdate>1/12/03</lastupdate><lastupdate>0/02/24</lastupdate><mass>0</mass><mass>3.44</mass><period>0</period><period>1270.0</period></planet>
 		<planet>
 			<name>HD 11506 c</name>
 			<name>HIP 8770 c</name>
@@ -57,4 +57,4 @@
 		</planet>
 		<temperature>6058.0</temperature>
 	</star>
-</system>
+<distance>0</distance><distance>53.82</distance><declination>-19d30m25.1s</declination><declination>--19 00 -1825</declination><rightascension>01h52m50.53s</rightascension><rightascension>+28 00 765</rightascension></system>

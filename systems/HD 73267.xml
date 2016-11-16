@@ -3,7 +3,7 @@
 	<rightascension>08 36 17.77517</rightascension>
 	<declination>-34 27 35.9219</declination>
 	<distance errorminus="2.7" errorplus="2.7">54.2</distance>
-	<star>
+	<star star_magV_errorminus="[0.01, 0, 0.0]" star_magV_errorplus="[0.01, 0, 0.0]">
 		<name>HD 73267</name>
 		<name>HIP 42202</name>
 		<name>TYC 7144-1553-1</name>
@@ -34,6 +34,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/17</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/03/26</lastupdate><lastupdate>1/08/27</lastupdate></planet>
+	<magV>0</magV><magV>8.9</magV></star>
+<declination>-34d27m35.9s</declination><declination>--34 00 -1656</declination><rightascension>08h36m17.78s</rightascension><rightascension>+129 00 270</rightascension></system>

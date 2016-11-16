@@ -1,10 +1,10 @@
 <system>
 	<name>BD-10 3166</name>
-	<name>BD-10°3166</name>
+	<name>BD-10&#176;3166</name>
 	<rightascension>10 58 28.7798</rightascension>
 	<declination>-10 46 13.386</declination>
 	<distance errorminus="13.64" errorplus="13.64">65.19</distance>
-	<star>
+	<star star_magV_errorminus="[0.04, 0, 0.0]" star_magV_errorplus="[0.04, 0, 0.0]" star_mass_errorminus="[0.0, 0, 0.0]" star_mass_errorplus="[0.0, 0, 0.0]" star_metallicity_errorminus="[0.03, 0, 0.0]" star_metallicity_errorplus="[0.03, 0, 0.0]" star_radius_errorminus="[0.03, 0, 0.0]" star_radius_errorplus="[0.05, 0, 0.0]">
 		<name>BD-10 3166</name>
 		<name>TYC 5503-946-1</name>
 		<name>2MASS J10582880-1046133</name>
@@ -21,7 +21,7 @@
 		<metallicity errorminus="0.030" errorplus="0.030">0.382</metallicity>
 		<spectraltype>K3.0 V</spectraltype>
 		<age upperlimit="1.84" />
-		<planet>
+		<planet planet_mass_errorminus="[0.035, 0, 0.0]" planet_mass_errorplus="[0.035, 0, 0.0]" planet_periastron_errorminus="[0.0, 0, 83.9]" planet_periastron_errorplus="[0.0, 0, 83.9]" planet_semimajoraxis_errorminus="[0.0025, 0, 0.0]" planet_semimajoraxis_errorplus="[0.0025, 0, 0.0]">
 			<name>BD-10 3166 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.035" errorplus="0.035" type="msini">0.408</mass>
@@ -34,6 +34,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/17</lastupdate>
 			<discoveryyear>2000</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/08/27</lastupdate><lastupdate>1/02/24</lastupdate><periastron>0</periastron><periastron>345.4</periastron><mass>0</mass><mass>0.46</mass><semimajoraxis>0</semimajoraxis><semimajoraxis>0.046</semimajoraxis></planet>
+	<metallicity>0</metallicity><metallicity>0.5</metallicity><spectraltype /><spectraltype>G4 V</spectraltype><radius>0</radius><radius>1.71</radius><mass>0</mass><mass>0.99</mass><magV>0</magV><magV>10.08</magV></star>
+<declination>-10d46m13.4s</declination><declination>--10 00 -2773</declination><rightascension>10h58m28.80s</rightascension><rightascension>+164 00 2220</rightascension></system>

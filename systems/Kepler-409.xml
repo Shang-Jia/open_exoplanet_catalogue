@@ -1,11 +1,11 @@
-<system>
+<system system_distance_errorminus="[0.0, 0, 0.0]" system_distance_errorplus="[0.0, 0, 0.0]">
 	<name>Kepler-409</name>
 	<name>KOI-1925</name>
 	<name>KIC 9955598</name>
 	<rightascension>19 34 43</rightascension>
 	<declination>+46 51 09</declination>
 	<distance>69.2</distance>
-	<star>
+	<star star_age_errorminus="[0.0, 0, 0.5]" star_age_errorplus="[0.0, 0, 0.4]" star_magV_errorminus="[0.03, 0, 0.0]" star_magV_errorplus="[0.03, 0, 0.0]">
 		<magB errorminus="0.04" errorplus="0.04">10.36</magB>
 		<magV errorminus="0.03" errorplus="0.03">9.64</magV>
 		<magJ errorminus="0.018" errorplus="0.018">8.200</magJ>
@@ -33,6 +33,6 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/10/13</lastupdate><lastupdate>1/01/25</lastupdate><discoveryyear /><discoveryyear>2013</discoveryyear></planet>
+	<age>0</age><age>6.98</age><magV>0</magV><magV>9.439</magV></star>
+<distance>0</distance><distance>66.8</distance><declination>+46d51m10.0s</declination><declination>+46 00 3070</declination><rightascension>19h34m43.01s</rightascension><rightascension>+293 00 2445</rightascension></system>

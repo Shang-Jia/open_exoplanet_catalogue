@@ -9,7 +9,7 @@
 		<separation unit="arcsec">3.30</separation>
 		<separation unit="AU">300</separation>
 		<positionangle>150</positionangle>
-		<star>
+		<star star_magV_errorminus="[0.05, 0, 0.0]" star_magV_errorplus="[0.05, 0, 0.0]" star_radius_errorminus="[0.0, 0, 0.015]" star_radius_errorplus="[0.0, 0, 0.015]">
 			<mass>1.002</mass>
 			<radius>1.12</radius>
 			<temperature>5500</temperature>
@@ -37,9 +37,9 @@
 				<discoveryyear>2012</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 				<istransiting>1</istransiting>
-			</planet>
+			<lastupdate>1/05/14</lastupdate><lastupdate>1/02/23</lastupdate></planet>
 			<name>WASP-77 A</name>
-		</star>
+		<spectraltype /><spectraltype>G8V</spectraltype><radius>0</radius><radius>0.955</radius><magV>0</magV><magV>11.29</magV></star>
 		<star>
 			<mass>0.71</mass>
 			<radius>0.69</radius>
@@ -50,4 +50,4 @@
 			<name>WASP-77 B</name>
 		</star>
 	</binary>
-</system>
+<declination>-07d03m38.5s</declination><declination>--7 00 -218</declination><rightascension>02h28m37.23s</rightascension><rightascension>+37 00 555</rightascension></system>

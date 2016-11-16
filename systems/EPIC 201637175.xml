@@ -41,7 +41,7 @@
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
 				<istransiting>1</istransiting>
-			</planet>
+			<lastupdate /><lastupdate>1/07/27</lastupdate></planet>
 		</star>
 		<star>
 			<name>EPIC 201637175 B</name>
@@ -57,4 +57,4 @@
 			<spectraltype>M4V</spectraltype>
 		</star>
 	</binary>
-</system>
+<declination /><declination>+02 00 2227</declination><rightascension /><rightascension>+169 00 1740</rightascension></system>

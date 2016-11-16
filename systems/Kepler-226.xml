@@ -5,7 +5,7 @@
 	<rightascension>19 29 30</rightascension>
 	<declination>+47 52 51</declination>
 	<distance>1017.85</distance>
-	<star>
+	<star star_mass_errorminus="[0.037, 0, 0.0]" star_mass_errorplus="[0.037, 0, 0.0]">
 		<magJ errorminus="0.029" errorplus="0.029">14.114</magJ>
 		<magH errorminus="0.04" errorplus="0.04">13.72</magH>
 		<magK errorminus="0.05" errorplus="0.05">13.63</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-226 b</name>
 			<name>KOI-749 b</name>
@@ -63,5 +63,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.86</mass></star>
+<rightascension>19h29m30.27s</rightascension><rightascension>+292 00 1354</rightascension><declination>+47d52m51.6s</declination><declination>+47 00 3172</declination></system>

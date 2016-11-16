@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[3.9, 0, 0.0]" system_distance_errorplus="[3.9, 0, 0.0]">
 	<name>81 Cet</name>
 	<rightascension>02 37 42.80105</rightascension>
 	<declination>-03 23 46.2201</declination>
@@ -38,6 +38,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/20</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/27</lastupdate></planet>
 	</star>
-</system>
+<distance>0</distance><distance>97.2</distance><declination>-03d23m46.2s</declination><declination>--3 00 -1426</declination><rightascension>02h37m41.80s</rightascension><rightascension>+39 00 1530</rightascension></system>

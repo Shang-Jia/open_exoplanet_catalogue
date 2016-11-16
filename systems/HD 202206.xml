@@ -21,7 +21,7 @@
 			<lastupdate>10/12/30</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>277.6</temperature>
-		</planet>
+		<lastupdate>1/08/27</lastupdate><lastupdate>1/12/30</lastupdate></planet>
 		<planet>
 			<name>HD 202206 c</name>
 			<list>Confirmed planets</list>
@@ -37,4 +37,4 @@
 		<name>HD 202206</name>
 		<temperature>5750.0</temperature>
 	</star>
-</system>
+<declination>-20d47m21.2s</declination><declination>--20 00 -2841</declination><rightascension>21h14m57.77s</rightascension><rightascension>+318 00 2655</rightascension></system>

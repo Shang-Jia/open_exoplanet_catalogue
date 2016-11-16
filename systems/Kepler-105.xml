@@ -30,7 +30,7 @@
 			<lastupdate>16/01/13</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>Kepler-105 c</name>
 			<name>KOI-115 c</name>
@@ -62,4 +62,4 @@
 			<list>Controversial</list>
 		</planet>
 	</star>
-</system>
+<rightascension>19h11m32.96s</rightascension><rightascension /><declination>+46d16m34.5s</declination><declination /></system>

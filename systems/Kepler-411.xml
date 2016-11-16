@@ -2,7 +2,7 @@
 	<name>Kepler-411</name>
 	<rightascension>19 10 25</rightascension>
 	<declination>+49 31 24</declination>
-	<star>
+	<star star_metallicity_errorminus="[0.1, 0, 0.48]" star_metallicity_errorplus="[0.11, 0, 0.37]" star_radius_errorminus="[0.01, 0, 0.06]" star_radius_errorplus="[0.01, 0, 0.07]" star_temperature_errorminus="[51.1, 0, 51.0]" star_temperature_errorplus="[48.1, 0, 46.0]">
 		<name>Kepler-411</name>
 		<temperature errorminus="51.1" errorplus="48.1">4906.0</temperature>
 		<mass errorminus="0.03" errorplus="0.02">0.81</mass>
@@ -19,6 +19,6 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000002980" errorplus="0.000002980">7.834427880</period>
 			<radius errorminus="0.006" errorplus="0.011">0.292</radius>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/06/27</lastupdate></planet>
+	<radius>0</radius><radius>0.79</radius><temperature>0</temperature><temperature>4974.0</temperature><metallicity>0</metallicity><metallicity>0.23</metallicity></star>
+<declination>+49d31m23.7s</declination><declination>+49 00 1884</declination><rightascension>19h10m25.34s</rightascension><rightascension>+287 00 2180</rightascension></system>

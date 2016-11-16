@@ -2,7 +2,7 @@
 	<name>HD 145934</name>
 	<rightascension>16 13 09.9</rightascension>
 	<declination>+13 14 22.1</declination>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>HD 145934</name>
 		<name>SAO 102017</name>
 		<name>TYC 958-771-1</name>
@@ -30,6 +30,6 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/08/15</lastupdate>
 			<discoveryyear>2015</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/01/08</lastupdate><lastupdate>1/01/07</lastupdate></planet>
+	<magV>0</magV><magV>7.6</magV></star>
+<declination>+13d14m22.1s</declination><declination>+13 00 862</declination><rightascension>16h13m09.87s</rightascension><rightascension>+243 00 1050</rightascension></system>

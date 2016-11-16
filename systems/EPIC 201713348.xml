@@ -28,7 +28,7 @@
 			<description>EPIC 201713348 is a multi-transiting system in the K2 mission campaign 1 field.</description>
 			<lastupdate>15/12/06</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
+		<lastupdate /><lastupdate>1/06/08</lastupdate></planet>
 		<planet>
 			<name>EPIC 201713348 c</name>
 			<transittime errorminus="0.0008" errorplus="0.0008" unit="BJD">2456812.8422</transittime>
@@ -44,4 +44,4 @@
 			<list>Confirmed planets</list>
 		</planet>
 	</star>
-</system>
+<declination /><declination>+03 00 3119</declination><rightascension /><rightascension>+169 00 1620</rightascension></system>

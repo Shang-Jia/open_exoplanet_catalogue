@@ -29,7 +29,7 @@
 			<lastupdate>15/08/26</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>7112.0</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>KOI-55 c</name>
 			<name>Kepler-70 c</name>
@@ -52,4 +52,4 @@
 		<temperature>27730.0</temperature>
 	</star>
 	<videolink>http://youtu.be/R4wK-nt4Elk</videolink>
-</system>
+<rightascension>19h45m25.47s</rightascension><rightascension /><declination>+41d05m33.9s</declination><declination /></system>

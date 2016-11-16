@@ -31,7 +31,7 @@
 			<lastupdate>15/05/24</lastupdate>
 			<list>Controversial</list>
 			<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. It is visible through binoculars or a small telescope. The planet Kapteyn b is one of the oldest known potentially habitable planets. It's roughly 11 billion years old. The system contains at least one other planet, Kapteyn c, which is close to a 5:2 period commensurability. Analysis by Robertson et al. (2015) indicates that the radial velocity signature attributed to this planet is an artifact of stellar activity.</description>
-		</planet>
+		<lastupdate>1/06/04</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>Kapteyn c</name>
 			<name>Kapteyn's Star c</name>
@@ -49,4 +49,4 @@
 			<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. The planetary system is roughly 11 billion years old and contains at least one other planet, Kapteyn b, which is close to a 5:2 period commensurability.</description>
 		</planet>
 	</star>
-</system>
+<rightascension>05h11m40.58s</rightascension><rightascension /><declination>-45d01m06.3s</declination><declination /></system>

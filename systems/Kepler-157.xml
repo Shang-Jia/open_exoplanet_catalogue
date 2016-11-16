@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-157 b</name>
 			<name>KOI-442 b</name>
@@ -60,4 +60,4 @@
 			<radius errorminus="0.009" errorplus="0.014">0.130</radius>
 		</planet>
 	</star>
-</system>
+<rightascension>19h24m23.33s</rightascension><rightascension>+291 00 350</rightascension><declination>+38d52m32.2s</declination><declination>+38 00 3152</declination></system>

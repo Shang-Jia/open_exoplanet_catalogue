@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[500.0, 0, 0.0]" system_distance_errorplus="[500.0, 0, 0.0]">
 	<name>OGLE-2011-BLG-0265L</name>
 	<rightascension>17 57 47.72</rightascension>
 	<declination>-27 23 40.3</declination>
@@ -10,7 +10,7 @@
 		<spectraltype>M3.5</spectraltype>
 		<name>OGLE-2011-BLG-0265L</name>
 		<name>MOA-2011-BLG-197</name>
-		<planet>
+		<planet planet_semimajoraxis_errorminus="[0.0, 0, 0.25]" planet_semimajoraxis_errorplus="[0.0, 0, 0.25]">
 			<name>OGLE-2011-BLG-0265L b</name>
 			<name>MOA-2011-BLG-197 b</name>
 			<list>Confirmed planets</list>
@@ -20,6 +20,6 @@
 			<discoverymethod>microlensing</discoverymethod>
 			<lastupdate>14/11/30</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
+		<lastupdate /><lastupdate>1/07/27</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>1.89</semimajoraxis><discoveryyear /><discoveryyear>2015</discoveryyear></planet>
 	</star>
-</system>
+<distance>0</distance><distance>4380.0</distance><rightascension /><rightascension>+269 00 1620</rightascension><declination /><declination>--27 00 -1420</declination></system>

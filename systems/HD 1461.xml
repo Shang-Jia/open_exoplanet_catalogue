@@ -3,7 +3,7 @@
 	<rightascension>00 18 42</rightascension>
 	<declination>-08 03 11</declination>
 	<distance>23.4</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.0]" star_mass_errorplus="[0.0, 0, 0.0]">
 		<mass>1.08</mass>
 		<radius>1.095</radius>
 		<magV>6.64</magV>
@@ -13,7 +13,7 @@
 		<magK errorminus="0.023" errorplus="0.023">4.897</magK>
 		<metallicity>0.19</metallicity>
 		<spectraltype>G0V</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0023]" planet_mass_errorplus="[0.0, 0, 0.0023]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>HD 1461 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.0239</mass>
@@ -24,7 +24,7 @@
 			<lastupdate>09/12/15</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>1054.8</temperature>
-		</planet>
+		<lastupdate>1/11/19</lastupdate><lastupdate>1/10/26</lastupdate><mass>0</mass><mass>0.0176</mass><period>0</period><period>13.5052</period></planet>
 		<planet>
 			<name>HD 1461 c</name>
 			<list>Confirmed planets</list>
@@ -40,5 +40,5 @@
 		</planet>
 		<name>HD 1461</name>
 		<temperature>5765.0</temperature>
-	</star>
-</system>
+	<mass>0</mass><mass>1.02</mass></star>
+<rightascension>00h18m41.87s</rightascension><rightascension>+04 00 2430</rightascension><declination>-08d03m10.8s</declination><declination>--8 00 -191</declination></system>

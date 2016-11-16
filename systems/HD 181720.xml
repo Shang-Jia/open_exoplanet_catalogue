@@ -12,7 +12,7 @@
 		<magK errorminus="0.034" errorplus="0.034">6.294</magK>
 		<metallicity>-0.53</metallicity>
 		<spectraltype>G1V</spectraltype>
-		<planet>
+		<planet planet_inclination_errorminus="[0.0, 0, 1.65]" planet_inclination_errorplus="[0.0, 0, 1.65]" planet_mass_errorminus="[0.0, 0, 5.9]" planet_mass_errorplus="[0.0, 0, 200.0]">
 			<name>HD 181720 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.37</mass>
@@ -24,8 +24,8 @@
 			<lastupdate>11/01/11</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>225.0</temperature>
-		</planet>
+		<lastupdate>1/07/23</lastupdate><lastupdate>1/07/10</lastupdate><mass>0</mass><mass>12.0</mass><inclination>0</inclination><inclination>1.75</inclination></planet>
 		<name>HD 181720</name>
 		<temperature>5781.0</temperature>
 	</star>
-</system>
+<declination>-32d55m08.6s</declination><declination>--32 00 -3309</declination><rightascension>19h22m52.98s</rightascension><rightascension>+290 00 2595</rightascension></system>

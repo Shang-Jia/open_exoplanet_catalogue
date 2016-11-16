@@ -4,7 +4,7 @@
 	<rightascension>16 00 22.93827</rightascension>
 	<declination>+15 32 48.9291</declination>
 	<distance errorminus="312" errorplus="312">508</distance>
-	<star>
+	<star star_magV_errorminus="[0.02, 0, 0.0]" star_magV_errorplus="[0.02, 0, 0.0]">
 		<name>BD+15 2940</name>
 		<name>HIP 78407</name>
 		<name>TYC 1503-1050-1</name>
@@ -35,6 +35,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/23</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/04/30</lastupdate></planet>
+	<magV>0</magV><magV>9.19</magV></star>
+<declination>+15d32m48.9s</declination><declination>+15 00 1969</declination><rightascension>16h00m22.94s</rightascension><rightascension>+240 00 345</rightascension></system>

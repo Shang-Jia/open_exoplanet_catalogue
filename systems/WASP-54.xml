@@ -16,7 +16,7 @@
 		<magK errorminus="0.023" errorplus="0.023">9.035</magK>
 		<metallicity errorminus="0.08" errorplus="0.08">-0.27</metallicity>
 		<spectraltype>F9</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0]" planet_mass_errorplus="[0.0, 0, 0.0]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 0.0]" planet_radius_errorplus="[0.0, 0, 0.0]">
 			<name>WASP-54 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.636</mass>
@@ -32,7 +32,7 @@
 			<lastupdate>12/10/08</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass>0</mass><mass>0.6</mass><radius>0</radius><radius>1.4</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/10/12</lastupdate><period>0</period><period>3.7</period></planet>
 		<name>WASP-54</name>
 	</star>
-</system>
+<declination>-00d07m41.1s</declination><declination /><rightascension>13h41m49.03s</rightascension><rightascension /></system>

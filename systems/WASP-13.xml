@@ -3,7 +3,7 @@
 	<rightascension>09 20 25</rightascension>
 	<declination>+33 52 57</declination>
 	<distance errorminus="18" errorplus="18">155</distance>
-	<star>
+	<star star_temperature_errorminus="[48.0, 0, 100.0]" star_temperature_errorplus="[48.0, 0, 100.0]">
 		<magV>10.42</magV>
 		<magB errorminus="0.08" errorplus="0.08">11.21</magB>
 		<magJ errorminus="0.021" errorplus="0.021">9.442</magJ>
@@ -29,8 +29,8 @@
 			<discoveryyear>2008</discoveryyear>
 			<temperature errorminus="100" errorplus="100">1203.3</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/23</lastupdate></planet>
 		<name>WASP-13</name>
 		<temperature errorminus="48" errorplus="48">5989</temperature>
-	</star>
-</system>
+	<temperature>0</temperature><temperature>5826.0</temperature></star>
+<declination>+33d52m56.8s</declination><declination>+33 00 3177</declination><rightascension>09h20m24.71s</rightascension><rightascension>+140 00 375</rightascension></system>

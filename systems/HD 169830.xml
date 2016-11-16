@@ -3,7 +3,7 @@
 	<rightascension>18 27 49</rightascension>
 	<declination>-29 49 00</declination>
 	<distance errorminus="1.16" errorplus="1.24">36.32</distance>
-	<star>
+	<star star_age_errorminus="[0.0, 0, 0.0]" star_age_errorplus="[0.0, 0, 0.0]">
 		<mass>1.4</mass>
 		<radius>1.84</radius>
 		<age>2.3</age>
@@ -23,7 +23,7 @@
 			<lastupdate>14/06/24</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 			<temperature>413.9</temperature>
-		</planet>
+		<lastupdate>1/06/25</lastupdate><lastupdate>1/12/23</lastupdate></planet>
 		<planet>
 			<name>HD 169830 c</name>
 			<list>Confirmed planets</list>
@@ -37,5 +37,5 @@
 			<temperature>196.1</temperature>
 		</planet>
 		<name>HD 169830</name>
-	</star>
-</system>
+	<age>0</age><age>4.95</age></star>
+<declination>-29d49m00.7s</declination><declination>--29 00 -2940</declination><rightascension>18h27m49.48s</rightascension><rightascension>+276 00 3435</rightascension></system>

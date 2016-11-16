@@ -15,6 +15,6 @@
 			<discoveryyear>2015</discoveryyear>
 			<lastupdate>15/07/22</lastupdate>
 			<description>KMT-2015-1b is a Jovian planet orbiting a low-mass star, likely located in the galactic bulge. It was detected as part of the Korea Microlensing Telescope Network (KMTNet) lensing survey.</description>
-		</planet>
+		<lastupdate /><lastupdate>1/07/21</lastupdate></planet>
 	</star>
-</system>
+<rightascension /><rightascension>+269 00 2385</rightascension><declination /><declination>--28 00 -114</declination></system>

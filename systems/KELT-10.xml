@@ -3,7 +3,7 @@
 	<rightascension>18 58 11.601</rightascension>
 	<declination>-47 00 11.68</declination>
 	<distance errorminus="14" errorplus="14">183</distance>
-	<star>
+	<star star_magV_errorminus="[0.06, 0, 0.0]" star_magV_errorplus="[0.06, 0, 0.0]">
 		<name>KELT-10</name>
 		<name>TYC 8378-64-1</name>
 		<name>2MASS J18581160-4700116</name>
@@ -34,6 +34,6 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/09/08</lastupdate>
 			<discoveryyear>2015</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/04/28</lastupdate><lastupdate>1/09/11</lastupdate></planet>
+	<magV>0</magV><magV>10.8</magV></star>
+<declination>-47d00m11.7s</declination><declination>--47 00 -12</declination><rightascension>18h58m11.61s</rightascension><rightascension>+284 00 1965</rightascension></system>

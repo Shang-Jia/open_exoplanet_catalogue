@@ -23,7 +23,7 @@
 			<lastupdate>11/05/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>168.8</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/05/06</lastupdate></planet>
 		<planet>
 			<name>HIP 5158 c</name>
 			<list>Confirmed planets</list>
@@ -38,4 +38,4 @@
 		<name>HIP 5158</name>
 		<temperature>4962.0</temperature>
 	</star>
-</system>
+<declination>-22d27m11.4s</declination><declination>--22 00 -1631</declination><rightascension>01h06m02.05s</rightascension><rightascension>+16 00 1830</rightascension></system>

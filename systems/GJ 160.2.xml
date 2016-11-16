@@ -25,7 +25,7 @@
 		<spectraltype>M0 V</spectraltype>
 		<mass>0.69</mass>
 		<temperature>4347</temperature>
-		<planet>
+		<planet planet_periastron_errorminus="[0.0, 0, 0.0]" planet_periastron_errorplus="[0.0, 0, 0.0]">
 			<name>GJ 160.2 b</name>
 			<name>Gliese 160.2 b</name>
 			<period errorminus="0.0065" errorplus="0.0027">5.2354</period>
@@ -39,6 +39,6 @@
 			<description>The planet candidate orbiting GJ 160.2 was identified by Bayesian analysis of 100 UVES and 7 HARPS radial velocity measurements.</description>
 			<list>Controversial</list>
 			<lastupdate>15/04/21</lastupdate>
-		</planet>
-	</star>
-</system>
+		<lastupdate /><lastupdate>1/05/25</lastupdate><periastron>0</periastron><periastron>355.23</periastron></planet>
+	<spectraltype /><spectraltype>M0V</spectraltype></star>
+<declination /><declination>--19 00 -529</declination><rightascension /><rightascension>+61 00 2323</rightascension></system>

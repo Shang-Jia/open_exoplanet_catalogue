@@ -3,7 +3,7 @@
 	<rightascension>17 34 18.70</rightascension>
 	<declination>-27 08 33.9</declination>
 	<distance errorminus="380" errorplus="380">4019</distance>
-	<star>
+	<star star_mass_errorminus="[0.05, 0, 0.13]" star_mass_errorplus="[0.05, 0, 0.13]">
 		<name>OGLE-2012-BLG-0026L</name>
 		<name>EWS 2012-BLG-26L</name>
 		<mass errorminus="0.05" errorplus="0.05">1.06</mass>
@@ -11,7 +11,7 @@
 		<magI errorminus="0.23" errorplus="0.23">19.00</magI>
 		<magV errorminus="0.15" errorplus="0.15">20.66</magV>
 		<age lowerlimit="4" upperlimit="9" />
-		<planet>
+		<planet planet_mass_errorminus="[0.06, 0, 0.1]" planet_mass_errorplus="[0.06, 0, 0.1]">
 			<name>OGLE-2012-BLG-0026L b</name>
 			<name>OGLE 2012-BLG-026L b</name>
 			<list>Confirmed planets</list>
@@ -21,7 +21,7 @@
 			<discoverymethod>microlensing</discoverymethod>
 			<lastupdate>16/01/21</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-		</planet>
+		<lastupdate /><lastupdate>1/01/29</lastupdate><mass>0</mass><mass>0.68</mass></planet>
 		<planet>
 			<name>OGLE-2012-BLG-0026L c</name>
 			<name>OGLE 2012-BLG-026L c</name>
@@ -33,5 +33,5 @@
 			<lastupdate>16/01/21</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.82</mass></star>
+<rightascension /><rightascension>+263 00 2085</rightascension><declination /><declination>--27 00 -514</declination></system>

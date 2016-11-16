@@ -26,7 +26,7 @@
 			<lastupdate>10/01/05</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>586.1</temperature>
-		</planet>
+		<lastupdate>1/03/10</lastupdate><lastupdate>1/01/05</lastupdate></planet>
 		<planet>
 			<name>HD 9446 c</name>
 			<list>Confirmed planets</list>
@@ -42,4 +42,4 @@
 		<name>HD 9446</name>
 		<temperature>5793.0</temperature>
 	</star>
-</system>
+<declination>+29d15m54.5s</declination><declination>+29 00 955</declination><rightascension>01h33m20.18s</rightascension><rightascension>+23 00 1200</rightascension></system>

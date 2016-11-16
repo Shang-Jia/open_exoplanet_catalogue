@@ -25,8 +25,8 @@
 			<lastupdate>11/08/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>199.1</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/02</lastupdate></planet>
 		<name>HD 7199</name>
 		<temperature>5386.0</temperature>
-	</star>
-</system>
+	<spectraltype /><spectraltype>KOIV/V</spectraltype></star>
+<rightascension>01h10m47.22s</rightascension><rightascension>+17 00 2505</rightascension><declination>-66d11m17.4s</declination><declination>--66 00 -677</declination></system>

@@ -31,7 +31,7 @@
 			<lastupdate>14/10/22</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/10/29</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>TYC 1422-614-1 c</name>
 			<name>2MASS J10170667+1933304 c</name>
@@ -48,4 +48,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+19d33m30.5s</declination><declination /><rightascension>10h17m06.67s</rightascension><rightascension /></system>

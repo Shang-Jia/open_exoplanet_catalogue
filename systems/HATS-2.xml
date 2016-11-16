@@ -3,7 +3,7 @@
 	<rightascension>11 46 57.370</rightascension>
 	<declination>-22 21 46.82</declination>
 	<distance>360</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.037]" star_mass_errorplus="[0.0, 0, 0.037]" star_radius_errorminus="[0.0, 0, 0.019]" star_radius_errorplus="[0.0, 0, 0.019]">
 		<name>HATS-2</name>
 		<name>GSC 665-00236</name>
 		<temperature>5227</temperature>
@@ -35,6 +35,6 @@
 			<discoveryyear>2013</discoveryyear>
 			<temperature>1577</temperature>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/04/29</lastupdate></planet>
+	<mass>0</mass><mass>0.882</mass><radius>0</radius><radius>0.898</radius></star>
+<declination>-22d33m46.8s</declination><declination>--22 00 -2027</declination><rightascension>11h46m57.38s</rightascension><rightascension>+176 00 2661</rightascension></system>

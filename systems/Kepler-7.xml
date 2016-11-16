@@ -2,7 +2,7 @@
 	<name>Kepler-7</name>
 	<rightascension>19 14 20</rightascension>
 	<declination>+41 05 23</declination>
-	<star>
+	<star star_temperature_errorminus="[75.0, 0, 44.0]" star_temperature_errorplus="[75.0, 0, 44.0]">
 		<spectraltype>G0</spectraltype>
 		<magB>13.4</magB>
 		<magR>12.7</magR>
@@ -12,7 +12,7 @@
 		<mass errorminus="0.09" errorplus="0.09">1.32</mass>
 		<radius errorminus="0.07" errorplus="0.07">1.96</radius>
 		<metallicity errorminus="0.10" errorplus="0.10">0.10</metallicity>
-		<planet>
+		<planet planet_temperature_errorminus="[0.0, 0, 0.0]" planet_temperature_errorplus="[0.0, 0, 0.0]">
 			<name>Kepler-7 b</name>
 			<name>2MASS J19141956+4105233 b</name>
 			<name>KIC 5780885 b</name>
@@ -31,10 +31,10 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1486.8</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<temperature>0</temperature><temperature>1586.0</temperature><lastupdate>1/10/15</lastupdate><lastupdate>1/02/26</lastupdate></planet>
 		<name>Kepler-7</name>
 		<name>KOI-97</name>
 		<name>KIC 5780885</name>
 		<temperature errorminus="75" errorplus="75">6027</temperature>
-	</star>
-</system>
+	<temperature>0</temperature><temperature>5933.0</temperature></star>
+<declination>+41d05m23.3s</declination><declination>+41 00 323</declination><rightascension>19h14m19.56s</rightascension><rightascension>+288 00 2100</rightascension></system>

@@ -5,7 +5,7 @@
 	<rightascension>19 41 41</rightascension>
 	<declination>+38 44 08</declination>
 	<distance>865.20</distance>
-	<star>
+	<star star_mass_errorminus="[0.096, 0, 0.0]" star_mass_errorplus="[0.096, 0, 0.0]">
 		<magJ errorminus="0.021" errorplus="0.021">12.801</magJ>
 		<magH errorminus="0.023" errorplus="0.023">12.474</magH>
 		<magK errorminus="0.024" errorplus="0.024">12.469</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-377 b</name>
 			<name>KOI-2279 b</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.88</mass></star>
+<rightascension>19h41m41.28s</rightascension><rightascension>+295 00 1519</rightascension><declination>+38d44m08.5s</declination><declination>+38 00 2648</declination></system>

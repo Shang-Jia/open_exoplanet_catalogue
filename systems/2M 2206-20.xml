@@ -22,9 +22,9 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>12/01/20</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-		</planet>
+		<lastupdate /><lastupdate>1/01/20</lastupdate></planet>
 		<name>2M 2206-20</name>
 		<name>2MASS J22062280-2047058</name>
 		<temperature>2350.0</temperature>
 	</star>
-</system>
+<rightascension /><rightascension>+331 00 2145</rightascension><declination /><declination>--20 00 -2826</declination></system>

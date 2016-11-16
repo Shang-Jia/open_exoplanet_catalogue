@@ -17,7 +17,7 @@
 		<temperature errorminus="102" errorplus="102">6004</temperature>
 		<radius errorminus="0.033" errorplus="0.033">1.120</radius>
 		<mass errorminus="0.0350" errorplus="0.0350">0.8640</mass>
-		<planet>
+		<planet planet_period_errorminus="[9.6e-05, 0, 0.0]" planet_period_errorplus="[9.6e-05, 0, 0.0]">
 			<name>Kepler-197 c</name>
 			<name>KOI-623 c</name>
 			<name>KOI-623.01</name>
@@ -35,7 +35,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/18</lastupdate><period>0</period><period>15.67787</period></planet>
 		<planet>
 			<name>Kepler-197 d</name>
 			<name>KOI-623 d</name>
@@ -94,4 +94,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+50d33m32.4s</declination><declination>+50 00 2012</declination><rightascension>19h40m54.34s</rightascension><rightascension>+295 00 815</rightascension></system>

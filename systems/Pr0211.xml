@@ -36,7 +36,7 @@
 			<imagedescription>Artist's impression of a planet in the Beehive cluster.
 
 Image credit: NASA/JPL-Caltech</imagedescription>
-		</planet>
+		<lastupdate>1/02/11</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>Pr0211 c</name>
 			<name>2MASS J08421149+1916373 c</name>
@@ -54,4 +54,4 @@ Image credit: NASA/JPL-Caltech</imagedescription>
 			<lastupdate>16/03/03</lastupdate>
 		</planet>
 	</star>
-</system>
+<declination>+19d16m37.4s</declination><declination /><rightascension>08h42m11.49s</rightascension><rightascension /></system>

@@ -12,7 +12,7 @@
 		<magB errorminus="0.02" errorplus="0.02">8.75</magB>
 		<metallicity>0.1</metallicity>
 		<spectraltype>K0</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.0298]" planet_eccentricity_errorplus="[0.0, 0, 0.0342]" planet_mass_errorminus="[0.0, 0, 0.0]" planet_mass_errorplus="[0.0, 0, 0.0]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>HD 118203 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.13</mass>
@@ -23,8 +23,8 @@
 			<lastupdate>10/12/23</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>1408.2</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.2943</eccentricity><mass>0</mass><mass>2.14</mass><period>0</period><period>6.13322</period><lastupdate>1/05/14</lastupdate><lastupdate>1/08/17</lastupdate></planet>
 		<name>HD 118203</name>
 		<temperature>5600.0</temperature>
 	</star>
-</system>
+<declination>+53d43m42.7s</declination><declination>+53 00 2622</declination><rightascension>13h34m02.54s</rightascension><rightascension>+203 00 1830</rightascension></system>

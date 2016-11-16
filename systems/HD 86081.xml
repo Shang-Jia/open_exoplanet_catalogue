@@ -13,7 +13,7 @@
 		<magK errorminus="0.024" errorplus="0.024">7.299</magK>
 		<metallicity>0.257</metallicity>
 		<spectraltype>F8V</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.108]" planet_eccentricity_errorplus="[0.0, 0, 0.0501]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>HD 86081 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.5</mass>
@@ -24,8 +24,8 @@
 			<lastupdate>10/12/22</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>1486.6</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.0575</eccentricity><period>0</period><period>1.99809</period><lastupdate>1/04/16</lastupdate><lastupdate>1/02/16</lastupdate></planet>
 		<name>HD 86081</name>
 		<temperature>6028.0</temperature>
 	</star>
-</system>
+<declination>-03d48m30.3s</declination><declination>--3 00 -2910</declination><rightascension>09h56m05.92s</rightascension><rightascension>+149 00 90</rightascension></system>

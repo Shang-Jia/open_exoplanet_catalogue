@@ -3,7 +3,7 @@
 	<rightascension>19 25 00</rightascension>
 	<declination>+49 13 54</declination>
 	<distance>436.937</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.035]" star_mass_errorplus="[0.0, 0, 0.035]" star_radius_errorminus="[0.0, 0, 0.019]" star_radius_errorplus="[0.0, 0, 0.019]" star_temperature_errorminus="[0.0, 0, 41.0]" star_temperature_errorplus="[0.0, 0, 41.0]">
 		<name>Kepler-36</name>
 		<name>KIC 11401755</name>
 		<name>KOI-277</name>
@@ -15,7 +15,7 @@
 		<magK errorminus="0.022" errorplus="0.022">10.788</magK>
 		<mass>1.071</mass>
 		<radius>1.619</radius>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.001457]" planet_mass_errorplus="[0.0, 0, 0.0018872]" planet_radius_errorminus="[0.0, 0, 0.0048]" planet_radius_errorplus="[0.0, 0, 0.0048]">
 			<name>Kepler-36 b</name>
 			<name>KOI-277.02</name>
 			<name>KOI-277 b</name>
@@ -37,7 +37,7 @@
 	Image credit: Harvard-Smithsonian Center for Astrophysics/David Aguilar.</imagedescription>
 			<temperature>978.8</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass>0</mass><mass>0.0254149</mass><radius>0</radius><radius>0.3282</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/05/22</lastupdate></planet>
 		<planet>
 			<name>Kepler-36 c</name>
 			<name>KOI-277.01</name>
@@ -61,5 +61,5 @@
 			<temperature>927.8</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<radius>0</radius><radius>1.66</radius><temperature>0</temperature><temperature>5900.0</temperature><mass>0</mass><mass>1.113</mass></star>
+<rightascension>19h25m00.05s</rightascension><rightascension>+291 00 900</rightascension><declination>+49d13m54.6s</declination><declination>+49 00 835</declination></system>

@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-403 c</name>
 			<name>KOI-2732 c</name>
@@ -59,4 +59,4 @@
 			<radius errorminus="0.017" errorplus="0.027">0.127</radius>
 		</planet>
 	</star>
-</system>
+<rightascension>19h19m41.15s</rightascension><rightascension>+289 00 3317</rightascension><declination>+46d44m40.4s</declination><declination>+46 00 2680</declination></system>

@@ -15,7 +15,7 @@
 		<mass>0.81</mass>
 		<age>4.0</age>
 		<metallicity>-0.09</metallicity>
-		<planet>
+		<planet planet_periastron_errorminus="[0.0, 0, 3.6]" planet_periastron_errorplus="[0.0, 0, 3.6]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>HD 166724 b</name>
 			<list>Confirmed planets</list>
 			<mass>3.53</mass>
@@ -26,8 +26,8 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-		</planet>
+		<period>0</period><period>8100.0</period><lastupdate>1/05/14</lastupdate><lastupdate>1/11/30</lastupdate><periastron>0</periastron><periastron>202.3</periastron></planet>
 		<name>HD 166724</name>
 		<temperature>5150.0</temperature>
 	</star>
-</system>
+<declination>-42d34m31.3s</declination><declination>--42 00 -2071</declination><rightascension>18h13m59.68s</rightascension><rightascension>+273 00 1800</rightascension></system>

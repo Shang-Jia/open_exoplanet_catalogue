@@ -25,8 +25,8 @@
 			<lastupdate>11/11/23</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>393.0</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/11/23</lastupdate></planet>
 		<name>HIP 12961</name>
 		<temperature>3840.0</temperature>
 	</star>
-</system>
+<declination>-23d05m11.8s</declination><declination>--23 00 -312</declination><rightascension>02h46m42.89s</rightascension><rightascension>+41 00 2445</rightascension></system>

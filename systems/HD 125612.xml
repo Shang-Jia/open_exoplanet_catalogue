@@ -22,7 +22,7 @@
 			<lastupdate>10/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>224.5</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/06</lastupdate></planet>
 		<planet>
 			<name>HD 125612 c</name>
 			<list>Confirmed planets</list>
@@ -52,4 +52,4 @@
 		<name>HD 125612</name>
 		<temperature>5897.0</temperature>
 	</star>
-</system>
+<rightascension>14h20m53.51s</rightascension><rightascension>+215 00 810</rightascension><declination>-17d28m53.5s</declination><declination>--17 00 -1733</declination></system>

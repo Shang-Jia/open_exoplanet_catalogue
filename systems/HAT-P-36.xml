@@ -3,7 +3,7 @@
 	<rightascension>12 33 03.909</rightascension>
 	<declination>+44 54 55.18</declination>
 	<distance>317</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<mass>1.022</mass>
 		<radius>1.096</radius>
 		<magV>12.262</magV>
@@ -14,7 +14,7 @@
 		<magK errorminus="0.021" errorplus="0.021">10.603</magK>
 		<metallicity>0.26</metallicity>
 		<spectraltype>G</spectraltype>
-		<planet>
+		<planet planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>HAT-P-36 b</name>
 			<name>2MASS 12330390+4454552</name>
 			<list>Confirmed planets</list>
@@ -31,8 +31,8 @@
 			<temperature>1669.2</temperature>
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2455565.18144</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<period>0</period><period>1.327347</period><lastupdate>1/05/14</lastupdate><lastupdate>1/01/14</lastupdate></planet>
 		<name>HAT-P-36</name>
 		<temperature>5580.0</temperature>
-	</star>
-</system>
+	<magV>0</magV><magV>12.26</magV></star>
+<declination>+44d54m55.3s</declination><declination>+44 00 3295</declination><rightascension>12h33m03.90s</rightascension><rightascension>+188 00 945</rightascension></system>

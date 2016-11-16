@@ -3,7 +3,7 @@
 	<rightascension>06 16 26.898</rightascension>
 	<declination>-22 32 48.79</declination>
 	<distance errorminus="12" errorplus="12">420</distance>
-	<star>
+	<star star_magV_errorminus="[0.017, 0, 0.0]" star_magV_errorplus="[0.017, 0, 0.0]">
 		<name>HATS-4</name>
 		<name>GSC 6505-00217</name>
 		<name>2MASS 06162689-2232487</name>
@@ -35,6 +35,6 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/07/02</lastupdate><lastupdate>1/05/21</lastupdate></planet>
+	<magV>0</magV><magV>13.5</magV></star>
+<declination>-22d32m48.8s</declination><declination>--21 00 -1631</declination><rightascension>06h16m26.90s</rightascension><rightascension>+94 00 405</rightascension></system>

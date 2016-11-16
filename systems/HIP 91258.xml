@@ -30,6 +30,6 @@
 			<lastupdate>13/11/22</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>HIP 91258 is a Hot Jupiter with an orbital period of only 5 days. There is another planet in the system. However, currently only a quadratic trend is seen in the data which is insufficient to determine the second planet's properties. The planet was discovered with the SOPHIE spectrograph in France.</description>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/25</lastupdate></planet>
 	</star>
-</system>
+<declination>+61d42m09.0s</declination><declination>+61 00 2529</declination><rightascension>18h36m53.15s</rightascension><rightascension>+279 00 795</rightascension></system>

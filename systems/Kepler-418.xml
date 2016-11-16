@@ -2,7 +2,7 @@
 	<name>Kepler-418</name>
 	<rightascension>19 37 44.04</rightascension>
 	<declination>+38 21 19.62</declination>
-	<star>
+	<star star_mass_errorminus="[0.1, 0, 0.08]" star_mass_errorplus="[0.21, 0, 0.08]" star_metallicity_errorminus="[0.13, 0, 0.1]" star_metallicity_errorplus="[0.13, 0, 0.1]" star_radius_errorminus="[0.36, 0, 0.14]" star_radius_errorplus="[0.68, 0, 0.14]" star_temperature_errorminus="[169.0, 0, 100.0]" star_temperature_errorplus="[169.0, 0, 100.0]">
 		<magJ errorminus="0.024" errorplus="0.024">13.493</magJ>
 		<magH errorminus="0.03" errorplus="0.03">13.24</magH>
 		<magK errorminus="0.03" errorplus="0.03">13.10</magK>
@@ -13,7 +13,7 @@
 		<radius errorminus="0.36" errorplus="0.68">1.60</radius>
 		<temperature errorminus="169" errorplus="169">6029</temperature>
 		<metallicity errorminus="0.13" errorplus="0.13">0.31</metallicity>
-		<planet>
+		<planet planet_period_errorminus="[7e-05, 0, 0.0]" planet_period_errorplus="[7e-05, 0, 0.0]">
 			<name>Kepler-418 b</name>
 			<name>KOI-1089.01</name>
 			<name>KOI-1089 b</name>
@@ -29,6 +29,6 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/28</lastupdate><lastupdate>1/07/04</lastupdate><period>0</period><period>86.67865</period></planet>
+	<mass>0</mass><mass>0.98</mass><radius>0</radius><radius>1.094</radius><temperature>0</temperature><temperature>5820.0</temperature><metallicity>0</metallicity><metallicity>-0.05</metallicity></star>
+<declination>+38d21m19.6s</declination><declination>+38 00 1280</declination><rightascension>19h37m44.04s</rightascension><rightascension>+294 00 1560</rightascension></system>

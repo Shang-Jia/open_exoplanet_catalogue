@@ -30,8 +30,8 @@
 			<discoveryyear>2008</discoveryyear>
 			<temperature>1092.2</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/04/16</lastupdate><lastupdate>1/05/23</lastupdate></planet>
 		<name>WASP-6</name>
 		<temperature>5450.0</temperature>
 	</star>
-</system>
+<rightascension>23h12m37.74s</rightascension><rightascension>+348 00 570</rightascension><declination>-22d40m26.2s</declination><declination>--22 00 -2426</declination></system>

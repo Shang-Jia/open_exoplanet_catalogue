@@ -34,10 +34,10 @@
 			<lastupdate>11/06/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/10/19</lastupdate></planet>
 		<name>Kepler-14</name>
 		<name>KOI-98</name>
 		<name>KIC 10264660</name>
 		<temperature>6395.0</temperature>
 	</star>
-</system>
+<declination>+47d19m59.0s</declination><declination>+47 00 1199</declination><rightascension>19h10m50.12s</rightascension><rightascension>+287 00 2550</rightascension></system>

@@ -5,7 +5,7 @@
 	<rightascension>19 30 00</rightascension>
 	<declination>+43 04 59</declination>
 	<distance>265.15</distance>
-	<star>
+	<star star_radius_errorminus="[0.033, 0, 0.0]" star_radius_errorplus="[0.033, 0, 0.0]" star_temperature_errorminus="[100.0, 0, 0.0]" star_temperature_errorplus="[100.0, 0, 0.0]">
 		<name>Kepler-210</name>
 		<name>KOI-676</name>
 		<name>KIC 7447200</name>
@@ -34,7 +34,7 @@
 			<lastupdate>14/03/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/14</lastupdate></planet>
 		<planet>
 			<name>Kepler-210 b</name>
 			<name>KOI-676 b</name>
@@ -53,5 +53,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<temperature>0</temperature><temperature>4300.0</temperature><radius>0</radius><radius>0.69</radius></star>
+<declination>+43d04m59.3s</declination><declination>+43 00 299</declination><rightascension>19h30m00.81s</rightascension><rightascension>+292 00 1815</rightascension></system>

@@ -34,6 +34,6 @@
 			<lastupdate>15/01/07</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<temperature errorminus="45" errorplus="45">1000</temperature>
-		</planet>
+		<lastupdate>1/01/14</lastupdate><lastupdate /></planet>
 	</star>
-</system>
+<declination>+42d55m44.1s</declination><declination /><rightascension>19h34m20.73s</rightascension><rightascension /></system>

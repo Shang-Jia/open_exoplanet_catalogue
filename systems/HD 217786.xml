@@ -9,7 +9,7 @@
 		<separation errorminus="0.0069" errorplus="0.0069" unit="arcsec">2.8560</separation>
 		<separation errorminus="6.6" errorplus="6.6" unit="AU">156.8</separation>
 		<positionangle errorminus="0.16" errorplus="0.16">170.34</positionangle>
-		<star>
+		<star star_magV_errorminus="[0.012, 0, 0.0]" star_magV_errorplus="[0.012, 0, 0.0]">
 			<name>HD 217786 A</name>
 			<name>HIP 113834</name>
 			<name>TYC 5242-591-1</name>
@@ -42,12 +42,12 @@
 				<lastupdate>16/01/22</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
+			<lastupdate>1/05/14</lastupdate><lastupdate>1/12/20</lastupdate></planet>
+		<magV>0</magV><magV>7.8</magV></star>
 		<star>
 			<name>HD 217786 B</name>
 			<name>BD-01 4382 B</name>
 			<mass errorminus="0.0068" errorplus="0.0071">0.1622</mass>
 		</star>
 	</binary>
-</system>
+<declination>-00d25m46.6s</declination><declination>+00 00 1547</declination><rightascension>23h03m08.20s</rightascension><rightascension>+345 00 2820</rightascension></system>

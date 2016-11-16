@@ -29,8 +29,8 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>11/04/23</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/04/23</lastupdate></planet>
 		<name>HN Peg</name>
 		<temperature>5940.0</temperature>
 	</star>
-</system>
+<declination>+14d46m19.0s</declination><declination>+14 00 2779</declination><rightascension>21h44m31.33s</rightascension><rightascension>+326 00 465</rightascension></system>

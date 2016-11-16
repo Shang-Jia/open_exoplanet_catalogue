@@ -15,7 +15,7 @@
 		<temperature errorminus="100" errorplus="100">6186</temperature>
 		<radius errorminus=".306" errorplus="0.306">1.534</radius>
 		<mass errorminus="0.1200" errorplus="0.1200">1.1300</mass>
-		<planet>
+		<planet planet_period_errorminus="[9.1e-05, 0, 0.0]" planet_period_errorplus="[9.1e-05, 0, 0.0]">
 			<name>Kepler-350 c</name>
 			<name>KOI-2025 c</name>
 			<name>KOI-2025.01</name>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/29</lastupdate><period>0</period><period>17.849</period><discoveryyear /><discoveryyear>2013</discoveryyear></planet>
 		<planet>
 			<name>Kepler-350 d</name>
 			<name>KOI-2025 d</name>
@@ -64,4 +64,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<rightascension>19h01m40.71s</rightascension><rightascension>+285 00 1515</rightascension><declination>+39d42m22.0s</declination><declination>+39 00 2542</declination></system>

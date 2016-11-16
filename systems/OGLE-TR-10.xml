@@ -3,7 +3,7 @@
 	<rightascension>17 51 28</rightascension>
 	<declination>-29 52 34</declination>
 	<distance>1500</distance>
-	<star>
+	<star star_magI_errorminus="[0.0, 0, 0.0]" star_magI_errorplus="[0.0, 0, 0.0]" star_mass_errorminus="[0.0, 0, 0.04]" star_mass_errorplus="[0.0, 0, 0.04]" star_radius_errorminus="[0.0, 0, 0.06]" star_radius_errorplus="[0.0, 0, 0.06]">
 		<mass>1.277</mass>
 		<radius>1.52</radius>
 		<metallicity>0.28</metallicity>
@@ -13,7 +13,7 @@
 		<magJ>13.962</magJ>
 		<magH>13.314</magH>
 		<magK>12.856</magK>
-		<planet>
+		<planet planet_semimajoraxis_errorminus="[0.0, 0, 4e-05]" planet_semimajoraxis_errorplus="[0.0, 0, 4e-05]">
 			<name>OGLE-TR-10 b</name>
 			<name>V5125 Sgr b</name>
 			<list>Confirmed planets</list>
@@ -29,8 +29,8 @@
 			<discoveryyear>2004</discoveryyear>
 			<temperature errorminus="54" errorplus="54">1702</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/16</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>0.04162</semimajoraxis></planet>
 		<name>OGLE-TR-10</name>
 		<temperature>6075.0</temperature>
-	</star>
-</system>
+	<radius>0</radius><radius>1.16</radius><magI>0</magI><magI>14.93</magI><spectraltype /><spectraltype>G or K</spectraltype><mass>0</mass><mass>1.18</mass></star>
+<declination>-29d52m34.9s</declination><declination>--29 00 -3154</declination><rightascension>17h51m28.25s</rightascension><rightascension>+267 00 3120</rightascension></system>

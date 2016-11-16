@@ -5,7 +5,7 @@
 	<rightascension>19 39 46</rightascension>
 	<declination>+39 01 55</declination>
 	<distance>1142.05</distance>
-	<star>
+	<star star_mass_errorminus="[0.081, 0, 0.0]" star_mass_errorplus="[0.081, 0, 0.0]">
 		<magJ errorminus="0.025" errorplus="0.025">14.095</magJ>
 		<magH errorminus="0.029" errorplus="0.029">13.722</magH>
 		<magK errorminus="0.05" errorplus="0.05">13.67</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-317 c</name>
 			<name>KOI-1760 c</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.95</mass></star>
+<rightascension>19h39m46.53s</rightascension><rightascension>+294 00 3398</rightascension><declination>+39d01m55.4s</declination><declination>+39 00 115</declination></system>

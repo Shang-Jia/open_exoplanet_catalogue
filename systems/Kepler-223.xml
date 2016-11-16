@@ -17,7 +17,7 @@
 		<temperature errorminus="200" errorplus="200">5829</temperature>
 		<radius errorminus=".438" errorplus="0.438">1.017</radius>
 		<mass errorminus="0.1100" errorplus="0.1100">0.9500</mass>
-		<planet>
+		<planet planet_radius_errorminus="[0.00365, 0, 0.093]" planet_radius_errorplus="[0.09478, 0, 0.093]">
 			<name>Kepler-223 d</name>
 			<name>KOI-730 d</name>
 			<name>KOI-730.01</name>
@@ -32,7 +32,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<radius>0</radius><radius>0.214</radius><lastupdate>1/08/04</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-223 c</name>
 			<name>KOI-730 c</name>
@@ -82,4 +82,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+47d16m46.2s</declination><declination>+47 00 1006</declination><rightascension>19h53m16.41s</rightascension><rightascension>+298 00 1146</rightascension></system>

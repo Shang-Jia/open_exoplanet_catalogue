@@ -3,7 +3,7 @@
 	<rightascension>00 09 52.82123</rightascension>
 	<declination>-50 16 04.1606</declination>
 	<distance errorminus="2.5" errorplus="2.5">53.6</distance>
-	<star>
+	<star star_metallicity_errorminus="[0.05, 0, 0.06]" star_metallicity_errorplus="[0.05, 0, 0.06]">
 		<name>HD 564</name>
 		<name>HIP 801</name>
 		<name>TYC 8028-677-1</name>
@@ -34,7 +34,7 @@
 			<list>Confirmed planets</list>
 			<description>HD 564 is a metal poor star. The planet around this star has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/11/17</lastupdate>
+			<lastupdate>1/01/08</lastupdate>
 		</planet>
-	</star>
-</system>
+	<metallicity>0</metallicity><metallicity>0.13</metallicity><spectraltype /><spectraltype>G3V</spectraltype></star>
+<declination>-50d16m04.2s</declination><declination>--50 00 -964</declination><rightascension>00h09m52.82s</rightascension><rightascension>+02 00 1695</rightascension></system>

@@ -3,7 +3,7 @@
 	<rightascension>12 17 53.19228</rightascension>
 	<declination>-55 58 31.8890</declination>
 	<distance errorminus="6" errorplus="6">92</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>HD 106906</name>
 		<mass errorminus="0.1" errorplus="0.1">1.5</mass>
 		<temperature errorminus="165" errorplus="165">6516</temperature>
@@ -28,6 +28,6 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>13/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/12/05</lastupdate></planet>
+	<magV>0</magV><magV>7.8</magV></star>
+<declination>-55d58m31.9s</declination><declination>--54 00 -88</declination><rightascension>12h17m53.19s</rightascension><rightascension>+184 00 1695</rightascension></system>

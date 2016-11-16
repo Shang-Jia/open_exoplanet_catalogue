@@ -4,7 +4,7 @@
 	<rightascension>02 32 09.42200</rightascension>
 	<declination>-01 02 05.6236</declination>
 	<distance errorminus="3.0" errorplus="3.0">81.4</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>75 Cet</name>
 		<name>75 Ceti</name>
 		<name>HD 15779</name>
@@ -36,8 +36,8 @@
 			<periastrontime errorminus="54" errorplus="54">2452213</periastrontime>
 			<discoverymethod>RV</discoverymethod>
 			<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>1/09/03</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
-	</star>
-</system>
+	<spectraltype /><spectraltype>G3III</spectraltype><magV>0</magV><magV>5.36</magV></star>
+<declination>-01d02m05.6s</declination><declination>--1 00 -126</declination><rightascension>02h32m09.42s</rightascension><rightascension>+38 00 135</rightascension></system>

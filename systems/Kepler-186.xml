@@ -16,7 +16,7 @@
 		<mass errorminus="0.055" errorplus="0.055">0.478</mass>
 		<metallicity errorminus="0.1" errorplus="0.1">-0.28</metallicity>
 		<temperature errorminus="54" errorplus="54">3788</temperature>
-		<planet>
+		<planet planet_period_errorminus="[7.4e-05, 0, 0.0]" planet_period_errorplus="[7.4e-05, 0, 0.0]" planet_semimajoraxis_errorminus="[0.015, 0, 0.0]" planet_semimajoraxis_errorplus="[0.015, 0, 0.0]">
 			<name>Kepler-186 c</name>
 			<name>KOI-571 c</name>
 			<name>KOI-571.01</name>
@@ -32,7 +32,7 @@
 			<lastupdate>14/04/17</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>0.129</semimajoraxis><lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate><period>0</period><period>22.407793</period></planet>
 		<planet>
 			<name>Kepler-186 d</name>
 			<name>KOI-571 d</name>
@@ -101,4 +101,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+43d57m18.1s</declination><declination>+43 00 3438</declination><rightascension>19h54m36.65s</rightascension><rightascension>+298 00 2350</rightascension></system>

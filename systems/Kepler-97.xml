@@ -31,7 +31,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>Kepler-97 c</name>
 			<name>KOI-292.10</name>
@@ -46,4 +46,4 @@
 			<discoverymethod>RV</discoverymethod>
 		</planet>
 	</star>
-</system>
+<declination>+48d40m24.4s</declination><declination /><rightascension>19h09m18.39s</rightascension><rightascension /></system>

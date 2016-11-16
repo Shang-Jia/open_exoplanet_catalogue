@@ -3,7 +3,7 @@
 	<rightascension>18 25 59.13734</rightascension>
 	<declination>+65 33 48.5288</declination>
 	<distance errorminus="1.9" errorplus="1.9">96.5</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>42 Dra</name>
 		<name>42 Draconis</name>
 		<name>HD 170693</name>
@@ -39,6 +39,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/24</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/05/14</lastupdate><lastupdate>0/03/23</lastupdate></planet>
+	<magV>0</magV><magV>4.83</magV></star>
+<declination>+65d33m48.5s</declination><declination>+65 00 2029</declination><rightascension>18h25m59.14s</rightascension><rightascension>+276 00 1785</rightascension></system>

@@ -3,7 +3,7 @@
 	<rightascension>22 57 27</rightascension>
 	<declination>+20 46 07</declination>
 	<distance>14.7</distance>
-	<star>
+	<star star_mass_errorminus="[0.0, 0, 0.06]" star_mass_errorplus="[0.0, 0, 0.06]">
 		<name>51 Peg</name>
 		<name>HD 217014</name>
 		<name>HIP 113357</name>
@@ -23,7 +23,7 @@
 		<magK errorminus="0.021" errorplus="0.021">3.911</magK>
 		<metallicity>0.2</metallicity>
 		<spectraltype>G2 IV</spectraltype>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.0, 0, 0.0066]" planet_eccentricity_errorplus="[0.0, 0, 0.0069]" planet_periastron_errorminus="[0.0, 0, 72.3]" planet_periastron_errorplus="[0.0, 0, 72.3]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]">
 			<name>51 Peg b</name>
 			<name>Bellerophon</name>
 			<list>Confirmed planets</list>
@@ -40,7 +40,7 @@
 			<lastupdate>15/05/24</lastupdate>
 			<discoveryyear>1995</discoveryyear>
 			<temperature>1260.3</temperature>
-		</planet>
+		<eccentricity>0</eccentricity><eccentricity>0.0069</eccentricity><period>0</period><period>4.2308</period><lastupdate>1/05/14</lastupdate><lastupdate>1/04/06</lastupdate><periastron>0</periastron><periastron>54.1</periastron></planet>
 		<temperature>5793.0</temperature>
-	</star>
-</system>
+	<mass>0</mass><mass>1.11</mass></star>
+<rightascension>22h57m27.98s</rightascension><rightascension>+344 00 1305</rightascension><declination>+20d46m07.8s</declination><declination>+20 00 2767</declination></system>

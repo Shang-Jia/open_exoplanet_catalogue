@@ -5,7 +5,7 @@
 	<rightascension>18 45 55</rightascension>
 	<declination>+47 12 28</declination>
 	<distance>119.3</distance>
-	<star>
+	<star star_magV_errorminus="[0.19, 0, 0.0]" star_magV_errorplus="[0.19, 0, 0.0]" star_metallicity_errorminus="[0.07, 0, 0.47]" star_metallicity_errorplus="[0.07, 0, 0.42]" star_temperature_errorminus="[74.0, 0, 41.0]" star_temperature_errorplus="[74.0, 0, 41.0]">
 		<magB errorminus="0.24" errorplus="0.24">12.58</magB>
 		<magV errorminus="0.19" errorplus="0.19">12.07</magV>
 		<magJ errorminus="0.023" errorplus="0.023">9.984</magJ>
@@ -33,7 +33,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/10/13</lastupdate><lastupdate>1/12/10</lastupdate><discoveryyear /><discoveryyear>2013</discoveryyear></planet>
 		<planet>
 			<name>Kepler-102 d</name>
 			<name>KOI-82.02</name>
@@ -94,5 +94,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<temperature>0</temperature><temperature>4809.0</temperature><metallicity>0</metallicity><metallicity>0.18</metallicity><magV>0</magV><magV>11.492</magV></star>
+<declination>+47d12m28.9s</declination><declination>+47 00 749</declination><rightascension>18h45m55.86s</rightascension><rightascension>+281 00 1738</rightascension></system>

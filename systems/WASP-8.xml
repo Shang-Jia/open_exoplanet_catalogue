@@ -40,7 +40,7 @@
 				<temperature>846.5</temperature>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<lastupdate>1/05/14</lastupdate><lastupdate>1/08/16</lastupdate></planet>
 		</star>
 		<star>
 			<name>WASP-8 B</name>
@@ -51,4 +51,4 @@
 			<mass errorminus="0.11" errorplus="0.11">0.34</mass>
 		</star>
 	</binary>
-</system>
+<declination>-35d01m53.0s</declination><declination>--35 00 -113</declination><rightascension>23h59m36.07s</rightascension><rightascension>+359 00 3240</rightascension></system>

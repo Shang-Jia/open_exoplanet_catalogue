@@ -17,7 +17,7 @@
 		<temperature errorminus="100" errorplus="100">5828</temperature>
 		<radius errorminus="0.048" errorplus="0.048">1.548</radius>
 		<mass errorminus="0.1300" errorplus="0.1300">1.1900</mass>
-		<planet>
+		<planet planet_period_errorminus="[3.7e-05, 0, 0.0]" planet_period_errorplus="[3.7e-05, 0, 0.0]" planet_radius_errorminus="[0.03007, 0, 0.0089]" planet_radius_errorplus="[0.03007, 0, 0.0089]" planet_transittime_errorminus="[0.0021, 0, 0.0]" planet_transittime_errorplus="[0.0021, 0, 0.0]">
 			<name>Kepler-23 c</name>
 			<name>KOI-168 c</name>
 			<name>KOI-168.01</name>
@@ -33,7 +33,7 @@
 			<lastupdate>15/06/09</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<transittime>0</transittime><transittime>2454966.2926</transittime><radius>0</radius><radius>0.278</radius><discoveryyear /><discoveryyear>2012</discoveryyear><period>0</period><period>10.742434</period><lastupdate>1/05/14</lastupdate><lastupdate>1/11/25</lastupdate></planet>
 		<planet>
 			<name>Kepler-23 d</name>
 			<name>KOI-168 d</name>
@@ -69,4 +69,4 @@
 			<istransiting>1</istransiting>
 		</planet>
 	</star>
-</system>
+<declination>+49d28m45.2s</declination><declination>+49 00 1725</declination><rightascension>19h36m52.54s</rightascension><rightascension>+294 00 780</rightascension></system>

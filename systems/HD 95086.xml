@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[0.0, 0, 0.0]" system_distance_errorplus="[0.0, 0, 0.0]">
 	<name>HD 95086</name>
 	<name>HIP 53524</name>
 	<name>2MASS J10570301-6840023</name>
@@ -42,6 +42,6 @@ Credit: ESO/J. Rameau</imagedescription>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>13/10/28</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/06/22</lastupdate></planet>
 	</star>
-</system>
+<distance>0</distance><distance>90.4</distance><declination>-68d40m02.4s</declination><declination>--68 00 -2402</declination><rightascension>10h57m03.02s</rightascension><rightascension>+164 00 945</rightascension></system>

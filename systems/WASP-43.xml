@@ -15,7 +15,7 @@
 		<magK errorminus="0.026" errorplus="0.026">9.267</magK>
 		<metallicity>-0.01</metallicity>
 		<spectraltype>K7V</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0534]" planet_mass_errorplus="[0.0, 0, 0.05347]">
 			<name>WASP-43 b</name>
 			<name>2MASS J10193800-0948225 b</name>
 			<list>Confirmed planets</list>
@@ -31,8 +31,8 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1317.6</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/08/19</lastupdate><mass>0</mass><mass>2.052</mass></planet>
 		<name>WASP-43</name>
 		<temperature>4520.0</temperature>
 	</star>
-</system>
+<declination>-09d48m22.6s</declination><declination>--9 00 -2903</declination><rightascension>10h19m38.01s</rightascension><rightascension>+154 00 3270</rightascension></system>

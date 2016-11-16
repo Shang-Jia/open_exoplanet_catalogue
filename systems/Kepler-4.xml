@@ -14,7 +14,7 @@
 		<magK errorminus="0.023" errorplus="0.023">10.805</magK>
 		<metallicity>0.17</metallicity>
 		<spectraltype>G0</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0128055878929]" planet_mass_errorplus="[0.0, 0, 0.0128055878929]" planet_radius_errorminus="[0.0, 0, 0.0187349785618]" planet_radius_errorplus="[0.0, 0, 0.0187349785618]">
 			<name>Kepler-4 b</name>
 			<name>2MASS J19022767+5008087 b</name>
 			<name>KIC 11853905 b</name>
@@ -33,11 +33,11 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1474.7</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass>0</mass><mass>0.0824340056005</mass><radius>0</radius><radius>0.356856734511</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/11/05</lastupdate></planet>
 		<name>Kepler-4</name>
 		<name>KOI-7</name>
 		<name>KIC 11853905</name>
 		<temperature>5857.0</temperature>
 	</star>
 	<videolink>http://youtu.be/qJl9BeAPfhI</videolink>
-</system>
+<rightascension>19h02m27.68s</rightascension><rightascension>+285 00 2220</rightascension><declination>+50d08m08.7s</declination><declination>+50 00 489</declination></system>

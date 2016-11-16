@@ -18,7 +18,7 @@
 		<metallicity errorminus="0.14" errorplus="0.14">-0.11</metallicity>
 		<age errorminus="2" errorplus="2">4.6</age>
 		<spectraltype>F9</spectraltype>
-		<planet>
+		<planet planet_temperature_errorminus="[-26.0, 0, 0.0]" planet_temperature_errorplus="[30.0, 0, 0.0]">
 			<name>WASP-117 b</name>
 			<name>GSC08055-00876 b</name>
 			<name>PPM 331895 b</name>
@@ -39,6 +39,6 @@
 			<istransiting>1</istransiting>
 			<lastupdate>14/06/27</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
+		<temperature>0</temperature><temperature>1024.0</temperature><lastupdate>1/08/27</lastupdate><lastupdate>1/06/27</lastupdate></planet>
 	</star>
-</system>
+<declination>-50d17m04.3s</declination><declination>--50 00 -1024</declination><rightascension>02h27m06.10s</rightascension><rightascension>+36 00 2790</rightascension></system>

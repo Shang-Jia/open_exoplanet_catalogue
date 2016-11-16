@@ -38,7 +38,7 @@
 			<lastupdate>13/04/17</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate /></planet>
 		<planet>
 			<name>KOI-142 c</name>
 			<name>Kepler-88 c</name>
@@ -58,4 +58,4 @@
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>
-</system>
+<declination>+40d40m09.9s</declination><declination /><rightascension>19h24m35.54s</rightascension><rightascension /></system>

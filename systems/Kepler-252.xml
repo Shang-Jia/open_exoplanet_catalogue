@@ -5,7 +5,7 @@
 	<rightascension>19 42 19</rightascension>
 	<declination>+44 32 45</declination>
 	<distance>337.11</distance>
-	<star>
+	<star star_mass_errorminus="[0.015, 0, 0.0]" star_mass_errorplus="[0.015, 0, 0.0]">
 		<magJ errorminus="0.025" errorplus="0.025">13.240</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.650</magH>
 		<magK errorminus="0.018" errorplus="0.018">12.466</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-252 b</name>
 			<name>KOI-912 b</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.52</mass></star>
+<rightascension>19h42m19.04s</rightascension><rightascension>+295 00 2086</rightascension><declination>+44d32m45.5s</declination><declination>+44 00 1965</declination></system>

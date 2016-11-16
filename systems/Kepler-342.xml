@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-342 d</name>
 			<name>KOI-1955 d</name>
@@ -75,4 +75,4 @@
 			<radius errorminus="0.005" errorplus="0.007">0.079</radius>
 		</planet>
 	</star>
-</system>
+<rightascension>19h30m42.74s</rightascension><rightascension>+292 00 2441</rightascension><declination>+46d43m36.2s</declination><declination>+46 00 2616</declination></system>

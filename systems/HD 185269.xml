@@ -1,4 +1,4 @@
-<system>
+<system system_distance_errorminus="[1.42, 0, 0.0]" system_distance_errorplus="[1.42, 0, 0.0]">
 	<name>HD 185269</name>
 	<rightascension>19 37 11.74092</rightascension>
 	<declination>+28 29 59.5055</declination>
@@ -9,7 +9,7 @@
 		<separation errorminus="0.011" errorplus="0.011" unit="arcsec">4.547</separation>
 		<separation errorminus="6.5" errorplus="6.5" unit="AU">228.6</separation>
 		<positionangle errorminus="0.14" errorplus="0.14">8.15</positionangle>
-		<star>
+		<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 			<name>HD 185269 A</name>
 			<name>HIP 96507</name>
 			<name>TYC 2150-5013-1</name>
@@ -41,8 +41,8 @@
 				<lastupdate>16/01/22</lastupdate>
 				<discoveryyear>2006</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
+			<lastupdate>1/07/23</lastupdate><lastupdate>0/08/16</lastupdate></planet>
+		<magV>0</magV><magV>6.67</magV></star>
 		<binary>
 			<separation errorminus="0.0028" errorplus="0.0028" unit="arcsec">0.0956</separation>
 			<separation errorminus="0.20" errorplus="0.20" unit="AU">4.81</separation>
@@ -61,4 +61,4 @@
 			</star>
 		</binary>
 	</binary>
-</system>
+<distance>0</distance><distance>47.0</distance><declination>+28d29m59.5s</declination><declination>+28 00 1800</declination><rightascension>19h37m11.74s</rightascension><rightascension>+294 00 1080</rightascension></system>

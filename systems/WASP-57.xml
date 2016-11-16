@@ -15,7 +15,7 @@
 		<magH errorminus="0.024" errorplus="0.024">11.292</magH>
 		<magK errorminus="0.026" errorplus="0.026">11.244</magK>
 		<spectraltype>G6</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0]" planet_mass_errorplus="[0.0, 0, 0.0]" planet_period_errorminus="[0.0, 0, 0.0]" planet_period_errorplus="[0.0, 0, 0.0]" planet_radius_errorminus="[0.0, 0, 0.0]" planet_radius_errorplus="[0.0, 0, 0.0]">
 			<name>WASP-57 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.672</mass>
@@ -31,7 +31,7 @@
 			<lastupdate>12/10/08</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<radius>0</radius><radius>1.1</radius><mass>0</mass><mass>0.8</mass><period>0</period><period>2.8</period><lastupdate>1/10/15</lastupdate><lastupdate>1/10/12</lastupdate></planet>
 		<name>WASP-57</name>
 	</star>
-</system>
+<declination>-02d03m27.6s</declination><declination>--2 00 -208</declination><rightascension>14h55m16.82s</rightascension><rightascension>+223 00 2952</rightascension></system>

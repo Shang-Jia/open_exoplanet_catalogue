@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000154300" errorplus="0.000154300">42.949564900</period>
 			<radius errorminus="0.015" errorplus="0.021">0.229</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-549 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.053" errorplus="0.022">0.261</radius>
 		</planet>
 	</star>
-</system>
+<declination>+47d15m40.1s</declination><declination>+47 00 940</declination><rightascension>18h52m05.47s</rightascension><rightascension>+283 00 82</rightascension></system>

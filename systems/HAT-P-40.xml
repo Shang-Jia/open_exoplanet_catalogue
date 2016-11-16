@@ -3,7 +3,7 @@
 	<rightascension>22 22 03</rightascension>
 	<declination>+45 27 27</declination>
 	<distance>501</distance>
-	<star>
+	<star star_magV_errorminus="[0.08, 0, 0.0]" star_magV_errorplus="[0.08, 0, 0.0]">
 		<mass>1.512</mass>
 		<radius>2.206</radius>
 		<magV errorminus="0.08" errorplus="0.08">11.34</magV>
@@ -30,8 +30,8 @@
 			<temperature>1614.8</temperature>
 			<transittime errorminus="0.00054" errorplus="0.00054" unit="BJD">2455813.17584</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/07/10</lastupdate></planet>
 		<name>HAT-P-40</name>
 		<temperature>6080.0</temperature>
-	</star>
-</system>
+	<magV>0</magV><magV>11.699</magV></star>
+<declination>+45d27m26.6s</declination><declination>+45 00 1647</declination><rightascension>22h22m03.09s</rightascension><rightascension>+335 00 1845</rightascension></system>

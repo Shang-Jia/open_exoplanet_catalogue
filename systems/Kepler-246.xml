@@ -5,7 +5,7 @@
 	<rightascension>19 45 56</rightascension>
 	<declination>+42 39 48</declination>
 	<distance>768.87</distance>
-	<star>
+	<star star_mass_errorminus="[0.066, 0, 0.0]" star_mass_errorplus="[0.066, 0, 0.0]">
 		<magJ errorminus="0.022" errorplus="0.022">13.587</magJ>
 		<magH errorminus="0.026" errorplus="0.026">13.150</magH>
 		<magK errorminus="0.03" errorplus="0.03">13.04</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-246 c</name>
 			<name>KOI-874 c</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.86</mass></star>
+<rightascension>19h45m56.02s</rightascension><rightascension>+296 00 1740</rightascension><declination>+42d39m48.3s</declination><declination>+42 00 2388</declination></system>

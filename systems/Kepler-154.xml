@@ -29,7 +29,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-154 c</name>
 			<name>KOI-435 c</name>
@@ -83,4 +83,4 @@
 			<radius errorminus="0.019" errorplus="0.030">0.134</radius>
 		</planet>
 	</star>
-</system>
+<rightascension>19h19m07.33s</rightascension><rightascension>+289 00 2810</rightascension><declination>+49d53m47.5s</declination><declination>+49 00 3228</declination></system>

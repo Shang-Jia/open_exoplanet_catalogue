@@ -42,7 +42,7 @@
 				<discoveryyear>2011</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 				<istransiting>1</istransiting>
-			</planet>
+			<lastupdate>1/10/15</lastupdate><lastupdate /></planet>
 		</star>
 		<star>
 			<name>WASP-70 B</name>
@@ -52,4 +52,4 @@
 			<age errorminus="0.5" errorplus="0.5">9.5</age>
 		</star>
 	</binary>
-</system>
+<declination>-13d25m59.6s</declination><declination /><rightascension>21h01m54.47s</rightascension><rightascension /></system>

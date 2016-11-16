@@ -3,7 +3,7 @@
 	<rightascension>22 11 51.33086</rightascension>
 	<declination>+16 02 25.9903</declination>
 	<distance errorminus="1.2" errorplus="1.2">54.9</distance>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]" star_temperature_errorminus="[25.0, 0, 44.0]" star_temperature_errorplus="[25.0, 0, 44.0]">
 		<name>HD 210702</name>
 		<name>HIP 109577</name>
 		<name>TYC 1681-1751-1</name>
@@ -21,7 +21,7 @@
 		<metallicity>0.12</metallicity>
 		<spectraltype>K1 IV</spectraltype>
 		<temperature errorminus="25" errorplus="25">4967</temperature>
-		<planet>
+		<planet planet_eccentricity_errorminus="[0.052, 0, 0.08]" planet_eccentricity_errorplus="[0.052, 0, 0.08]" planet_periastron_errorminus="[47.0, 0, 30.0]" planet_periastron_errorplus="[47.0, 0, 30.0]">
 			<name>HD 210702 b</name>
 			<list>Confirmed planets</list>
 			<mass type="msini">1.9</mass>
@@ -33,6 +33,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<eccentricity>0</eccentricity><eccentricity>0.152</eccentricity><lastupdate>1/09/03</lastupdate><lastupdate>1/09/01</lastupdate><periastron>0</periastron><periastron>301.0</periastron></planet>
+	<spectraltype /><spectraltype>K1IV</spectraltype><temperature>0</temperature><temperature>5010.0</temperature><magV>0</magV><magV>5.93</magV></star>
+<declination>+16d02m26.0s</declination><declination>+16 00 146</declination><rightascension>22h11m51.33s</rightascension><rightascension>+332 00 3465</rightascension></system>

@@ -2,7 +2,7 @@
 	<name>HD 95872</name>
 	<rightascension>11 03 28.071</rightascension>
 	<declination>-22 05 38.41</declination>
-	<star>
+	<star star_magV_errorminus="[0.0, 0, 0.0]" star_magV_errorplus="[0.0, 0, 0.0]">
 		<name>HD 95872</name>
 		<name>TYC 6083-1275-1</name>
 		<name>BD-21 3221</name>
@@ -31,6 +31,6 @@
 			<description>HD 95872 b is a super-Jupiter planet orbiting in a Jupiter-like orbit around a metal-rich solar-mass star.</description>
 			<lastupdate>15/12/28</lastupdate>
 			<list>Confirmed planets</list>
-		</planet>
-	</star>
-</system>
+		<lastupdate>1/12/17</lastupdate><lastupdate>1/12/10</lastupdate></planet>
+	<magV>0</magV><magV>9.9</magV></star>
+<declination>-22d05m38.3s</declination><declination>--22 00 -338</declination><rightascension>11h03m28.11s</rightascension><rightascension>+165 00 3120</rightascension></system>

@@ -32,7 +32,7 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature errorminus="80" errorplus="80">1270</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/11/07</lastupdate></planet>
 		<temperature errorminus="150" errorplus="150">5800</temperature>
 	</star>
-</system>
+<declination>+45d10m19.3s</declination><declination>+45 00 619</declination><rightascension>18h18m48.26s</rightascension><rightascension>+274 00 2520</rightascension></system>

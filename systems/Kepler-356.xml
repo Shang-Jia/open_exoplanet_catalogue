@@ -5,7 +5,7 @@
 	<rightascension>19 29 41</rightascension>
 	<declination>+37 40 58</declination>
 	<distance>672.47</distance>
-	<star>
+	<star star_mass_errorminus="[0.097, 0, 0.0]" star_mass_errorplus="[0.097, 0, 0.0]">
 		<magJ errorminus="0.022" errorplus="0.022">12.000</magJ>
 		<magH errorminus="0.022" errorplus="0.022">11.745</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.704</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-356 b</name>
 			<name>KOI-2053 b</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.97</mass></star>
+<rightascension>19h29m41.06s</rightascension><rightascension>+292 00 1516</rightascension><declination>+37d40m58.1s</declination><declination>+37 00 2458</declination></system>

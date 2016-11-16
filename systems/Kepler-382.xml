@@ -5,7 +5,7 @@
 	<rightascension>19 56 32</rightascension>
 	<declination>+45 52 11</declination>
 	<distance>841.11</distance>
-	<star>
+	<star star_mass_errorminus="[0.066, 0, 0.0]" star_mass_errorplus="[0.066, 0, 0.0]">
 		<magJ errorminus="0.029" errorplus="0.029">13.403</magJ>
 		<magH errorminus="0.030" errorplus="0.030">12.953</magH>
 		<magK errorminus="0.030" errorplus="0.030">12.890</magK>
@@ -30,7 +30,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/03/06</lastupdate></planet>
 		<planet>
 			<name>Kepler-382 c</name>
 			<name>KOI-2374 c</name>
@@ -47,5 +47,5 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
-	</star>
-</system>
+	<mass>0</mass><mass>0.8</mass></star>
+<rightascension>19h56m32.68s</rightascension><rightascension>+299 00 490</rightascension><declination>+45d52m11.8s</declination><declination>+45 00 3132</declination></system>

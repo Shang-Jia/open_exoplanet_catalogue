@@ -12,7 +12,7 @@
 		<magK errorminus="0.286" errorplus="0.286">3.355</magK>
 		<metallicity>-0.26</metallicity>
 		<spectraltype>F6IV-V</spectraltype>
-		<planet>
+		<planet planet_mass_errorminus="[0.0, 0, 0.0]" planet_mass_errorplus="[0.0, 0, 0.0]">
 			<name>HD 60532 b</name>
 			<list>Confirmed planets</list>
 			<mass>3.15</mass>
@@ -24,7 +24,7 @@
 			<lastupdate>12/01/31</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>497.4</temperature>
-		</planet>
+		<lastupdate>1/09/08</lastupdate><lastupdate>1/01/31</lastupdate><mass>0</mass><mass>21.8</mass></planet>
 		<planet>
 			<name>HD 60532 c</name>
 			<list>Confirmed planets</list>
@@ -41,4 +41,4 @@
 		<name>HD 60532</name>
 		<temperature>6095.0</temperature>
 	</star>
-</system>
+<declination>-22d17m45.8s</declination><declination>--22 00 -1066</declination><rightascension>07h34m03.18s</rightascension><rightascension>+113 00 1845</rightascension></system>

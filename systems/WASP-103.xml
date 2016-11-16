@@ -3,7 +3,7 @@
 	<rightascension>16 37 15</rightascension>
 	<declination>+07 11 00</declination>
 	<distance errorminus="35" errorplus="35">470</distance>
-	<star>
+	<star star_magV_errorminus="[0.01, 0, 0.0]" star_magV_errorplus="[0.01, 0, 0.0]">
 		<name>WASP-103</name>
 		<mass errorminus="0.089" errorplus="0.089">1.204</mass>
 		<radius errorminus="0.039" errorplus="0.039">1.419</radius>
@@ -14,7 +14,7 @@
 		<magK errorminus="0.020" errorplus="0.020">10.767</magK>
 		<metallicity errorminus="0.13" errorplus="0.13">0.06</metallicity>
 		<spectraltype>F8V</spectraltype>
-		<planet>
+		<planet planet_radius_errorminus="[0.052, 0, 0.047]" planet_radius_errorplus="[0.052, 0, 0.073]">
 			<name>WASP-103 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.11" errorplus="0.11">1.47</mass>
@@ -28,6 +28,6 @@
 			<istransiting>1</istransiting>
 			<lastupdate>14/11/11</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-		</planet>
-	</star>
-</system>
+		<radius>0</radius><radius>1.528</radius><lastupdate>1/05/14</lastupdate><lastupdate>1/03/21</lastupdate></planet>
+	<magV>0</magV><magV>12.0</magV></star>
+<declination>+07d11m00.1s</declination><declination>+07 00 660</declination><rightascension>16h37m15.57s</rightascension><rightascension>+249 00 1140</rightascension></system>

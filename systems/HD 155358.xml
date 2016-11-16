@@ -25,7 +25,7 @@
 			<lastupdate>12/02/04</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>377.6</temperature>
-		</planet>
+		<lastupdate>1/05/14</lastupdate><lastupdate>1/02/04</lastupdate></planet>
 		<planet>
 			<name>HD 155358 c</name>
 			<list>Confirmed planets</list>
@@ -41,4 +41,4 @@
 		<name>HD 155358</name>
 		<temperature>5900.0</temperature>
 	</star>
-</system>
+<declination>+33d21m21.1s</declination><declination>+33 00 1281</declination><rightascension>17h09m34.61s</rightascension><rightascension>+257 00 1425</rightascension></system>

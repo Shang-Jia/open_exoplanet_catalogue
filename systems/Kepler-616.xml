@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000021380" errorplus="0.000021380">9.997618510</period>
 			<radius errorminus="0.018" errorplus="0.029">0.217</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-616 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.027" errorplus="0.051">0.304</radius>
 		</planet>
 	</star>
-</system>
+<declination>+46d50m18.0s</declination><declination>+46 00 3018</declination><rightascension>19h39m57.39s</rightascension><rightascension>+294 00 3561</rightascension></system>

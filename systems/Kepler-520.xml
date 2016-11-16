@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000052450" errorplus="0.000052450">19.674161240</period>
 			<radius errorminus="0.009" errorplus="0.025">0.148</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-520 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.004" errorplus="0.006">0.095</radius>
 		</planet>
 	</star>
-</system>
+<declination>+41d37m03.9s</declination><declination>+41 00 2224</declination><rightascension>19h32m43.28s</rightascension><rightascension>+293 00 649</rightascension></system>

@@ -22,8 +22,8 @@
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>643.6</temperature>
-		</planet>
+		<lastupdate /><lastupdate>1/09/12</lastupdate></planet>
 		<name>HD 154088</name>
 		<temperature>5150.0</temperature>
 	</star>
-</system>
+<rightascension /><rightascension>+256 00 420</rightascension><declination /><declination>--28 00 -2098</declination></system>

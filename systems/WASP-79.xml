@@ -15,7 +15,7 @@
 		<magK errorminus="0.023" errorplus="0.023">9.056</magK>
 		<metallicity>0.03</metallicity>
 		<spectraltype>F3</spectraltype>
-		<planet>
+		<planet planet_semimajoraxis_errorminus="[0.0, 0, 0.0009]" planet_semimajoraxis_errorplus="[0.0, 0, 0.0009]">
 			<name>WASP-79 b</name>
 			<name>2MASS J04252901-3036016 b</name>
 			<name>TYC 7038-834-1 b</name>
@@ -37,6 +37,6 @@
 			<discoveryyear>2012</discoveryyear>
 			<temperature>1958.7</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0</semimajoraxis><semimajoraxis>0.0539</semimajoraxis><lastupdate>1/05/14</lastupdate><lastupdate>1/03/05</lastupdate></planet>
 	</star>
-</system>
+<declination>-30d36m01.6s</declination><declination>--30 00 -2162</declination><rightascension>04h25m29.02s</rightascension><rightascension>+66 00 1335</rightascension></system>

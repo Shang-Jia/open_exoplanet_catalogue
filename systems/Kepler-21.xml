@@ -12,7 +12,7 @@
 		<separation errorminus="0.0099" errorplus="0.0099" unit="arcsec">0.7739</separation>
 		<separation errorminus="5.8" errorplus="5.8" unit="AU">87.3</separation>
 		<positionangle errorminus="0.63" errorplus="0.63">129.53</positionangle>
-		<star>
+		<star star_magV_errorminus="[0.01, 0, 0.0]" star_magV_errorplus="[0.01, 0, 0.0]">
 			<name>Kepler-21 A</name>
 			<name>KOI-975 A</name>
 			<name>KIC 3632418 A</name>
@@ -32,7 +32,7 @@
 			<temperature errorminus="44" errorplus="44">6131</temperature>
 			<metallicity errorminus="0.06" errorplus="0.06">-0.15</metallicity>
 			<spectraltype>F6IV</spectraltype>
-			<planet>
+			<planet planet_inclination_errorminus="[0.31, 0, 0.26]" planet_inclination_errorplus="[0.28, 0, 0.28]" planet_semimajoraxis_errorminus="[0.000119, 0, 3e-07]" planet_semimajoraxis_errorplus="[9.8e-05, 0, 3e-07]">
 				<name>Kepler-21 b</name>
 				<name>Kepler-21 A b</name>
 				<name>HIP 94112 b</name>
@@ -59,8 +59,8 @@
 				<discoveryyear>2011</discoveryyear>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
+			<inclination>0</inclination><inclination>83.2</inclination><lastupdate>1/10/06</lastupdate><lastupdate>1/09/27</lastupdate><semimajoraxis>0</semimajoraxis><semimajoraxis>0.0427172</semimajoraxis></planet>
+		<magV>0</magV><magV>8.27</magV></star>
 		<star>
 			<name>Kepler-21 B</name>
 			<name>KOI-975 B</name>
@@ -70,4 +70,4 @@
 			<mass errorminus="0.32" errorplus="0.14">0.42</mass>
 		</star>
 	</binary>
-</system>
+<declination>+38d42m50.5s</declination><declination>+38 00 2570</declination><rightascension>19h09m26.84s</rightascension><rightascension>+287 00 1305</rightascension></system>

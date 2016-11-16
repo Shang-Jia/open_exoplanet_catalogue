@@ -14,7 +14,7 @@
 		<magK errorminus="0.019" errorplus="0.019">8.601</magK>
 		<metallicity>0.35</metallicity>
 		<spectraltype>K7</spectraltype>
-		<planet>
+		<planet planet_inclination_errorminus="[0.0, 0, 0.1]" planet_inclination_errorplus="[0.0, 0, 0.1]">
 			<name>HAT-P-20 b</name>
 			<name>2MASS J07273995+2420118 b</name>
 			<list>Confirmed planets</list>
@@ -30,8 +30,8 @@
 			<temperature>888.3</temperature>
 			<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2455080.92661</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<inclination>0</inclination><inclination>81.9</inclination><lastupdate>1/05/14</lastupdate><lastupdate>1/08/20</lastupdate></planet>
 		<name>HAT-P-20</name>
 		<temperature>4595.0</temperature>
 	</star>
-</system>
+<declination>+24d20m11.9s</declination><declination>+24 00 1211</declination><rightascension>07h27m39.95s</rightascension><rightascension>+111 00 3300</rightascension></system>

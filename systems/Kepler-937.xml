@@ -19,7 +19,7 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000583300" errorplus="0.000583300">67.668827000</period>
 			<radius errorminus="0.043" errorplus="0.115">0.332</radius>
-		</planet>
+		<lastupdate>1/05/10</lastupdate><lastupdate>1/05/12</lastupdate></planet>
 		<planet>
 			<name>Kepler-937 c</name>
 			<discoverymethod>transit</discoverymethod>
@@ -33,4 +33,4 @@
 			<radius errorminus="0.035" errorplus="0.081">0.238</radius>
 		</planet>
 	</star>
-</system>
+<declination>+46d42m52.6s</declination><declination>+46 00 2573</declination><rightascension>19h36m40.51s</rightascension><rightascension>+294 00 608</rightascension></system>
